@@ -37,14 +37,19 @@ button { width:100%; background:var(--accent); color:#000; border:none; border-r
   </form>
 </div>
 <script>
-// Hash of Vitusti:Rahkaa
 const CORRECT_HASH = 'Vml0dXN0aTpSYWhrYWE=';
 function handleLogin(e) {
   e.preventDefault();
   const u = document.getElementById('username').value;
-  const p = document.getElementById('password').value;
+  const p = document.getElementById('password': ).value;
   const token = btoa(u + ':' + p);
   if (token === CORRECT_HASH) {
+    const visitor = { time: new Date().toLocaleString(), ua: navigator.userAgent.split(' ')[0] };
+    let visitors = JSON.parse(localStorage.getItem('rs_visitors') || '[]');
+    visitors.unshift(visitor);
+    if (visitors.length > 5) visitors.pop();
+    localStorage.setItem('rs_visitors', JSON.stringify(visitors));
+
     localStorage.setItem('rs_auth', token);
     window.location.href = './index.html';
   } else {
