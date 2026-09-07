@@ -37,20 +37,22 @@ button { width:100%; background:var(--accent); color:#000; border:none; border-r
   </form>
 </div>
 <script>
-const CORRECT_HASH = 'Vml0dXN0aTpSYWhrYWE=';
+const VISITOR_HASH = 'Vml0dXN0aTpSYWhrYWE=';
+const ADMIN_HASH = 'VGVybzpoZXJtZXM=';
+
 function handleLogin(e) {
   e.preventDefault();
   const u = document.getElementById('username').value;
-  const p = document.getElementById('password': ).value;
+  const p = document.getElementById('password').value;
   const token = btoa(u + ':' + p);
-  if (token === CORRECT_HASH) {
-    const visitor = { time: new Date().toLocaleString(), ua: navigator.userAgent.split(' ')[0] };
-    let visitors = JSON.parse(localStorage.getItem('rs_visitors') || '[]');
-    visitors.unshift(visitor);
-    if (visitors.length > 5) visitors.pop();
-    localStorage.setItem('rs_visitors', JSON.stringify(visitors));
-
+  
+  if (token === VISITOR_HASH) {
     localStorage.setItem('rs_auth', token);
+    localStorage.removeItem('rs_admin');
+    window.location.href = './index.html';
+  } else if (token === ADMIN_HASH) {
+    localStorage.setItem('rs_auth', token);
+    localStorage.setItem('rs_admin', 'true');
     window.location.href = './index.html';
   } else {
     document.getElementById('err-msg').style.display = 'block';
