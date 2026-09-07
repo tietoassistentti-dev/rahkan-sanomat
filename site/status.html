@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WorldWire · Pipeline Status</title>
+<style>
+:root { --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3; --dim:#8b949e; --accent:#58a6ff; --green:#3fb950; --amber:#d29922; --red:#f85149; }
+* { box-sizing:border-box; margin:0; padding:0; }
+body { background:var(--bg); color:var(--text); font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; line-height:1.6; }
+.wrap { max-width:860px; margin:0 auto; padding:32px 20px; }
+header { border-bottom:1px solid var(--border); padding-bottom:20px; margin-bottom:24px; display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:12px; }
+h1 { font-size:24px; }
+h1 span { color:var(--accent); }
+.nav a { color:var(--accent); text-decoration:none; margin-left:12px; font-size:13px; }
+.sub { color:var(--dim); font-size:13px; margin-top:4px; }
+.kpi { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; margin-bottom:24px; }
+.kpi .card { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:14px; }
+.kpi b { display:block; font-size:22px; color:var(--green); }
+.kpi span { font-size:12px; color:var(--dim); }
+.barwrap { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:16px; margin-bottom:16px; }
+.barwrap h2 { font-size:14px; color:var(--accent); margin-bottom:8px; }
+.bar { height:22px; background:#0d1117; border:1px solid var(--border); border-radius:6px; overflow:hidden; }
+.barfill { height:100%; width:0%; background:linear-gradient(90deg, var(--accent), var(--green)); transition:width .8s ease; }
+.barlabel { display:flex; justify-content:space-between; font-size:12px; color:var(--dim); margin-top:6px; }
+.barphase { font-size:12px; color:var(--amber); margin-top:4px; }
+.section { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:16px; margin-bottom:16px; }
+.section h2 { font-size:14px; color:var(--accent); margin-bottom:10px; }
+table { width:100%; border-collapse:collapse; font-size:12px; }
+td { padding:6px 0; border-bottom:1px solid var(--border); }
+td:first-child { color:var(--dim); width:200px; }
+.log { background:#000; padding:12px; border-radius:6px; font-size:12px; max-height:280px; overflow:auto; white-space:pre-wrap; word-break:break-word; }
+.stale { color:var(--amber); }
+.ok { color:var(--green); }
+.err { color:var(--red); }
+.refresh { font-size:12px; color:var(--dim); margin-top:8px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div>
+    <h1>World<span>Wire</span> · Status</h1>
+    <div class="sub">Pipeline progress · live</div>
+  </div>
+  <div class="nav">
+    <a href="/">→ Digests</a>
+    <a href="/api/stories">→ JSON API</a>
+  </div>
+</header>
+
+<div class="kpi" id="kpi">
+  <div class="card"><b id="k-stories">–</b><span>stories</span></div>
+  <div class="card"><b id="k-rss">–</b><span>rss rows</span></div>
+  <div class="card"><b id="k-errors">–</b><span>translate errors</span></div>
+  <div class="card"><b id="k-running">–</b><span>state</span></div>
+</div>
+
+<div class="barwrap">
+  <h2>Pipeline progress</h2>
+  <div class="bar"><div class="barfill" id="bar"></div></div>
+  <div class="barlabel"><span id="bar-done">0</span><span id="bar-total">…</span></div>
+  <div class="barphase" id="bar-phase">phase: —</div>
+</div>
+
+<div class="section">
+  <h2>Data files</h2>
+  <table id="files"><tr><td>checking…</td><td></td></tr></table>
+</div>
+
+<div class="section">
+  <h2>Run log (last 2000 chars)</h2>
+  <div class="log" id="log">loading…</div>
+</div>
+
+<div class="refresh">auto-refresh every 10s</div>
+</div>
+
+<script>
+async function load() {
+  try {
+    const r = await fetch('/status', {cache: 'no-store'});
+    const d = await r.json();
+    document.getElementById('k-stories').textContent = d.story_count ?? '–';
+    const rss = d.rss_matches?.size ?? 0;
+    document.getElementById('k-rss').textContent = rss.toLocaleString();
+    const log = d.last_run_log || '';
+    const errs = (log.match(/translate error/g) || []).length;
+    document.getElementById('k-errors').textContent = errs;
+    document.getElementById('k-running').textContent = errs === 0 ? 'idle' : 'running';
+    document.getElementById('k-running').className = errs === 0 ? 'ok' : '';
+    // progress bar: real progress from progress.json
+    let phase = 'waiting';
+    let done = 0, total = 0;
+    if (d.progress) {
+      done = d.progress.done ?? 0;
+      total = d.progress.total ?? 0;
+      phase = d.progress.phase ?? 'unknown';
+    } else if (/pipeline done/.test(log)) { phase = 'completed'; }
+    document.getElementById('bar-phase').textContent = 'phase: ' + phase;
+    if (total > 0) {
+      const pct = Math.round(done / total * 100);
+      document.getElementById('bar').style.width = pct + '%';
+      document.getElementById('bar-done').textContent = done;
+      document.getElementById('bar-total').textContent = '/' + total + ' (' + pct + '%)';
+    } else {
+      document.getElementById('bar-done').textContent = '–';
+      document.getElementById('bar-total').textContent = 'no run yet';
+    }
+    const rows = ['rss_matches.jsonl','matches.jsonl','combined_matches.jsonl','stories.json']
+      .filter(fn => d[fn]).map(fn => {
+        const f = d[fn];
+        const ageMin = Math.round((Date.now() - new Date(f.mtime).getTime())/60000);
+        const cls = ageMin > 60 ? 'stale' : 'ok';
+        return `<tr><td>${fn}</td><td class="${cls}">${f.size.toLocaleString()} bytes · ${ageMin}m ago</td></tr>`;
+      }).join('');
+    document.getElementById('files').innerHTML = rows || '<tr><td>n/a</td><td></td></tr>';
+    document.getElementById('log').textContent = log || '(no run log yet)';
+    document.getElementById('log').scrollTop = document.getElementById('log').scrollHeight;
+  } catch(e) {
+    document.getElementById('log').textContent = 'error: ' + e;
+  }
+}
+load();
+setInterval(load, 10000);
+</script>
+</body>
+</html>
