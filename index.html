@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fi">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,14 +35,14 @@ if (!localStorage.getItem('rs_auth')) {
   <h1>Rahkan <span>Sanomat</span></h1>
   <div style="margin-top:14px; display:flex; justify-content:space-between; align-items:center;">
     <div>
-      <button id="btn-en" onclick="setLang('en')" style="background:var(--accent);color:#000;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;margin-right:8px;">English</button>
-      <button id="btn-fi" onclick="setLang('fi')" style="background:var(--panel);color:var(--text);border:1px solid var(--border);padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;">Suomi</button>
+      <button id="btn-en" onclick="setLang('en')" style="background:var(--panel);color:var(--text);border:1px solid var(--border);padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;margin-right:8px;">English</button>
+      <button id="btn-fi" onclick="setLang('fi')" style="background:var(--accent);color:#000;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;">Suomi</button>
     </div>
     <button onclick="logout()" style="background:var(--panel);color:#f85149;border:1px solid var(--border);padding:6px 12px;border-radius:4px;cursor:pointer;font-size:12px;">Sign Out</button>
   </div>
 </header>
 
-<div id="stories"><p class="sub">Loading stories…</p></div>
+<div id="stories"><p class="sub">Ladataan uutisia…</p></div>
 
 <div class="visitor-box">
   <h3>Visitor Sign-in Log (Admin Only)</h3>
@@ -64,7 +64,7 @@ function logout() {
   window.location.href = './login.html';
 }
 
-let currentLang = 'en';
+let currentLang = 'fi'; // Default to Finnish
 function setLang(l) {
   currentLang = l;
   document.getElementById('btn-en').style.background = l === 'en' ? 'var(--accent)' : 'var(--panel)';
@@ -77,12 +77,12 @@ function setLang(l) {
 function render() {
   const stories = currentLang === 'fi' ? STORIES_FI : STORIES_EN;
   const box = document.getElementById('stories');
-  if (!stories.length) { box.innerHTML = '<p class="sub">No stories available.</p>'; return; }
+  if (!stories.length) { box.innerHTML = '<p class="sub">Ei uutisia saatavilla.</p>'; return; }
   box.innerHTML = stories.map(s => {
     const headline = currentLang === 'fi' && s.headline_fi ? s.headline_fi : s.headline;
     const link = s.link || '#';
     const source = s.source || 'Source';
-    return `<div class="story"><h2><a href="${link}" target="_blank" rel="noopener">${headline}</a></h2><div class="meta">${source} · Published: ${s.pub || 'Unknown date'}</div></div>`;
+    return `<div class="story"><h2><a href="${link}" target="_blank" rel="noopener">${headline}</a></h2><div class="meta">${source} · Julkaistu: ${s.pub || 'Tuntematon'}</div></div>`;
   }).join('');
 
   const vBox = document.querySelector('.visitor-box');
