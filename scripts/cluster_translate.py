@@ -1,70 +1,83 @@
 #!/usr/bin/env python3
+import feedparser
 import json
 import os
-import re
-import datetime
+import time
+from email.utils import parsedate_to_datetime
+from deep_translator import GoogleTranslator
+from datetime import datetime
 
 DATA_DIR = os.path.expanduser("~/multiperspective-news/data")
 MATCHES = os.path.join(DATA_DIR, "rss_matches.jsonl")
-OUT = os.path.join(DATA_DIR, "stories.json")
 
-STOPWORDS = set("a an and the or of to in for on with at by from as is are was were be been".split())
+def parse_pub_dt(p_str):
+    if not p_str:
+        return datetime.min
+    try:
+        dt = parsedate_to_datetime(p_str)
+        return dt.replace(tzinfo=None)
+    except:
+        return datetime.min
 
-def tokenize(title):
-    return [w for w in re.findall(r"[a-z0-9]{3,}", title.lower()) if w not in STOPWORDS]
+def format_pub(dt):
+    if dt == datetime.min:
+        return "Recent"
+    return dt.strftime("%Y-%m-%d %H:%M")
 
 def main():
-    if not os.path.exists(MATCHES):
-        return
-    matches = []
-    with open(MATCHES, encoding="utf-8") as f:
-        for l in f:
-            if l.strip():
-                try: matches.append(json.loads(l))
-                except: pass
-
-    clusters = []
-    for m in matches:
-        tokens = set(tokenize(m.get("title", "")))
-        if not tokens: continue
-        matched = False
-        for c in clusters:
-            c_tokens = set(tokenize(c[0].get("title", "")))
-            if c_tokens and len(tokens & c_tokens) / len(tokens | c_tokens) >= 0.45:
-                c.append(m)
-                matched = True
-                break
-        if not matched:
-            clusters.append([m])
-
-    out = []
-    for ms in clusters:
-        langs = list(set(m.get("lang") for m in ms if m.get("lang")))
-        domains = list(set(m.get("domain") for m in ms if m.get("domain")))
-        pub_dates = []
-        for m in ms:
-            try:
-                # Handle common RSS date formats
-                pub_dates.append(datetime.datetime.strptime(m.get("pub", ""), "%a, %d %b %Y %H:%M:%S %Z"))
-            except:
-                pass
+    rows = []
+    if os.path.exists(MATCHES):
+        with open(MATCHES, encoding="utf-8") as f:
+            for line in f:
+                if line.strip():
+                    rows.append(json.loads(line))
+    
+    rows.sort(key=lambda x: parse_pub_dt(x.get("published", "")), reverse=True)
+    
+    stories = []
+    for r in rows:
+        title = r.get("title", "")
+        pub_raw = r.get("published", "")
+        dt = parse_pub_dt(pub_raw)
+        pub_formatted = format_pub(dt)
         
-        # Use a real timestamp
-        earliest_pub = min(pub_dates) if pub_dates else datetime.datetime.now()
-        
-        out.append({
-            "headline": ms[0].get("title", ""),
-            "languages": langs,
-            "domains": domains,
-            "perspectives": len(ms),
-            "pub": earliest_pub.strftime("%Y-%m-%d %H:%M"),
-            "matches": ms
+        stories.append({
+            "headline": title,
+            "headline_fi": title,
+            "link": r.get("link", "#"),
+            "source": r.get("source", "Unknown"),
+            "pub": pub_formatted,
+            "_dt": dt.isoformat()
         })
+    
+    stories_fi = []
+    translator = GoogleTranslator(source='auto', target='fi')
+    
+    for s in stories:
+        s_fi = s.copy()
+        try:
+            translated = translator.translate(s["headline"])
+            if translated:
+                s_fi["headline_fi"] = translated
+        except Exception as e:
+            print(f"Translation failed: {e}")
+        
+        s.pop("_dt", None)
+        s_fi.pop("_dt", None)
+        stories_fi.append(s_fi)
+        time.sleep(0.1)
 
-    out.sort(key=lambda x: x["pub"], reverse=True)
-    with open(OUT, "w", encoding="utf-8") as f:
-        json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"Generated {len(out)} stories with formatted pub dates")
+    for s in stories:
+        s.pop("_dt", None)
+
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(os.path.join(DATA_DIR, "stories.json"), "w", encoding="utf-8") as f:
+        json.dump(stories, f, ensure_ascii=False, indent=2)
+        
+    with open(os.path.join(DATA_DIR, "stories_fi.json"), "w", encoding="utf-8") as f:
+        json.dump(stories_fi, f, ensure_ascii=False, indent=2)
+        
+    print("Pipeline completed successfully.")
 
 if __name__ == "__main__":
     main()

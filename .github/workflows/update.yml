@@ -1,0 +1,35 @@
+name: Update WorldWire Feed
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Every 5 minutes
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install translate
+
+      - name: Run pipeline and translation
+        run: |
+          bash scripts/pipeline.sh
+          python3 scripts/translate_fi.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/stories.json data/stories_fi.json data/rss_matches.jsonl
+          git commit -m "Auto-update news feed [skip ci]" || exit 0
+          git push

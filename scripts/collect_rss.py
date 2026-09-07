@@ -1,79 +1,60 @@
 #!/usr/bin/env python3
-"""
-RSS collector — focused specifically on EU politics, protests, riots, digital regulation, age verification.
-"""
+import feedparser
 import json
 import os
-import urllib.request
-import xml.etree.ElementTree as ET
+import time
 
-DATA_DIR = os.path.expanduser("~/multiperspective-news/data")
-OUT = os.path.join(DATA_DIR, "rss_matches.jsonl")
-UA = "Mozilla/5.0 (X11; Linux x86_64) MultiperspectiveNews/0.1"
+FEEDS = {
+    "Deutsche Welle": "https://rss.dw.com/rdf/rss-en-all",
+    "France 24": "https://www.france24.com/en/rss",
+    "Euronews": "https://www.euronews.com/rss?format=rss",
+    "El País (EN)": "https://elpais.com/eps/rss/",
+    "ANSA English": "https://www.ansa.it/english/ansanews_rss.xml"
+}
 
-FEEDS = [
-    ("https://feeds.bbci.co.uk/news/world/europe/rss.xml", "en", "bbc.com"),
-    ("https://www.france24.com/en/europe/rss", "en", "france24.com"),
-    ("https://rss.dw.com/rdf/rss-de-all", "de", "dw.com"),
-    ("https://www.lemonde.fr/rss/une.xml", "fr", "lemonde.fr"),
-    ("https://elpais.com/rss/elpais/portada.xml", "es", "elpais.com"),
+KEYWORDS = [
+    "riot", "protest", "commission", "age", "verification", "politic", 
+    "eu", "strike", "regulation", "digital", "police", "demonstrat", 
+    "parliament", "law", "court", "elect", "migrant", "border",
+    "asylum", "refugee", "maahanmuutto", "turvapaikka"
 ]
 
-KEYWORDS = ["riot", "protest", "commission", "age", "verification", "politic", "eu", "strike", "regulation", "digital", "police", "demonstrat", "parliament", "law", "court", "elect", "migrant", "border"]
-
-def fetch(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read()
-
-def parse_rss(data):
-    try:
-        root = ET.fromstring(data)
-    except Exception:
-        return []
-    items = []
-    channel = root.find("channel")
-    entries = channel.findall("item") if channel is not None else []
-    for it in entries:
-        title_el = it.find("title")
-        link_el = it.find("link")
-        pub_el = it.find("pubDate")
-        title = title_el.text if title_el is not None and title_el.text else ""
-        link = link_el.text if link_el is not None and link_el.text else ""
-        pub = pub_el.text if pub_el is not None and pub_el.text else ""
-        if title and link:
-            t_lower = title.lower()
-            if any(k in t_lower for k in KEYWORDS):
-                items.append({"title": title.strip(), "url": link.strip(), "pub": pub.strip()})
-    return items
+DATA_DIR = os.path.expanduser("~/multiperspective-news/data")
+OUT_MATCHES = os.path.join(DATA_DIR, "rss_matches.jsonl")
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
-    existing = set()
-    if os.path.exists(OUT):
-        with open(OUT, encoding="utf-8") as f:
-            for l in f:
-                if l.strip():
-                    try:
-                        existing.add(json.loads(l)["url"])
-                    except Exception:
-                        pass
-    total_new = 0
-    for url, lang, domain in FEEDS:
+    matches = []
+    
+    for source, url in FEEDS.items():
         try:
-            data = fetch(url)
-            items = parse_rss(data)
-            with open(OUT, "a", encoding="utf-8") as f:
-                for item in items:
-                    if item["url"] not in existing:
-                        item["lang"] = lang
-                        item["domain"] = domain
-                        f.write(json.dumps(item) + "\n")
-                        existing.add(item["url"])
-                        total_new += 1
+            d = feedparser.parse(url)
+            for entry in d.entries:
+                title = entry.get("title", "")
+                summary = entry.get("summary", "")
+                link = entry.get("link", "#")
+                
+                pub = entry.get("published", entry.get("updated", ""))
+                if not pub and hasattr(entry, "published_parsed") and entry.published_parsed:
+                    pub = time.strftime("%Y-%m-%d %H:%M:%S", entry.published_parsed)
+                
+                combined_text = (title + " " + summary).lower()
+                if any(kw in combined_text for kw in KEYWORDS):
+                    matches.append({
+                        "title": title,
+                        "summary": summary,
+                        "link": link,
+                        "source": source,
+                        "published": pub or "Recent"
+                    })
         except Exception as e:
-            print(f"Error fetching {url}: {e}")
-    print(f"Added {total_new} filtered European items")
+            print(f"Error parsing {source}: {e}")
+            
+    with open(OUT_MATCHES, "w", encoding="utf-8") as f:
+        for m in matches:
+            f.write(json.dumps(m, ensure_ascii=False) + "\n")
+            
+    print(f"Collected {len(matches)} matching articles.")
 
 if __name__ == "__main__":
     main()

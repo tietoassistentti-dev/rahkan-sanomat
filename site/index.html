@@ -16,12 +16,9 @@ h1 span { color:var(--accent); }
 .sub { color:var(--dim); font-size:13px; margin-top:4px; }
 .story { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:18px; margin-bottom:16px; }
 .story h2 { font-size:16px; margin-bottom:6px; }
+.story h2 a { color:var(--text); text-decoration:none; }
+.story h2 a:hover { color:var(--accent); text-decoration:underline; }
 .meta { color:var(--dim); font-size:12px; margin-bottom:10px; }
-.persp { border-left:3px solid var(--accent); padding-left:12px; margin:8px 0; }
-.persp .lang { color:var(--green); font-size:12px; font-weight:bold; }
-.persp .dom { color:var(--dim); font-size:12px; }
-.persp a { color:var(--text); text-decoration:none; }
-.persp a:hover { color:var(--accent); }
 footer { border-top:1px solid var(--border); margin-top:32px; padding-top:14px; color:var(--dim); font-size:12px; }
 </style>
 </head>
@@ -32,9 +29,9 @@ if (!localStorage.getItem('ww_auth')) {
 }
 </script>
 <div class="wrap">
-<header>
-  <h1>World<span>Wire</span></h1>
-  <div class="sub">The same story, told from every side. Multi-perspective European news — filtered for topics missing in local media.</div>
+<header style="text-align:center;">
+  <h1 style="font-size:32px; letter-spacing:1px;">Rahkan <span>Sanomat</span></h1>
+
   
   <div style="margin-top:14px; display:flex; justify-content:space-between; align-items:center;">
     <div>
@@ -83,12 +80,9 @@ async function load() {
     if (!stories.length) { box.innerHTML = '<p class="sub">No stories yet — pipeline still collecting.</p>'; return; }
     box.innerHTML = stories.map(s => {
       const headline = currentLang === 'fi' && s.headline_fi ? s.headline_fi : s.headline;
-      const persp = (s.matches || []).map(m => {
-        const dom = new URL(m.url).hostname.replace('www.','');
-        const title = m.title || '(untitled)';
-        return `<div class="persp"><span class="lang">${m.language || '?'} · ${dom}</span> — <a href="${m.url}" target="_blank" rel="noopener">${title}</a></div>`;
-      }).join('');
-      return `<div class="story"><h2>${headline}</h2><div class="meta">Published: ${s.pub || 'Unknown date'}</div>${persp}</div>`;
+      const link = s.link || '#';
+      const source = s.source || 'Source';
+      return `<div class="story"><h2><a href="${link}" target="_blank" rel="noopener">${headline}</a></h2><div class="meta">${source} · Published: ${s.pub || 'Unknown date'}</div></div>`;
     }).join('');
   } catch(e) { document.getElementById('stories').innerHTML = '<p class="sub">Error loading: '+e+'</p>'; }
 }
