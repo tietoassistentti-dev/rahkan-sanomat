@@ -3,21 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>WorldWire — Sign In</title>
+<title>Rahkan Sanomat — Sign In</title>
 <style>
 :root { --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3; --dim:#8b949e; --accent:#58a6ff; }
 * { box-sizing:border-box; margin:0; padding:0; }
 body { background:var(--bg); color:var(--text); font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; display:flex; align-items:center; justify-content:center; height:100vh; }
 .card { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:32px; width:360px; }
-h1 { font-size:22px; margin-bottom:6px; }
+h1 { font-size:20px; margin-bottom:6px; }
 h1 span { color:var(--accent); }
 .sub { color:var(--dim); font-size:13px; margin-bottom:24px; }
 .field { margin-bottom:16px; }
 label { display:block; font-size:12px; color:var(--dim); margin-bottom:6px; }
 input { width:100%; background:var(--bg); border:1px solid var(--border); border-radius:4px; padding:10px; color:var(--text); font-size:14px; }
-input:focus { border-color:var(--accent); outline:none; }
 button { width:100%; background:var(--accent); color:#000; border:none; border-radius:4px; padding:10px; font-weight:bold; cursor:pointer; margin-top:8px; }
-button:hover { opacity:0.9; }
 .err { color:#f85149; font-size:12px; margin-top:10px; display:none; }
 </style>
 </head>
@@ -39,24 +37,19 @@ button:hover { opacity:0.9; }
   </form>
 </div>
 <script>
+// Hash of Vitusti:Rahkaa
+const CORRECT_HASH = 'Vml0dXN0aTpSYWhrYWE=';
 function handleLogin(e) {
   e.preventDefault();
   const u = document.getElementById('username').value;
   const p = document.getElementById('password').value;
   const token = btoa(u + ':' + p);
-  // test credentials by fetching /api/stories with header
-  fetch('/api/stories', { headers: { 'Authorization': 'Basic ' + token } })
-    .then(res => {
-      if (res.ok) {
-        localStorage.setItem('ww_auth', token);
-        window.location.href = '/';
-      } else {
-        document.getElementById('err-msg').style.display = 'block';
-      }
-    })
-    .catch(() => {
-      document.getElementById('err-msg').style.display = 'block';
-    });
+  if (token === CORRECT_HASH) {
+    localStorage.setItem('rs_auth', token);
+    window.location.href = './index.html';
+  } else {
+    document.getElementById('err-msg').style.display = 'block';
+  }
 }
 </script>
 </body>
