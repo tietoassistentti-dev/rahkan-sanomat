@@ -27,11 +27,12 @@ jobs:
         run: |
           bash scripts/pipeline.sh
           python3 scripts/translate_fi.py
+          python3 scripts/update_site.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/stories.json data/stories_fi.json data/rss_matches.jsonl
-          git commit -m "Auto-update news feed [skip ci]" || exit 0
+          git add data/stories.json data/stories_fi.json data/rss_matches.jsonl site/index.html
+          git commit -m "Auto-update news feed and site [skip ci]" || exit 0
           git push
