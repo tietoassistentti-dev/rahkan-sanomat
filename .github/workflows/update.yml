@@ -23,7 +23,6 @@ jobs:
 
       - name: Run pipeline and translation
         run: |
-          cd /home/runner/work/rahkan-sanomat/rahkan-sanomat
           bash scripts/pipeline.sh
           python3 scripts/translate_fi.py
 
