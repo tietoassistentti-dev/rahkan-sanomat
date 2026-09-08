@@ -12,7 +12,7 @@ FEEDS = {
     "ANSA English": "https://www.ansa.it/english/ansanews_rss.xml"
 }
 
-KEYWORDS = ['riot', 'protest', 'eu commission', 'age verification', 'politics', 'political', 'strike', 'regulation', 'digital', 'police', 'demonstration', 'parliament', 'law', 'court', 'election', 'migrant', 'immigration', 'asylum', 'refugee', 'maahanmuutto', 'turvapaikka']
+KEYWORDS = ['riot', 'protest', 'eu commission', 'age verification', 'politics', 'political', 'strike', 'regulation', 'digital', 'police', 'demonstration', 'parliament', 'law', 'court', 'election', 'migrant', 'immigration', 'asylum', 'refugee', 'maahanmuutto', 'turvapaikka', 'trump', 'tariff', 'war', 'russia', 'ukraine', 'israel', 'gaza', 'energy', 'economy']
 
 DATA_DIR = os.path.expanduser("~/multiperspective-news/data")
 OUT_MATCHES = os.path.join(DATA_DIR, "rss_matches.jsonl")
