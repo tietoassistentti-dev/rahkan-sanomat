@@ -1,44 +1,27 @@
-import json, os, datetime
+import json, os, re
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-data = os.path.join(BASE_DIR, "data", "stories.json")
-with open(data, "r", encoding="utf-8") as f:
-    stories = json.load(f)
+data_en = os.path.join(BASE_DIR, "data", "stories.json")
+data_fi = os.path.join(BASE_DIR, "data", "stories_fi.json")
+template_path = os.path.join(BASE_DIR, "index.html")
 
-# Sort by publication date descending
-stories.sort(key=lambda x: x.get('pub', ''), reverse=True)
+with open(data_en, "r", encoding="utf-8") as f:
+    stories_en = json.load(f)
+with open(data_fi, "r", encoding="utf-8") as f:
+    stories_fi = json.load(f)
+with open(template_path, "r", encoding="utf-8") as f:
+    template = f.read()
 
-html = """<!DOCTYPE html>
-<html lang="fi">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Rahkan Sanomat</title>
-<meta http-equiv="cache-control" content="no-cache">
-<meta http-equiv="expires" content="0">
-<meta http-equiv="pragma" content="no-cache">
-<style>
-:root { --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3; --dim:#8b949e; --accent:#58a6ff; }
-* { box-sizing:border-box; margin:0; padding:0; }
-body { background:var(--bg); color:var(--text); font-family:monospace; padding: 20px; }
-.wrap { max-width:860px; margin:0 auto; }
-.story { background:var(--panel); border:1px solid var(--border); padding:16px; margin-bottom:12px; border-radius:8px; }
-.meta { color:var(--dim); font-size:12px; margin-top:5px; }
-</style>
-</head>
-<body>
-<div class="wrap">
-<h1>Rahkan <span>Sanomat</span></h1>
-"""
-for s in stories[:30]:
-    h = s.get('headline', '')
-    p = s.get('pub', '')
-    src = s.get('source', '')
-    html += f'<div class="story"><strong>{h}</strong><div class="meta">{src} · {p}</div></div>'
-html += "</div></body></html>"
+# Sort descending by pub
+stories_en.sort(key=lambda x: x.get("pub", ""), reverse=True)
+stories_fi.sort(key=lambda x: x.get("pub", ""), reverse=True)
+
+# Replace JS variables
+new_template = re.sub(r'const STORIES_EN = \[.*?\];', f'const STORIES_EN = {json.dumps(stories_en, ensure_ascii=False)};', template, flags=re.DOTALL)
+new_template = re.sub(r'const STORIES_FI = \[.*?\];', f'const STORIES_FI = {json.dumps(stories_fi, ensure_ascii=False)};', new_template, flags=re.DOTALL)
 
 output_path = os.path.join(BASE_DIR, "site", "index.html")
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
 with open(output_path, "w", encoding="utf-8") as f:
-    f.write(html)
-print("Updated site/index.html with sorted stories")
+    f.write(new_template)
+print("Successfully updated site/index.html with template and fresh data")
