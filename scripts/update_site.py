@@ -1,6 +1,7 @@
 import json, os, datetime
 
-data = os.path.expanduser("~/multiperspective-news/data/stories.json")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+data = os.path.join(BASE_DIR, "data", "stories.json")
 with open(data, "r", encoding="utf-8") as f:
     stories = json.load(f)
 
@@ -36,6 +37,7 @@ for s in stories[:30]:
     html += f'<div class="story"><strong>{h}</strong><div class="meta">{src} · {p}</div></div>'
 html += "</div></body></html>"
 
-with open(os.path.expanduser("~/multiperspective-news/site/index.html"), "w", encoding="utf-8") as f:
+output_path = os.path.join(BASE_DIR, "site", "index.html")
+with open(output_path, "w", encoding="utf-8") as f:
     f.write(html)
 print("Updated site/index.html with sorted stories")
