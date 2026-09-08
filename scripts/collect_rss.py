@@ -3,6 +3,7 @@ import feedparser
 import json
 import os
 import time
+import datetime
 
 FEEDS = {
     "Deutsche Welle": "https://rss.dw.com/rdf/rss-en-all",
@@ -32,6 +33,8 @@ def main():
                 pub = entry.get("published", entry.get("updated", ""))
                 if not pub and hasattr(entry, "published_parsed") and entry.published_parsed:
                     pub = time.strftime("%Y-%m-%d %H:%M:%S", entry.published_parsed)
+                elif not pub:
+                    pub = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 
                 combined_text = (title + " " + summary).lower()
                 if any(kw in combined_text for kw in KEYWORDS):
