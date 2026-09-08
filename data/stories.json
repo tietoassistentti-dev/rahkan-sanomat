@@ -1,5 +1,103 @@
 [
   {
+    "headline": "Eiffel Tower closes as staff strike after female employees 'made invisible' for Hindu group visit",
+    "headline_fi": "Eiffel Tower closes as staff strike after female employees 'made invisible' for Hindu group visit",
+    "link": "http://www.euronews.com/my-europe/2026/09/07/eiffel-tower-closes-as-staff-strike-after-female-employees-made-invisible-for-hindu-group-",
+    "source": "Euronews",
+    "pub": "2026-09-07 21:52"
+  },
+  {
+    "headline": "Eiffel Tower closed in row over women removed for Hindu group",
+    "headline_fi": "Eiffel Tower closed in row over women removed for Hindu group",
+    "link": "https://www.france24.com/en/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group",
+    "source": "France 24",
+    "pub": "2026-09-07 21:38"
+  },
+  {
+    "headline": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
+    "headline_fi": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
+    "link": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
+    "source": "France 24",
+    "pub": "2026-09-07 21:32"
+  },
+  {
+    "headline": "Volkswagen's Osnabrück plant to switch from cars to defence",
+    "headline_fi": "Volkswagen's Osnabrück plant to switch from cars to defence",
+    "link": "https://www.france24.com/en/tv-shows/business/20260907-volkswagen-s-osnabr%C3%BCck-plant-to-switch-from-cars-to-defence",
+    "source": "France 24",
+    "pub": "2026-09-07 20:52"
+  },
+  {
+    "headline": "Egyptian influencer's death penalty over drug charges",
+    "headline_fi": "Egyptian influencer's death penalty over drug charges",
+    "link": "https://www.france24.com/en/egyptian-influencer-s-death-penalty-over-drug-charges",
+    "source": "France 24",
+    "pub": "2026-09-07 20:27"
+  },
+  {
+    "headline": "Only the beginning? German far-right's breakthrough shakes Europe to its core",
+    "headline_fi": "Only the beginning? German far-right's breakthrough shakes Europe to its core",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20260907-only-the-beginning-german-far-right-s-breakthrough-shakes-europe-to-its-core",
+    "source": "France 24",
+    "pub": "2026-09-07 19:38"
+  },
+  {
+    "headline": "Record fuel price rise sparks protests in Portugal",
+    "headline_fi": "Record fuel price rise sparks protests in Portugal",
+    "link": "http://www.euronews.com/business/2026/09/07/record-fuel-price-rise-sparks-protests-in-portugal",
+    "source": "Euronews",
+    "pub": "2026-09-07 19:07"
+  },
+  {
+    "headline": "AfD victory exposes divisions in France’s far-right as National Rally stays silent",
+    "headline_fi": "AfD victory exposes divisions in France’s far-right as National Rally stays silent",
+    "link": "http://www.euronews.com/my-europe/2026/09/07/afd-victory-exposes-divisions-on-frances-far-right-as-national-rally-stays-silent",
+    "source": "Euronews",
+    "pub": "2026-09-07 19:03"
+  },
+  {
+    "headline": "'Polarised Brazil': Lula remains a ‘strong candidate’ despite the challenges of incumbency",
+    "headline_fi": "'Polarised Brazil': Lula remains a ‘strong candidate’ despite the challenges of incumbency",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260907-polarised-brazil-lula-remains-a-strong-candidate-despite-the-challenges-of-incumbency",
+    "source": "France 24",
+    "pub": "2026-09-07 18:50"
+  },
+  {
+    "headline": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+    "headline_fi": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+    "link": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+    "source": "France 24",
+    "pub": "2026-09-07 18:08"
+  },
+  {
+    "headline": "Spain's top criminal court launches criminal investigation into Ceuta migrant influx",
+    "headline_fi": "Spain's top criminal court launches criminal investigation into Ceuta migrant influx",
+    "link": "http://www.euronews.com/my-europe/2026/09/07/spain-launches-criminal-investigation-into-ceuta-migrant-influx",
+    "source": "Euronews",
+    "pub": "2026-09-07 17:43"
+  },
+  {
+    "headline": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
+    "headline_fi": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
+    "link": "http://www.euronews.com/2026/09/07/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount",
+    "source": "Euronews",
+    "pub": "2026-09-07 17:41"
+  },
+  {
+    "headline": "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
+    "headline_fi": "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
+    "link": "https://www.france24.com/en/france/20260907-strike-closes-eiffel-tower-paris-exclusion-female-staff-hindu-group-visit-baps",
+    "source": "France 24",
+    "pub": "2026-09-07 17:08"
+  },
+  {
+    "headline": "Will AfD win in Germany boost France's far right?",
+    "headline_fi": "Will AfD win in Germany boost France's far right?",
+    "link": "https://www.france24.com/en/video/20260907-will-afd-win-in-germany-boost-france-s-far-right",
+    "source": "France 24",
+    "pub": "2026-09-07 14:38"
+  },
+  {
     "headline": "Italy rail strike: Here's what passengers need to know",
     "headline_fi": "Italy rail strike: Here's what passengers need to know",
     "link": "http://www.euronews.com/my-europe/2026/09/07/italy-rail-strike-heres-what-passengers-need-to-know",
@@ -77,25 +175,11 @@
     "pub": "2026-09-07 13:02"
   },
   {
-    "headline": "'We’re all in crisis': Populist far-right 'trend' sweeping across Europe",
-    "headline_fi": "'We’re all in crisis': Populist far-right 'trend' sweeping across Europe",
-    "link": "https://www.france24.com/en/video/20260907-we-re-all-in-crisis-populist-far-right-trend-sweeping-across-europe-1",
-    "source": "France 24",
-    "pub": "2026-09-07 12:41"
-  },
-  {
     "headline": "UN rights chief urges 'accountability' after 23 die in US immigration custody in 2026",
     "headline_fi": "UN rights chief urges 'accountability' after 23 die in US immigration custody in 2026",
     "link": "http://www.euronews.com/2026/09/07/un-rights-chief-urges-accountability-after-23-die-in-us-immigration-custody-in-2026",
     "source": "Euronews",
     "pub": "2026-09-07 12:24"
-  },
-  {
-    "headline": "Who could form a coalition with Germany's AfD after election victory?",
-    "headline_fi": "Who could form a coalition with Germany's AfD after election victory?",
-    "link": "https://www.france24.com/en/video/20260907-who-could-form-a-coalition-with-germany-s-afd-after-election-victory",
-    "source": "France 24",
-    "pub": "2026-09-07 12:23"
   },
   {
     "headline": "‘Not right’ to discuss Merz's future a day after AfD's win in Saxony-Anhalt, CDU politician says",
@@ -112,25 +196,11 @@
     "pub": "2026-09-07 11:29"
   },
   {
-    "headline": "Lebanon president calls for US help after deadly Israeli strikes",
-    "headline_fi": "Lebanon president calls for US help after deadly Israeli strikes",
-    "link": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
-    "source": "France 24",
-    "pub": "2026-09-07 10:21"
-  },
-  {
     "headline": "Germany's Chancellor Friedrich Merz under pressure after far-right election triumph",
     "headline_fi": "Germany's Chancellor Friedrich Merz under pressure after far-right election triumph",
     "link": "http://www.euronews.com/my-europe/2026/09/07/germanys-chancellor-friedrich-merz-under-pressure-after-far-right-election-triumph",
     "source": "Euronews",
     "pub": "2026-09-07 10:20"
-  },
-  {
-    "headline": "Segregated schools and citizen ‘watch groups’: the AfD’s plans for Saxony-Anhalt",
-    "headline_fi": "Segregated schools and citizen ‘watch groups’: the AfD’s plans for Saxony-Anhalt",
-    "link": "https://www.france24.com/en/video/20260907-segregated-schools-and-citizen-watch-groups-the-afd-s-plans-for-saxony-anhalt",
-    "source": "France 24",
-    "pub": "2026-09-07 10:13"
   },
   {
     "headline": "Egyptian TV presenter Sarah Khalifa sentenced to death",
@@ -140,20 +210,6 @@
     "pub": "2026-09-07 10:13"
   },
   {
-    "headline": "'Jubilation and pain': German far right marches to victory in key state election",
-    "headline_fi": "'Jubilation and pain': German far right marches to victory in key state election",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
-    "source": "France 24",
-    "pub": "2026-09-07 10:05"
-  },
-  {
-    "headline": "Jamaica’s legal approach: Were forced transportation & African enslavement lawful under English law?",
-    "headline_fi": "Jamaica’s legal approach: Were forced transportation & African enslavement lawful under English law?",
-    "link": "https://www.france24.com/en/video/20260907-jamaica-s-legal-approach-were-forced-transportation-african-enslavement-lawful-under-english-law",
-    "source": "France 24",
-    "pub": "2026-09-07 10:03"
-  },
-  {
     "headline": "Digital agriculture: The 5 ways AI is transforming how we farm",
     "headline_fi": "Digital agriculture: The 5 ways AI is transforming how we farm",
     "link": "http://www.euronews.com/next/2026/09/07/digital-agriculture-the-5-ways-ai-is-transforming-how-we-farm",
@@ -161,51 +217,16 @@
     "pub": "2026-09-07 10:00"
   },
   {
-    "headline": "Far-right AfD wins crushing victory in German state election",
-    "headline_fi": "Far-right AfD wins crushing victory in German state election",
-    "link": "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election",
-    "source": "France 24",
-    "pub": "2026-09-07 09:55"
+    "headline": "Eiffel Tower employees strike after female staff removed",
+    "headline_fi": "Eiffel Tower employees strike after female staff removed",
+    "link": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
   },
   {
-    "headline": "Germany seeks to dismiss Nicaragua's Gaza genocide case at top UN court",
-    "headline_fi": "Germany seeks to dismiss Nicaragua's Gaza genocide case at top UN court",
-    "link": "https://www.france24.com/en/europe/20260907-germany-seeks-dismissal-of-nicaragua-s-gaza-genocide-case-at-top-un-court",
-    "source": "France 24",
-    "pub": "2026-09-07 09:14"
-  },
-  {
-    "headline": "Alternative for Germany's victory, German Chancellor Friedrich Merz's nightmare",
-    "headline_fi": "Alternative for Germany's victory, German Chancellor Friedrich Merz's nightmare",
-    "link": "http://www.euronews.com/my-europe/2026/09/07/alternative-for-germanys-victory-german-chancellor-friedrich-merzs-nightmare",
-    "source": "Euronews",
-    "pub": "2026-09-07 08:50"
-  },
-  {
-    "headline": "Germany seeks to quash 'facilitating genocide' in Gaza case brought by Nicaragua at top UN court",
-    "headline_fi": "Germany seeks to quash 'facilitating genocide' in Gaza case brought by Nicaragua at top UN court",
-    "link": "http://www.euronews.com/my-europe/2026/09/07/germany-seeks-to-quash-facilitating-genocide-in-gaza-case-brought-by-nicaragua-at-top-un-c",
-    "source": "Euronews",
-    "pub": "2026-09-07 08:08"
-  },
-  {
-    "headline": "Europe Today: Far-right AfD makes history in Germany as Mladić's funeral tests Serbia's EU bid",
-    "headline_fi": "Europe Today: Far-right AfD makes history in Germany as Mladić's funeral tests Serbia's EU bid",
-    "link": "http://www.euronews.com/my-europe/2026/09/07/europe-today-far-right-afd-makes-history-in-germany-as-mladics-funeral-tests-serbias-eu-bi",
-    "source": "Euronews",
-    "pub": "2026-09-07 08:02"
-  },
-  {
-    "headline": "Trial begins in Finland of man accused of abusing 361 children online over three years",
-    "headline_fi": "Trial begins in Finland of man accused of abusing 361 children online over three years",
-    "link": "http://www.euronews.com/my-europe/2026/09/07/trial-begins-in-finland-of-man-accused-of-abusing-361-children-online-over-three-years",
-    "source": "Euronews",
-    "pub": "2026-09-07 07:37"
-  },
-  {
-    "headline": "EU's Von der Leyen pledges $232 million Greenland investment",
-    "headline_fi": "EU's Von der Leyen pledges $232 million Greenland investment",
-    "link": "https://www.dw.com/en/eu-s-von-der-leyen-pledges-232-million-greenland-investment/a-79109197?maca=en-rss-en-all-1573-rdf",
+    "headline": "Nicaragua challenges German arms exports to Israel at ICJ",
+    "headline_fi": "Nicaragua challenges German arms exports to Israel at ICJ",
+    "link": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
@@ -217,13 +238,6 @@
     "pub": "Recent"
   },
   {
-    "headline": "Russia opens first road bridge with North Korea",
-    "headline_fi": "Russia opens first road bridge with North Korea",
-    "link": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
     "headline": "Can the AfD form a government in Saxony-Anhalt?",
     "headline_fi": "Can the AfD form a government in Saxony-Anhalt?",
     "link": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-rdf",
@@ -231,9 +245,37 @@
     "pub": "Recent"
   },
   {
-    "headline": "Middle East: Israeli strikes kill several in Lebanon",
-    "headline_fi": "Middle East: Israeli strikes kill several in Lebanon",
-    "link": "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+    "headline": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+    "headline_fi": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+    "link": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
+  },
+  {
+    "headline": "Chancellor Merz says AfD result 'changes all of Germany'",
+    "headline_fi": "Chancellor Merz says AfD result 'changes all of Germany'",
+    "link": "https://www.dw.com/en/chancellor-merz-says-afd-result-changes-all-of-germany/a-79150560?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
+  },
+  {
+    "headline": "EU's von der Leyen pledges $232 million Greenland investment",
+    "headline_fi": "EU's von der Leyen pledges $232 million Greenland investment",
+    "link": "https://www.dw.com/en/eu-s-von-der-leyen-pledges-232-million-greenland-investment/a-79109197?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
+  },
+  {
+    "headline": "Russia opens first road bridge with North Korea",
+    "headline_fi": "Russia opens first road bridge with North Korea",
+    "link": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
+  },
+  {
+    "headline": "Middle East: Israeli strikes kill a dozen in Lebanon",
+    "headline_fi": "Middle East: Israeli strikes kill a dozen in Lebanon",
+    "link": "https://www.dw.com/en/middle-east-israeli-strikes-kill-a-dozen-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
@@ -266,23 +308,9 @@
     "pub": "Recent"
   },
   {
-    "headline": "Fact check: Germany's postal voting system isn't rigged",
-    "headline_fi": "Fact check: Germany's postal voting system isn't rigged",
-    "link": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
     "headline": "Saxony-Anhalt election: Why the AfD is so strong",
     "headline_fi": "Saxony-Anhalt election: Why the AfD is so strong",
     "link": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
-    "headline": "Israeli strikes on Lebanon kill several despite truce",
-    "headline_fi": "Israeli strikes on Lebanon kill several despite truce",
-    "link": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
@@ -360,20 +388,6 @@
     "headline": "Norway's new King Haakon VIII takes oath in parliament",
     "headline_fi": "Norway's new King Haakon VIII takes oath in parliament",
     "link": "https://www.dw.com/en/norway-s-new-king-haakon-viii-takes-oath-in-parliament/a-78606923?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
-    "headline": "Germany's center-left SPD is fighting for survival",
-    "headline_fi": "Germany's center-left SPD is fighting for survival",
-    "link": "https://www.dw.com/en/germany-s-center-left-spd-is-fighting-for-survival/a-78586448?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
-    "headline": "Ulrich Siegmund wants to make Saxony-Anhalt a model for AfD rule",
-    "headline_fi": "Ulrich Siegmund wants to make Saxony-Anhalt a model for AfD rule",
-    "link": "https://www.dw.com/en/ulrich-siegmund-wants-to-make-saxony-anhalt-a-model-for-afd-rule/a-78579499?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },

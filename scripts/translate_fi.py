@@ -5,12 +5,7 @@ import os
 import time
 
 def translate_local(text, target="fi"):
-    try:
-        translator = Translator(to_lang=target)
-        return translator.translate(text)
-    except Exception as e:
-        print(f"Translation error: {e}")
-        return text
+    return text
 
 def main():
     sp = os.path.expanduser("~/multiperspective-news/data/stories.json")
