@@ -38,7 +38,7 @@ for s in stories[:30]:
 html += "</div></body></html>"
 
 output_path = os.path.join(BASE_DIR, "site", "index.html")
-os.makedirs(os.path.join(BASE_DIR, "site"), exist_ok=True)
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(html)
 print("Updated site/index.html with sorted stories")
