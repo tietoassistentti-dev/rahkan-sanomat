@@ -25,6 +25,7 @@ jobs:
 
       - name: Run pipeline and translation
         run: |
+          mkdir -p site
           bash scripts/pipeline.sh
           python3 scripts/translate_fi.py
           python3 scripts/update_site.py
