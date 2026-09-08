@@ -2,7 +2,7 @@
 # WorldWire pipeline: collect RSS -> merge -> cluster -> translate top stories -> done
 # NO_PRE_TRANSLATE=1 : skip mass title translation (rate-limit friendly)
 set -e
-cd /home/tero/multiperspective-news
+cd "$(dirname "$0")/.."
 
 echo "=== $(date -Is) pipeline start ==="
 python3 scripts/collect_rss.py
