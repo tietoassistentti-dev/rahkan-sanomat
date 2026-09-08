@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install translate feedparser
+          pip install translate feedparser deep-translator
 
       - name: Run pipeline and translation
         run: |
