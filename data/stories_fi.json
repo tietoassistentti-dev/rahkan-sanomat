@@ -64,7 +64,7 @@
   },
   {
     "headline": "Iran attacks US base after American strikes on tankers",
-    "headline_fi": "Iran hyökkäsi Yhdysvaltain tukikohtaan amerikkalaisten iskujen jälkeen tankkereihin",
+    "headline_fi": "Iran hyökkäsi Yhdysvaltain tukikohtaan sen jälkeen, kun amerikkalaiset iski tankkereihin",
     "link": "https://www.france24.com/en/video/20260909-iran-attacks-us-base-after-american-strikes-on-tankers",
     "source": "France 24",
     "pub": "2026-09-09 11:43"
@@ -169,7 +169,7 @@
   },
   {
     "headline": "Russian drone strike near Ukraine-Moldova border kills at least two as Ukraine targets oil terminal",
-    "headline_fi": "Venäjän drone-isku lähellä Ukrainan ja Moldovan rajaa tappoi ainakin kaksi Ukrainan osuessa öljyterminaaliin",
+    "headline_fi": "Venäjän drone-isku lähellä Ukrainan ja Moldovan rajaa kuoli ainakin kaksi Ukrainan osuessa öljyterminaaliin",
     "link": "https://www.france24.com/en/europe/20260909-russian-drone-strike-near-ukraine-moldova-border-kills-at-least-two-as-ukraine-hits-oil-terminal",
     "source": "France 24",
     "pub": "2026-09-09 09:51"
@@ -190,7 +190,7 @@
   },
   {
     "headline": "European space sector in the spotlight as Paris hosts International Space Summit",
-    "headline_fi": "Euroopan avaruussektori valokeilassa Pariisin isännöidessä kansainvälisen avaruushuippukokouksen",
+    "headline_fi": "Euroopan avaruussektori valokeilassa, kun Pariisi isännöi kansainvälistä avaruushuippukokousta",
     "link": "https://www.france24.com/en/tv-shows/business/20260909-european-space-sector-in-the-spotlight-as-paris-hosts-international-space-summit",
     "source": "France 24",
     "pub": "2026-09-09 09:17"
@@ -260,7 +260,7 @@
   },
   {
     "headline": "A European Central Bank rate hike is all but certain, the reasoning less so",
-    "headline_fi": "Euroopan keskuspankin koronnosto on täysin varma, mutta perustelut vähemmän",
+    "headline_fi": "Euroopan keskuspankin koronnosto on täysin varma, mutta perustelut eivät niin",
     "link": "http://www.euronews.com/business/2026/09/09/a-european-central-bank-rate-hike-is-all-but-certain-the-reasoning-less-so",
     "source": "Euronews",
     "pub": "2026-09-09 06:00"
@@ -372,7 +372,7 @@
   },
   {
     "headline": "US strikes oil tankers off coast of Iran",
-    "headline_fi": "Yhdysvallat iskee öljytankkereihin Iranin rannikolla",
+    "headline_fi": "Yhdysvallat iskee öljytankkereita Iranin rannikolla",
     "link": "https://www.dw.com/en/us-strikes-oil-tankers-off-coast-of-iran/a-79194562?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -554,7 +554,7 @@
   },
   {
     "headline": "EU summons Russian envoy over failed Leipzig drone attack",
-    "headline_fi": "EU on kutsunut Venäjän lähettilään koolle epäonnistuneen Leipzigin drone-hyökkäyksen johdosta",
+    "headline_fi": "EU kutsuu Venäjän lähettilään koolle epäonnistuneen Leipzigin drone-hyökkäyksen vuoksi",
     "link": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -596,7 +596,7 @@
   },
   {
     "headline": "At Venice Film Festival, politics take center stage",
-    "headline_fi": "Venetsian elokuvajuhlilla politiikka on keskeisellä sijalla",
+    "headline_fi": "Venetsian elokuvajuhlilla politiikka on keskeisessä asemassa",
     "link": "https://www.dw.com/en/at-venice-film-festival-politics-take-center-stage/a-78493761?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -680,7 +680,7 @@
   },
   {
     "headline": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-    "headline_fi": "\"Masha and the Bear\": Ukraina sanktioi venäläistä sarjakuvaa",
+    "headline_fi": "\"Masha ja karhu\": Ukraina sanktioi venäläistä sarjakuvaa",
     "link": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -694,7 +694,7 @@
   },
   {
     "headline": "Why Germany's gas storage levels are so low",
-    "headline_fi": "Miksi Saksan kaasuvarastointitasot ovat niin alhaiset",
+    "headline_fi": "Miksi Saksan kaasuvarastot ovat niin alhaiset",
     "link": "https://www.dw.com/en/why-germany-s-gas-storage-levels-are-so-low/a-78440677?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -722,7 +722,7 @@
   },
   {
     "headline": "Norway wealth fund sounds alarm on AI stock market bubble",
-    "headline_fi": "Norjan sijoitusrahasto hälyttää tekoälyn osakemarkkinoiden kuplasta",
+    "headline_fi": "Norjan sijoitusrahasto hälyttää tekoälyn osakemarkkinoiden kuplassa",
     "link": "https://www.dw.com/en/norway-wealth-fund-sounds-alarm-on-ai-stock-market-bubble/a-78351371?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
