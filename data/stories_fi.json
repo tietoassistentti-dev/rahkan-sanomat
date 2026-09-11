@@ -1,7 +1,7 @@
 [
   {
     "headline": "Exclusive: Investigation finds evidence of possible chemical weapons use in Sudan",
-    "headline_fi": "Ainutlaatuinen: Tutkimuksissa löydetään todisteita mahdollisesta kemiallisten aseiden käytöstä Sudanissa",
+    "headline_fi": "Exclusive: Investigation finds evidence of possible chemical weapons use in Sudan",
     "link": "http://www.euronews.com/2026/09/09/exclusive-investigation-finds-evidence-of-possible-chemical-weapons-use-in-sudan",
     "source": "Euronews",
     "pub": "2026-09-09 13:36"
@@ -29,7 +29,7 @@
   },
   {
     "headline": "Sweden is preparing for AI-powered election interference. What does that defence actually look like?",
-    "headline_fi": "Ruotsi valmistautuu tekoälyllä tapahtuvaan vaalien sekaantumiseen. Miltä tuo puolustus käytännössä näyttää?",
+    "headline_fi": "Sweden is preparing for AI-powered election interference. What does that defence actually look like?",
     "link": "http://www.euronews.com/next/2026/09/09/sweden-is-preparing-for-ai-powered-election-interference-what-does-that-defence-actually-l",
     "source": "Euronews",
     "pub": "2026-09-09 12:55"
@@ -71,7 +71,7 @@
   },
   {
     "headline": "Women’s rights activists rally in Paris over sexual violence law",
-    "headline_fi": "Naisoikeusaktivistit kokoontuivat Pariisissa seksuaalista väkivaltaa koskevaan lakiin",
+    "headline_fi": "Women’s rights activists rally in Paris over sexual violence law",
     "link": "http://www.euronews.com/video/2026/09/09/womens-rights-activists-rally-in-paris-over-sexual-violence-law",
     "source": "Euronews",
     "pub": "2026-09-09 11:41"
@@ -421,7 +421,7 @@
   },
   {
     "headline": "AfD wants to form a government in Saxony-Anhalt — but how?",
-    "headline_fi": "AfD wants to form a government in Saxony-Anhalt — but how?",
+    "headline_fi": "AfD haluaa muodostaa hallituksen Saksi-Anhaltissa – mutta miten?",
     "link": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -435,21 +435,21 @@
   },
   {
     "headline": "Chancellor Merz says AfD result 'changes all of Germany'",
-    "headline_fi": "Chancellor Merz says AfD result 'changes all of Germany'",
+    "headline_fi": "Kansleri Merzin mukaan AfD:n tulos \"muuttaa koko Saksan\"",
     "link": "https://www.dw.com/en/chancellor-merz-says-afd-result-changes-all-of-germany/a-79150560?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
-    "headline_fi": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+    "headline_fi": "Yhdysvaltain lähettiläät Witkoff ja Kushner neuvottelevat Ukrainasta tapaamisen jälkeen Putinin",
     "link": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Saxony-Anhalt: Digesting the AfD's landmark election win",
-    "headline_fi": "Saxony-Anhalt: Digesting the AfD's landmark election win",
+    "headline_fi": "Saksi-Anhalt: AfD:n vaalivoiton sulattaminen",
     "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -491,7 +491,7 @@
   },
   {
     "headline": "Germany: From emigration to immigration destination",
-    "headline_fi": "Germany: From emigration to immigration destination",
+    "headline_fi": "Saksa: Maastamuutosta maahanmuuttokohteeseen",
     "link": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -505,7 +505,7 @@
   },
   {
     "headline": "What would an AfD government in Saxony-Anhalt really mean?",
-    "headline_fi": "What would an AfD government in Saxony-Anhalt really mean?",
+    "headline_fi": "Mitä AfD:n hallitus Saksi-Anhaltissa todella tarkoittaisi?",
     "link": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -519,14 +519,14 @@
   },
   {
     "headline": "Majority of Germans see Russia as a threat",
-    "headline_fi": "Majority of Germans see Russia as a threat",
+    "headline_fi": "Suurin osa saksalaisista pitää Venäjää uhkana",
     "link": "https://www.dw.com/en/majority-of-germans-see-russia-as-a-threat/a-78970396?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Germany: Is Saxony-Anhalt's economy really struggling?",
-    "headline_fi": "Germany: Is Saxony-Anhalt's economy really struggling?",
+    "headline_fi": "Saksa: Onko Sachsen-Anhaltin talous todella vaikeuksissa?",
     "link": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -568,7 +568,7 @@
   },
   {
     "headline": "Germany says Russia behind attempted drone attack at Leipzig airport",
-    "headline_fi": "Germany says Russia behind attempted drone attack at Leipzig airport",
+    "headline_fi": "Saksa sanoo, että Venäjä on tehnyt drone-iskun Leipzigin lentokentällä",
     "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
