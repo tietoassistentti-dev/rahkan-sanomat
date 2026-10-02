@@ -1,10 +1,52 @@
 [
   {
+    "headline": "Ethiopian army pushes back Tigrayan rebels",
+    "headline_fi": "Etiopian armeija työnsi takaisin Tigrayan-kapinallisia",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
+    "source": "France 24",
+    "pub": "2026-10-02 23:46"
+  },
+  {
+    "headline": "Tension rises in Ceuta: two migrant children stabbed and bacteria-contaminated beach",
+    "headline_fi": "Jännitys kasvaa Ceutassa: kahta siirtolaislasta puukotettiin ja bakteerien saastuttama ranta",
+    "link": "https://www.euronews.com/2026/10/02/tension-rises-in-ceuta-two-migrant-children-stabbed-and-bacteria-contaminated-beach",
+    "source": "Euronews",
+    "pub": "2026-10-02 23:40"
+  },
+  {
+    "headline": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
+    "headline_fi": "Yhdysvallat keskeytti konsulipalvelut Brasiliassa, kun Lula ja Bolsonaro taistelevat vaaleista",
+    "link": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
+    "source": "Euronews",
+    "pub": "2026-10-02 23:40"
+  },
+  {
+    "headline": "UK: Man charged with planning to attack Nigel Farage",
+    "headline_fi": "UK: Miestä syytetään Nigel Farageen hyökkäämisen suunnittelusta",
+    "link": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-02 23:38"
+  },
+  {
+    "headline": "Sánchez begins reflection on early election as protesters call for general strike",
+    "headline_fi": "Sánchez alkaa pohtia ennenaikaisia ​​vaaleja, kun mielenosoittajat vaativat yleislakkoa",
+    "link": "https://www.euronews.com/2026/10/02/sanchez-begins-reflection-on-early-election-as-protesters-call-for-general-strike",
+    "source": "Euronews",
+    "pub": "2026-10-02 22:46"
+  },
+  {
     "headline": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
     "headline_fi": "20 vuotta paennut ugandalainen sotapäällikkö Kony on edelleen \"aktiivinen\" Herran vastarintaarmeijassa",
     "link": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
     "source": "France 24",
     "pub": "2026-10-02 22:31"
+  },
+  {
+    "headline": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
+    "headline_fi": "Venäjä \"revittää Kiovan\", pormestari sanoo, koska lakot lamauttavat liikenteen",
+    "link": "https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic",
+    "source": "Euronews",
+    "pub": "2026-10-02 22:30"
   },
   {
     "headline": "New York governor condemns handling of Cornell rape case",
@@ -99,42 +141,42 @@
   },
   {
     "headline": "Iran accused of blocking SIM cards, digital access to silence dissent",
-    "headline_fi": "Irania syytetään estämällä SIM-kortit, digitaalinen pääsy vaientaa toisinajattelua",
+    "headline_fi": "Iran accused of blocking SIM cards, digital access to silence dissent",
     "link": "https://www.dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 18:19"
   },
   {
     "headline": "Brazil: The craze for candidate merch ahead of elections",
-    "headline_fi": "Brasilia: Ehdokastuotteiden villitys ennen vaaleja",
+    "headline_fi": "Brazil: The craze for candidate merch ahead of elections",
     "link": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
     "source": "France 24",
     "pub": "2026-10-02 18:17"
   },
   {
     "headline": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
-    "headline_fi": "Espanjan lainsäätäjät äänestivät kohtuuhintaisten asuntojen laskut iskuna Sanchezin hallitukselle",
+    "headline_fi": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
     "link": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
     "source": "France 24",
     "pub": "2026-10-02 18:12"
   },
   {
     "headline": "A grim winter ahead? EU states asked to prepare gas and electricity savings",
-    "headline_fi": "Synkkä talvi edessä?EU-maat pyysivät varautumaan kaasun ja sähkön säästöihin",
+    "headline_fi": "A grim winter ahead? EU states asked to prepare gas and electricity savings",
     "link": "https://www.france24.com/en/tv-shows/talking-europe/20261002-a-grim-winter-ahead-eu-states-asked-to-prepare-gas-and-electricity-savings",
     "source": "France 24",
     "pub": "2026-10-02 18:10"
   },
   {
     "headline": "Brazil: Who is presidential candidate Flavio Bolsonaro?",
-    "headline_fi": "Brasilia: Kuka on presidenttiehdokas Flavio Bolsonaro?",
+    "headline_fi": "Brazil: Who is presidential candidate Flavio Bolsonaro?",
     "link": "https://www.france24.com/en/video/20261002-brazil-who-is-presidential-candidate-flavio-bolsonaro",
     "source": "France 24",
     "pub": "2026-10-02 18:06"
   },
   {
     "headline": "Europe to release diesel reserves after Trump request",
-    "headline_fi": "Eurooppa vapauttaa dieselvarantoja Trumpin pyynnöstä",
+    "headline_fi": "Europe to release diesel reserves after Trump request",
     "link": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 18:02"
@@ -539,13 +581,6 @@
     "pub": "2026-10-02 13:19"
   },
   {
-    "headline": "Why Brazil's gun lobby is backing Bolsonaro as country heads to polls",
-    "headline_fi": "Why Brazil's gun lobby is backing Bolsonaro as country heads to polls",
-    "link": "https://www.france24.com/en/video/20261002-why-brazil-s-gun-lobby-is-backing-bolsonaro-as-country-heads-to-polls",
-    "source": "France 24",
-    "pub": "2026-10-02 13:19"
-  },
-  {
     "headline": "European diesel reserves cover 10 days of the world's demands, expert says",
     "headline_fi": "European diesel reserves cover 10 days of the world's demands, expert says",
     "link": "https://www.euronews.com/video/2026/10/02/european-diesel-reserves-cover-10-days-of-the-worlds-demands-expert-says",
@@ -623,46 +658,11 @@
     "pub": "2026-10-02 12:28"
   },
   {
-    "headline": "These are the easiest countries to be a digital nomad in, according to a new study",
-    "headline_fi": "These are the easiest countries to be a digital nomad in, according to a new study",
-    "link": "https://www.euronews.com/2026/10/02/these-are-the-easiest-countries-to-be-a-digital-nomad-in-according-to-a-new-study",
-    "source": "Euronews",
-    "pub": "2026-10-02 12:19"
-  },
-  {
-    "headline": "What does music look like? This British artist paints what he hears",
-    "headline_fi": "What does music look like? This British artist paints what he hears",
-    "link": "https://www.euronews.com/2026/10/02/what-does-music-look-like-this-british-artist-paints-what-he-hears",
-    "source": "Euronews",
-    "pub": "2026-10-02 12:18"
-  },
-  {
-    "headline": "Did Trump order Maduro’s kidnapping based on Grok’s advice?",
-    "headline_fi": "Did Trump order Maduro’s kidnapping based on Grok’s advice?",
-    "link": "https://www.euronews.com/2026/10/02/did-trump-order-maduros-kidnapping-based-on-groks-advice",
-    "source": "Euronews",
-    "pub": "2026-10-02 12:13"
-  },
-  {
-    "headline": "Traffic gridlocked in Ukraine's capital as Russian drone strikes close key bridge",
-    "headline_fi": "Traffic gridlocked in Ukraine's capital as Russian drone strikes close key bridge",
-    "link": "https://www.euronews.com/2026/10/02/traffic-gridlocked-in-ukraines-capital-as-russian-drone-strikes-close-key-bridge",
-    "source": "Euronews",
-    "pub": "2026-10-02 12:09"
-  },
-  {
     "headline": "Ethiopia: Who could bring the warring sides to the negotiation table?",
     "headline_fi": "Ethiopia: Who could bring the warring sides to the negotiation table?",
     "link": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 12:00"
-  },
-  {
-    "headline": "Taiwan: first new F-16V fighters arrive amid China threat",
-    "headline_fi": "Taiwan: first new F-16V fighters arrive amid China threat",
-    "link": "https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 10:25"
   },
   {
     "headline": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
