@@ -1,5 +1,12 @@
 [
   {
+    "headline": "Co-pilot on Flydubai flight was banned from flying by Oman",
+    "headline_fi": "Oman kielsi lentokiellon Flydubai-lennon perämieheltä",
+    "link": "https://www.dw.com/en/co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman/a-79526641?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 06:52"
+  },
+  {
     "headline": "US, Australia suspend consular services in Brazil",
     "headline_fi": "Yhdysvallat ja Australia keskeyttävät konsulipalvelut Brasiliassa",
     "link": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-rdf",
@@ -29,7 +36,7 @@
   },
   {
     "headline": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
-    "headline_fi": "Ranskan media vastaa M. Le Penin \"Kevlar-puku\" -kommentteihin tutkintayksikköä vastaan",
+    "headline_fi": "Ranskan tiedotusvälineet vastaavat M. Le Penin \"Kevlar-puku\" -kommentteihin tutkintayksikköä vastaan",
     "link": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
     "source": "France 24",
     "pub": "2026-10-03 00:37"
@@ -78,7 +85,7 @@
   },
   {
     "headline": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
-    "headline_fi": "Venäjä \"revittää Kiovan\", pormestari sanoo, koska lakot lamauttavat liikenteen",
+    "headline_fi": "Venäjä \"revittää Kiovaa\", pormestari sanoo, kun lakot halvaansivat liikenteen",
     "link": "https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic",
     "source": "Euronews",
     "pub": "2026-10-02 22:30"
@@ -134,7 +141,7 @@
   },
   {
     "headline": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
-    "headline_fi": "Brasilian Lula valmistautuu \"viimeiseen tanssiin\" ja pyrkii neljännelle presidenttikaudelle",
+    "headline_fi": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
     "link": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term",
     "source": "France 24",
     "pub": "2026-10-02 19:20"
@@ -602,13 +609,6 @@
     "pub": "2026-10-02 13:29"
   },
   {
-    "headline": "Tories warn Burnham’s EU ‘pandering’ will shred post-Brexit trade deals",
-    "headline_fi": "Tories warn Burnham’s EU ‘pandering’ will shred post-Brexit trade deals",
-    "link": "https://www.politico.eu/article/tories-andy-burnham-eu-pandering-threatens-post-brexit-trade-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-02 13:28"
-  },
-  {
     "headline": "Could the future of AI data centres be in space? Google wants to find out",
     "headline_fi": "Could the future of AI data centres be in space? Google wants to find out",
     "link": "https://www.euronews.com/2026/10/02/could-the-future-of-ai-data-centres-be-in-space-google-wants-to-find-out",
@@ -1020,13 +1020,6 @@
     "link": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-21 00:20"
-  },
-  {
-    "headline": "AfD makes gains in state elections but has no government options",
-    "headline_fi": "AfD makes gains in state elections but has no government options",
-    "link": "https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-20 22:58"
   },
   {
     "headline": "Germany faces energy tax losses as EV sales rise",
