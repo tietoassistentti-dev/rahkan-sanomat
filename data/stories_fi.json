@@ -1,5 +1,26 @@
 [
   {
+    "headline": "Russia hits major Kyiv bridge, logistics hub in latest attack",
+    "headline_fi": "Venäjä iskee viimeisimmässä hyökkäyksessä suureen Kiovan siltaan, logistiikkakeskukseen",
+    "link": "https://www.politico.eu/article/russia-hits-major-kyiv-bridge-logistics-hub-in-latest-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-03 13:04"
+  },
+  {
+    "headline": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
+    "headline_fi": "Flavio Bolsonaro: Isän, poikien ja pyhän ideologian nimessä",
+    "link": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
+    "source": "France 24",
+    "pub": "2026-10-03 12:48"
+  },
+  {
+    "headline": "Barricades & the blame game: the French school protests",
+    "headline_fi": "Barrikadit ja syyttelypeli: ranskalainen koulu protestoi",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
+    "source": "France 24",
+    "pub": "2026-10-03 12:25"
+  },
+  {
     "headline": "Widdecombe murder suspect charged with planning terror act on Nigel Farage",
     "headline_fi": "Widdecomben murhasta epäiltyä syytetään terroriteon suunnittelusta Nigel Faragea vastaan",
     "link": "https://www.politico.eu/article/anne-widdecombe-murder-suspect-charged-with-planning-terror-act-on-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -56,8 +77,8 @@
     "pub": "2026-10-03 10:14"
   },
   {
-    "headline": "Latvians head to the polls amid concerns over rising cost of living and Russia",
-    "headline_fi": "Latvialaiset lähtevät vaaleihin huolissaan elinkustannusten noususta ja Venäjästä",
+    "headline": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
+    "headline_fi": "Latvialaiset äänestävät parlamenttivaaleissa huolissaan elinkustannusten noususta ja Venäjästä",
     "link": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
     "source": "Euronews",
     "pub": "2026-10-03 10:00"
@@ -120,21 +141,21 @@
   },
   {
     "headline": "From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’",
-    "headline_fi": "Ruoasta johdetuista pakomatkoista elinikäisiin hotelleihin: Kuinka luksusmatkailu on kehittynyt ja \"ei näytä yhdeltä suunnalta\"",
+    "headline_fi": "From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’",
     "link": "https://www.euronews.com/2026/10/03/food-led-escapes-and-trip-of-a-lifetime-hotels-how-luxury-travel-has-evolved-and-doesnt-lo",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
     "headline": "Russia leads world in cat ownership — yet has 2.8 million strays",
-    "headline_fi": "Venäjä on kissojen omistajuudessa maailman kärjessä – silti 2,8 miljoonaa kulkuria",
+    "headline_fi": "Russia leads world in cat ownership — yet has 2.8 million strays",
     "link": "https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
     "headline": "US, Australia suspend consular services in Brazil",
-    "headline_fi": "Yhdysvallat ja Australia keskeyttävät konsulipalvelut Brasiliassa",
+    "headline_fi": "US, Australia suspend consular services in Brazil",
     "link": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 05:24"
@@ -343,13 +364,6 @@
     "pub": "2026-10-02 18:06"
   },
   {
-    "headline": "Europe to release diesel reserves after Trump request",
-    "headline_fi": "Europe to release diesel reserves after Trump request",
-    "link": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 18:02"
-  },
-  {
     "headline": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
     "headline_fi": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
     "link": "https://www.france24.com/en/tv-shows/access-asia/20261002-make-our-streets-safer-mass-women-s-protests-sweep-india-over-sexual-violence",
@@ -453,20 +467,6 @@
     "link": "https://www.dw.com/en/can-there-be-solar-for-all-everywhere-by-2030/a-79517056?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 16:48"
-  },
-  {
-    "headline": "'Apocalyptic scenes' as France school protests escalate",
-    "headline_fi": "'Apocalyptic scenes' as France school protests escalate",
-    "link": "https://www.france24.com/en/video/20261002-apocalyptic-scenes-as-france-school-protests-escalate",
-    "source": "France 24",
-    "pub": "2026-10-02 16:42"
-  },
-  {
-    "headline": "Students and police clash as France struggles to quell school protests",
-    "headline_fi": "Students and police clash as France struggles to quell school protests",
-    "link": "https://www.france24.com/en/video/20261002-students-and-police-clash-as-france-struggles-to-quell-school-protests",
-    "source": "France 24",
-    "pub": "2026-10-02 16:40"
   },
   {
     "headline": "Iconic London hotel Dukes is set to reopen in mid-2027",
