@@ -1,5 +1,54 @@
 [
   {
+    "headline": "Azerbaijan International Investment Forum: Where capital meets opportunity",
+    "headline_fi": "Azerbaidžanin kansainvälinen sijoitusfoorumi: Pääoma kohtaa mahdollisuuden",
+    "link": "https://www.euronews.com/2026/10/03/azerbaijan-international-investment-forum-where-capital-meets-opportunity",
+    "source": "Euronews",
+    "pub": "2026-10-03 16:00"
+  },
+  {
+    "headline": "Sandu slams Russia as attack debris hits Moldova in latest airspace violation",
+    "headline_fi": "Sandu arvostelee Venäjää, koska hyökkäysjätteet osuivat Moldovaan viimeisimmässä ilmatilan loukkauksessa",
+    "link": "https://www.politico.eu/article/maia-sandu-slams-russia-as-attack-debris-hits-moldova-in-latest-airspace-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-03 15:50"
+  },
+  {
+    "headline": "Germany marks 36 years of unity: Why was the country divided and how united is it today?",
+    "headline_fi": "Saksa viettää yhtenäisyyden 36 vuotta: Miksi maa jakautui ja kuinka yhtenäinen se on nykyään?",
+    "link": "https://www.euronews.com/2026/10/03/germany-marks-36-years-of-unity-why-was-the-country-divided-and-how-united-is-it-today",
+    "source": "Euronews",
+    "pub": "2026-10-03 15:44"
+  },
+  {
+    "headline": "Greece returns remains of Czar Samuel to Bulgaria",
+    "headline_fi": "Kreikka palauttaa tsaari Samuelin jäännökset Bulgarialle",
+    "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 15:17"
+  },
+  {
+    "headline": "On German Unity Day, Steinmeier laments 'bitter setbacks'",
+    "headline_fi": "Saksan yhtenäisyyden päivänä Steinmeier valittaa \"katkerista takaiskuista\"",
+    "link": "https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 13:56"
+  },
+  {
+    "headline": "India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation",
+    "headline_fi": "Intia-uutiset: Torakka Janta -puolue ilmoittaa Delhi-marssin 10. lokakuuta, vaatii vaalijohtajan eroa",
+    "link": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 13:13"
+  },
+  {
+    "headline": "China opens anti-dumping probe into EU days before Beijing trade talks",
+    "headline_fi": "Kiina aloittaa EU:n polkumyynnin vastaisen tutkinnan muutamaa päivää ennen Pekingin kauppaneuvotteluja",
+    "link": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
+    "source": "Euronews",
+    "pub": "2026-10-03 13:09"
+  },
+  {
     "headline": "Russia hits major Kyiv bridge, logistics hub in latest attack",
     "headline_fi": "Venäjä iskee viimeisimmässä hyökkäyksessä suureen Kiovan siltaan, logistiikkakeskukseen",
     "link": "https://www.politico.eu/article/russia-hits-major-kyiv-bridge-logistics-hub-in-latest-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -7,11 +56,25 @@
     "pub": "2026-10-03 13:04"
   },
   {
+    "headline": "Latest news bulletin | October 3rd, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |3. lokakuuta 2026 – keskipäivä",
+    "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-10-03 13:00"
+  },
+  {
     "headline": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
     "headline_fi": "Flavio Bolsonaro: Isän, poikien ja pyhän ideologian nimessä",
     "link": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
     "source": "France 24",
     "pub": "2026-10-03 12:48"
+  },
+  {
+    "headline": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
+    "headline_fi": "Yhdistyneet arabiemiirikunnat: FlyDubain perämies hyökkäsi kapteenin kimppuun kirveellä \"terroristissa\"",
+    "link": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
+    "source": "Euronews",
+    "pub": "2026-10-03 12:27"
   },
   {
     "headline": "Barricades & the blame game: the French school protests",
@@ -35,13 +98,6 @@
     "pub": "2026-10-03 11:36"
   },
   {
-    "headline": "India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation",
-    "headline_fi": "Intia-uutiset: Torakka Janta -puolue ilmoittaa Delhi-marssin 10. lokakuuta, vaatii vaalijohtajan eroa",
-    "link": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-03 11:28"
-  },
-  {
     "headline": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
     "headline_fi": "Flydubai-perämies yritti \"terrori-iskua\", Yhdistyneet arabiemiirikunnat sanoo",
     "link": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf",
@@ -56,8 +112,8 @@
     "pub": "2026-10-03 11:10"
   },
   {
-    "headline": "Ethiopia's Tigray rebels abandon regional capital of Mekelle as pro-government forces advance",
-    "headline_fi": "Etiopian tigray-kapinalliset hylkäävät alueellisen pääkaupungin Mekellen hallitusta tukevien joukkojen eteneessä",
+    "headline": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
+    "headline_fi": "Etiopian tigray-kapinalliset hylkäsivät alueellisen pääkaupungin Mekellen hallitusta tukevien joukkojen etenemisen myötä",
     "link": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
     "source": "France 24",
     "pub": "2026-10-03 10:58"
@@ -85,56 +141,56 @@
   },
   {
     "headline": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
-    "headline_fi": "Sodan, separatismin ja EU-tavoitteiden muovaama Bosnia-Hertsegovina",
+    "headline_fi": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
     "link": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 09:51"
   },
   {
     "headline": "Second Kyiv bridge hit in two days as Russia targets Dnipro crossings",
-    "headline_fi": "Toinen Kiovan silta osui kahdessa päivässä, kun Venäjä tavoitti Dnipron risteyksiä",
+    "headline_fi": "Second Kyiv bridge hit in two days as Russia targets Dnipro crossings",
     "link": "https://www.euronews.com/2026/10/03/second-kyiv-bridge-hit-in-two-days-as-russia-targets-dnipro-crossings",
     "source": "Euronews",
     "pub": "2026-10-03 09:46"
   },
   {
     "headline": "Russia strikes another major bridge across Kyiv's Dnipro river",
-    "headline_fi": "Venäjä iskee uudelle suurelle sillalle Kiovan Dnipro-joen yli",
+    "headline_fi": "Russia strikes another major bridge across Kyiv's Dnipro river",
     "link": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
     "source": "France 24",
     "pub": "2026-10-03 09:40"
   },
   {
     "headline": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
-    "headline_fi": "Arabiemiirikuntien tutkijat sanovat, että Omani Flydubai -perämies suunnitteli \"terrori-iskua\".",
+    "headline_fi": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
     "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
     "source": "France 24",
     "pub": "2026-10-03 09:17"
   },
   {
     "headline": "Latvia votes in parliamentary election amid rising costs",
-    "headline_fi": "Latvia äänestää parlamenttivaaleissa kustannusten nousussa",
+    "headline_fi": "Latvia votes in parliamentary election amid rising costs",
     "link": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 09:06"
   },
   {
     "headline": "‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills",
-    "headline_fi": "\"Se on antanut mielenterveydelleni valtavan sysäyksen\": Miksi kaikkien pitäisi hioa bushcraft-taitojaan",
+    "headline_fi": "‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills",
     "link": "https://www.euronews.com/2026/10/03/its-given-my-mental-health-a-massive-boost-why-everyone-should-hone-their-bushcraft-skills",
     "source": "Euronews",
     "pub": "2026-10-03 08:02"
   },
   {
     "headline": "House prices keep rising across Europe: Which countries saw the biggest increases and why?",
-    "headline_fi": "Asuntojen hinnat jatkavat nousuaan kaikkialla Euroopassa: missä maissa nousu oli suurin ja miksi?",
+    "headline_fi": "House prices keep rising across Europe: Which countries saw the biggest increases and why?",
     "link": "https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
     "headline": "Latest news bulletin | October 3rd, 2026 – Morning",
-    "headline_fi": "Uusin uutistiedote |3. lokakuuta 2026 – Aamu",
+    "headline_fi": "Latest news bulletin | October 3rd, 2026 – Morning",
     "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
@@ -322,20 +378,6 @@
     "pub": "2026-10-02 18:55"
   },
   {
-    "headline": "Israel's top court allows Arab parties to run in election",
-    "headline_fi": "Israel's top court allows Arab parties to run in election",
-    "link": "https://www.dw.com/en/israel-s-top-court-allows-arab-parties-to-run-in-election/a-79519184?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 18:53"
-  },
-  {
-    "headline": "Iran accused of blocking SIM cards, digital access to silence dissent",
-    "headline_fi": "Iran accused of blocking SIM cards, digital access to silence dissent",
-    "link": "https://www.dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 18:19"
-  },
-  {
     "headline": "Brazil: The craze for candidate merch ahead of elections",
     "headline_fi": "Brazil: The craze for candidate merch ahead of elections",
     "link": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
@@ -413,8 +455,8 @@
     "pub": "2026-10-02 17:29"
   },
   {
-    "headline": "Assisi marks 800 years since St Francis's death and remains a symbol of peace and dialogue",
-    "headline_fi": "Assisi marks 800 years since St Francis's death and remains a symbol of peace and dialogue",
+    "headline": "Italy marks 800 years since St Francis' death with a national holiday",
+    "headline_fi": "Italy marks 800 years since St Francis' death with a national holiday",
     "link": "https://www.euronews.com/2026/10/02/assisi-marks-800-years-since-st-franciss-death-and-remains-a-symbol-of-peace-and-dialogue",
     "source": "Euronews",
     "pub": "2026-10-02 17:27"
@@ -565,48 +607,6 @@
     "link": "https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 14:17"
-  },
-  {
-    "headline": "Video shows bear slamming into car in northern Japan",
-    "headline_fi": "Video shows bear slamming into car in northern Japan",
-    "link": "https://www.euronews.com/video/2026/10/02/video-shows-bear-slamming-into-car-in-northern-japan",
-    "source": "Euronews",
-    "pub": "2026-10-02 14:10"
-  },
-  {
-    "headline": "Hungary and Ukraine edge towards deal that could unlock EU talks",
-    "headline_fi": "Hungary and Ukraine edge towards deal that could unlock EU talks",
-    "link": "https://www.euronews.com/2026/10/02/hungary-and-ukraine-edge-towards-deal-that-could-unlock-eu-talks",
-    "source": "Euronews",
-    "pub": "2026-10-02 14:10"
-  },
-  {
-    "headline": "G7 to hold emergency talks over possible diesel release",
-    "headline_fi": "G7 to hold emergency talks over possible diesel release",
-    "link": "https://www.politico.eu/article/g7-to-hold-emergency-talks-over-possible-diesel-release/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-02 14:01"
-  },
-  {
-    "headline": "DiscoverEU applications now open: Thousands of free travel passes for young Europeans up for grabs",
-    "headline_fi": "DiscoverEU applications now open: Thousands of free travel passes for young Europeans up for grabs",
-    "link": "https://www.euronews.com/2026/10/02/discovereu-applications-now-open-thousands-of-free-travel-passes-for-young-europeans-up-fo",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:32"
-  },
-  {
-    "headline": "Fact check: What's going on with Spain's 'Maricarmen' housing protests?",
-    "headline_fi": "Fact check: What's going on with Spain's 'Maricarmen' housing protests?",
-    "link": "https://www.euronews.com/2026/10/02/fact-check-whats-going-on-with-spains-maricarmen-housing-protests",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:30"
-  },
-  {
-    "headline": "Schools closed, services slowed and flights cancelled: strikes hit Portugal",
-    "headline_fi": "Schools closed, services slowed and flights cancelled: strikes hit Portugal",
-    "link": "https://www.euronews.com/2026/10/02/schools-closed-services-slowed-and-flights-cancelled-strikes-hit-portugal",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:29"
   },
   {
     "headline": "Debate: Presidential election: which path will Brazil take?",
