@@ -1,10 +1,52 @@
 [
   {
+    "headline": "Morocco's first female head of government: Symbol or real reform?",
+    "headline_fi": "Marokon ensimmäinen naispuolinen hallituksen päämies: symboli vai todellinen uudistus?",
+    "link": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 11:10"
+  },
+  {
+    "headline": "India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation",
+    "headline_fi": "Intia-uutiset: Torakka Janta -puolue ilmoittaa Delhi-marssin 10. lokakuuta, vaatii vaalijohtajan eroa",
+    "link": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 10:50"
+  },
+  {
+    "headline": "Spain faces housing protests in more than 50 cities after parliament rejects tenant protections",
+    "headline_fi": "Espanjaa kohtaa asuntoprotestoi yli 50 kaupungissa sen jälkeen, kun parlamentti hylkäsi vuokralaisten suojelun",
+    "link": "https://www.euronews.com/2026/10/03/spain-faces-housing-protests-in-more-than-50-cities-after-parliament-rejects-tenant-protec",
+    "source": "Euronews",
+    "pub": "2026-10-03 10:34"
+  },
+  {
+    "headline": "🔴 UAE investigators say Flydubai co-pilot was planning 'terrorist act'",
+    "headline_fi": "🔴 Yhdistyneiden arabiemiirikuntien tutkijat sanovat, että Flydubain perämies suunnitteli \"terroritekoa\"",
+    "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+    "source": "France 24",
+    "pub": "2026-10-03 10:14"
+  },
+  {
+    "headline": "Latvians head to the polls amid concerns over rising cost of living and Russia",
+    "headline_fi": "Latvialaiset lähtevät vaaleihin huolissaan elinkustannusten noususta ja Venäjästä",
+    "link": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
+    "source": "Euronews",
+    "pub": "2026-10-03 10:00"
+  },
+  {
     "headline": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
     "headline_fi": "Sodan, separatismin ja EU-tavoitteiden muovaama Bosnia-Hertsegovina",
     "link": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 09:51"
+  },
+  {
+    "headline": "Second Kyiv bridge hit in two days as Russia targets Dnipro crossings",
+    "headline_fi": "Toinen Kiovan silta osui kahdessa päivässä, kun Venäjä tavoitti Dnipron risteyksiä",
+    "link": "https://www.euronews.com/2026/10/03/second-kyiv-bridge-hit-in-two-days-as-russia-targets-dnipro-crossings",
+    "source": "Euronews",
+    "pub": "2026-10-03 09:46"
   },
   {
     "headline": "Russia strikes another major bridge across Kyiv's Dnipro river",
@@ -14,8 +56,8 @@
     "pub": "2026-10-03 09:40"
   },
   {
-    "headline": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist act'",
-    "headline_fi": "Arabiemiirikuntien tutkijat sanovat, että Omani Flydubai -perämies suunnitteli \"terroritekoa\"",
+    "headline": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
+    "headline_fi": "Arabiemiirikuntien tutkijat sanovat, että Omani Flydubai -perämies suunnitteli \"terrori-iskua\".",
     "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
     "source": "France 24",
     "pub": "2026-10-03 09:17"
@@ -63,9 +105,9 @@
     "pub": "2026-10-03 08:00"
   },
   {
-    "headline": "Co-pilot on Flydubai flight was banned from flying by Oman",
-    "headline_fi": "Oman kielsi lentokiellon Flydubai-lennon perämieheltä",
-    "link": "https://www.dw.com/en/co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman/a-79526641?maca=en-rss-en-all-1573-rdf",
+    "headline": "Omani co-pilot on Flydubai attempted 'terrorist' act — UAE",
+    "headline_fi": "Omanilainen Flydubain perämies yritti \"terroristin\" – Yhdistyneet arabiemiirikunnat",
+    "link": "https://www.dw.com/en/omani-co-pilot-on-flydubai-attempted-terrorist-act-uae/a-79526641?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 06:52"
   },
@@ -99,42 +141,42 @@
   },
   {
     "headline": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
-    "headline_fi": "Ranskan media vastaa M. Le Penin \"Kevlar-puku\" -kommentteihin tutkintayksikköä vastaan",
+    "headline_fi": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
     "link": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
     "source": "France 24",
     "pub": "2026-10-03 00:37"
   },
   {
     "headline": "Ethiopian army pushes back Tigrayan rebels",
-    "headline_fi": "Etiopian armeija työnsi takaisin Tigrayan-kapinallisia",
+    "headline_fi": "Ethiopian army pushes back Tigrayan rebels",
     "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
     "source": "France 24",
     "pub": "2026-10-02 23:46"
   },
   {
     "headline": "Tension rises in Ceuta: two migrant children stabbed and bacteria-contaminated beach",
-    "headline_fi": "Jännitys kasvaa Ceutassa: kahta siirtolaislasta puukotettiin ja bakteerien saastuttama ranta",
+    "headline_fi": "Tension rises in Ceuta: two migrant children stabbed and bacteria-contaminated beach",
     "link": "https://www.euronews.com/2026/10/02/tension-rises-in-ceuta-two-migrant-children-stabbed-and-bacteria-contaminated-beach",
     "source": "Euronews",
     "pub": "2026-10-02 23:40"
   },
   {
     "headline": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
-    "headline_fi": "Yhdysvallat keskeytti konsulipalvelut Brasiliassa, kun Lula ja Bolsonaro taistelevat vaaleista",
+    "headline_fi": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
     "link": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
     "source": "Euronews",
     "pub": "2026-10-02 23:40"
   },
   {
     "headline": "UK: Man charged with planning to attack Nigel Farage",
-    "headline_fi": "UK: Miestä syytetään Nigel Farageen hyökkäämisen suunnittelusta",
+    "headline_fi": "UK: Man charged with planning to attack Nigel Farage",
     "link": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 23:38"
   },
   {
     "headline": "Sánchez begins reflection on early election as protesters call for general strike",
-    "headline_fi": "Sánchez alkaa pohtia ennenaikaisia ​​vaaleja, kun mielenosoittajat vaativat yleislakkoa",
+    "headline_fi": "Sánchez begins reflection on early election as protesters call for general strike",
     "link": "https://www.euronews.com/2026/10/02/sanchez-begins-reflection-on-early-election-as-protesters-call-for-general-strike",
     "source": "Euronews",
     "pub": "2026-10-02 22:46"
@@ -343,13 +385,6 @@
     "pub": "2026-10-02 17:27"
   },
   {
-    "headline": "Argentina launches cash-for-citizenship scheme",
-    "headline_fi": "Argentina launches cash-for-citizenship scheme",
-    "link": "https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 17:26"
-  },
-  {
     "headline": "G7 agrees to release oil reserves after U.S. push",
     "headline_fi": "G7 agrees to release oil reserves after U.S. push",
     "link": "https://www.politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -483,13 +518,6 @@
     "pub": "2026-10-02 15:49"
   },
   {
-    "headline": "Paraguay, a tax and political haven for Brazil's far right",
-    "headline_fi": "Paraguay, a tax and political haven for Brazil's far right",
-    "link": "https://www.france24.com/en/tv-shows/reporters/20261002-paraguay-a-tax-and-political-haven-for-brazil-s-far-right",
-    "source": "France 24",
-    "pub": "2026-10-02 15:48"
-  },
-  {
     "headline": "Andy Burnham is rethinking the UK’s ties with the EU. What are his options?",
     "headline_fi": "Andy Burnham is rethinking the UK’s ties with the EU. What are his options?",
     "link": "https://www.euronews.com/2026/10/02/andy-burnham-is-rethinking-the-uks-ties-with-the-eu-what-are-his-options",
@@ -621,34 +649,6 @@
     "link": "https://www.eurotopics.net/en/364985/us-convicted-murderer-survives-execution?pk_campaign=rss-en&pk_kwd=2026-10-02",
     "source": "Eurotopics",
     "pub": "2026-10-02 13:29"
-  },
-  {
-    "headline": "Could the future of AI data centres be in space? Google wants to find out",
-    "headline_fi": "Could the future of AI data centres be in space? Google wants to find out",
-    "link": "https://www.euronews.com/2026/10/02/could-the-future-of-ai-data-centres-be-in-space-google-wants-to-find-out",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:19"
-  },
-  {
-    "headline": "European diesel reserves cover 10 days of the world's demands, expert says",
-    "headline_fi": "European diesel reserves cover 10 days of the world's demands, expert says",
-    "link": "https://www.euronews.com/video/2026/10/02/european-diesel-reserves-cover-10-days-of-the-worlds-demands-expert-says",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:12"
-  },
-  {
-    "headline": "EU adds €130 million to drone funding in border security push",
-    "headline_fi": "EU adds €130 million to drone funding in border security push",
-    "link": "https://www.euronews.com/2026/10/02/eu-adds-130-million-to-drone-funding-in-border-security-push",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:10"
-  },
-  {
-    "headline": "Hundreds of high schools in France close as new protests against conditions erupt",
-    "headline_fi": "Hundreds of high schools in France close as new protests against conditions erupt",
-    "link": "https://www.euronews.com/2026/10/02/hundreds-of-high-schools-in-france-close-as-new-protests-against-conditions-erupt",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:02"
   },
   {
     "headline": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
