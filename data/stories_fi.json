@@ -1,5 +1,103 @@
 [
   {
+    "headline": "Latvia: Ruling party leads in exit polls amid populist gains",
+    "headline_fi": "Latvia: Hallituspuolue johtaa poistuneiden mielipidemittauksia populististen voittojen keskellä",
+    "link": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 21:05"
+  },
+  {
+    "headline": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
+    "headline_fi": "Ukraina tehostaa öljyiskuja Venäjän osuessa Kiovan silloihin",
+    "link": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 20:16"
+  },
+  {
+    "headline": "Tens of thousands of people take to streets of Paris to march for Pride",
+    "headline_fi": "Kymmenet tuhannet ihmiset marssivat Pariisin kaduille Priden puolesta",
+    "link": "https://www.euronews.com/2026/10/03/tens-of-thousands-of-people-take-to-streets-of-paris-to-march-for-pride",
+    "source": "Euronews",
+    "pub": "2026-10-03 19:32"
+  },
+  {
+    "headline": "UK remands 2 Iranians over alleged antisemitic terror plot",
+    "headline_fi": "Britannia pidätti kaksi iranilaista väitetyn antisemitistisen terrorisuunnitelman vuoksi",
+    "link": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 19:10"
+  },
+  {
+    "headline": "Ceuta support T-shirt: €10 of its €35 price goes to self-described ‘patriotic’ movement Save Europe Act",
+    "headline_fi": "Ceutan tuki T-paita: 10 € sen 35 euron hinnasta menee itse kuvaillulle \"isänmaalliselle\" liikkeelle Save Europe Act",
+    "link": "https://www.euronews.com/2026/10/03/the-ceuta-support-t-shirt-10-of-its-35-price-funds-the-far-right",
+    "source": "Euronews",
+    "pub": "2026-10-03 19:06"
+  },
+  {
+    "headline": "Two Iranians charged with alleged bomb plot against Britain’s Jewish community",
+    "headline_fi": "Kahta iranilaista syytetään väitetystä pommisuunnitelmasta Britannian juutalaisyhteisöä vastaan",
+    "link": "https://www.politico.eu/article/two-iranians-charged-with-alleged-bomb-plot-against-britains-jewish-community/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-03 19:01"
+  },
+  {
+    "headline": "Latest news bulletin | October 3rd, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |3. lokakuuta 2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-03 19:00"
+  },
+  {
+    "headline": "Spaniards protest housing crisis as Sánchez weighs snap vote",
+    "headline_fi": "Espanjalaiset protestoivat asuntokriisiä vastaan ​​Sánchezin vaaliessa ennakkoäänestystä",
+    "link": "https://www.politico.eu/article/spaniards-protest-housing-crisis-as-pedro-sanchez-weighs-snap-vote/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-03 18:17"
+  },
+  {
+    "headline": "Nearly 500,000 people protest in Madrid over Spain's housing crisis",
+    "headline_fi": "Lähes 500 000 ihmistä protestoi Madridissa Espanjan asuntokriisin vuoksi",
+    "link": "https://www.euronews.com/2026/10/03/nearly-500000-people-protest-in-madrid-over-spains-housing-crisis",
+    "source": "Euronews",
+    "pub": "2026-10-03 18:16"
+  },
+  {
+    "headline": "Loud blasts rock Sanaa as Houthis accuse Saudi forces of pounding Yemeni capital",
+    "headline_fi": "Voimakkaat räjäytykset ravistelevat Sanaaa, kun huthit syyttävät Saudi-Arabian joukkoja Jemenin pääkaupungin hakkaamisesta",
+    "link": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
+    "source": "France 24",
+    "pub": "2026-10-03 17:31"
+  },
+  {
+    "headline": "Spain: Massive protests after housing bills voted down",
+    "headline_fi": "Espanja: Massiivisia mielenosoituksia asuntolainojen hylkäämisen jälkeen",
+    "link": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 17:18"
+  },
+  {
+    "headline": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
+    "headline_fi": "IEA:n mukaan hätäöljyä vapautuu 325 miljoonaa tynnyriä, ja 75 miljoonaa on vielä tulossa",
+    "link": "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come",
+    "source": "Euronews",
+    "pub": "2026-10-03 16:59"
+  },
+  {
+    "headline": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
+    "headline_fi": "Uusia mielenosoituksia asuntorakennuksista kiihtyi Espanjassa sen jälkeen, kun lainsäätäjät hylkäsivät avustustoimenpiteet",
+    "link": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+    "source": "France 24",
+    "pub": "2026-10-03 16:20"
+  },
+  {
+    "headline": "Greece will not 'borrow' its own treasures, Mitsotakis says of Parthenon Marbles",
+    "headline_fi": "Kreikka ei \"laina\" omia aarteitaan, Mitsotakis sanoo Parthenon Marblesista",
+    "link": "https://www.euronews.com/2026/10/03/greece-will-not-borrow-its-own-treasures-mitsotakis-says-of-parthenon-marbles",
+    "source": "Euronews",
+    "pub": "2026-10-03 16:13"
+  },
+  {
     "headline": "Azerbaijan International Investment Forum: Where capital meets opportunity",
     "headline_fi": "Azerbaidžanin kansainvälinen sijoitusfoorumi: Pääoma kohtaa mahdollisuuden",
     "link": "https://www.euronews.com/2026/10/03/azerbaijan-international-investment-forum-where-capital-meets-opportunity",
@@ -43,106 +141,99 @@
   },
   {
     "headline": "China opens anti-dumping probe into EU days before Beijing trade talks",
-    "headline_fi": "Kiina aloittaa EU:n polkumyynnin vastaisen tutkinnan muutamaa päivää ennen Pekingin kauppaneuvotteluja",
+    "headline_fi": "China opens anti-dumping probe into EU days before Beijing trade talks",
     "link": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
     "source": "Euronews",
     "pub": "2026-10-03 13:09"
   },
   {
     "headline": "Russia hits major Kyiv bridge, logistics hub in latest attack",
-    "headline_fi": "Venäjä iskee viimeisimmässä hyökkäyksessä suureen Kiovan siltaan, logistiikkakeskukseen",
+    "headline_fi": "Russia hits major Kyiv bridge, logistics hub in latest attack",
     "link": "https://www.politico.eu/article/russia-hits-major-kyiv-bridge-logistics-hub-in-latest-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-03 13:04"
   },
   {
     "headline": "Latest news bulletin | October 3rd, 2026 – Midday",
-    "headline_fi": "Uusin uutistiedote |3. lokakuuta 2026 – keskipäivä",
+    "headline_fi": "Latest news bulletin | October 3rd, 2026 – Midday",
     "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-03 13:00"
   },
   {
     "headline": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
-    "headline_fi": "Flavio Bolsonaro: Isän, poikien ja pyhän ideologian nimessä",
+    "headline_fi": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
     "link": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
     "source": "France 24",
     "pub": "2026-10-03 12:48"
   },
   {
     "headline": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
-    "headline_fi": "Yhdistyneet arabiemiirikunnat: FlyDubain perämies hyökkäsi kapteenin kimppuun kirveellä \"terroristissa\"",
+    "headline_fi": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
     "link": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
     "source": "Euronews",
     "pub": "2026-10-03 12:27"
   },
   {
     "headline": "Barricades & the blame game: the French school protests",
-    "headline_fi": "Barrikadit ja syyttelypeli: ranskalainen koulu protestoi",
+    "headline_fi": "Barricades & the blame game: the French school protests",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
     "source": "France 24",
     "pub": "2026-10-03 12:25"
   },
   {
     "headline": "Widdecombe murder suspect charged with planning terror act on Nigel Farage",
-    "headline_fi": "Widdecomben murhasta epäiltyä syytetään terroriteon suunnittelusta Nigel Faragea vastaan",
+    "headline_fi": "Widdecombe murder suspect charged with planning terror act on Nigel Farage",
     "link": "https://www.politico.eu/article/anne-widdecombe-murder-suspect-charged-with-planning-terror-act-on-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-03 12:03"
   },
   {
-    "headline": "Russia strikes another major bridge in Kyiv, says mayor",
-    "headline_fi": "Venäjä iskee uudelle suurelle sillalle Kiovassa, pormestari sanoo",
-    "link": "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-03 11:36"
-  },
-  {
     "headline": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
-    "headline_fi": "Flydubai-perämies yritti \"terrori-iskua\", Yhdistyneet arabiemiirikunnat sanoo",
+    "headline_fi": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
     "link": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 11:17"
   },
   {
     "headline": "Morocco's first female head of government: Symbol or real reform?",
-    "headline_fi": "Marokon ensimmäinen naispuolinen hallituksen päämies: symboli vai todellinen uudistus?",
+    "headline_fi": "Morocco's first female head of government: Symbol or real reform?",
     "link": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 11:10"
   },
   {
     "headline": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
-    "headline_fi": "Etiopian tigray-kapinalliset hylkäsivät alueellisen pääkaupungin Mekellen hallitusta tukevien joukkojen etenemisen myötä",
+    "headline_fi": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
     "link": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
     "source": "France 24",
     "pub": "2026-10-03 10:58"
   },
   {
     "headline": "Spain faces housing protests in more than 50 cities after parliament rejects tenant protections",
-    "headline_fi": "Espanjaa kohtaa asuntoprotestoi yli 50 kaupungissa sen jälkeen, kun parlamentti hylkäsi vuokralaisten suojelun",
+    "headline_fi": "Spain faces housing protests in more than 50 cities after parliament rejects tenant protections",
     "link": "https://www.euronews.com/2026/10/03/spain-faces-housing-protests-in-more-than-50-cities-after-parliament-rejects-tenant-protec",
     "source": "Euronews",
     "pub": "2026-10-03 10:34"
   },
   {
     "headline": "🔴 UAE investigators say Flydubai co-pilot was planning 'terrorist act'",
-    "headline_fi": "🔴 Yhdistyneiden arabiemiirikuntien tutkijat sanovat, että Flydubain perämies suunnitteli \"terroritekoa\"",
+    "headline_fi": "🔴 UAE investigators say Flydubai co-pilot was planning 'terrorist act'",
     "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
     "source": "France 24",
     "pub": "2026-10-03 10:14"
   },
   {
     "headline": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
-    "headline_fi": "Latvialaiset äänestävät parlamenttivaaleissa huolissaan elinkustannusten noususta ja Venäjästä",
+    "headline_fi": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
     "link": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
     "source": "Euronews",
     "pub": "2026-10-03 10:00"
   },
   {
-    "headline": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
-    "headline_fi": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
-    "link": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
+    "headline": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
+    "headline_fi": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
+    "link": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 09:51"
   },
@@ -166,13 +257,6 @@
     "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
     "source": "France 24",
     "pub": "2026-10-03 09:17"
-  },
-  {
-    "headline": "Latvia votes in parliamentary election amid rising costs",
-    "headline_fi": "Latvia votes in parliamentary election amid rising costs",
-    "link": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-03 09:06"
   },
   {
     "headline": "‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills",
@@ -434,13 +518,6 @@
     "pub": "2026-10-02 17:44"
   },
   {
-    "headline": "The Cornell 7: Allegations spark fury over gang rape culture",
-    "headline_fi": "The Cornell 7: Allegations spark fury over gang rape culture",
-    "link": "https://www.france24.com/en/tv-shows/the-51/20261002-the-cornell-7-allegations-spark-fury-over-gang-rape-culture",
-    "source": "France 24",
-    "pub": "2026-10-02 17:39"
-  },
-  {
     "headline": "17 countries join forces to oppose EU budget cuts",
     "headline_fi": "17 countries join forces to oppose EU budget cuts",
     "link": "https://www.politico.eu/article/17-countries-join-forces-to-oppose-eu-budget-cuts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -455,31 +532,10 @@
     "pub": "2026-10-02 17:29"
   },
   {
-    "headline": "Italy marks 800 years since St Francis' death with a national holiday",
-    "headline_fi": "Italy marks 800 years since St Francis' death with a national holiday",
-    "link": "https://www.euronews.com/2026/10/02/assisi-marks-800-years-since-st-franciss-death-and-remains-a-symbol-of-peace-and-dialogue",
-    "source": "Euronews",
-    "pub": "2026-10-02 17:27"
-  },
-  {
-    "headline": "G7 agrees to release oil reserves after U.S. push",
-    "headline_fi": "G7 agrees to release oil reserves after U.S. push",
-    "link": "https://www.politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-02 17:16"
-  },
-  {
     "headline": "Beyond K-pop and cinema: Major Korean exhibition brings centuries of art and belief to London",
     "headline_fi": "Beyond K-pop and cinema: Major Korean exhibition brings centuries of art and belief to London",
     "link": "https://www.euronews.com/2026/10/02/beyond-k-pop-and-cinema-major-korean-exhibition-brings-centuries-of-art-and-belief-to-lond",
     "source": "Euronews",
-    "pub": "2026-10-02 17:12"
-  },
-  {
-    "headline": "U2 celebrate 50 years in music with surprise gigs",
-    "headline_fi": "U2 celebrate 50 years in music with surprise gigs",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20261002-u2-celebrate-50-years-in-music-with-surprise-gigs",
-    "source": "France 24",
     "pub": "2026-10-02 17:12"
   },
   {
@@ -490,23 +546,9 @@
     "pub": "2026-10-02 16:59"
   },
   {
-    "headline": "Netanyahu warns of 'very heavy price' if any country found to be behind FlyDubai incident",
-    "headline_fi": "Netanyahu warns of 'very heavy price' if any country found to be behind FlyDubai incident",
-    "link": "https://www.france24.com/en/middle-east/20261002-netanyahu-warns-of-very-heavy-price-if-any-country-found-to-be-behind-flydubai-incident",
-    "source": "France 24",
-    "pub": "2026-10-02 16:55"
-  },
-  {
-    "headline": "What the media got right and wrong about Cornell gang rape case",
-    "headline_fi": "What the media got right and wrong about Cornell gang rape case",
-    "link": "https://www.france24.com/en/tv-shows/scoop/20261002-what-the-media-got-right-and-wrong-about-cornell-gang-rape-case",
-    "source": "France 24",
-    "pub": "2026-10-02 16:53"
-  },
-  {
-    "headline": "Can there be solar for all, everywhere by 2030?",
-    "headline_fi": "Can there be solar for all, everywhere by 2030?",
-    "link": "https://www.dw.com/en/can-there-be-solar-for-all-everywhere-by-2030/a-79517056?maca=en-rss-en-all-1573-rdf",
+    "headline": "Climate leaders called for solar energy for 'everyone, everywhere' by 2030, but with three years to go, is that goal attainable?",
+    "headline_fi": "Climate leaders called for solar energy for 'everyone, everywhere' by 2030, but with three years to go, is that goal attainable?",
+    "link": "https://www.dw.com/en/climate-leaders-called-for-solar-energy-for-everyone-everywhere-by-2030-but-with-three-years-to-go-is-that-goal-attainable/a-79517056?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 16:48"
   },
@@ -565,41 +607,6 @@
     "link": "https://www.euronews.com/2026/10/02/ai-decodes-217-year-old-napoleonic-letter-in-6-hours",
     "source": "Euronews",
     "pub": "2026-10-02 15:49"
-  },
-  {
-    "headline": "Andy Burnham is rethinking the UK’s ties with the EU. What are his options?",
-    "headline_fi": "Andy Burnham is rethinking the UK’s ties with the EU. What are his options?",
-    "link": "https://www.euronews.com/2026/10/02/andy-burnham-is-rethinking-the-uks-ties-with-the-eu-what-are-his-options",
-    "source": "Euronews",
-    "pub": "2026-10-02 15:37"
-  },
-  {
-    "headline": "Switzerland's President Guy Parmelin says he will quit government at end of year",
-    "headline_fi": "Switzerland's President Guy Parmelin says he will quit government at end of year",
-    "link": "https://www.euronews.com/2026/10/02/switzerlands-president-guy-parmelin-says-he-will-quit-government-at-end-of-year",
-    "source": "Euronews",
-    "pub": "2026-10-02 15:31"
-  },
-  {
-    "headline": "France weighs emergency oil release as US pressure mounts ahead of G7 call",
-    "headline_fi": "France weighs emergency oil release as US pressure mounts ahead of G7 call",
-    "link": "https://www.euronews.com/2026/10/02/france-weighs-emergency-oil-release-as-us-pressure-mounts-ahead-of-g7-call",
-    "source": "Euronews",
-    "pub": "2026-10-02 15:15"
-  },
-  {
-    "headline": "US sends third carrier strike group to Middle East in biggest buildup since 2003",
-    "headline_fi": "US sends third carrier strike group to Middle East in biggest buildup since 2003",
-    "link": "https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003",
-    "source": "Euronews",
-    "pub": "2026-10-02 14:48"
-  },
-  {
-    "headline": "T-shirts instead of winter coats: What a warm October reveals about winter",
-    "headline_fi": "T-shirts instead of winter coats: What a warm October reveals about winter",
-    "link": "https://www.euronews.com/2026/10/02/t-shirts-instead-of-winter-coats-what-a-warm-october-reveals-about-winter",
-    "source": "Euronews",
-    "pub": "2026-10-02 14:39"
   },
   {
     "headline": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
@@ -735,8 +742,8 @@
     "pub": "2026-09-30 12:33"
   },
   {
-    "headline": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding.",
-    "headline_fi": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding.",
+    "headline": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding",
+    "headline_fi": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding",
     "link": "https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-30 12:18"
@@ -859,13 +866,6 @@
     "link": "https://www.dw.com/en/dw-shows-solidarity-with-georgians-commitment-to-democracy/a-79432731?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-25 18:06"
-  },
-  {
-    "headline": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
-    "headline_fi": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
-    "link": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-25 17:34"
   },
   {
     "headline": "Bundesliga, other top European leagues call for major FIFA reforms",
@@ -1216,12 +1216,5 @@
     "link": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-04 13:59"
-  },
-  {
-    "headline": "2026 Beethoven Festival evokes a sense of home",
-    "headline_fi": "2026 Beethoven Festival evokes a sense of home",
-    "link": "https://www.dw.com/en/2026-beethoven-festival-evokes-a-sense-of-home/a-78892997?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-04 11:05"
   }
 ]
