@@ -1,7 +1,21 @@
 [
   {
-    "headline": "Co-pilot on Flydubai flight was banned from flying by Oman for holding extremist views",
-    "headline_fi": "Oman kielsi Flydubai-lennon perämieheltä lentämisen äärimmäisten näkemysten vuoksi",
+    "headline": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
+    "headline_fi": "Sodan, separatismin ja EU-tavoitteiden muovaama Bosnia-Hertsegovina",
+    "link": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 09:51"
+  },
+  {
+    "headline": "Russia strikes another major bridge across Kyiv's Dnipro river",
+    "headline_fi": "Venäjä iskee uudelle suurelle sillalle Kiovan Dnipro-joen yli",
+    "link": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
+    "source": "France 24",
+    "pub": "2026-10-03 09:40"
+  },
+  {
+    "headline": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist act'",
+    "headline_fi": "Arabiemiirikuntien tutkijat sanovat, että Omani Flydubai -perämies suunnitteli \"terroritekoa\"",
     "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
     "source": "France 24",
     "pub": "2026-10-03 09:17"
@@ -36,14 +50,14 @@
   },
   {
     "headline": "From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’",
-    "headline_fi": "Ruoasta johdetuista pakenemisesta elämän matkaan: miten luksusmatkailu on kehittynyt ja \"ei näytä yhdeltä suunnalta\"",
+    "headline_fi": "Ruoasta johdetuista pakomatkoista elinikäisiin hotelleihin: Kuinka luksusmatkailu on kehittynyt ja \"ei näytä yhdeltä suunnalta\"",
     "link": "https://www.euronews.com/2026/10/03/food-led-escapes-and-trip-of-a-lifetime-hotels-how-luxury-travel-has-evolved-and-doesnt-lo",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
     "headline": "Russia leads world in cat ownership — yet has 2.8 million strays",
-    "headline_fi": "Venäjä on kissojen omistajuudessa maailman kärjessä – kuitenkin 2,8 miljoonaa kulkuria",
+    "headline_fi": "Venäjä on kissojen omistajuudessa maailman kärjessä – silti 2,8 miljoonaa kulkuria",
     "link": "https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
@@ -85,7 +99,7 @@
   },
   {
     "headline": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
-    "headline_fi": "Ranskan tiedotusvälineet vastaavat M. Le Penin \"Kevlar-puku\" -kommentteihin tutkintayksikköä vastaan",
+    "headline_fi": "Ranskan media vastaa M. Le Penin \"Kevlar-puku\" -kommentteihin tutkintayksikköä vastaan",
     "link": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
     "source": "France 24",
     "pub": "2026-10-03 00:37"
@@ -127,14 +141,14 @@
   },
   {
     "headline": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
-    "headline_fi": "20 vuotta paennut ugandalainen sotapäällikkö Kony on edelleen \"aktiivinen\" Herran vastarintaarmeijassa",
+    "headline_fi": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
     "link": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
     "source": "France 24",
     "pub": "2026-10-02 22:31"
   },
   {
     "headline": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
-    "headline_fi": "Venäjä \"revittää Kiovaa\", pormestari sanoo, kun lakot halvaansivat liikenteen",
+    "headline_fi": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
     "link": "https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic",
     "source": "Euronews",
     "pub": "2026-10-02 22:30"
@@ -406,13 +420,6 @@
     "pub": "2026-10-02 16:39"
   },
   {
-    "headline": "North and South Korea trade accusations over landmines that injured three soldiers",
-    "headline_fi": "North and South Korea trade accusations over landmines that injured three soldiers",
-    "link": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 16:30"
-  },
-  {
     "headline": "EU farmers face falling produce prices as fuel and fertiliser costs rise",
     "headline_fi": "EU farmers face falling produce prices as fuel and fertiliser costs rise",
     "link": "https://www.euronews.com/2026/10/02/eu-farmers-face-falling-produce-prices-as-fuel-and-fertiliser-costs-rise",
@@ -516,13 +523,6 @@
     "link": "https://www.euronews.com/2026/10/02/t-shirts-instead-of-winter-coats-what-a-warm-october-reveals-about-winter",
     "source": "Euronews",
     "pub": "2026-10-02 14:39"
-  },
-  {
-    "headline": "What's real and what's fake? How AI is impacting Brazil's election race",
-    "headline_fi": "What's real and what's fake? How AI is impacting Brazil's election race",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race",
-    "source": "France 24",
-    "pub": "2026-10-02 14:34"
   },
   {
     "headline": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
