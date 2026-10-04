@@ -1,5 +1,12 @@
 [
   {
+    "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+    "headline_fi": "Brasilian vuoden 2026 presidentinvaalit alkavat mielipidemittauksissa, joiden mukaan Lula ja Bolsonaro ovat lähes tasan.",
+    "link": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-04 04:26"
+  },
+  {
     "headline": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
     "headline_fi": "Tekoälyjättiläiset \"eivät ole läheskään tarpeeksi varovaisia\", varoittaa lähtevä OpenAI:n turvallisuusinsinööri",
     "link": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
@@ -134,7 +141,7 @@
   },
   {
     "headline": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
-    "headline_fi": "IEA:n mukaan hätäöljyä vapautuu 325 miljoonaa tynnyriä, ja 75 miljoonaa on vielä tulossa",
+    "headline_fi": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
     "link": "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come",
     "source": "Euronews",
     "pub": "2026-10-03 16:59"
@@ -371,13 +378,6 @@
     "pub": "2026-10-03 01:52"
   },
   {
-    "headline": "North Korea fires ballistic missile into sea, Seoul says",
-    "headline_fi": "North Korea fires ballistic missile into sea, Seoul says",
-    "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-03 01:06"
-  },
-  {
     "headline": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
     "headline_fi": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
     "link": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
@@ -404,13 +404,6 @@
     "link": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
     "source": "Euronews",
     "pub": "2026-10-02 23:40"
-  },
-  {
-    "headline": "UK: Man charged with planning to attack Nigel Farage",
-    "headline_fi": "UK: Man charged with planning to attack Nigel Farage",
-    "link": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 23:38"
   },
   {
     "headline": "Sánchez begins reflection on early election as protesters call for general strike",
@@ -530,13 +523,6 @@
     "link": "https://www.euronews.com/2026/10/02/putin-says-all-weapons-on-agenda-if-russias-kaliningrad-attacked",
     "source": "Euronews",
     "pub": "2026-10-02 17:44"
-  },
-  {
-    "headline": "17 countries join forces to oppose EU budget cuts",
-    "headline_fi": "17 countries join forces to oppose EU budget cuts",
-    "link": "https://www.politico.eu/article/17-countries-join-forces-to-oppose-eu-budget-cuts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-02 17:39"
   },
   {
     "headline": "Germany's Franz Reindl elected new IIHF president",
@@ -1195,19 +1181,5 @@
     "link": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-05 11:07"
-  },
-  {
-    "headline": "The hidden environmental cost of AI data centers",
-    "headline_fi": "The hidden environmental cost of AI data centers",
-    "link": "https://www.dw.com/en/the-hidden-environmental-cost-of-ai-data-centers/a-78789889?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-04 14:08"
-  },
-  {
-    "headline": "Germany: Is Saxony-Anhalt's economy really struggling?",
-    "headline_fi": "Germany: Is Saxony-Anhalt's economy really struggling?",
-    "link": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-04 13:59"
   }
 ]
