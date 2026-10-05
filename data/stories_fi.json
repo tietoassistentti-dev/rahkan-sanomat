@@ -1,10 +1,59 @@
 [
   {
+    "headline": "EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia",
+    "headline_fi": "EU seuraa \"erittäin tiiviisti\" epäiltyä keuhkoputon puhkeamista Venäjällä",
+    "link": "https://www.euronews.com/2026/10/05/eu-monitors-very-closely-suspected-outbreak-of-pneumonic-plague-in-russia",
+    "source": "Euronews",
+    "pub": "2026-10-05 15:10"
+  },
+  {
+    "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
+    "headline_fi": "Epäilty keuhkoputto Siperiassa: Mitä tiedämme taudista",
+    "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-05 14:58"
+  },
+  {
+    "headline": "Ai Weiwei: \"We are losing privacy and without it we stop being individuals\"",
+    "headline_fi": "Ai Weiwei: \"Me menetämme yksityisyyden ja ilman sitä lakkaamme olemasta yksilöitä\"",
+    "link": "https://www.euronews.com/2026/10/05/ai-weiwei-we-are-losing-privacy-and-without-it-we-stop-being-individuals",
+    "source": "Euronews",
+    "pub": "2026-10-05 14:49"
+  },
+  {
+    "headline": "Mountaineer takes cancer research and quality of life to new heights... 8,000 metres, to be precise!",
+    "headline_fi": "Vuorikiipeilijä vie syöpätutkimuksen ja elämänlaadun uusiin korkeuksiin... 8000 metriin, tarkalleen!",
+    "link": "https://www.france24.com/en/mountaineer-takes-cancer-research-and-quality-of-life-to-new-heights-8-000-metres-to-be-precise",
+    "source": "France 24",
+    "pub": "2026-10-05 14:16"
+  },
+  {
+    "headline": "Schneider Electric shares plunge on record $22.6bn PTC deal",
+    "headline_fi": "Schneider Electricin osakkeet putosivat ennätyksellisen 22,6 miljardin dollarin PTC-kaupan myötä",
+    "link": "https://www.euronews.com/2026/10/05/schneider-electric-shares-plunge-on-record-226bn-ptc-deal",
+    "source": "Euronews",
+    "pub": "2026-10-05 14:04"
+  },
+  {
     "headline": "Indian police detain demonstrators as protests over voter roll revision intensify",
     "headline_fi": "Intian poliisi pidätti mielenosoittajia, kun äänestyslistan tarkistamista koskevat mielenosoitukset kiihtyvät",
     "link": "https://www.france24.com/en/video/20261005-ndian-police-detain-demonstrators-as-protests-over-voter-roll-revision-intensify",
     "source": "France 24",
     "pub": "2026-10-05 14:04"
+  },
+  {
+    "headline": "Student's hand blown off by police grenade as French school protests continue",
+    "headline_fi": "Poliisikranaatti räjäytti oppilaan käden, kun ranskalaisten koulujen mielenosoitukset jatkuvat",
+    "link": "https://www.euronews.com/2026/10/05/french-students-set-fire-to-paris-school-entrance-on-eve-of-nationwide-day-of-action",
+    "source": "Euronews",
+    "pub": "2026-10-05 14:02"
+  },
+  {
+    "headline": "The 'Terminator scenario': How realistic is the AI apocalypse?",
+    "headline_fi": "\"Terminaattorin skenaario\": Kuinka realistinen tekoälyn apokalypsi on?",
+    "link": "https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse",
+    "source": "Euronews",
+    "pub": "2026-10-05 13:51"
   },
   {
     "headline": "Germany risks being drawn into ‘violent conflict’ with Russia, spy chief warns",
@@ -19,6 +68,20 @@
     "link": "https://www.politico.eu/article/eu-very-closely-monitoring-suspected-plague-in-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 13:47"
+  },
+  {
+    "headline": "Musk to follow Trump and rebrand SpaceXAI as SpaceXSI",
+    "headline_fi": "Musk seuraa Trumpia ja nimeää SpaceXAI:n uudelleen nimellä SpaceXSI",
+    "link": "https://www.euronews.com/2026/10/05/musk-to-follow-trump-and-rebrand-spacexai-as-spacexsi",
+    "source": "Euronews",
+    "pub": "2026-10-05 13:42"
+  },
+  {
+    "headline": "Anatomy of a flop: ‘Digger’ a disaster at box office and a major misfire for Tom Cruise",
+    "headline_fi": "Flopin anatomia: \"Digger\" katastrofi lipputulossa ja suuri sytytyskatkos Tom Cruiselle",
+    "link": "https://www.euronews.com/2026/10/05/anatomy-of-a-flop-digger-a-disaster-at-box-office-and-a-major-misfire-for-tom-cruise",
+    "source": "Euronews",
+    "pub": "2026-10-05 13:41"
   },
   {
     "headline": "Debate: Spain: snap election after tenant-protection decrees fail",
@@ -78,63 +141,63 @@
   },
   {
     "headline": "Debate: Turkey: why has news website T24 been blocked?",
-    "headline_fi": "Keskustelu: Turkki: miksi uutissivusto T24 on estetty?",
+    "headline_fi": "Debate: Turkey: why has news website T24 been blocked?",
     "link": "https://www.eurotopics.net/en/365061/turkey-why-has-news-website-t24-been-blocked?pk_campaign=rss-en&pk_kwd=2026-10-05",
     "source": "Eurotopics",
     "pub": "2026-10-05 13:40"
   },
   {
     "headline": "Klopp's first Germany internationals: What did we learn?",
-    "headline_fi": "Kloppin ensimmäiset Saksan kansainväliset pelaajat: Mitä opimme?",
+    "headline_fi": "Klopp's first Germany internationals: What did we learn?",
     "link": "https://www.dw.com/en/klopp-s-first-germany-internationals-what-did-we-learn/a-79547308?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 13:34"
   },
   {
     "headline": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
-    "headline_fi": "Bosnian vaalit: Uusi tekniikka on saattanut estää äänestämisen kuolleiden äänestäjien puolesta, mutta tulos pysyy ennallaan",
+    "headline_fi": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
     "link": "https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 13:23"
   },
   {
     "headline": "Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'",
-    "headline_fi": "Trump nimesi Jay Claytonin tekoälytsaariksi \"Super Intelligence Forcea\" johtamaan",
+    "headline_fi": "Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'",
     "link": "https://www.france24.com/en/tv-shows/business/20261005-trump-names-jay-clayton-as-ai-czar-to-lead-super-intelligence-force",
     "source": "France 24",
     "pub": "2026-10-05 13:09"
   },
   {
     "headline": "Latest news bulletin | October 5th, 2026 – Midday",
-    "headline_fi": "Uusin uutistiedote |5. lokakuuta 2026 – keskipäivä",
+    "headline_fi": "Latest news bulletin | October 5th, 2026 – Midday",
     "link": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-05 13:00"
   },
   {
     "headline": "Middle East oil exports return to pre-war levels, excluding Iran",
-    "headline_fi": "Lähi-idän öljynvienti palaa sotaa edeltäneelle tasolle Irania lukuun ottamatta",
+    "headline_fi": "Middle East oil exports return to pre-war levels, excluding Iran",
     "link": "https://www.euronews.com/2026/10/05/middle-east-oil-exports-return-to-pre-war-levels-excluding-iran",
     "source": "Euronews",
     "pub": "2026-10-05 12:53"
   },
   {
     "headline": "Messi set for final emotional farewell in Argentina send-off",
-    "headline_fi": "Messi jätti viimeiset tunteelliset jäähyväiset Argentiinan ottelussa",
+    "headline_fi": "Messi set for final emotional farewell in Argentina send-off",
     "link": "https://www.france24.com/en/video/20261005-messi-set-for-final-emotional-farewell-in-argentina-send-off",
     "source": "France 24",
     "pub": "2026-10-05 12:51"
   },
   {
     "headline": "US withdraws all bombers from UK base at centre of suspected terror attack",
-    "headline_fi": "Yhdysvallat vetää kaikki pommittajat pois Britannian tukikohdasta epäillyn terrori-iskun keskellä",
+    "headline_fi": "US withdraws all bombers from UK base at centre of suspected terror attack",
     "link": "https://www.france24.com/en/video/20261005-us-withdraws-all-bombers-from-uk-base-at-centre-of-suspected-terror-attack",
     "source": "France 24",
     "pub": "2026-10-05 12:49"
   },
   {
     "headline": "🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel",
-    "headline_fi": "🔴Lääketieteen Nobel-palkinto myönnettiin yhdessä ​Karl Deisserothille, Peter Hegemannille ja Georg Nagelille",
+    "headline_fi": "🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel",
     "link": "https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel",
     "source": "France 24",
     "pub": "2026-10-05 12:47"
@@ -273,8 +336,8 @@
     "pub": "2026-10-05 11:29"
   },
   {
-    "headline": "Yemen military announces broad range of strikes against Houthis in bid to retake lost territory",
-    "headline_fi": "Yemen military announces broad range of strikes against Houthis in bid to retake lost territory",
+    "headline": "Yemen, Saudi Arabia launch new strikes against Houthis in bid to retake lost territory",
+    "headline_fi": "Yemen, Saudi Arabia launch new strikes against Houthis in bid to retake lost territory",
     "link": "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory",
     "source": "France 24",
     "pub": "2026-10-05 11:12"
@@ -427,8 +490,8 @@
     "pub": "2026-10-05 08:35"
   },
   {
-    "headline": "Live: Student protests disrupt at least 413 schools in France",
-    "headline_fi": "Live: Student protests disrupt at least 413 schools in France",
+    "headline": "Live: Student's hand blown off as protests continue in France, disrupting at least 413 schools",
+    "headline_fi": "Live: Student's hand blown off as protests continue in France, disrupting at least 413 schools",
     "link": "https://www.france24.com/en/france/20261005-live-up-to-500-schools-to-shut-in-france-as-student-protests-continue",
     "source": "France 24",
     "pub": "2026-10-05 08:15"
@@ -532,13 +595,6 @@
     "pub": "2026-10-05 03:18"
   },
   {
-    "headline": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
-    "headline_fi": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
-    "link": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
-    "source": "France 24",
-    "pub": "2026-10-05 03:16"
-  },
-  {
     "headline": "Nationalists top Bosnia-Herzegovina's divisive election",
     "headline_fi": "Nationalists top Bosnia-Herzegovina's divisive election",
     "link": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf",
@@ -621,62 +677,6 @@
     "link": "https://www.euronews.com/2026/10/04/two-people-have-died-in-catalonia-as-the-region-is-hit-by-torrential-rain-and-flooding",
     "source": "Euronews",
     "pub": "2026-10-04 17:23"
-  },
-  {
-    "headline": "'I have complete confidence in Jordan': Le Pen backs Bardella after three days of silence",
-    "headline_fi": "'I have complete confidence in Jordan': Le Pen backs Bardella after three days of silence",
-    "link": "https://www.euronews.com/2026/10/04/i-have-complete-confidence-in-jordan-le-pen-backs-bardella-after-three-days-of-silence",
-    "source": "Euronews",
-    "pub": "2026-10-04 16:57"
-  },
-  {
-    "headline": "Trump names AI czar to head White House task force",
-    "headline_fi": "Trump names AI czar to head White House task force",
-    "link": "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-04 16:34"
-  },
-  {
-    "headline": "Merz makes surprise visit to Kyiv: Germany pledges further aid to Ukraine",
-    "headline_fi": "Merz makes surprise visit to Kyiv: Germany pledges further aid to Ukraine",
-    "link": "https://www.euronews.com/2026/10/04/merz-makes-surprise-visit-to-kyiv-germany-pledges-further-aid-to-ukraine",
-    "source": "Euronews",
-    "pub": "2026-10-04 15:14"
-  },
-  {
-    "headline": "Latvia's pro-European ruling party wins election as populists gain ground",
-    "headline_fi": "Latvia's pro-European ruling party wins election as populists gain ground",
-    "link": "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground",
-    "source": "Euronews",
-    "pub": "2026-10-04 14:13"
-  },
-  {
-    "headline": "Latest news bulletin | October 4th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 4th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-04 13:00"
-  },
-  {
-    "headline": "Spanish police clear Ceuta's largest migrant camp ahead of King and Queen's visit",
-    "headline_fi": "Spanish police clear Ceuta's largest migrant camp ahead of King and Queen's visit",
-    "link": "https://www.euronews.com/2026/10/04/spanish-police-begin-clearing-ceutas-largest-migrant-camp-ahead-of-king-and-queens-visit",
-    "source": "Euronews",
-    "pub": "2026-10-04 13:00"
-  },
-  {
-    "headline": "FlyDubai captain said “I had one more fight left in me” and opened cockpit door",
-    "headline_fi": "FlyDubai captain said “I had one more fight left in me” and opened cockpit door",
-    "link": "https://www.euronews.com/2026/10/04/flydubai-captain-said-he-had-one-more-fight-left-in-me-and-opened-cockpit-door",
-    "source": "Euronews",
-    "pub": "2026-10-04 12:37"
-  },
-  {
-    "headline": "'I want to spark new ideas': Architect Ma Yansong on designing the Lucas Museum of Narrative Art",
-    "headline_fi": "'I want to spark new ideas': Architect Ma Yansong on designing the Lucas Museum of Narrative Art",
-    "link": "https://www.euronews.com/video/2026/10/04/i-want-to-spark-new-ideas-architect-ma-yansong-on-designing-the-lucas-museum-of-narrative-",
-    "source": "Euronews",
-    "pub": "2026-10-04 12:18"
   },
   {
     "headline": "UK remands 2 Iranians over alleged antisemitic terror plot",
