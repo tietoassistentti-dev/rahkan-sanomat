@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Clashes in French cities as students continue to protest over education funding",
+    "headline_fi": "Yhteenotot Ranskan kaupungeissa, kun opiskelijat jatkavat mieltään koulutusrahoituksesta",
+    "link": "https://www.euronews.com/video/2026/10/05/clashes-in-french-cities-as-students-continue-to-protest-over-education-funding",
+    "source": "Euronews",
+    "pub": "2026-10-05 18:09"
+  },
+  {
+    "headline": "French school protests continue with larger demonstrations set for Tuesday",
+    "headline_fi": "Ranskan koulujen mielenosoitukset jatkuvat tiistaiksi suunnitelluilla laajoilla mielenosoituksilla",
+    "link": "https://www.france24.com/en/video/20261005-french-school-protests-continue-with-larger-demonstrations-set-for-tuesday",
+    "source": "France 24",
+    "pub": "2026-10-05 18:03"
+  },
+  {
+    "headline": "Australia, New Zealand probe Flydubai pilot's time there",
+    "headline_fi": "Australia ja Uusi-Seelanti tutkivat Flydubai-lentäjän aikaa siellä",
+    "link": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-05 18:02"
+  },
+  {
+    "headline": "'I could feel the petrol dripping': The violent attacks that have marred France school protests",
+    "headline_fi": "\"Tunsin bensiinin tippuvan\": väkivaltaiset hyökkäykset, jotka ovat häirinneet Ranskan koulujen mielenosoituksia",
+    "link": "https://www.france24.com/en/video/20261005-i-could-feel-the-petrol-dripping-the-violent-attacks-that-have-marred-france-school-protests",
+    "source": "France 24",
+    "pub": "2026-10-05 18:01"
+  },
+  {
+    "headline": "Yemen government forces announce offensive on Houthi-held territory",
+    "headline_fi": "Jemenin hallituksen joukot ilmoittivat hyökkäyksestä Houthien hallitsemalle alueelle",
+    "link": "https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory",
+    "source": "France 24",
+    "pub": "2026-10-05 17:59"
+  },
+  {
+    "headline": "Trump names head of new 'Super Intelligence Force' to oversee AI",
+    "headline_fi": "Trump nimesi uuden \"Super Intelligence Force\" -joukkojen johtajan valvomaan tekoälyä",
+    "link": "https://www.france24.com/en/video/20261005-trump-names-head-of-new-super-intelligence-force-to-oversee-ai",
+    "source": "France 24",
+    "pub": "2026-10-05 17:59"
+  },
+  {
+    "headline": "Germany and France agree new trade tool to counter China",
+    "headline_fi": "Saksa ja Ranska sopivat uudesta kauppavälineestä Kiinan vastaiseksi",
+    "link": "https://www.euronews.com/2026/10/05/germany-and-france-agree-new-trade-tool-to-counter-china",
+    "source": "Euronews",
+    "pub": "2026-10-05 17:43"
+  },
+  {
+    "headline": "A decade of the Azerbaijan Grand Prix: more than just a race",
+    "headline_fi": "Vuosikymmen Azerbaidžanin GP:stä: enemmän kuin pelkkä kilpailu",
+    "link": "https://www.euronews.com/2026/10/05/a-decade-of-the-azerbaijan-grand-prix-more-than-just-a-race",
+    "source": "Euronews",
+    "pub": "2026-10-05 17:30"
+  },
+  {
+    "headline": "Sulaf and Late Again on uprooting and reconnecting with their heritage",
+    "headline_fi": "Sulaf ja Late Again juurineen ja yhdistämässä perintöönsä",
+    "link": "https://www.france24.com/en/tv-shows/arts24/20261005-sulaf-and-late-again-on-uprooting-and-reconnecting-with-their-heritage",
+    "source": "France 24",
+    "pub": "2026-10-05 17:29"
+  },
+  {
+    "headline": "Euro plummets against US dollar: has the next crisis begun?",
+    "headline_fi": "Euro romahtaa Yhdysvaltain dollaria vastaan: onko seuraava kriisi alkanut?",
+    "link": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-05 17:28"
+  },
+  {
     "headline": "Macron slams Russia’s ‘irresponsible’ strikes on Ukraine’s civilian infrastructure",
     "headline_fi": "Macron arvostelee Venäjän \"vastuuttomat\" iskut Ukrainan siviiliinfrastruktuuriin",
     "link": "https://www.france24.com/en/europe/20261005-macron-slams-russia-s-irresponsible-strikes-on-ukraine-s-civilian-infrastructure",
@@ -22,7 +92,7 @@
   },
   {
     "headline": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
-    "headline_fi": "Luottamus Saksan perustuslakituomioistuimeen murenee – miten tämä voidaan pysäyttää?",
+    "headline_fi": "Luottamus Saksan perustuslakituomioistuimeen murenee – miten tämä voidaan estää?",
     "link": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 17:03"
@@ -71,77 +141,77 @@
   },
   {
     "headline": "France high school protests: Can the government regain control?",
-    "headline_fi": "Ranskan lukion mielenosoitukset: Voiko hallitus saada kontrollin takaisin?",
+    "headline_fi": "France high school protests: Can the government regain control?",
     "link": "https://www.france24.com/en/video/20261005-france-high-school-protests-can-the-government-regain-control",
     "source": "France 24",
     "pub": "2026-10-05 16:03"
   },
   {
-    "headline": "'Situation under control' say Russian authorities after reports of plague in Siberia",
-    "headline_fi": "\"Tilanne hallinnassa\", sanoivat Venäjän viranomaiset Siperian ruttoilmoitusten jälkeen",
+    "headline": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
+    "headline_fi": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
     "link": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
     "source": "Euronews",
     "pub": "2026-10-05 16:02"
   },
   {
     "headline": "Japan bids farewell to Asian Games after fortnight of turmoil and records",
-    "headline_fi": "Japani jättää jäähyväiset Aasian kisoihin kahden viikon myllerryksen ja ennätysten jälkeen",
+    "headline_fi": "Japan bids farewell to Asian Games after fortnight of turmoil and records",
     "link": "https://www.france24.com/en/video/20261005-japan-bids-farewell-to-asian-games-after-fortnight-of-turmoil-and-records",
     "source": "France 24",
     "pub": "2026-10-05 16:01"
   },
   {
     "headline": "US bombers leave UK air base amid 'new threats': What we know so far",
-    "headline_fi": "Yhdysvaltalaiset pommittajat jättävät Yhdistyneen kuningaskunnan lentotukikohdan \"uusien uhkien\" keskellä: mitä tiedämme toistaiseksi",
+    "headline_fi": "US bombers leave UK air base amid 'new threats': What we know so far",
     "link": "https://www.france24.com/en/video/20261005-us-bombers-leave-uk-air-base-amid-new-threats-what-we-know-so-far",
     "source": "France 24",
     "pub": "2026-10-05 16:00"
   },
   {
     "headline": "Is Kazakhstan the birthplace of apples? Here’s how the fruit spread across the world",
-    "headline_fi": "Onko Kazakstan omenoiden syntymäpaikka?Näin hedelmät levisivät ympäri maailmaa",
+    "headline_fi": "Is Kazakhstan the birthplace of apples? Here’s how the fruit spread across the world",
     "link": "https://www.euronews.com/2026/10/05/is-kazakhstan-the-birthplace-of-apples-heres-how-the-fruit-spread-across-the-world",
     "source": "Euronews",
     "pub": "2026-10-05 15:59"
   },
   {
     "headline": "Ethiopian govt retakes Tigray capital as rebels pull out",
-    "headline_fi": "Etiopian hallitus valtaa takaisin Tigrayn pääkaupungin kapinallisten vetäytyessä",
+    "headline_fi": "Ethiopian govt retakes Tigray capital as rebels pull out",
     "link": "https://www.france24.com/en/video/20261005-ethiopian-govt-retakes-tigray-capital-as-rebels-pull-out",
     "source": "France 24",
     "pub": "2026-10-05 15:57"
   },
   {
     "headline": "Pedro Sánchez has lost control of the narrative. So he's calling an election",
-    "headline_fi": "Pedro Sánchez on menettänyt tarinan hallinnan.Joten hän kutsuu vaalit",
+    "headline_fi": "Pedro Sánchez has lost control of the narrative. So he's calling an election",
     "link": "https://www.euronews.com/2026/10/05/pedro-sanchez-has-lost-control-of-the-narrative-so-hes-calling-an-election",
     "source": "Euronews",
     "pub": "2026-10-05 15:55"
   },
   {
     "headline": "'Very bad result for Lula: Bolsonaro is far more effective at speaking to that growing middle class'",
-    "headline_fi": "\"Erittäin huono tulos Lulalle: Bolsonaro on paljon tehokkaampi puhumaan kasvavalle keskiluokalle\"",
+    "headline_fi": "'Very bad result for Lula: Bolsonaro is far more effective at speaking to that growing middle class'",
     "link": "https://www.france24.com/en/very-bad-result-for-lula-bolsonaro-is-far-more-effective-at-speaking-to-that-growing-middle-class",
     "source": "France 24",
     "pub": "2026-10-05 15:54"
   },
   {
     "headline": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
-    "headline_fi": "Brasilian presidentinvaalit: \"Bolsonaron edelläkäviminen on yllätys\", tutkija sanoo",
+    "headline_fi": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
     "link": "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
     "source": "France 24",
     "pub": "2026-10-05 15:52"
   },
   {
     "headline": "Who holds the keys to Europe’s emergency oil reserves?",
-    "headline_fi": "Kenellä on Euroopan öljyn hätävarantojen avaimet?",
+    "headline_fi": "Who holds the keys to Europe’s emergency oil reserves?",
     "link": "https://www.euronews.com/2026/10/05/who-holds-the-keys-to-europes-emergency-oil-reserves",
     "source": "Euronews",
     "pub": "2026-10-05 15:51"
   },
   {
-    "headline": "Turkish grain ship sinks in Black Sea after drone attack",
-    "headline_fi": "Turkish grain ship sinks in Black Sea after drone attack",
+    "headline": "Turkish grain ship sinks in Black Sea after deadly drone attack",
+    "headline_fi": "Turkish grain ship sinks in Black Sea after deadly drone attack",
     "link": "https://www.euronews.com/2026/10/05/drone-reportedly-hits-ship-in-black-sea-killing-two-and-injuring-11",
     "source": "Euronews",
     "pub": "2026-10-05 15:39"
@@ -385,20 +455,6 @@
     "pub": "2026-10-05 12:44"
   },
   {
-    "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
-    "headline_fi": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
-    "link": "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
-    "source": "France 24",
-    "pub": "2026-10-05 12:38"
-  },
-  {
-    "headline": "Yemen's government declares major operation against Houthis",
-    "headline_fi": "Yemen's government declares major operation against Houthis",
-    "link": "https://www.france24.com/en/video/20261005-yemen-s-government-declares-major-operation-against-houthis",
-    "source": "France 24",
-    "pub": "2026-10-05 12:37"
-  },
-  {
     "headline": "German and US scientists win Nobel Prize in medicine for research on brain activity",
     "headline_fi": "German and US scientists win Nobel Prize in medicine for research on brain activity",
     "link": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-rdf",
@@ -418,13 +474,6 @@
     "link": "https://www.euronews.com/2026/10/05/hackers-access-data-of-88-million-people-in-denmark-in-extremely-serious-breach",
     "source": "Euronews",
     "pub": "2026-10-05 12:27"
-  },
-  {
-    "headline": "Schools shuttered as student protests sweep through France",
-    "headline_fi": "Schools shuttered as student protests sweep through France",
-    "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20261005-schools-shuttered-as-student-protests-sweep-through-france",
-    "source": "France 24",
-    "pub": "2026-10-05 12:22"
   },
   {
     "headline": "'Bolsonaro win could put EU-Brazil ties at risk,' says former MEP Albuquerque",
@@ -469,39 +518,11 @@
     "pub": "2026-10-05 11:51"
   },
   {
-    "headline": "Up to 500 French schools to be closed Monday as protests continue",
-    "headline_fi": "Up to 500 French schools to be closed Monday as protests continue",
-    "link": "https://www.france24.com/en/video/20261005-up-to-500-french-schools-to-be-closed-monday-as-protests-continue",
-    "source": "France 24",
-    "pub": "2026-10-05 11:46"
-  },
-  {
-    "headline": "Bolsonaro in 'very strong position' as Brazil election heads to run-off",
-    "headline_fi": "Bolsonaro in 'very strong position' as Brazil election heads to run-off",
-    "link": "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
-    "source": "France 24",
-    "pub": "2026-10-05 11:44"
-  },
-  {
-    "headline": "Spanish PM Sanchez calls snap election amid housing crisis",
-    "headline_fi": "Spanish PM Sanchez calls snap election amid housing crisis",
-    "link": "https://www.france24.com/en/video/20261005-spanish-pm-sanchez-calls-snap-election-amid-housing-crisis",
-    "source": "France 24",
-    "pub": "2026-10-05 11:42"
-  },
-  {
     "headline": "Israel observes October 7 anniversary with national memorial day",
     "headline_fi": "Israel observes October 7 anniversary with national memorial day",
     "link": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 11:38"
-  },
-  {
-    "headline": "Ex-prince Andrew launches bid to ‘quash’ Epstein-affair search warrants",
-    "headline_fi": "Ex-prince Andrew launches bid to ‘quash’ Epstein-affair search warrants",
-    "link": "https://www.france24.com/en/europe/20261005-ex-prince-andrew-launches-bid-to-quash-epstein-affair-search-warrants",
-    "source": "France 24",
-    "pub": "2026-10-05 11:36"
   },
   {
     "headline": "Iran war: 'Europe not being at the table is a failure', Charles Michel says",
@@ -581,20 +602,6 @@
     "pub": "2026-10-05 09:15"
   },
   {
-    "headline": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
-    "headline_fi": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
-    "link": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election",
-    "source": "Euronews",
-    "pub": "2026-10-05 09:01"
-  },
-  {
-    "headline": "US pulls all B-1 bombers from UK airbase at centre of terror probe",
-    "headline_fi": "US pulls all B-1 bombers from UK airbase at centre of terror probe",
-    "link": "https://www.euronews.com/2026/10/05/us-pulls-all-b-1-bombers-from-uk-airbase-at-centre-of-terror-probe",
-    "source": "Euronews",
-    "pub": "2026-10-05 08:58"
-  },
-  {
     "headline": "India news: Top court hears petitions against Chief Election Commissioner Gyanesh Kumar",
     "headline_fi": "India news: Top court hears petitions against Chief Election Commissioner Gyanesh Kumar",
     "link": "https://www.dw.com/en/india-news-top-court-hears-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-rdf",
@@ -635,20 +642,6 @@
     "link": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 06:47"
-  },
-  {
-    "headline": "US pulls bombers out of UK's Fairford airbase after arrests",
-    "headline_fi": "US pulls bombers out of UK's Fairford airbase after arrests",
-    "link": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 04:58"
-  },
-  {
-    "headline": "Brazil election: Bolsonaro and Lula head to runoff",
-    "headline_fi": "Brazil election: Bolsonaro and Lula head to runoff",
-    "link": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 03:27"
   },
   {
     "headline": "Nationalists top Bosnia-Herzegovina's divisive election",
