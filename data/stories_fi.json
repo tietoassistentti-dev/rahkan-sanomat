@@ -1,5 +1,68 @@
 [
   {
+    "headline": "Macron slams Russia’s ‘irresponsible’ strikes on Ukraine’s civilian infrastructure",
+    "headline_fi": "Macron arvostelee Venäjän \"vastuuttomat\" iskut Ukrainan siviiliinfrastruktuuriin",
+    "link": "https://www.france24.com/en/europe/20261005-macron-slams-russia-s-irresponsible-strikes-on-ukraine-s-civilian-infrastructure",
+    "source": "France 24",
+    "pub": "2026-10-05 17:09"
+  },
+  {
+    "headline": "What does Spain's snap election mean for European politics?",
+    "headline_fi": "Mitä Espanjan ennenaikaiset vaalit merkitsevät Euroopan politiikalle?",
+    "link": "https://www.euronews.com/2026/10/05/what-does-spains-snap-election-mean-for-the-european-politics",
+    "source": "Euronews",
+    "pub": "2026-10-05 17:05"
+  },
+  {
+    "headline": "Iran poised to exploit security vacuum as US leaves Iraq",
+    "headline_fi": "Iran on valmis hyödyntämään turvallisuustyhjiötä Yhdysvaltojen jättäessä Irakista",
+    "link": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-05 17:04"
+  },
+  {
+    "headline": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
+    "headline_fi": "Luottamus Saksan perustuslakituomioistuimeen murenee – miten tämä voidaan pysäyttää?",
+    "link": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-05 17:03"
+  },
+  {
+    "headline": "‘Avengers: Endgame’ dethrones 'Avatar' once more as highest-grossing movie in history",
+    "headline_fi": "Avengers: Endgame syrjäyttää Avatarin jälleen kerran historian eniten tuottaneeksi elokuvaksi",
+    "link": "https://www.euronews.com/2026/10/05/avengers-endgame-dethrones-avatar-once-more-as-highest-grossing-movie-in-history",
+    "source": "Euronews",
+    "pub": "2026-10-05 17:02"
+  },
+  {
+    "headline": "This new Japanese walking trail connects six cities across 320 kilometres",
+    "headline_fi": "Tämä uusi japanilainen kävelyreitti yhdistää kuusi kaupunkia 320 kilometriä",
+    "link": "https://www.euronews.com/2026/10/05/this-new-japanese-walking-trail-connects-six-cities-across-320-kilometres",
+    "source": "Euronews",
+    "pub": "2026-10-05 16:44"
+  },
+  {
+    "headline": "VAT hike: Canal+ threatens to cut its support for cinema",
+    "headline_fi": "ALV:n korotus: Canal+ uhkaa leikata tukeaan elokuvalle",
+    "link": "https://www.euronews.com/2026/10/05/vat-hike-canal-threatens-to-cut-its-support-for-cinema",
+    "source": "Euronews",
+    "pub": "2026-10-05 16:34"
+  },
+  {
+    "headline": "Sánchez bets it all on housing ahead of Spain’s snap election",
+    "headline_fi": "Sánchez panostaa kaiken asumiseen ennen Espanjan ennenaikaisia ​​vaaleja",
+    "link": "https://www.politico.eu/article/pedro-sanchez-bets-housing-mantle-ahead-spain-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-05 16:24"
+  },
+  {
+    "headline": "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
+    "headline_fi": "Merz ja Macron haluavat EU:n vastustavan kovemmin – ja nopeammin – kauppauhkia vastaan",
+    "link": "https://www.politico.eu/article/friedrich-merz-emmanuel-macron-eu-trade-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-05 16:21"
+  },
+  {
     "headline": "Trump heads to Nebraska as Republicans fear strongholds could flip",
     "headline_fi": "Trump suuntaa Nebraskaan, koska republikaanit pelkäävät linnoitusten kääntyvän",
     "link": "https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip",
@@ -15,7 +78,7 @@
   },
   {
     "headline": "'Situation under control' say Russian authorities after reports of plague in Siberia",
-    "headline_fi": "\"Tilanne hallinnassa\", sanovat Venäjän viranomaiset Siperian ruttoilmoitusten jälkeen",
+    "headline_fi": "\"Tilanne hallinnassa\", sanoivat Venäjän viranomaiset Siperian ruttoilmoitusten jälkeen",
     "link": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
     "source": "Euronews",
     "pub": "2026-10-05 16:02"
@@ -77,64 +140,64 @@
     "pub": "2026-10-05 15:51"
   },
   {
-    "headline": "Drone reportedly hits ship in Black Sea, killing two and injuring 11",
-    "headline_fi": "Dronen kerrotaan osuvan laivaan Mustallamerellä tappaen kaksi ja loukkaantuen 11:tä",
+    "headline": "Turkish grain ship sinks in Black Sea after drone attack",
+    "headline_fi": "Turkish grain ship sinks in Black Sea after drone attack",
     "link": "https://www.euronews.com/2026/10/05/drone-reportedly-hits-ship-in-black-sea-killing-two-and-injuring-11",
     "source": "Euronews",
     "pub": "2026-10-05 15:39"
   },
   {
     "headline": "Germany news: Spy chief warns Russia conflict risk growing",
-    "headline_fi": "Saksan uutiset: Vakoojapäällikkö varoittaa Venäjää konfliktiriskistä",
+    "headline_fi": "Germany news: Spy chief warns Russia conflict risk growing",
     "link": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 15:33"
   },
   {
     "headline": "Extreme heat is raising risks for mothers and babies - but experts say cooling solutions already exist",
-    "headline_fi": "Äärimmäinen kuumuus lisää riskejä äideille ja vauvoille - mutta asiantuntijoiden mukaan jäähdytysratkaisuja on jo olemassa",
+    "headline_fi": "Extreme heat is raising risks for mothers and babies - but experts say cooling solutions already exist",
     "link": "https://www.euronews.com/2026/10/05/extreme-heat-is-raising-risks-for-mothers-and-babies-but-experts-say-cooling-solutions-alr",
     "source": "Euronews",
     "pub": "2026-10-05 15:31"
   },
   {
     "headline": "Ukraine warns of fake government and media sites tied to Russian intelligence",
-    "headline_fi": "Ukraina varoittaa valehallinnon ja Venäjän tiedustelupalveluun liittyvistä mediasivustoista",
+    "headline_fi": "Ukraine warns of fake government and media sites tied to Russian intelligence",
     "link": "https://www.euronews.com/2026/10/05/ukraine-warns-of-fake-government-and-media-sites-tied-to-russian-intelligence",
     "source": "Euronews",
     "pub": "2026-10-05 15:19"
   },
   {
     "headline": "EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia",
-    "headline_fi": "EU seuraa \"erittäin tiiviisti\" epäiltyä keuhkoputon puhkeamista Venäjällä",
+    "headline_fi": "EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia",
     "link": "https://www.euronews.com/2026/10/05/eu-monitors-very-closely-suspected-outbreak-of-pneumonic-plague-in-russia",
     "source": "Euronews",
     "pub": "2026-10-05 15:10"
   },
   {
     "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
-    "headline_fi": "Epäilty keuhkoputto Siperiassa: Mitä tiedämme taudista",
+    "headline_fi": "Suspected pneumonic plague in Siberia: What we know about the disease",
     "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 14:58"
   },
   {
     "headline": "Ai Weiwei: \"We are losing privacy and without it we stop being individuals\"",
-    "headline_fi": "Ai Weiwei: \"Me menetämme yksityisyyden ja ilman sitä lakkaamme olemasta yksilöitä\"",
+    "headline_fi": "Ai Weiwei: \"We are losing privacy and without it we stop being individuals\"",
     "link": "https://www.euronews.com/2026/10/05/ai-weiwei-we-are-losing-privacy-and-without-it-we-stop-being-individuals",
     "source": "Euronews",
     "pub": "2026-10-05 14:49"
   },
   {
     "headline": "Mountaineer takes cancer research and quality of life to new heights... 8,000 metres, to be precise!",
-    "headline_fi": "Vuorikiipeilijä vie syöpätutkimuksen ja elämänlaadun uusiin korkeuksiin... 8000 metriin, tarkemmin sanottuna!",
+    "headline_fi": "Mountaineer takes cancer research and quality of life to new heights... 8,000 metres, to be precise!",
     "link": "https://www.france24.com/en/mountaineer-takes-cancer-research-and-quality-of-life-to-new-heights-8-000-metres-to-be-precise",
     "source": "France 24",
     "pub": "2026-10-05 14:16"
   },
   {
     "headline": "Schneider Electric shares plunge on record $22.6bn PTC deal",
-    "headline_fi": "Schneider Electricin osakkeet putosivat ennätyksellisen 22,6 miljardin dollarin PTC-kaupan myötä",
+    "headline_fi": "Schneider Electric shares plunge on record $22.6bn PTC deal",
     "link": "https://www.euronews.com/2026/10/05/schneider-electric-shares-plunge-on-record-226bn-ptc-deal",
     "source": "Euronews",
     "pub": "2026-10-05 14:04"
@@ -252,16 +315,16 @@
     "pub": "2026-10-05 13:40"
   },
   {
-    "headline": "Klopp's first Germany internationals: What did we learn?",
-    "headline_fi": "Klopp's first Germany internationals: What did we learn?",
-    "link": "https://www.dw.com/en/klopp-s-first-germany-internationals-what-did-we-learn/a-79547308?maca=en-rss-en-all-1573-rdf",
+    "headline": "German soccer: Can new coach Klopp turn things around?",
+    "headline_fi": "German soccer: Can new coach Klopp turn things around?",
+    "link": "https://www.dw.com/en/german-soccer-can-new-coach-klopp-turn-things-around/a-79547308?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 13:34"
   },
   {
-    "headline": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
-    "headline_fi": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
-    "link": "https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-rdf",
+    "headline": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
+    "headline_fi": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
+    "link": "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 13:23"
   },
@@ -448,20 +511,6 @@
     "pub": "2026-10-05 11:29"
   },
   {
-    "headline": "Yemen, Saudi Arabia launch new strikes against Houthis in bid to retake lost territory",
-    "headline_fi": "Yemen, Saudi Arabia launch new strikes against Houthis in bid to retake lost territory",
-    "link": "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory",
-    "source": "France 24",
-    "pub": "2026-10-05 11:12"
-  },
-  {
-    "headline": "French high school protests: 'Mum if you see this it's for my future'",
-    "headline_fi": "French high school protests: 'Mum if you see this it's for my future'",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future",
-    "source": "France 24",
-    "pub": "2026-10-05 11:06"
-  },
-  {
     "headline": "Is Kemi Badenoch abandoning the Red Wall?",
     "headline_fi": "Is Kemi Badenoch abandoning the Red Wall?",
     "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-kemi-badenoch-abandoning-the-red-wall/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -560,46 +609,11 @@
     "pub": "2026-10-05 08:48"
   },
   {
-    "headline": "Serb separatist politician Milorad Dodik thanks Trump, Putin as he declares victory in contested Bosnia vote",
-    "headline_fi": "Serb separatist politician Milorad Dodik thanks Trump, Putin as he declares victory in contested Bosnia vote",
-    "link": "https://www.euronews.com/2026/10/05/serb-separatist-politician-milorad-dodik-thanks-trump-putin-as-he-declares-victory-in-cont",
-    "source": "Euronews",
-    "pub": "2026-10-05 08:44"
-  },
-  {
     "headline": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
     "headline_fi": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
     "link": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 08:35"
-  },
-  {
-    "headline": "Coral reefs are bleaching in extreme heat. Could underwater umbrellas save them?",
-    "headline_fi": "Coral reefs are bleaching in extreme heat. Could underwater umbrellas save them?",
-    "link": "https://www.euronews.com/2026/10/05/coral-reefs-are-bleaching-in-extreme-heat-could-underwater-umbrellas-save-them",
-    "source": "Euronews",
-    "pub": "2026-10-05 08:02"
-  },
-  {
-    "headline": "The best road trips to spot Europe’s most impressive wildlife",
-    "headline_fi": "The best road trips to spot Europe’s most impressive wildlife",
-    "link": "https://www.euronews.com/2026/10/05/the-best-road-trips-to-spot-europes-most-impressive-wildlife",
-    "source": "Euronews",
-    "pub": "2026-10-05 08:00"
-  },
-  {
-    "headline": "Intelligence Everywhere: Inside Europe’s Next Technology Era",
-    "headline_fi": "Intelligence Everywhere: Inside Europe’s Next Technology Era",
-    "link": "https://www.euronews.com/2026/10/05/intelligence-everywhere-inside-europes-next-technology-era",
-    "source": "Euronews",
-    "pub": "2026-10-05 08:00"
-  },
-  {
-    "headline": "Latest news bulletin | October 5th, 2026 – Morning",
-    "headline_fi": "Latest news bulletin | October 5th, 2026 – Morning",
-    "link": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-10-05 08:00"
   },
   {
     "headline": "Securing energy and trade flows in geo-economic conflicts",
@@ -623,20 +637,6 @@
     "pub": "2026-10-05 06:47"
   },
   {
-    "headline": "Deutschland im Verteidigungsmodus",
-    "headline_fi": "Deutschland im Verteidigungsmodus",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/deutschland-im-verteidigungsmodus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 06:30"
-  },
-  {
-    "headline": "Warum europäische KI allein keine Souveränität garantiert",
-    "headline_fi": "Warum europäische KI allein keine Souveränität garantiert",
-    "link": "https://www.politico.eu/sponsored-content/warum-europaische-ki-allein-keine-souveranitat-garantiert/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 06:00"
-  },
-  {
     "headline": "US pulls bombers out of UK's Fairford airbase after arrests",
     "headline_fi": "US pulls bombers out of UK's Fairford airbase after arrests",
     "link": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf",
@@ -656,27 +656,6 @@
     "link": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 01:55"
-  },
-  {
-    "headline": "Pakistan: Imran Khan supporters demand ex-PM's release",
-    "headline_fi": "Pakistan: Imran Khan supporters demand ex-PM's release",
-    "link": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-04 21:22"
-  },
-  {
-    "headline": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere across Africa?",
-    "headline_fi": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere across Africa?",
-    "link": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere-across-africa/a-79476947?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-04 20:15"
-  },
-  {
-    "headline": "Germany's Merz visits Kyiv as Russia strikes bridge",
-    "headline_fi": "Germany's Merz visits Kyiv as Russia strikes bridge",
-    "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-04 17:24"
   },
   {
     "headline": "UK remands 2 Iranians over alleged antisemitic terror plot",
