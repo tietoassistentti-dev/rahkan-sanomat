@@ -1,10 +1,73 @@
 [
   {
+    "headline": "Spain’s Sánchez calls snap elections for Nov. 29",
+    "headline_fi": "Espanjan Sánchez julistaa ennenaikaiset vaalit 29. marraskuuta",
+    "link": "https://www.politico.eu/article/spain-pedro-sanchez-calls-snap-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-05 10:13"
+  },
+  {
+    "headline": "Spanish Prime Minister Pedro Sanchez calls snap election",
+    "headline_fi": "Espanjan pääministeri Pedro Sanchez julistaa ennenaikaiset vaalit",
+    "link": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-05 10:12"
+  },
+  {
+    "headline": "Pedro Sánchez calls early elections in Spain after defeat of housing decrees",
+    "headline_fi": "Pedro Sánchez julistaa ennenaikaiset vaalit Espanjassa asuntoasetusten tappion jälkeen",
+    "link": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees",
+    "source": "Euronews",
+    "pub": "2026-10-05 10:11"
+  },
+  {
+    "headline": "Family members of jailed ex-president Jair Bolsonaro win big in multiple Brazil polls",
+    "headline_fi": "Vangitun entisen presidentin Jair Bolsonaron perheenjäsenet voittivat paljon useissa Brasilian vaaleissa",
+    "link": "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls",
+    "source": "France 24",
+    "pub": "2026-10-05 10:06"
+  },
+  {
+    "headline": "How is Europe tightening borders and speeding up returns? Ask the Euronews AI chatbot",
+    "headline_fi": "Miten Eurooppa kiristää rajoja ja nopeuttaa palautusta?Kysy Euronews AI chatbotilta",
+    "link": "https://www.euronews.com/2026/10/05/how-is-europe-tightening-borders-and-speeding-up-returns-ask-the-euronews-ai-chatbot",
+    "source": "Euronews",
+    "pub": "2026-10-05 10:00"
+  },
+  {
+    "headline": "Spanish police remove over 3,000 migrants from Ceuta beach camp",
+    "headline_fi": "Espanjan poliisi poistaa yli 3 000 siirtolaista Ceutan rantaleiriltä",
+    "link": "https://www.euronews.com/video/2026/10/05/spanish-police-remove-over-3000-migrants-from-ceuta-beach-camp",
+    "source": "Euronews",
+    "pub": "2026-10-05 09:42"
+  },
+  {
     "headline": "Yemen launches major military operation against Houthis",
     "headline_fi": "Jemen käynnisti suuren sotilasoperaation hutheja vastaan",
     "link": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 09:18"
+  },
+  {
+    "headline": "Why ordinary investors struggle to buy into the robotics boom",
+    "headline_fi": "Miksi tavalliset sijoittajat kamppailevat ostaakseen robottibuumiin",
+    "link": "https://www.euronews.com/2026/10/05/why-ordinary-investors-struggle-to-buy-into-the-robotics-boom",
+    "source": "Euronews",
+    "pub": "2026-10-05 09:15"
+  },
+  {
+    "headline": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
+    "headline_fi": "Europe Today: Venäjä osuu Kiovaan Merzin vieraillessa;Bolsonaro voitti Brasilian ensimmäisen vaalikierroksen",
+    "link": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election",
+    "source": "Euronews",
+    "pub": "2026-10-05 09:01"
+  },
+  {
+    "headline": "US pulls all B-1 bombers from UK airbase at centre of terror probe",
+    "headline_fi": "Yhdysvallat vetää kaikki B-1-pommittajat Britannian lentotukikohdasta terrori-tutkinnan keskipisteeseen",
+    "link": "https://www.euronews.com/2026/10/05/us-pulls-all-b-1-bombers-from-uk-airbase-at-centre-of-terror-probe",
+    "source": "Euronews",
+    "pub": "2026-10-05 08:58"
   },
   {
     "headline": "India news: Top court to hear petitions against Chief Election Commissioner Gyanesh Kumar",
@@ -19,6 +82,13 @@
     "link": "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 08:48"
+  },
+  {
+    "headline": "Serb separatist politician Milorad Dodik thanks Trump, Putin as he declares victory in contested Bosnia vote",
+    "headline_fi": "Serbi-separatistipoliitikko Milorad Dodik kiittää Trumpia ja Putinia, kun tämä julisti voiton kiistelyssä Bosniassa",
+    "link": "https://www.euronews.com/2026/10/05/serb-separatist-politician-milorad-dodik-thanks-trump-putin-as-he-declares-victory-in-cont",
+    "source": "Euronews",
+    "pub": "2026-10-05 08:44"
   },
   {
     "headline": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
@@ -43,14 +113,14 @@
   },
   {
     "headline": "The best road trips to spot Europe’s most impressive wildlife",
-    "headline_fi": "Parhaat tiematkat Euroopan vaikuttavimpien villieläinten näkemiseen",
+    "headline_fi": "Parhaat maantieretket Euroopan vaikuttavimpien villieläinten näkemiseen",
     "link": "https://www.euronews.com/2026/10/05/the-best-road-trips-to-spot-europes-most-impressive-wildlife",
     "source": "Euronews",
     "pub": "2026-10-05 08:00"
   },
   {
     "headline": "Intelligence Everywhere: Inside Europe’s Next Technology Era",
-    "headline_fi": "Älykkyyttä kaikkialla: Euroopan seuraavan teknologia-aikakauden sisällä",
+    "headline_fi": "Älykkyyttä kaikkialla: Euroopan seuraavan teknologian aikakaudella",
     "link": "https://www.euronews.com/2026/10/05/intelligence-everywhere-inside-europes-next-technology-era",
     "source": "Euronews",
     "pub": "2026-10-05 08:00"
@@ -64,77 +134,77 @@
   },
   {
     "headline": "This industry adds €65 billion to the European economy, but is its bad reputation fair?",
-    "headline_fi": "Tämä ala lisää Euroopan taloutta 65 miljardia euroa, mutta onko sen huono maine reilu?",
+    "headline_fi": "Tämä toimiala lisää 65 miljardia euroa Euroopan talouteen, mutta onko sen huono maine reilu?",
     "link": "https://www.euronews.com/2026/10/05/this-industry-adds-65-billion-to-the-european-economy-but-is-its-bad-reputation-fair",
     "source": "Euronews",
     "pub": "2026-10-05 07:47"
   },
   {
     "headline": "Securing energy and trade flows in geo-economic conflicts",
-    "headline_fi": "Energia- ja kauppavirtojen turvaaminen geotaloudellisissa konflikteissa",
+    "headline_fi": "Securing energy and trade flows in geo-economic conflicts",
     "link": "https://www.politico.eu/sponsored-content/securing-energy-and-trade-flows-in-geo-economic-conflicts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 07:00"
   },
   {
     "headline": "Push to ban EU left group over French riots",
-    "headline_fi": "Pyrkikää kieltämään EU:n vasemmistoryhmä Ranskan mellakoiden vuoksi",
+    "headline_fi": "Push to ban EU left group over French riots",
     "link": "https://www.politico.eu/article/push-to-ban-eu-left-group-over-french-riots/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 07:00"
   },
   {
     "headline": "US: FBI arrests woman accused of spying for China",
-    "headline_fi": "Yhdysvallat: FBI pidätti naisen, jota syytetään vakoilusta Kiinan hyväksi",
+    "headline_fi": "US: FBI arrests woman accused of spying for China",
     "link": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 06:47"
   },
   {
     "headline": "Deutschland im Verteidigungsmodus",
-    "headline_fi": "Saksa puolustustilassa",
+    "headline_fi": "Deutschland im Verteidigungsmodus",
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/deutschland-im-verteidigungsmodus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 06:30"
   },
   {
     "headline": "Warum europäische KI allein keine Souveränität garantiert",
-    "headline_fi": "Miksi eurooppalainen tekoäly ei yksin takaa suvereniteettia?",
+    "headline_fi": "Warum europäische KI allein keine Souveränität garantiert",
     "link": "https://www.politico.eu/sponsored-content/warum-europaische-ki-allein-keine-souveranitat-garantiert/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 06:00"
   },
   {
     "headline": "Europe is fighting the wrong AI sovereignty battle",
-    "headline_fi": "Eurooppa taistelee väärää tekoälyä koskevaa suvereniteettitaistelua",
+    "headline_fi": "Europe is fighting the wrong AI sovereignty battle",
     "link": "https://www.politico.eu/sponsored-content/europe-is-fighting-the-wrong-ai-sovereignty-battle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 06:00"
   },
   {
     "headline": "Badenoch ally attacks Burnham’s ‘hope hard enough’ economic message as ‘absolutely mad’",
-    "headline_fi": "Badenochin liittolainen hyökkää Burnhamin \"toivo tarpeeksi kovaa\" taloudellista viestiä \"täysin hulluna\"",
+    "headline_fi": "Badenoch ally attacks Burnham’s ‘hope hard enough’ economic message as ‘absolutely mad’",
     "link": "https://www.politico.eu/article/helen-whately-kemi-badenoch-ally-andy-burnham-hope-hard-enough-economic-message-absolutely-mad/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 05:00"
   },
   {
     "headline": "Meet the 4 lawmakers vying to lead the Green charge in the EU Parliament",
-    "headline_fi": "Tapaa neljä lainsäätäjää, jotka kilpailevat vihreiden hyökkäyksen johtamisesta EU:n parlamentissa",
+    "headline_fi": "Meet the 4 lawmakers vying to lead the Green charge in the EU Parliament",
     "link": "https://www.politico.eu/article/meet-the-4-lawmakers-vying-to-lead-the-green-charge-in-the-eu-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 05:00"
   },
   {
     "headline": "US pulls bombers out of UK's Fairford airbase after arrests",
-    "headline_fi": "Yhdysvallat vetää pommittajat pois Britannian Fairfordin lentotukikohdasta pidätysten jälkeen",
+    "headline_fi": "US pulls bombers out of UK's Fairford airbase after arrests",
     "link": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 04:58"
   },
   {
     "headline": "Rubio visits Iceland ‘to discuss security collaboration’ as US boosts Arctic presence",
-    "headline_fi": "Rubio vierailee Islannissa \"keskustelemassa turvallisuusyhteistyöstä\", kun Yhdysvallat vahvistaa arktista läsnäoloa",
+    "headline_fi": "Rubio visits Iceland ‘to discuss security collaboration’ as US boosts Arctic presence",
     "link": "https://www.france24.com/en/europe/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence-after-greenland-security-pact",
     "source": "France 24",
     "pub": "2026-10-05 04:20"
@@ -180,13 +250,6 @@
     "link": "https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon",
     "source": "France 24",
     "pub": "2026-10-05 01:50"
-  },
-  {
-    "headline": "$38M from federal government to KPMG during ban",
-    "headline_fi": "$38M from federal government to KPMG during ban",
-    "link": "https://www.politico.com/newsletters/canberra-playbook?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 01:30"
   },
   {
     "headline": "Iran says no military solution to war as peace talks with US stall",
@@ -392,13 +455,6 @@
     "pub": "2026-10-04 14:36"
   },
   {
-    "headline": "Polls close in Brazil's high-stakes election pitting Lula against Flavio Bolsonaro",
-    "headline_fi": "Polls close in Brazil's high-stakes election pitting Lula against Flavio Bolsonaro",
-    "link": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
-    "source": "France 24",
-    "pub": "2026-10-04 14:17"
-  },
-  {
     "headline": "Japan: US Marine arrested in Okinawa on suspicion of murder",
     "headline_fi": "Japan: US Marine arrested in Okinawa on suspicion of murder",
     "link": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-rdf",
@@ -411,13 +467,6 @@
     "link": "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground",
     "source": "Euronews",
     "pub": "2026-10-04 14:13"
-  },
-  {
-    "headline": "Israel prepares to mark October 7",
-    "headline_fi": "Israel prepares to mark October 7",
-    "link": "https://www.france24.com/en/israel-prepares-to-mark-october-7",
-    "source": "France 24",
-    "pub": "2026-10-04 13:59"
   },
   {
     "headline": "Latest news bulletin | October 4th, 2026 – Midday",
@@ -504,13 +553,6 @@
     "pub": "2026-10-04 06:48"
   },
   {
-    "headline": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-    "headline_fi": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-    "link": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-04 00:55"
-  },
-  {
     "headline": "Azerbaijan, Turkey and Uzbekistan join forces in major military exercise",
     "headline_fi": "Azerbaijan, Turkey and Uzbekistan join forces in major military exercise",
     "link": "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise",
@@ -551,76 +593,6 @@
     "link": "https://www.euronews.com/2026/10/03/the-ceuta-support-t-shirt-10-of-its-35-price-funds-the-far-right",
     "source": "Euronews",
     "pub": "2026-10-03 19:06"
-  },
-  {
-    "headline": "Latest news bulletin | October 3rd, 2026 – Evening",
-    "headline_fi": "Latest news bulletin | October 3rd, 2026 – Evening",
-    "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-10-03 19:00"
-  },
-  {
-    "headline": "Nearly 500,000 people protest in Madrid over Spain's housing crisis",
-    "headline_fi": "Nearly 500,000 people protest in Madrid over Spain's housing crisis",
-    "link": "https://www.euronews.com/2026/10/03/nearly-500000-people-protest-in-madrid-over-spains-housing-crisis",
-    "source": "Euronews",
-    "pub": "2026-10-03 18:16"
-  },
-  {
-    "headline": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
-    "headline_fi": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
-    "link": "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come",
-    "source": "Euronews",
-    "pub": "2026-10-03 16:59"
-  },
-  {
-    "headline": "Greece will not 'borrow' its own treasures, Mitsotakis says of Parthenon Marbles",
-    "headline_fi": "Greece will not 'borrow' its own treasures, Mitsotakis says of Parthenon Marbles",
-    "link": "https://www.euronews.com/2026/10/03/greece-will-not-borrow-its-own-treasures-mitsotakis-says-of-parthenon-marbles",
-    "source": "Euronews",
-    "pub": "2026-10-03 16:13"
-  },
-  {
-    "headline": "Azerbaijan International Investment Forum: Where capital meets opportunity",
-    "headline_fi": "Azerbaijan International Investment Forum: Where capital meets opportunity",
-    "link": "https://www.euronews.com/2026/10/03/azerbaijan-international-investment-forum-where-capital-meets-opportunity",
-    "source": "Euronews",
-    "pub": "2026-10-03 16:00"
-  },
-  {
-    "headline": "Germany marks 36 years of unity: Why was the country divided and how united is it today?",
-    "headline_fi": "Germany marks 36 years of unity: Why was the country divided and how united is it today?",
-    "link": "https://www.euronews.com/2026/10/03/germany-marks-36-years-of-unity-why-was-the-country-divided-and-how-united-is-it-today",
-    "source": "Euronews",
-    "pub": "2026-10-03 15:44"
-  },
-  {
-    "headline": "China opens anti-dumping probe into EU days before Beijing trade talks",
-    "headline_fi": "China opens anti-dumping probe into EU days before Beijing trade talks",
-    "link": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
-    "source": "Euronews",
-    "pub": "2026-10-03 13:09"
-  },
-  {
-    "headline": "Latest news bulletin | October 3rd, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 3rd, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-03 13:00"
-  },
-  {
-    "headline": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
-    "headline_fi": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
-    "link": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
-    "source": "Euronews",
-    "pub": "2026-10-03 12:27"
-  },
-  {
-    "headline": "Spain faces housing protests in more than 50 cities after parliament rejects tenant protections",
-    "headline_fi": "Spain faces housing protests in more than 50 cities after parliament rejects tenant protections",
-    "link": "https://www.euronews.com/2026/10/03/spain-faces-housing-protests-in-more-than-50-cities-after-parliament-rejects-tenant-protec",
-    "source": "Euronews",
-    "pub": "2026-10-03 10:34"
   },
   {
     "headline": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
