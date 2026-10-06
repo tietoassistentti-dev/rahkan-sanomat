@@ -1,5 +1,19 @@
 [
   {
+    "headline": "EU seeks ways to make expansion more palatable to members",
+    "headline_fi": "EU etsii keinoja tehdä laajentumisesta maukkaampaa jäsenille",
+    "link": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 21:02"
+  },
+  {
+    "headline": "'Colossal failure: Death penalty system in America is a broken process from start to finish'",
+    "headline_fi": "\"Kolossaali epäonnistuminen: kuolemanrangaistusjärjestelmä Amerikassa on rikki prosessi alusta loppuun\"",
+    "link": "https://www.france24.com/en/colossal-failure-death-penalty-system-in-america-is-a-broken-process-from-start-to-finish",
+    "source": "France 24",
+    "pub": "2026-10-06 20:50"
+  },
+  {
     "headline": "Les renforts d’Europol en IA suscitent des inquiétudes sur la protection de la vie privée",
     "headline_fi": "Europolin tekoälyvahvistukset herättävät huolta yksityisyyden suojasta",
     "link": "https://www.politico.eu/article/les-renforts-deuropol-en-ia-suscitent-des-inquietudes-sur-la-protection-de-la-vie-privee/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -71,7 +85,7 @@
   },
   {
     "headline": "Britain’s Tories really, really don’t want to team up with Farage. They might still have to.",
-    "headline_fi": "Ison-Britannian torit eivät todellakaan halua liittoutua Faragen kanssa.He saattavat silti joutua.",
+    "headline_fi": "Britannian toryt eivät todellakaan halua liittoutua Faragen kanssa.He saattavat silti joutua.",
     "link": "https://www.politico.eu/article/conservative-conference-kemi-badenoch-nigel-farage-reform-coalition-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-06 19:00"
@@ -85,14 +99,14 @@
   },
   {
     "headline": "UK: Seventh arrest made after air base plot",
-    "headline_fi": "UK: Seitsemäs pidätys lentotukikohtasuunnitelman jälkeen",
+    "headline_fi": "UK: Seitsemäs pidätys lentotukikohdan juonen jälkeen",
     "link": "https://www.dw.com/en/uk-seventh-arrest-made-after-air-base-plot/a-79566985?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 18:30"
   },
   {
     "headline": "‘Accidents happen’: French PM defends police after teenagers injured in protests",
-    "headline_fi": "\"Onnettomuuksia tapahtuu\": Ranskan pääministeri puolustaa poliisia, kun teini-ikäiset loukkaantuivat mielenosoituksissa",
+    "headline_fi": "\"Onnettomuuksia sattuu\": Ranskan pääministeri puolustaa poliisia sen jälkeen, kun teini-ikäiset loukkaantuivat mielenosoituksissa",
     "link": "https://www.politico.eu/article/sebastien-lecornu-defends-police-handling-france-student-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-06 18:13"
@@ -127,14 +141,14 @@
   },
   {
     "headline": "EU-China trade tensions: Five things to know as Brussels and Beijing face crunch talks",
-    "headline_fi": "EU:n ja Kiinan väliset kauppajännitteet: Viisi asiaa, jotka on hyvä tietää Brysselin ja Pekingin neuvotteluissa",
+    "headline_fi": "EU-China trade tensions: Five things to know as Brussels and Beijing face crunch talks",
     "link": "https://www.euronews.com/2026/10/06/eu-china-trade-tensions-five-things-to-know-as-brussels-and-beijing-face-crunch-talks",
     "source": "Euronews",
     "pub": "2026-10-06 17:48"
   },
   {
     "headline": "Brussels eyes agricultural carve-outs from Ukraine's EU membership",
-    "headline_fi": "Bryssel katselee Ukrainan EU-jäsenyyden aiheuttamia maatalouspoikkeamia",
+    "headline_fi": "Brussels eyes agricultural carve-outs from Ukraine's EU membership",
     "link": "https://www.euronews.com/2026/10/06/brussels-eyes-agricultural-carve-outs-from-ukraines-eu-membership",
     "source": "Euronews",
     "pub": "2026-10-06 17:46"
@@ -392,18 +406,18 @@
     "pub": "2026-10-06 15:29"
   },
   {
-    "headline": "Students protest Cornell's response to gang rape complaint",
-    "headline_fi": "Students protest Cornell's response to gang rape complaint",
-    "link": "https://www.france24.com/en/video/20261006-students-protest-cornell-s-response-to-gang-rape-complaint",
-    "source": "France 24",
-    "pub": "2026-10-06 15:26"
-  },
-  {
     "headline": "Brunello Cucinelli transforms a historic Tashkent madrasah into a runway",
     "headline_fi": "Brunello Cucinelli transforms a historic Tashkent madrasah into a runway",
     "link": "https://www.euronews.com/2026/10/06/brunello-cucinelli-transforms-a-historic-tashkent-madrasah-into-a-runway",
     "source": "Euronews",
     "pub": "2026-10-06 15:15"
+  },
+  {
+    "headline": "France’s Le Pen unveils economic platform brimming with eye-watering cuts — but few new ideas",
+    "headline_fi": "France’s Le Pen unveils economic platform brimming with eye-watering cuts — but few new ideas",
+    "link": "https://www.politico.eu/article/le-pen-unveils-economic-platform-stuffed-with-eye-watering-cuts-but-few-new-ideas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 15:09"
   },
   {
     "headline": "Trump defers diesel tax for truckers as fuel costs bite weeks before US midterms",
@@ -607,13 +621,6 @@
     "link": "https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis",
     "source": "Euronews",
     "pub": "2026-10-06 11:54"
-  },
-  {
-    "headline": "France: Trade unions join students in major demonstration",
-    "headline_fi": "France: Trade unions join students in major demonstration",
-    "link": "https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-06 11:51"
   },
   {
     "headline": "Pneumonic plague in Russia: What do experts say about the risk?",
