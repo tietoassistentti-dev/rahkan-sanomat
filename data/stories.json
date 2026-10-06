@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Trump targets tax-free diesel as Republicans approach midterms",
+    "headline_fi": "Trump targets tax-free diesel as Republicans approach midterms",
+    "link": "https://www.france24.com/en/americas/20261006-trump-targets-tax-free-diesel-as-republicans-approach-midterms",
+    "source": "France 24",
+    "pub": "2026-10-06 06:08"
+  },
+  {
+    "headline": "Trump says taxpayers will no longer fund controversial TV ads after backlash",
+    "headline_fi": "Trump says taxpayers will no longer fund controversial TV ads after backlash",
+    "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-controversial-tv-ads-after-backlash/a-79557317?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 05:32"
+  },
+  {
+    "headline": "Live: Tens of thousands expected at Paris protests as unions join students",
+    "headline_fi": "Live: Tens of thousands expected at Paris protests as unions join students",
+    "link": "https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
+    "source": "France 24",
+    "pub": "2026-10-06 05:31"
+  },
+  {
+    "headline": "Spanish election threatens to blow up Brussels’ political balance",
+    "headline_fi": "Spanish election threatens to blow up Brussels’ political balance",
+    "link": "https://www.politico.eu/article/spanish-election-threatens-brussels-political-balance-pedro-sanchez-socialists-european-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 05:18"
+  },
+  {
     "headline": "France’s debt troubles stir memories of the euro crisis",
     "headline_fi": "France’s debt troubles stir memories of the euro crisis",
     "link": "https://www.politico.eu/article/france-debt-trouble-memories-euro-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -182,6 +210,13 @@
     "pub": "2026-10-05 20:48"
   },
   {
+    "headline": "New weapons, new risks: Europe’s AI policing plan stokes privacy concerns",
+    "headline_fi": "New weapons, new risks: Europe’s AI policing plan stokes privacy concerns",
+    "link": "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-05 20:28"
+  },
+  {
     "headline": "Merz, Macron seek tougher EU measures against unfair trade",
     "headline_fi": "Merz, Macron seek tougher EU measures against unfair trade",
     "link": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf",
@@ -308,20 +343,6 @@
     "pub": "2026-10-05 18:01"
   },
   {
-    "headline": "Yemen government forces announce offensive on Houthi-held territory",
-    "headline_fi": "Yemen government forces announce offensive on Houthi-held territory",
-    "link": "https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory",
-    "source": "France 24",
-    "pub": "2026-10-05 17:59"
-  },
-  {
-    "headline": "Trump names head of new 'Super Intelligence Force' to oversee AI",
-    "headline_fi": "Trump names head of new 'Super Intelligence Force' to oversee AI",
-    "link": "https://www.france24.com/en/video/20261005-trump-names-head-of-new-super-intelligence-force-to-oversee-ai",
-    "source": "France 24",
-    "pub": "2026-10-05 17:59"
-  },
-  {
     "headline": "Germany and France agree new trade tool to counter China",
     "headline_fi": "Germany and France agree new trade tool to counter China",
     "link": "https://www.euronews.com/2026/10/05/germany-and-france-agree-new-trade-tool-to-counter-china",
@@ -383,13 +404,6 @@
     "link": "https://www.euronews.com/2026/10/05/vat-hike-canal-threatens-to-reduce-its-support-for-cinema",
     "source": "Euronews",
     "pub": "2026-10-05 16:34"
-  },
-  {
-    "headline": "Sánchez bets it all on housing ahead of Spain’s snap election",
-    "headline_fi": "Sánchez bets it all on housing ahead of Spain’s snap election",
-    "link": "https://www.politico.eu/article/pedro-sanchez-bets-housing-mantle-ahead-spain-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 16:24"
   },
   {
     "headline": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
@@ -642,13 +656,6 @@
     "link": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election",
     "source": "Euronews",
     "pub": "2026-10-05 12:01"
-  },
-  {
-    "headline": "Israel's mental health crisis in the wake of Oct. 7 attacks",
-    "headline_fi": "Israel's mental health crisis in the wake of Oct. 7 attacks",
-    "link": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 11:52"
   },
   {
     "headline": "Israel bars UK Green leader after party votes to define Zionism as racism",
