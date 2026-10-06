@@ -1,5 +1,54 @@
 [
   {
+    "headline": "India news: Opposition leaders set to march to Election Commission",
+    "headline_fi": "Intian uutiset: Oppositiojohtajat marssivat vaalilautakuntaan",
+    "link": "https://www.dw.com/en/india-news-opposition-leaders-set-to-march-to-election-commission/live-79557629?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 08:02"
+  },
+  {
+    "headline": "EU mulls tougher restrictions on Russian diplomats as hybrid threats intensify",
+    "headline_fi": "EU harkitsee tiukempia rajoituksia venäläisille diplomaateille hybridiuhkien voimistuessa",
+    "link": "https://www.euronews.com/2026/10/06/eu-mulls-tougher-restrictions-on-russian-diplomats-as-hybrid-threats-intensify",
+    "source": "Euronews",
+    "pub": "2026-10-06 08:00"
+  },
+  {
+    "headline": "Quebec separatists vow independence referendum after winning local elections but falling short of majority",
+    "headline_fi": "Quebecin separatistit vannovat itsenäisyysäänestyksen voitettuaan paikallisvaalit mutta jääneet enemmistön alle",
+    "link": "https://www.euronews.com/2026/10/06/quebec-separatists-vow-independence-referendum-after-winning-local-elections-but-falling-s",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:37"
+  },
+  {
+    "headline": "Fake NATO deaths, Epstein claims and drones: how Russia targets elections in the Baltics",
+    "headline_fi": "Väärennetyt NATO-kuolemat, Epsteinin väitteet ja droonit: miten Venäjä tähtää vaaleihin Baltiassa",
+    "link": "https://www.euronews.com/2026/10/06/fake-nato-deaths-epstein-claims-and-drones-how-russia-targets-elections-in-the-baltics",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:20"
+  },
+  {
+    "headline": "Police braces for nationwide day of protests across French high schools demanding reforms and more resources",
+    "headline_fi": "Poliisi valmistautuu valtakunnalliseen mielenosoituspäivään Ranskan lukioissa, joissa vaaditaan uudistuksia ja lisää resursseja",
+    "link": "https://www.euronews.com/2026/10/06/police-braces-for-nationwide-day-of-protests-across-french-high-schools-demanding-reforms-",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:15"
+  },
+  {
+    "headline": "Musical residencies: Business is booming, but who pays the most for pop stars playing in Europe?",
+    "headline_fi": "Musiikkiresidenssit: Liiketoiminta kukoistaa, mutta kuka maksaa eniten Euroopassa soittavista poptähdistä?",
+    "link": "https://www.euronews.com/2026/10/06/musical-residencies-business-is-booming-but-who-pays-the-bill",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:14"
+  },
+  {
+    "headline": "Climate damage already ‘locked in’ – but these 10 insights show our future is still being decided",
+    "headline_fi": "Ilmastovahingot ovat jo \"lukossa\" – mutta nämä 10 näkemystä osoittavat, että tulevaisuudestamme on vielä päätetty",
+    "link": "https://www.euronews.com/2026/10/06/climate-damage-already-locked-in-but-these-10-insights-show-our-future-is-still-being-deci",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:14"
+  },
+  {
     "headline": "How Spain’s snap election could blow up Brussels",
     "headline_fi": "Kuinka Espanjan ennenaikaiset vaalit voivat räjäyttää Brysselin",
     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-spains-snap-election-could-blow-up-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -28,9 +77,9 @@
     "pub": "2026-10-06 06:08"
   },
   {
-    "headline": "Trump says taxpayers will no longer fund controversial TV ads after backlash",
-    "headline_fi": "Trump sanoo, että veronmaksajat eivät enää rahoita kiistanalaisia ​​tv-mainoksia vastareaktion jälkeen",
-    "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-controversial-tv-ads-after-backlash/a-79557317?maca=en-rss-en-all-1573-rdf",
+    "headline": "Trump says taxpayers will no longer fund ads touting administration",
+    "headline_fi": "Trump sanoo, että veronmaksajat eivät enää rahoita hallintoa mainostavia mainoksia",
+    "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-ads-touting-administration/a-79557317?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 05:32"
   },
@@ -92,49 +141,49 @@
   },
   {
     "headline": "Romanian president signs law regulating bear population cull",
-    "headline_fi": "Romanian presidentti allekirjoitti lain karhupopulaatiosta",
+    "headline_fi": "Romanian president signs law regulating bear population cull",
     "link": "https://www.euronews.com/2026/10/05/romanian-president-signs-law-regulating-bear-population-cull",
     "source": "Euronews",
     "pub": "2026-10-06 00:32"
   },
   {
     "headline": "New York declares statewide disaster emergency as measles cases rise",
-    "headline_fi": "New York julisti osavaltion laajuisen katastrofihätätilan tuhkarokkotapausten lisääntyessä",
+    "headline_fi": "New York declares statewide disaster emergency as measles cases rise",
     "link": "https://www.france24.com/en/americas/20261005-new-york-declares-statewide-disaster-emergency-as-measles-cases-rise",
     "source": "France 24",
     "pub": "2026-10-06 00:23"
   },
   {
     "headline": "ICC unseals Taliban leaders' warrants over persecuting women",
-    "headline_fi": "Kansainvälinen rikostuomioistuin purkaa Taleban-johtajien käskyt naisten vainoamisesta",
+    "headline_fi": "ICC unseals Taliban leaders' warrants over persecuting women",
     "link": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 00:07"
   },
   {
     "headline": "Euro falls to 17-month low against the USD on French debt concerns",
-    "headline_fi": "Euro putoaa 17 kuukauden alimmilleen dollaria vastaan ​​Ranskan velkahuolien vuoksi",
+    "headline_fi": "Euro falls to 17-month low against the USD on French debt concerns",
     "link": "https://www.france24.com/en/tv-shows/business/20261005-euro-falls-to-17-month-low-against-the-usd-on-french-debt-concerns",
     "source": "France 24",
     "pub": "2026-10-05 23:51"
   },
   {
     "headline": "Concerns of US interference weigh on Brazil vote",
-    "headline_fi": "Huoli USA:n sekaantumisesta painaa Brasilian äänestystä",
+    "headline_fi": "Concerns of US interference weigh on Brazil vote",
     "link": "https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote",
     "source": "France 24",
     "pub": "2026-10-05 23:37"
   },
   {
     "headline": "Ethiopia again demands access to the Red Sea",
-    "headline_fi": "Etiopia vaatii jälleen pääsyä Punaisellemerelle",
+    "headline_fi": "Ethiopia again demands access to the Red Sea",
     "link": "https://www.france24.com/en/ethiopia-again-demands-access-to-the-red-sea",
     "source": "France 24",
     "pub": "2026-10-05 23:28"
   },
   {
     "headline": "Diplomat is Romania’s fourth prime ministerial candidate in five months",
-    "headline_fi": "Diplomaatti on Romanian neljäs pääministeriehdokas viiteen kuukauteen",
+    "headline_fi": "Diplomat is Romania’s fourth prime ministerial candidate in five months",
     "link": "https://www.politico.eu/article/diplomat-is-romania-fourth-prime-ministerial-candidate-in-5-months/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 23:12"
@@ -364,8 +413,8 @@
     "pub": "2026-10-05 17:30"
   },
   {
-    "headline": "Euro plummets against US dollar: has the next financial crisis begun?",
-    "headline_fi": "Euro plummets against US dollar: has the next financial crisis begun?",
+    "headline": "Euro plummets against US dollar: Has the next financial crisis begun?",
+    "headline_fi": "Euro plummets against US dollar: Has the next financial crisis begun?",
     "link": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 17:28"
@@ -616,13 +665,6 @@
     "pub": "2026-10-05 12:53"
   },
   {
-    "headline": "German and US scientists win Nobel Prize in medicine for research on brain activity",
-    "headline_fi": "German and US scientists win Nobel Prize in medicine for research on brain activity",
-    "link": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 12:37"
-  },
-  {
     "headline": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
     "headline_fi": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
     "link": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf",
@@ -642,41 +684,6 @@
     "link": "https://www.euronews.com/video/2026/10/05/bolsonaro-win-could-put-eu-brazil-ties-at-risk-says-former-mep-albuquerque",
     "source": "Euronews",
     "pub": "2026-10-05 12:19"
-  },
-  {
-    "headline": "Google’s €13bn Finland push transforms and divides a quiet rural town",
-    "headline_fi": "Google’s €13bn Finland push transforms and divides a quiet rural town",
-    "link": "https://www.euronews.com/video/2026/10/05/googles-13bn-finland-push-transforms-and-divides-a-quiet-rural-town",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:17"
-  },
-  {
-    "headline": "FBI arrests woman accused of spying on Taiwanese president's family in the US for China",
-    "headline_fi": "FBI arrests woman accused of spying on Taiwanese president's family in the US for China",
-    "link": "https://www.euronews.com/2026/10/05/fbi-arrests-woman-accused-of-spying-on-taiwanese-presidents-family-in-the-us-for-china",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:16"
-  },
-  {
-    "headline": "Euro hits 17-month low as French debt fears mount and Spain heads for snap election",
-    "headline_fi": "Euro hits 17-month low as French debt fears mount and Spain heads for snap election",
-    "link": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:01"
-  },
-  {
-    "headline": "Israel bars UK Green leader after party votes to define Zionism as racism",
-    "headline_fi": "Israel bars UK Green leader after party votes to define Zionism as racism",
-    "link": "https://www.euronews.com/2026/10/05/israel-bars-uk-green-leader-after-party-votes-to-define-zionism-as-racism",
-    "source": "Euronews",
-    "pub": "2026-10-05 11:51"
-  },
-  {
-    "headline": "Iran war: 'Europe not being at the table is a failure', Charles Michel says",
-    "headline_fi": "Iran war: 'Europe not being at the table is a failure', Charles Michel says",
-    "link": "https://www.euronews.com/video/2026/10/05/iran-war-europe-not-being-at-the-table-is-a-failure-charles-michel-says",
-    "source": "Euronews",
-    "pub": "2026-10-05 11:29"
   },
   {
     "headline": "Hundreds of French schools shut, teen loses hand in protests",
