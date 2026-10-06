@@ -1,5 +1,82 @@
 [
   {
+    "headline": "Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital",
+    "headline_fi": "Moonshot AI tarkkailee Hongkongin listautumisantia 50 miljardin dollarin arvostuksen jälkeen, kun DeepSeek kerää pääomaa",
+    "link": "https://www.euronews.com/2026/10/06/moonshot-ai-eyes-hong-kong-ipo-after-50-billion-valuation-as-deepseek-raises-capital",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:56"
+  },
+  {
+    "headline": "George Fenton, British composer behind David Attenborough’s Earth Trilogy, dies aged 76",
+    "headline_fi": "David Attenboroughin Earth-trilogian taustalla ollut brittiläinen säveltäjä George Fenton on kuollut 76-vuotiaana.",
+    "link": "https://www.euronews.com/2026/10/06/george-fenton-british-composer-behind-david-attenboroughs-earth-trilogy-dies-aged-76",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:56"
+  },
+  {
+    "headline": "Yemen government forces advance on Bab el-Mandeb in offensive against Houthis",
+    "headline_fi": "Jemenin hallituksen joukot etenevät Bab el-Mandebia vastaan ​​hyökkäämässä hutheja vastaan",
+    "link": "https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:54"
+  },
+  {
+    "headline": "France: Trade unions join students in major demonstration",
+    "headline_fi": "Ranska: Ammattiliitot liittyvät opiskelijoiden joukkoon suureen mielenosoitukseen",
+    "link": "https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 11:51"
+  },
+  {
+    "headline": "Pneumonic plague in Russia: What do experts say about the risk?",
+    "headline_fi": "Keuhkorutto Venäjällä: Mitä asiantuntijat sanovat riskistä?",
+    "link": "https://www.euronews.com/2026/10/06/pneumonic-plague-in-russia-what-do-experts-say-about-the-risk",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:45"
+  },
+  {
+    "headline": "Latvian filmmaker wins €400,000 Grand Prix at Kazakhstan's AI film festival",
+    "headline_fi": "Latvialainen elokuvantekijä voitti 400 000 euron Grand Prix -palkinnon Kazakstanin tekoälyelokuvafestivaaleilla",
+    "link": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:37"
+  },
+  {
+    "headline": "Von der Leyen warns against EU budget cuts",
+    "headline_fi": "Von der Leyen varoittaa EU:n budjettileikkauksista",
+    "link": "https://www.politico.eu/article/ursula-von-der-leyen-warns-against-eu-budget-cuts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 11:22"
+  },
+  {
+    "headline": "Germany's ex-spy chief arrested for espionage",
+    "headline_fi": "Saksan entinen vakoojapäällikkö pidätettiin vakoilusta",
+    "link": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 11:10"
+  },
+  {
+    "headline": "Faster returns and stricter border controls: How the EU plans to tighten migration",
+    "headline_fi": "Nopeampi paluu ja tiukempi rajavalvonta: Miten EU aikoo kiristää maahanmuuttoa",
+    "link": "https://www.euronews.com/2026/10/06/faster-returns-and-stricter-border-controls-how-the-eu-plans-to-tighten-migration",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:07"
+  },
+  {
+    "headline": "Global oil stocks are alarmingly low and could take two years to rebuild, Aramco warns",
+    "headline_fi": "Maailman öljyvarastot ovat hälyttävän alhaisia ​​ja niiden uudelleenrakentaminen voi kestää kaksi vuotta, Aramco varoittaa",
+    "link": "https://www.euronews.com/2026/10/06/global-oil-stocks-are-alarmingly-low-and-could-take-two-years-to-rebuild-aramco-warns",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:06"
+  },
+  {
+    "headline": "Turkey and Pakistan to send troops to Saudi Arabia under defence pact",
+    "headline_fi": "Turkki ja Pakistan lähettävät joukkoja Saudi-Arabiaan puolustussopimuksen puitteissa",
+    "link": "https://www.euronews.com/2026/10/06/turkey-and-pakistan-to-send-troops-to-saudi-arabia-under-defence-pact",
+    "source": "Euronews",
+    "pub": "2026-10-06 11:05"
+  },
+  {
     "headline": "Israel warns Gazans will pay 'heavy price' for any October 7 attacks on military",
     "headline_fi": "Israel varoittaa gazalaisia ​​maksavan \"korkean hinnan\" kaikista 7. lokakuuta tehdyistä hyökkäyksistä armeijaa vastaan",
     "link": "https://www.france24.com/en/middle-east/20261006-israel-warns-gazans-will-pay-heavy-price-for-any-october-7-attacks-on-military",
@@ -15,7 +92,7 @@
   },
   {
     "headline": "Tear gas and water cannon in Pristina as protesters clash with police",
-    "headline_fi": "Kyynelkaasu ja vesitykki Pristinassa, kun mielenosoittajat ottivat yhteen poliisin kanssa",
+    "headline_fi": "Kyynelkaasua ja vesitykkiä Pristinassa, kun mielenosoittajat ottivat yhteen poliisin kanssa",
     "link": "https://www.euronews.com/video/2026/10/06/tear-gas-and-water-cannon-in-pristina-as-protesters-clash-with-police",
     "source": "Euronews",
     "pub": "2026-10-06 10:23"
@@ -57,84 +134,84 @@
   },
   {
     "headline": "Barcelona housing protest erupts into clashes as barricades burn",
-    "headline_fi": "Barcelonan asuntojen mielenosoitus puhkeaa yhteenotoksiksi barrikadejen palaessa",
+    "headline_fi": "Barcelonan asuntomielenosoitus puhkesi yhteenotoksiksi barrikadejen palaessa",
     "link": "https://www.euronews.com/2026/10/06/barcelona-housing-protest-erupts-into-clashes-as-barricades-burn",
     "source": "Euronews",
     "pub": "2026-10-06 09:36"
   },
   {
     "headline": "With Pedro Sánchez at the helm, Spain’s socialist stronghold is cracking",
-    "headline_fi": "Pedro Sánchezin johdolla Espanjan sosialistinen tukikohta halkeilee",
+    "headline_fi": "With Pedro Sánchez at the helm, Spain’s socialist stronghold is cracking",
     "link": "https://www.euronews.com/2026/10/06/with-pedro-sanchez-at-the-helm-spains-socialist-stronghold-is-cracking",
     "source": "Euronews",
     "pub": "2026-10-06 09:35"
   },
   {
     "headline": "Joana Vasconcelos blends art and haute couture in exhibition for Valentino Garavani",
-    "headline_fi": "Joana Vasconcelos yhdistää taidetta ja haute couturea Valentino Garavanin näyttelyssä",
+    "headline_fi": "Joana Vasconcelos blends art and haute couture in exhibition for Valentino Garavani",
     "link": "https://www.euronews.com/2026/10/06/joana-vasconcelos-blends-art-and-haute-couture-in-exhibition-for-valentino-garavani",
     "source": "Euronews",
     "pub": "2026-10-06 09:24"
   },
   {
     "headline": "Germany news: Saxony-Anhalt parliament sits after AfD win",
-    "headline_fi": "Saksan uutiset: Saksi-Anhaltin parlamentti kokoontuu AfD:n voiton jälkeen",
+    "headline_fi": "Germany news: Saxony-Anhalt parliament sits after AfD win",
     "link": "https://www.dw.com/en/germany-news-saxony-anhalt-parliament-sits-after-afd-win/live-79558497?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 09:21"
   },
   {
     "headline": "Ukraine hits Moscow with one of its largest drone attacks in two years",
-    "headline_fi": "Ukraina iskee Moskovaan yhdellä suurimmista drone-iskuistaan ​​kahteen vuoteen",
+    "headline_fi": "Ukraine hits Moscow with one of its largest drone attacks in two years",
     "link": "https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say",
     "source": "France 24",
     "pub": "2026-10-06 09:11"
   },
   {
     "headline": "Kosovo police use tear gas on protesters demanding curbs on war crimes court",
-    "headline_fi": "Kosovon poliisi käyttää kyynelkaasua mielenosoittajiin, jotka vaativat sotarikostuomioistuimen hillitsemistä",
+    "headline_fi": "Kosovo police use tear gas on protesters demanding curbs on war crimes court",
     "link": "https://www.euronews.com/2026/10/06/kosovo-police-use-tear-gas-on-protesters-demanding-curbs-on-war-crimes-court",
     "source": "Euronews",
     "pub": "2026-10-06 09:08"
   },
   {
     "headline": "Europe Today: Sánchez calls snap election in Spain as French students protest again",
-    "headline_fi": "Europe Today: Sánchez julkaisi ennenaikaiset vaalit Espanjassa, koska ranskalaiset opiskelijat osoittavat jälleen mieltään",
+    "headline_fi": "Europe Today: Sánchez calls snap election in Spain as French students protest again",
     "link": "https://www.euronews.com/2026/10/06/europe-today-sanchez-calls-snap-election-in-spain-as-french-students-protest-again",
     "source": "Euronews",
     "pub": "2026-10-06 09:03"
   },
   {
     "headline": "Ronaldo’s next chapter: What lies ahead after Portugal’s Nations League progress?",
-    "headline_fi": "Ronaldon seuraava luku: Mitä on edessä Portugalin Kansakuntien liigan edistymisen jälkeen?",
+    "headline_fi": "Ronaldo’s next chapter: What lies ahead after Portugal’s Nations League progress?",
     "link": "https://www.euronews.com/2026/10/06/ronaldos-next-chapter-what-lies-ahead-after-portugals-nations-league-progress",
     "source": "Euronews",
     "pub": "2026-10-06 08:14"
   },
   {
     "headline": "Could teenage fitness shape your mental health decades later? New research suggests it might",
-    "headline_fi": "Voisiko teinien kunto muokata mielenterveyttäsi vuosikymmeniä myöhemmin?Uusi tutkimus viittaa siihen, että voi",
+    "headline_fi": "Could teenage fitness shape your mental health decades later? New research suggests it might",
     "link": "https://www.euronews.com/2026/10/06/could-teenage-fitness-shape-your-mental-health-decades-later-new-research-suggests-it-migh",
     "source": "Euronews",
     "pub": "2026-10-06 08:10"
   },
   {
     "headline": "India news: Opposition leaders march towards Election Commission",
-    "headline_fi": "Intian uutiset: Oppositiojohtajat marssivat kohti vaalilautakuntaa",
+    "headline_fi": "India news: Opposition leaders march towards Election Commission",
     "link": "https://www.dw.com/en/india-news-opposition-leaders-march-towards-election-commission/live-79557629?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 08:02"
   },
   {
     "headline": "Latest news bulletin | October 6th, 2026 – Morning",
-    "headline_fi": "Uusin uutistiedote |6. lokakuuta 2026 – Aamu",
+    "headline_fi": "Latest news bulletin | October 6th, 2026 – Morning",
     "link": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-morning",
     "source": "Euronews",
     "pub": "2026-10-06 08:00"
   },
   {
     "headline": "EU mulls tougher restrictions on Russian diplomats as hybrid threats intensify",
-    "headline_fi": "EU harkitsee tiukempia rajoituksia venäläisille diplomaateille hybridiuhkien voimistuessa",
+    "headline_fi": "EU mulls tougher restrictions on Russian diplomats as hybrid threats intensify",
     "link": "https://www.euronews.com/2026/10/06/eu-mulls-tougher-restrictions-on-russian-diplomats-as-hybrid-threats-intensify",
     "source": "Euronews",
     "pub": "2026-10-06 08:00"
@@ -287,8 +364,8 @@
     "pub": "2026-10-06 00:07"
   },
   {
-    "headline": "Euro falls to 17-month low against the USD on French debt concerns",
-    "headline_fi": "Euro falls to 17-month low against the USD on French debt concerns",
+    "headline": "Euro falls to 17-month low against dollar on French debt concerns",
+    "headline_fi": "Euro falls to 17-month low against dollar on French debt concerns",
     "link": "https://www.france24.com/en/tv-shows/business/20261005-euro-falls-to-17-month-low-against-the-usd-on-french-debt-concerns",
     "source": "France 24",
     "pub": "2026-10-05 23:51"
@@ -404,13 +481,6 @@
     "link": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 21:10"
-  },
-  {
-    "headline": "From the rent crisis to Trump: 5 things that will shape Spain’s snap election",
-    "headline_fi": "From the rent crisis to Trump: 5 things that will shape Spain’s snap election",
-    "link": "https://www.politico.eu/article/spain-rent-crisis-donald-trump-5-things-snap-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 20:48"
   },
   {
     "headline": "Merz, Macron seek tougher EU measures against unfair trade",
@@ -560,67 +630,11 @@
     "pub": "2026-10-05 17:02"
   },
   {
-    "headline": "This new Japanese walking trail connects six cities across 320 kilometres",
-    "headline_fi": "This new Japanese walking trail connects six cities across 320 kilometres",
-    "link": "https://www.euronews.com/2026/10/05/this-new-japanese-walking-trail-connects-six-cities-across-320-kilometres",
-    "source": "Euronews",
-    "pub": "2026-10-05 16:44"
-  },
-  {
-    "headline": "VAT hike: Canal+ threatens to reduce its support for cinema",
-    "headline_fi": "VAT hike: Canal+ threatens to reduce its support for cinema",
-    "link": "https://www.euronews.com/2026/10/05/vat-hike-canal-threatens-to-reduce-its-support-for-cinema",
-    "source": "Euronews",
-    "pub": "2026-10-05 16:34"
-  },
-  {
-    "headline": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
-    "headline_fi": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
-    "link": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
-    "source": "Euronews",
-    "pub": "2026-10-05 16:02"
-  },
-  {
-    "headline": "Is Kazakhstan the birthplace of apples? Here’s how the fruit spread across the world",
-    "headline_fi": "Is Kazakhstan the birthplace of apples? Here’s how the fruit spread across the world",
-    "link": "https://www.euronews.com/2026/10/05/is-kazakhstan-the-birthplace-of-apples-heres-how-the-fruit-spread-across-the-world",
-    "source": "Euronews",
-    "pub": "2026-10-05 15:59"
-  },
-  {
-    "headline": "Pedro Sánchez has lost control of the narrative. So he's calling an election",
-    "headline_fi": "Pedro Sánchez has lost control of the narrative. So he's calling an election",
-    "link": "https://www.euronews.com/2026/10/05/pedro-sanchez-has-lost-control-of-the-narrative-so-hes-calling-an-election",
-    "source": "Euronews",
-    "pub": "2026-10-05 15:55"
-  },
-  {
-    "headline": "Who holds the keys to Europe’s emergency oil reserves?",
-    "headline_fi": "Who holds the keys to Europe’s emergency oil reserves?",
-    "link": "https://www.euronews.com/2026/10/05/who-holds-the-keys-to-europes-emergency-oil-reserves",
-    "source": "Euronews",
-    "pub": "2026-10-05 15:51"
-  },
-  {
-    "headline": "Turkish grain ship sinks in Black Sea after deadly drone attack",
-    "headline_fi": "Turkish grain ship sinks in Black Sea after deadly drone attack",
-    "link": "https://www.euronews.com/2026/10/05/drone-reportedly-hits-ship-in-black-sea-killing-two-and-injuring-11",
-    "source": "Euronews",
-    "pub": "2026-10-05 15:39"
-  },
-  {
     "headline": "Germany news: Spy chief warns Russia conflict risk growing",
     "headline_fi": "Germany news: Spy chief warns Russia conflict risk growing",
     "link": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 15:33"
-  },
-  {
-    "headline": "Extreme heat is raising risks for mothers and babies - but experts say cooling solutions already exist",
-    "headline_fi": "Extreme heat is raising risks for mothers and babies - but experts say cooling solutions already exist",
-    "link": "https://www.euronews.com/2026/10/05/extreme-heat-is-raising-risks-for-mothers-and-babies-but-experts-say-cooling-solutions-alr",
-    "source": "Euronews",
-    "pub": "2026-10-05 15:31"
   },
   {
     "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
@@ -915,13 +929,6 @@
     "link": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-29 11:17"
-  },
-  {
-    "headline": "Turkey: Comedian convicted for 'insulting' Erdogan in show",
-    "headline_fi": "Turkey: Comedian convicted for 'insulting' Erdogan in show",
-    "link": "https://www.dw.com/en/turkey-comedian-convicted-for-insulting-erdogan-in-show/a-79455759?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-28 17:51"
   },
   {
     "headline": "Germany news: COVID vaccine maker BioNTech to close 3 sites",
