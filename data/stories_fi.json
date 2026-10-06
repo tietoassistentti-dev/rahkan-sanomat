@@ -1,5 +1,26 @@
 [
   {
+    "headline": "How Spain’s snap election could blow up Brussels",
+    "headline_fi": "Kuinka Espanjan ennenaikaiset vaalit voivat räjäyttää Brysselin",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-spains-snap-election-could-blow-up-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 07:05"
+  },
+  {
+    "headline": "Trump says US moved their B-1 bombers from RAF Fairford airbase after additional threats were made",
+    "headline_fi": "Trump sanoo, että Yhdysvallat siirsi B-1-pommittajansa RAF Fairfordin lentotukikohdasta lisäuhkausten jälkeen",
+    "link": "https://www.euronews.com/2026/10/06/trump-says-us-moved-their-b-1-bombers-from-raf-fairford-airbase-after-additional-threats-w",
+    "source": "Euronews",
+    "pub": "2026-10-06 06:54"
+  },
+  {
+    "headline": "Der erste Machtbeweis der AfD in Magdeburg",
+    "headline_fi": "AfD:n ensimmäinen vallannäytös Magdeburgissa",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/der-erste-machtbeweis-der-afd-in-magdeburg/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 06:30"
+  },
+  {
     "headline": "Trump targets tax-free diesel as Republicans approach midterms",
     "headline_fi": "Trump tähtää verovapaaseen dieseliin, kun republikaanit lähestyvät puoliväliä",
     "link": "https://www.france24.com/en/americas/20261006-trump-targets-tax-free-diesel-as-republicans-approach-midterms",
@@ -120,21 +141,21 @@
   },
   {
     "headline": "‘France has fallen’: Far-right figures fuel Islamophobic claims with false student protest videos",
-    "headline_fi": "\"Ranska on kaatunut\": Äärioikeistolaiset hahmot ruokkivat islamofobisia väitteitä väärillä opiskelijoiden protestivideoilla",
+    "headline_fi": "‘France has fallen’: Far-right figures fuel Islamophobic claims with false student protest videos",
     "link": "https://www.france24.com/en/france-has-fallen-far-right-figures-fuel-islamophobic-claims-with-false-student-protest-videos-1",
     "source": "France 24",
     "pub": "2026-10-05 23:10"
   },
   {
     "headline": "'We are effectively maiming young people' - expert questions France's response to student protests",
-    "headline_fi": "\"Sammaamme tehokkaasti nuoria\" - asiantuntija kyseenalaistaa Ranskan vastauksen opiskelijoiden mielenosoituksiin",
+    "headline_fi": "'We are effectively maiming young people' - expert questions France's response to student protests",
     "link": "https://www.france24.com/en/we-are-effectively-maiming-young-people-expert-questions-france-s-response-to-student-protests",
     "source": "France 24",
     "pub": "2026-10-05 23:08"
   },
   {
     "headline": "Sanchez chose 'best moment in a sea of troubles' to call for snap election, analyst says",
-    "headline_fi": "Sanchez valitsi \"parhaan hetken vaikeuksien meressä\" vaatiakseen ennenaikaisia ​​vaaleja, analyytikko sanoo",
+    "headline_fi": "Sanchez chose 'best moment in a sea of troubles' to call for snap election, analyst says",
     "link": "https://www.france24.com/en/sanchez-chose-best-moment-in-a-sea-of-troubles-to-call-for-snap-election-analyst-says",
     "source": "France 24",
     "pub": "2026-10-05 22:31"
@@ -210,13 +231,6 @@
     "pub": "2026-10-05 20:48"
   },
   {
-    "headline": "New weapons, new risks: Europe’s AI policing plan stokes privacy concerns",
-    "headline_fi": "New weapons, new risks: Europe’s AI policing plan stokes privacy concerns",
-    "link": "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 20:28"
-  },
-  {
     "headline": "Merz, Macron seek tougher EU measures against unfair trade",
     "headline_fi": "Merz, Macron seek tougher EU measures against unfair trade",
     "link": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf",
@@ -243,13 +257,6 @@
     "link": "https://www.euronews.com/2026/10/05/flydubai-co-pilot-planned-to-crash-aircraft-into-tel-aviv-airport",
     "source": "Euronews",
     "pub": "2026-10-05 19:55"
-  },
-  {
-    "headline": "50 members of European Parliament targeted by deepfake porn, report says",
-    "headline_fi": "50 members of European Parliament targeted by deepfake porn, report says",
-    "link": "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 19:54"
   },
   {
     "headline": "São Paulo stock exchange surges after Flávio Bolsonaro election result",
