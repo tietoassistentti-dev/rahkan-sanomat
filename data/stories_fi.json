@@ -1,5 +1,40 @@
 [
   {
+    "headline": "Read the charter for the White House’s ‘Super Intelligence Force’",
+    "headline_fi": "Lue Valkoisen talon \"Super Intelligence Force -joukkojen\" peruskirja",
+    "link": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-07 00:51"
+  },
+  {
+    "headline": "Kenya reports first-ever Ebola death",
+    "headline_fi": "Kenia ilmoitti ensimmäisestä ebolakuolemasta",
+    "link": "https://www.france24.com/en/kenya-reports-first-ever-ebola-death",
+    "source": "France 24",
+    "pub": "2026-10-07 00:28"
+  },
+  {
+    "headline": "French policeman charged after firing tear gas grenade at high school student",
+    "headline_fi": "Ranskalaista poliisia syytetään kyynelkaasukranaatin ampumisesta lukiolaista",
+    "link": "https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student",
+    "source": "France 24",
+    "pub": "2026-10-07 00:04"
+  },
+  {
+    "headline": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
+    "headline_fi": "Venäläisen laboratoriotyöntekijän kuolema herättää pelkoja, kun tarkistamattomat väitteet leviävät verkossa",
+    "link": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
+    "source": "France 24",
+    "pub": "2026-10-06 23:58"
+  },
+  {
+    "headline": "How much does France spend on education?",
+    "headline_fi": "Kuinka paljon Ranska käyttää koulutukseen?",
+    "link": "https://www.france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education",
+    "source": "France 24",
+    "pub": "2026-10-06 23:29"
+  },
+  {
     "headline": "Greens promise ‘campaign mode’ and continuity under new leaders",
     "headline_fi": "Vihreät lupaavat \"kampanjatilaa\" ja jatkuvuutta uusien johtajien johdolla",
     "link": "https://www.politico.eu/article/greens-terry-reintke-nicu-stefanuta-new-leadership-european-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -106,35 +141,35 @@
   },
   {
     "headline": "Paramount completes takeover of Warner Bros, creating media behemoth Skydance",
-    "headline_fi": "Paramount saa päätökseen Warner Brosin haltuunsa ja luo median huipulle Skydancen",
+    "headline_fi": "Paramount completes takeover of Warner Bros, creating media behemoth Skydance",
     "link": "https://www.france24.com/en/americas/20261006-paramount-completes-takeover-of-warner-bros-creating-media-behemoth-skydance",
     "source": "France 24",
     "pub": "2026-10-06 19:23"
   },
   {
     "headline": "Tens of thousands demand better education in demonstrations across France",
-    "headline_fi": "Kymmenet tuhannet vaativat parempaa koulutusta mielenosoituksissa eri puolilla Ranskaa",
+    "headline_fi": "Tens of thousands demand better education in demonstrations across France",
     "link": "https://www.france24.com/en/video/20261006-tens-of-thousands-demand-better-education-in-demonstrations-across-france",
     "source": "France 24",
     "pub": "2026-10-06 19:04"
   },
   {
     "headline": "Norway eyes temporary ban of smart glasses",
-    "headline_fi": "Norja katsoo väliaikaisen älylasikiellon",
+    "headline_fi": "Norway eyes temporary ban of smart glasses",
     "link": "https://www.france24.com/en/video/20261006-norway-eyes-temporary-ban-of-smart-glasses",
     "source": "France 24",
     "pub": "2026-10-06 19:03"
   },
   {
     "headline": "'Tense' atmosphere as tens of thousands join French student protests",
-    "headline_fi": "\"Järeä\" ilmapiiri, kun kymmenet tuhannet liittyvät ranskalaisten opiskelijoiden mielenosoituksiin",
+    "headline_fi": "'Tense' atmosphere as tens of thousands join French student protests",
     "link": "https://www.france24.com/en/video/20261006-tense-atmosphere-as-tens-of-thousands-join-french-student-protests",
     "source": "France 24",
     "pub": "2026-10-06 19:02"
   },
   {
     "headline": "Ukraine fires nearly 900 drones at Russia, says Moscow",
-    "headline_fi": "Moskovan mukaan Ukraina ampuu lähes 900 dronea Venäjää kohti",
+    "headline_fi": "Ukraine fires nearly 900 drones at Russia, says Moscow",
     "link": "https://www.france24.com/en/video/20261006-ukraine-fires-nearly-900-drones-at-russia-says-moscow",
     "source": "France 24",
     "pub": "2026-10-06 19:01"
@@ -196,13 +231,6 @@
     "pub": "2026-10-06 17:51"
   },
   {
-    "headline": "French students looking for protests 'to become a major movement'",
-    "headline_fi": "French students looking for protests 'to become a major movement'",
-    "link": "https://www.france24.com/en/video/20261006-french-students-looking-for-protests-to-become-a-major-movement",
-    "source": "France 24",
-    "pub": "2026-10-06 17:49"
-  },
-  {
     "headline": "EU-China trade tensions: Five things to know as Brussels and Beijing face crunch talks",
     "headline_fi": "EU-China trade tensions: Five things to know as Brussels and Beijing face crunch talks",
     "link": "https://www.euronews.com/2026/10/06/eu-china-trade-tensions-five-things-to-know-as-brussels-and-beijing-face-crunch-talks",
@@ -238,20 +266,6 @@
     "pub": "2026-10-06 17:23"
   },
   {
-    "headline": "🔴 Live: French PM denies 'police repression', suspends classes as clashes erupt at student protests",
-    "headline_fi": "🔴 Live: French PM denies 'police repression', suspends classes as clashes erupt at student protests",
-    "link": "https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
-    "source": "France 24",
-    "pub": "2026-10-06 17:21"
-  },
-  {
-    "headline": "'Busification': Inside Ukraine’s controversial recruitment practices",
-    "headline_fi": "'Busification': Inside Ukraine’s controversial recruitment practices",
-    "link": "https://www.france24.com/en/europe/20261006-busification-inside-ukraine-s-controversial-recruitment-practices",
-    "source": "France 24",
-    "pub": "2026-10-06 17:19"
-  },
-  {
     "headline": "New EU members face 15-year probation period after joining the bloc",
     "headline_fi": "New EU members face 15-year probation period after joining the bloc",
     "link": "https://www.euronews.com/2026/10/06/new-eu-members-face-15-year-probation-period-after-joining-the-bloc",
@@ -280,20 +294,6 @@
     "pub": "2026-10-06 17:17"
   },
   {
-    "headline": "Ethiopia 'fears Tigray conflict could get out of control'",
-    "headline_fi": "Ethiopia 'fears Tigray conflict could get out of control'",
-    "link": "https://www.france24.com/en/video/20261006-ethiopia-fears-tigray-conflict-could-get-out-of-control",
-    "source": "France 24",
-    "pub": "2026-10-06 17:11"
-  },
-  {
-    "headline": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region",
-    "headline_fi": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region",
-    "link": "https://www.france24.com/en/video/20261006-ukrainian-drones-kill-two-hit-fuel-hub-in-one-of-biggest-attacks-on-moscow-region",
-    "source": "France 24",
-    "pub": "2026-10-06 17:07"
-  },
-  {
     "headline": "Metsola to take action after MEP Rima Hassan removes Israeli flag",
     "headline_fi": "Metsola to take action after MEP Rima Hassan removes Israeli flag",
     "link": "https://www.euronews.com/2026/10/06/metsola-to-take-action-after-mep-rima-hassan-removes-israeli-flag",
@@ -306,13 +306,6 @@
     "link": "https://www.euronews.com/2026/10/06/eu-commission-throws-down-the-gauntlet-to-member-states-on-reforming-the-bloc",
     "source": "Euronews",
     "pub": "2026-10-06 17:07"
-  },
-  {
-    "headline": "India opposition parties rally for election chief’s exit over voter list changes",
-    "headline_fi": "India opposition parties rally for election chief’s exit over voter list changes",
-    "link": "https://www.france24.com/en/video/20261006-india-opposition-parties-rally-for-election-chief-s-exit-over-voter-list-changes",
-    "source": "France 24",
-    "pub": "2026-10-06 17:06"
   },
   {
     "headline": "Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections",
@@ -425,13 +418,6 @@
     "link": "https://www.euronews.com/2026/10/06/von-der-leyen-turns-to-europes-refineries-as-shrinking-capacity-raises-energy-security-con",
     "source": "Euronews",
     "pub": "2026-10-06 15:57"
-  },
-  {
-    "headline": "EU Parliament spat as MEP challenges Metsola’s claims over Israeli flag",
-    "headline_fi": "EU Parliament spat as MEP challenges Metsola’s claims over Israeli flag",
-    "link": "https://www.politico.eu/article/eu-parliament-spat-as-mep-rima-hassan-challenges-roberta-metsola-claims-over-israeli-flag/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-06 15:51"
   },
   {
     "headline": "Brunello Cucinelli transforms a historic Tashkent madrasah into a runway",
