@@ -1,5 +1,33 @@
 [
   {
+    "headline": "France’s debt troubles stir memories of the euro crisis",
+    "headline_fi": "Ranskan velkaongelmat herättävät muistoja eurokriisistä",
+    "link": "https://www.politico.eu/article/france-debt-trouble-memories-euro-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 05:00"
+  },
+  {
+    "headline": "France’s Mélenchon doubles down on student protests despite violent clashes",
+    "headline_fi": "Ranskalainen Mélenchon tuplaa opiskelijamielenosoitukset väkivaltaisista yhteenotoista huolimatta",
+    "link": "https://www.politico.eu/article/france-jean-luc-melenchon-doubles-down-student-protests-despite-violent-clashes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 05:00"
+  },
+  {
+    "headline": "Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania",
+    "headline_fi": "Tuhkarokkotapaukset leviävät Yhdysvalloissa tänä vuonna, ja Pennsylvaniassa on raportoitu yli 1 000 tartuntaa",
+    "link": "https://www.dw.com/en/measles-cases-are-spreading-in-the-us-this-year-with-over-1-000-infections-reported-in-pennsylvania/a-79557286?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 04:35"
+  },
+  {
+    "headline": "Trump approves firing-squad execution of Fort Hood shooter Nidal Hasan",
+    "headline_fi": "Trump hyväksyy Fort Hood -ampujan Nidal Hasanin ampumajoukon teloituksen",
+    "link": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
+    "source": "France 24",
+    "pub": "2026-10-06 04:31"
+  },
+  {
     "headline": "Switching on brain cells: the Nobel-winning science of optogenetics",
     "headline_fi": "Aivosolujen kytkeminen päälle: Nobel-palkittu optogenetiikan tiede",
     "link": "https://www.france24.com/en/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics",
@@ -113,28 +141,28 @@
   },
   {
     "headline": "'I'm not a terrorist, I'm just a journalist', how to carry on reporting for Russia and Belarus from exile",
-    "headline_fi": "\"En ole terroristi, olen vain toimittaja\", kuinka jatkaa raportointia Venäjälle ja Valko-Venäjälle maanpaosta",
+    "headline_fi": "'I'm not a terrorist, I'm just a journalist', how to carry on reporting for Russia and Belarus from exile",
     "link": "https://www.euronews.com/2026/10/05/im-not-a-terrorist-im-just-a-journalist-how-to-carry-on-reporting-for-russia-and-belarus-f",
     "source": "Euronews",
     "pub": "2026-10-05 22:00"
   },
   {
     "headline": "Return of the Bolsonaros: Why the far-right surge in Brazilian elections?",
-    "headline_fi": "Bolsonaron paluu: Miksi äärioikeisto nousi Brasilian vaaleissa?",
+    "headline_fi": "Return of the Bolsonaros: Why the far-right surge in Brazilian elections?",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20261005-return-of-the-bolsonaros-why-the-far-right-surge-in-brazilian-elections",
     "source": "France 24",
     "pub": "2026-10-05 21:44"
   },
   {
     "headline": "America’s bomber withdrawal points to wider UK-US friction",
-    "headline_fi": "Amerikan pommittajien vetäytyminen viittaa laajempaan Britannian ja Yhdysvaltojen väliseen kitkaan",
+    "headline_fi": "America’s bomber withdrawal points to wider UK-US friction",
     "link": "https://www.politico.eu/article/b-1-bomber-withdrawal-raf-fairford-uk-us-friction/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 21:36"
   },
   {
     "headline": "Yemen launches major military operation against Houthis",
-    "headline_fi": "Jemen käynnisti suuren sotilasoperaation hutheja vastaan",
+    "headline_fi": "Yemen launches major military operation against Houthis",
     "link": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 21:36"
@@ -364,13 +392,6 @@
     "pub": "2026-10-05 16:24"
   },
   {
-    "headline": "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
-    "headline_fi": "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
-    "link": "https://www.politico.eu/article/friedrich-merz-emmanuel-macron-eu-trade-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 16:21"
-  },
-  {
     "headline": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
     "headline_fi": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
     "link": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
@@ -467,13 +488,6 @@
     "link": "https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse",
     "source": "Euronews",
     "pub": "2026-10-05 13:51"
-  },
-  {
-    "headline": "Germany risks being drawn into ‘violent conflict’ with Russia, spy chief warns",
-    "headline_fi": "Germany risks being drawn into ‘violent conflict’ with Russia, spy chief warns",
-    "link": "https://www.politico.eu/article/germany-risks-being-drawn-violent-conflict-russia-says-german-intelligence-chief/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 13:49"
   },
   {
     "headline": "Musk to follow Trump and rebrand SpaceXAI as SpaceXSI",
@@ -642,13 +656,6 @@
     "link": "https://www.euronews.com/2026/10/05/israel-bars-uk-green-leader-after-party-votes-to-define-zionism-as-racism",
     "source": "Euronews",
     "pub": "2026-10-05 11:51"
-  },
-  {
-    "headline": "Israel observes October 7 anniversary with national memorial day",
-    "headline_fi": "Israel observes October 7 anniversary with national memorial day",
-    "link": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 11:38"
   },
   {
     "headline": "Iran war: 'Europe not being at the table is a failure', Charles Michel says",
