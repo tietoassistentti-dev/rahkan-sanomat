@@ -1,5 +1,12 @@
 [
   {
+    "headline": "South Sudan's road to elections remains uncertain",
+    "headline_fi": "Etelä-Sudanin tie vaaleihin on edelleen epävarma",
+    "link": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 16:45"
+  },
+  {
     "headline": "China's Golden Week reveals cautious consumer spending despite travel surge",
     "headline_fi": "Kiinan kultainen viikko paljastaa varovaisen kulutuksen matkailun kasvusta huolimatta",
     "link": "https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-rdf",
@@ -36,7 +43,7 @@
   },
   {
     "headline": "Reform probe clears Farage aides caught in donations sting",
-    "headline_fi": "Uudistustutkinta selvittää Faragen avustajat, jotka jäivät kiinni lahjoituksista",
+    "headline_fi": "Uudistustutkinta selvittää lahjoituksista kiinni jääneet Faragen avustajat",
     "link": "https://www.politico.eu/article/reform-probe-clears-nigel-farage-aides-james-orr-dan-jukes-donations-sting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-07 15:25"
@@ -99,7 +106,7 @@
   },
   {
     "headline": "Finland orders pause on Google AI data centres over environmental concerns",
-    "headline_fi": "Suomi määrää Googlen tekoälyn palvelinkeskuksiin tauon ympäristösyistä",
+    "headline_fi": "Suomi määrää Googlen tekoälyn palvelinkeskuksiin taukoa ympäristösyistä",
     "link": "https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns",
     "source": "Euronews",
     "pub": "2026-10-07 14:33"
@@ -134,17 +141,10 @@
   },
   {
     "headline": "Germany: Did CDU lawmakers support the far-right AfD?",
-    "headline_fi": "Saksa: tukivatko CDU:n lainsäätäjät äärioikeistolaista AfD:tä?",
+    "headline_fi": "Germany: Did CDU lawmakers support the far-right AfD?",
     "link": "https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 14:11"
-  },
-  {
-    "headline": "October 7: Israelis mark three years since Hamas attacks",
-    "headline_fi": "October 7: Israelis mark three years since Hamas attacks",
-    "link": "https://www.france24.com/en/video/20261007-october-7-israelis-mark-three-years-since-hamas-attacks",
-    "source": "France 24",
-    "pub": "2026-10-07 14:04"
   },
   {
     "headline": "Debate: Three years after the attack on Israel: what remains?",
@@ -210,27 +210,6 @@
     "pub": "2026-10-07 14:02"
   },
   {
-    "headline": "France suspends stun grenade use at student protests ahead of PM speech",
-    "headline_fi": "France suspends stun grenade use at student protests ahead of PM speech",
-    "link": "https://www.france24.com/en/video/20261007-france-suspends-stun-grenade-use-at-student-protests-ahead-of-pm-speech",
-    "source": "France 24",
-    "pub": "2026-10-07 13:55"
-  },
-  {
-    "headline": "Israeli papers commemorate October 7 attacks, three years on",
-    "headline_fi": "Israeli papers commemorate October 7 attacks, three years on",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261007-israeli-papers-commemorate-october-7-attacks-three-years-on",
-    "source": "France 24",
-    "pub": "2026-10-07 13:55"
-  },
-  {
-    "headline": "French government scrambles to calm nationwide student protests",
-    "headline_fi": "French government scrambles to calm nationwide student protests",
-    "link": "https://www.france24.com/en/video/20261007-french-government-scrambles-to-calm-nationwide-student-protests",
-    "source": "France 24",
-    "pub": "2026-10-07 13:54"
-  },
-  {
     "headline": "Kyiv residents take refuge underground during overnight Russian attacks",
     "headline_fi": "Kyiv residents take refuge underground during overnight Russian attacks",
     "link": "https://www.euronews.com/video/2026/10/07/kyiv-residents-take-refuge-underground-during-overnight-russian-attacks",
@@ -252,41 +231,6 @@
     "pub": "2026-10-07 13:33"
   },
   {
-    "headline": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
-    "headline_fi": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
-    "link": "https://www.france24.com/en/video/20261007-paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance",
-    "source": "France 24",
-    "pub": "2026-10-07 13:26"
-  },
-  {
-    "headline": "Israel marks three years since Hamas's October 7 attack",
-    "headline_fi": "Israel marks three years since Hamas's October 7 attack",
-    "link": "https://www.france24.com/en/video/20261007-israel-marks-three-years-since-hamas-s-october-7-attack",
-    "source": "France 24",
-    "pub": "2026-10-07 13:24"
-  },
-  {
-    "headline": "Three years since Hamas October 7 attack: What did Netanyahu know?",
-    "headline_fi": "Three years since Hamas October 7 attack: What did Netanyahu know?",
-    "link": "https://www.france24.com/en/video/20261007-three-years-since-hamas-october-7-attack-what-did-netanyahu-know",
-    "source": "France 24",
-    "pub": "2026-10-07 13:23"
-  },
-  {
-    "headline": "Houthis attack Aden airport as fighting intensifies in Yemen",
-    "headline_fi": "Houthis attack Aden airport as fighting intensifies in Yemen",
-    "link": "https://www.france24.com/en/video/20261007-houthis-attack-aden-airport-as-fighting-intensifies-in-yemen",
-    "source": "France 24",
-    "pub": "2026-10-07 13:20"
-  },
-  {
-    "headline": "Trump to speak to Putin on plague as US, UN urge transparency",
-    "headline_fi": "Trump to speak to Putin on plague as US, UN urge transparency",
-    "link": "https://www.france24.com/en/video/20261007-trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency",
-    "source": "France 24",
-    "pub": "2026-10-07 13:19"
-  },
-  {
     "headline": "France and Germany say diesel promise to Trump won’t require new stock release",
     "headline_fi": "France and Germany say diesel promise to Trump won’t require new stock release",
     "link": "https://www.politico.eu/article/france-and-germany-say-diesel-promise-to-trump-wont-require-new-stock-release/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -306,20 +250,6 @@
     "link": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-07 13:00"
-  },
-  {
-    "headline": "🔴Nobel Prize in chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
-    "headline_fi": "🔴Nobel Prize in chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
-    "link": "https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai",
-    "source": "France 24",
-    "pub": "2026-10-07 12:54"
-  },
-  {
-    "headline": "Nobel Prize in Chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
-    "headline_fi": "Nobel Prize in Chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
-    "link": "https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai",
-    "source": "France 24",
-    "pub": "2026-10-07 12:52"
   },
   {
     "headline": "Why are Melania Trump staffers gloating about ‘Digger’ and its box office woes?",
@@ -378,13 +308,6 @@
     "pub": "2026-10-07 11:47"
   },
   {
-    "headline": "Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death",
-    "headline_fi": "Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death",
-    "link": "https://www.france24.com/en/europe/20261007-anna-politkovskaya-the-slain-reporter-who-predicted-russia-future",
-    "source": "France 24",
-    "pub": "2026-10-07 11:32"
-  },
-  {
     "headline": "Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says",
     "headline_fi": "Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says",
     "link": "https://www.euronews.com/video/2026/10/07/removing-russian-oligarchs-from-sanctions-list-sets-a-very-bad-precedent-browder-says",
@@ -411,13 +334,6 @@
     "link": "https://www.dw.com/en/the-solar-boom-is-rapidly-transforming-emerging-economies/a-79474847?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 10:48"
-  },
-  {
-    "headline": "Live: France suspends stun grenade use in school protests after 15-year-old loses hand",
-    "headline_fi": "Live: France suspends stun grenade use in school protests after 15-year-old loses hand",
-    "link": "https://www.france24.com/en/france/20261007-live-france-suspends-stun-grenade-use-school-protests-after-15-year-old-loses-hand",
-    "source": "France 24",
-    "pub": "2026-10-07 10:47"
   },
   {
     "headline": "Israel's ambassador Zarka: France has a serious antisemitism problem",
@@ -525,13 +441,6 @@
     "pub": "2026-10-07 09:02"
   },
   {
-    "headline": "Russia launches one of its biggest strikes on Ukraine, killing at least 21 civilians",
-    "headline_fi": "Russia launches one of its biggest strikes on Ukraine, killing at least 21 civilians",
-    "link": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
-    "source": "France 24",
-    "pub": "2026-10-07 08:56"
-  },
-  {
     "headline": "'Potemkin budget’: French government slams Marine Le Pen’s plans",
     "headline_fi": "'Potemkin budget’: French government slams Marine Le Pen’s plans",
     "link": "https://www.euronews.com/2026/10/07/france-government-slams-marine-le-pens-alternative-budget",
@@ -551,13 +460,6 @@
     "link": "https://www.euronews.com/2026/10/07/puigdemont-welcomes-spains-amnesty-but-warns-it-is-not-the-solution-for-catalonia",
     "source": "Euronews",
     "pub": "2026-10-07 08:34"
-  },
-  {
-    "headline": "How Netanyahu survived the political fallout from the October 7 attacks",
-    "headline_fi": "How Netanyahu survived the political fallout from the October 7 attacks",
-    "link": "https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks",
-    "source": "France 24",
-    "pub": "2026-10-07 08:24"
   },
   {
     "headline": "India news: Opposition protest clouds Modi's 25-year milestone",
@@ -588,13 +490,6 @@
     "pub": "2026-10-07 07:33"
   },
   {
-    "headline": "Live: Israel marks three years since Hamas’s deadly October 7 attacks",
-    "headline_fi": "Live: Israel marks three years since Hamas’s deadly October 7 attacks",
-    "link": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
-    "source": "France 24",
-    "pub": "2026-10-07 05:46"
-  },
-  {
     "headline": "Mali: Junta forces retake strategic town of Kidal from separatists",
     "headline_fi": "Mali: Junta forces retake strategic town of Kidal from separatists",
     "link": "https://www.dw.com/en/mali-junta-forces-retake-strategic-town-of-kidal-from-separatists/a-79570617?maca=en-rss-en-all-1573-rdf",
@@ -602,32 +497,11 @@
     "pub": "2026-10-07 05:45"
   },
   {
-    "headline": "Israel marks third anniversary of October 7 attack as election looms",
-    "headline_fi": "Israel marks third anniversary of October 7 attack as election looms",
-    "link": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
-    "source": "France 24",
-    "pub": "2026-10-07 05:14"
-  },
-  {
-    "headline": "Haiti postpones elections indefinitely amid gang violence",
-    "headline_fi": "Haiti postpones elections indefinitely amid gang violence",
-    "link": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations",
-    "source": "France 24",
-    "pub": "2026-10-07 04:06"
-  },
-  {
     "headline": "Christa Pike awake after failed Tennessee execution: lawyers",
     "headline_fi": "Christa Pike awake after failed Tennessee execution: lawyers",
     "link": "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 02:49"
-  },
-  {
-    "headline": "Trump says will speak with Putin over Russia's reported plague death",
-    "headline_fi": "Trump says will speak with Putin over Russia's reported plague death",
-    "link": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
-    "source": "France 24",
-    "pub": "2026-10-07 01:51"
   },
   {
     "headline": "EU seeks ways to make expansion more palatable to members",
