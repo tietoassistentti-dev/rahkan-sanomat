@@ -1,5 +1,250 @@
 [
   {
+    "headline": "French prime minister says government not indifferent to students' concerns in TV address",
+    "headline_fi": "French prime minister says government not indifferent to students' concerns in TV address",
+    "link": "https://www.euronews.com/2026/10/07/french-prime-minister-says-government-not-indifferent-to-students-concerns-in-tv-address",
+    "source": "Euronews",
+    "pub": "2026-10-07 23:47"
+  },
+  {
+    "headline": "France schools protests: more than 6,100 arrested since start of demonstrations",
+    "headline_fi": "France schools protests: more than 6,100 arrested since start of demonstrations",
+    "link": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
+    "source": "France 24",
+    "pub": "2026-10-07 23:17"
+  },
+  {
+    "headline": "Evicted pensioner who sparked Spain housing protests dies: tenant union",
+    "headline_fi": "Evicted pensioner who sparked Spain housing protests dies: tenant union",
+    "link": "https://www.france24.com/en/evicted-pensioner-who-sparked-spain-housing-protests-dies-tenant-union",
+    "source": "France 24",
+    "pub": "2026-10-07 23:14"
+  },
+  {
+    "headline": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
+    "headline_fi": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
+    "link": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 23:10"
+  },
+  {
+    "headline": "'It's still unclear whether Netanyahu will pay for what happened during his time in office'",
+    "headline_fi": "'It's still unclear whether Netanyahu will pay for what happened during his time in office'",
+    "link": "https://www.france24.com/en/it-s-still-unclear-whether-netanyahu-will-pay-for-what-happened-during-his-time-in-office",
+    "source": "France 24",
+    "pub": "2026-10-07 22:52"
+  },
+  {
+    "headline": "White House promotes 'Trump TV' with an AI-altered photo",
+    "headline_fi": "White House promotes 'Trump TV' with an AI-altered photo",
+    "link": "https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo",
+    "source": "France 24",
+    "pub": "2026-10-07 22:45"
+  },
+  {
+    "headline": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
+    "headline_fi": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
+    "link": "https://www.france24.com/en/europe/20261007-evicted-pensioner-maricarmen-abascal-heart-of-spain-housing-protests-has-died",
+    "source": "France 24",
+    "pub": "2026-10-07 22:19"
+  },
+  {
+    "headline": "Trump says 'we don't think' Russian plague is bio-weapon",
+    "headline_fi": "Trump says 'we don't think' Russian plague is bio-weapon",
+    "link": "https://www.france24.com/en/trump-says-we-don-t-think-russian-plague-is-bio-weapon",
+    "source": "France 24",
+    "pub": "2026-10-07 22:04"
+  },
+  {
+    "headline": "Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says",
+    "headline_fi": "Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says",
+    "link": "https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 21:49"
+  },
+  {
+    "headline": "Maricarmen, symbol of Spain's housing protests, dies",
+    "headline_fi": "Maricarmen, symbol of Spain's housing protests, dies",
+    "link": "https://www.euronews.com/2026/10/07/maricarmen-symbol-of-spains-housing-protests-dies",
+    "source": "Euronews",
+    "pub": "2026-10-07 21:47"
+  },
+  {
+    "headline": "French PM tries to defuse anger over schools, fuel and agriculture in sweeping speech",
+    "headline_fi": "French PM tries to defuse anger over schools, fuel and agriculture in sweeping speech",
+    "link": "https://www.politico.eu/article/france-prime-minister-sebastien-lecornu-schools-fuel-agriculture-speech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-07 21:45"
+  },
+  {
+    "headline": "Unexpected beach guest: Elephant seal draws crowds in Rio",
+    "headline_fi": "Unexpected beach guest: Elephant seal draws crowds in Rio",
+    "link": "https://www.euronews.com/video/2026/10/07/unexpected-beach-guest-elephant-seal-draws-crowds-in-rio",
+    "source": "Euronews",
+    "pub": "2026-10-07 21:44"
+  },
+  {
+    "headline": "Poland’s economic rise - Can it last? The Ring in Warsaw",
+    "headline_fi": "Poland’s economic rise - Can it last? The Ring in Warsaw",
+    "link": "https://www.euronews.com/2026/10/07/polands-economic-rise-can-it-last-the-ring-in-warsaw",
+    "source": "Euronews",
+    "pub": "2026-10-07 21:30"
+  },
+  {
+    "headline": "Trump mocks Sheinbaum over Gulf of Mexico and imitates her alleged reaction: 'No, no, please'",
+    "headline_fi": "Trump mocks Sheinbaum over Gulf of Mexico and imitates her alleged reaction: 'No, no, please'",
+    "link": "https://www.euronews.com/2026/10/07/trump-mocks-sheinbaum-over-gulf-of-mexico-and-imitates-her-alleged-reaction-no-no-please",
+    "source": "Euronews",
+    "pub": "2026-10-07 21:29"
+  },
+  {
+    "headline": "'Resilience' of Israelis as they mourn the loss of loved ones and 'the sense that we can be safe'",
+    "headline_fi": "'Resilience' of Israelis as they mourn the loss of loved ones and 'the sense that we can be safe'",
+    "link": "https://www.france24.com/en/video/20261007-resilience-of-israelis-as-they-the-mourn-loss-of-loved-ones-and-the-sense-that-we-can-be-safe",
+    "source": "France 24",
+    "pub": "2026-10-07 20:46"
+  },
+  {
+    "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+    "headline_fi": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+    "link": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 20:33"
+  },
+  {
+    "headline": "Rubio in Athens urges Europe to shoulder more of its defence burden",
+    "headline_fi": "Rubio in Athens urges Europe to shoulder more of its defence burden",
+    "link": "https://www.euronews.com/2026/10/07/rubio-in-athens-urges-europe-to-shoulder-more-of-its-defence-burden",
+    "source": "Euronews",
+    "pub": "2026-10-07 20:28"
+  },
+  {
+    "headline": "France summons Iranian ambassador over 'disinformation' on student protests",
+    "headline_fi": "France summons Iranian ambassador over 'disinformation' on student protests",
+    "link": "https://www.france24.com/en/france/20261007-france-summons-iranian-ambassador-over-disinformation-on-student-protests",
+    "source": "France 24",
+    "pub": "2026-10-07 20:23"
+  },
+  {
+    "headline": "Russia: WHO not able to 'fully' assess plague situation",
+    "headline_fi": "Russia: WHO not able to 'fully' assess plague situation",
+    "link": "https://www.dw.com/en/russia-who-not-able-to-fully-assess-plague-situation/a-79584532?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 20:16"
+  },
+  {
+    "headline": "EU Parliament defends secret ballots that kept far right out of top committee jobs",
+    "headline_fi": "EU Parliament defends secret ballots that kept far right out of top committee jobs",
+    "link": "https://www.politico.eu/article/eu-parliament-defends-secret-ballots-that-kept-far-right-out-of-top-committee-jobs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-07 20:12"
+  },
+  {
+    "headline": "France suspends the use of stun grenades after student protester loses hand",
+    "headline_fi": "France suspends the use of stun grenades after student protester loses hand",
+    "link": "https://www.france24.com/en/france/20261007-france-suspends-the-use-of-stun-grenades-after-student-protester-loses-hand",
+    "source": "France 24",
+    "pub": "2026-10-07 20:05"
+  },
+  {
+    "headline": "What France's student protesters want – and what the government is offering",
+    "headline_fi": "What France's student protesters want – and what the government is offering",
+    "link": "https://www.france24.com/en/france/20261007-what-france-s-student-protesters-want-%E2%80%93-and-what-the-government-is-offering",
+    "source": "France 24",
+    "pub": "2026-10-07 19:41"
+  },
+  {
+    "headline": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
+    "headline_fi": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
+    "link": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 19:39"
+  },
+  {
+    "headline": "Knife attack at Polish school: in Ostroleka a student injures seven, two are in critical condition",
+    "headline_fi": "Knife attack at Polish school: in Ostroleka a student injures seven, two are in critical condition",
+    "link": "https://www.euronews.com/2026/10/07/knife-attack-at-polish-school-in-ostroleka-a-student-injures-seven-two-are-in-critical-con",
+    "source": "Euronews",
+    "pub": "2026-10-07 19:19"
+  },
+  {
+    "headline": "France: Government suspends stun grenade use in school protests",
+    "headline_fi": "France: Government suspends stun grenade use in school protests",
+    "link": "https://www.france24.com/en/video/20261007-france-government-suspends-stun-grenade-use-in-school-protests",
+    "source": "France 24",
+    "pub": "2026-10-07 19:15"
+  },
+  {
+    "headline": "Fantasy worlds come to life on nails at London nail art competition",
+    "headline_fi": "Fantasy worlds come to life on nails at London nail art competition",
+    "link": "https://www.euronews.com/video/2026/10/07/fantasy-worlds-come-to-life-on-nails-at-london-nail-art-competition",
+    "source": "Euronews",
+    "pub": "2026-10-07 19:08"
+  },
+  {
+    "headline": "German politicians warn of antisemitism on October 7 anniversary",
+    "headline_fi": "German politicians warn of antisemitism on October 7 anniversary",
+    "link": "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 19:04"
+  },
+  {
+    "headline": "Rebranded Jaguar unveils its first electric sportscar: The Type 01EV",
+    "headline_fi": "Rebranded Jaguar unveils its first electric sportscar: The Type 01EV",
+    "link": "https://www.euronews.com/2026/10/07/rebranded-jaguar-unveils-its-first-electric-sportscar-the-type-01ev",
+    "source": "Euronews",
+    "pub": "2026-10-07 19:03"
+  },
+  {
+    "headline": "Latest news bulletin | October 7th, 2026 – Evening",
+    "headline_fi": "Latest news bulletin | October 7th, 2026 – Evening",
+    "link": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-07 19:00"
+  },
+  {
+    "headline": "🔴 Live: France summons Iranian ambassador over 'disinformation' on student protests",
+    "headline_fi": "🔴 Live: France summons Iranian ambassador over 'disinformation' on student protests",
+    "link": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
+    "source": "France 24",
+    "pub": "2026-10-07 18:52"
+  },
+  {
+    "headline": "EU countries will release fresh oil stocks only after top agency assessment",
+    "headline_fi": "EU countries will release fresh oil stocks only after top agency assessment",
+    "link": "https://www.politico.eu/article/eu-countries-will-release-fresh-oil-stocks-only-after-iea-assessment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-07 18:51"
+  },
+  {
+    "headline": "“Super Intelligence Force” : ce que la Maison-Blanche attend de cette task force sur l’IA",
+    "headline_fi": "“Super Intelligence Force” : ce que la Maison-Blanche attend de cette task force sur l’IA",
+    "link": "https://www.politico.eu/article/super-intelligence-force-ce-que-la-maison-blanche-attend-de-cette-task-force-sur-lia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-07 18:37"
+  },
+  {
+    "headline": "Russia dismisses transparency calls amid reports of second Siberia plague case",
+    "headline_fi": "Russia dismisses transparency calls amid reports of second Siberia plague case",
+    "link": "https://www.euronews.com/2026/10/07/russia-dismisses-transparency-calls-amid-reports-of-second-siberia-plague-case",
+    "source": "Euronews",
+    "pub": "2026-10-07 18:36"
+  },
+  {
+    "headline": "Deadly drone attacks raise questions over Europe’s Black Sea defences",
+    "headline_fi": "Deadly drone attacks raise questions over Europe’s Black Sea defences",
+    "link": "https://www.euronews.com/2026/10/07/deadly-drone-attacks-raise-questions-over-europes-black-sea-defences",
+    "source": "Euronews",
+    "pub": "2026-10-07 18:33"
+  },
+  {
+    "headline": "‘We will certainly look at it’: Trump says he will consider permanent US military base in Lithuania",
+    "headline_fi": "‘We will certainly look at it’: Trump says he will consider permanent US military base in Lithuania",
+    "link": "https://www.euronews.com/2026/10/07/we-will-certainly-look-at-it-trump-says-he-will-consider-permanent-us-military-base-in-lit",
+    "source": "Euronews",
+    "pub": "2026-10-07 18:26"
+  },
+  {
     "headline": "Transgressive, edgy DIY: What the 90s meant for British art",
     "headline_fi": "Transgressive, edgy DIY: What the 90s meant for British art",
     "link": "https://www.dw.com/en/transgressive-edgy-diy-what-the-90s-meant-for-british-art/a-79581777?maca=en-rss-en-all-1573-rdf",
@@ -12,6 +257,13 @@
     "link": "https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 18:17"
+  },
+  {
+    "headline": "Residents search belongings after Jerusalem building demolished",
+    "headline_fi": "Residents search belongings after Jerusalem building demolished",
+    "link": "https://www.euronews.com/video/2026/10/07/residents-search-belongings-after-jerusalem-building-demolished",
+    "source": "Euronews",
+    "pub": "2026-10-07 18:09"
   },
   {
     "headline": "MEPs urge tougher action against China as tensions hit ‘critical point’",
@@ -70,9 +322,9 @@
     "pub": "2026-10-07 17:22"
   },
   {
-    "headline": "Menopause drug Lenzetto back in Spanish pharmacies from November",
-    "headline_fi": "Menopause drug Lenzetto back in Spanish pharmacies from November",
-    "link": "https://www.euronews.com/2026/10/07/menopause-drug-lenzetto-back-in-spanish-pharmacies-from-november",
+    "headline": "Menopause drug Lenzetto to return to Spanish pharmacies in November",
+    "headline_fi": "Menopause drug Lenzetto to return to Spanish pharmacies in November",
+    "link": "https://www.euronews.com/2026/10/07/menopause-drug-lenzetto-to-return-to-spanish-pharmacies-in-november",
     "source": "Euronews",
     "pub": "2026-10-07 17:20"
   },
@@ -175,20 +427,6 @@
     "pub": "2026-10-07 16:39"
   },
   {
-    "headline": "'Great moral courage: The French thought they knew de Gaulle and suddenly realized they didn't'",
-    "headline_fi": "'Great moral courage: The French thought they knew de Gaulle and suddenly realized they didn't'",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261007-great-moral-courage-the-french-thought-they-knew-de-gaulle-and-suddenly-realized-they-didn-t",
-    "source": "France 24",
-    "pub": "2026-10-07 16:36"
-  },
-  {
-    "headline": "October 7: Former Israeli hostage speaks to France 24",
-    "headline_fi": "October 7: Former Israeli hostage speaks to France 24",
-    "link": "https://www.france24.com/en/video/20261007-october-7-former-israeli-hostage-speaks-to-france-24",
-    "source": "France 24",
-    "pub": "2026-10-07 16:30"
-  },
-  {
     "headline": "Iran parliament votes to criminalise interviews with 'hostile' foreign media",
     "headline_fi": "Iran parliament votes to criminalise interviews with 'hostile' foreign media",
     "link": "https://www.euronews.com/2026/10/07/iran-parliament-votes-to-criminalise-interviews-with-hostile-foreign-media",
@@ -196,60 +434,11 @@
     "pub": "2026-10-07 16:27"
   },
   {
-    "headline": "French parents join school protests to support and protect their children",
-    "headline_fi": "French parents join school protests to support and protect their children",
-    "link": "https://www.france24.com/en/video/20261007-french-parents-join-school-protests-to-support-and-protect-their-children",
-    "source": "France 24",
-    "pub": "2026-10-07 16:22"
-  },
-  {
-    "headline": "Three years on, October 7 massacre sites in Israel draw visitors seeking to remember",
-    "headline_fi": "Three years on, October 7 massacre sites in Israel draw visitors seeking to remember",
-    "link": "https://www.france24.com/en/video/20261007-three-years-on-october-7-massacre-sites-in-israel-draw-visitors-seeking-to-remember",
-    "source": "France 24",
-    "pub": "2026-10-07 16:21"
-  },
-  {
-    "headline": "Three years on, questions remain over what Netanyahu knew before October 7",
-    "headline_fi": "Three years on, questions remain over what Netanyahu knew before October 7",
-    "link": "https://www.france24.com/en/video/20261007-three-years-on-questions-remain-over-what-netanyahu-knew-before-october-7",
-    "source": "France 24",
-    "pub": "2026-10-07 16:18"
-  },
-  {
     "headline": "China's Golden Week reveals cautious consumer spending despite travel surge",
     "headline_fi": "China's Golden Week reveals cautious consumer spending despite travel surge",
     "link": "https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 16:18"
-  },
-  {
-    "headline": "Devastation in Gaza: Three years of war reshape the enclave beyond recognition",
-    "headline_fi": "Devastation in Gaza: Three years of war reshape the enclave beyond recognition",
-    "link": "https://www.france24.com/en/video/20261007-devastation-in-gaza-three-years-of-war-reshape-the-enclave-beyond-recognition",
-    "source": "France 24",
-    "pub": "2026-10-07 16:17"
-  },
-  {
-    "headline": "October 7, hour by hour: How the Hamas attack on Israel unfolded",
-    "headline_fi": "October 7, hour by hour: How the Hamas attack on Israel unfolded",
-    "link": "https://www.france24.com/en/video/20261007-october-7-hour-by-hour-how-the-hamas-attack-on-israel-unfolded",
-    "source": "France 24",
-    "pub": "2026-10-07 16:15"
-  },
-  {
-    "headline": "French wine output set to hit historic low after record summer heatwaves",
-    "headline_fi": "French wine output set to hit historic low after record summer heatwaves",
-    "link": "https://www.france24.com/en/france/20261007-historic-lows-expected-for-french-wine-harvest-after-record-summer-heatwaves",
-    "source": "France 24",
-    "pub": "2026-10-07 16:08"
-  },
-  {
-    "headline": "'Time doesn't heal': Parents of October 7 attacks victim Aner Shapira",
-    "headline_fi": "'Time doesn't heal': Parents of October 7 attacks victim Aner Shapira",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261007-time-doesn-t-heal-parents-of-aner-shapira-killed-on-october-7-2023",
-    "source": "France 24",
-    "pub": "2026-10-07 15:59"
   },
   {
     "headline": "Judo 2026 World Championships: Koga and Yusifov Strike Gold on Opening Day in Baku",
@@ -271,13 +460,6 @@
     "link": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 15:39"
-  },
-  {
-    "headline": "Three years after October 7 attacks, Israel's economy shows its strength",
-    "headline_fi": "Three years after October 7 attacks, Israel's economy shows its strength",
-    "link": "https://www.france24.com/en/tv-shows/business/20261007-three-years-after-october-7-attacks-israel-s-economy-shows-its-strength",
-    "source": "France 24",
-    "pub": "2026-10-07 15:30"
   },
   {
     "headline": "US, Greece to jointly combat security threats, Rubio says",
@@ -322,13 +504,6 @@
     "pub": "2026-10-07 15:12"
   },
   {
-    "headline": "UK hopeful of deal with EU on Made in Europe",
-    "headline_fi": "UK hopeful of deal with EU on Made in Europe",
-    "link": "https://www.politico.eu/article/uk-hopeful-of-deal-with-eu-on-made-in-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-07 15:09"
-  },
-  {
     "headline": "One-minute siren sounds in Tel Aviv to mark October 7 anniversary",
     "headline_fi": "One-minute siren sounds in Tel Aviv to mark October 7 anniversary",
     "link": "https://www.euronews.com/video/2026/10/07/one-minute-siren-sounds-in-tel-aviv-to-mark-october-7-anniversary",
@@ -343,13 +518,6 @@
     "pub": "2026-10-07 14:46"
   },
   {
-    "headline": "Berlin und Paris: Diesel-Versprechen an Trump erfordert keine neue Freigabe",
-    "headline_fi": "Berlin und Paris: Diesel-Versprechen an Trump erfordert keine neue Freigabe",
-    "link": "https://www.politico.eu/article/berlin-und-paris-diesel-versprechen-an-trump-erfordert-keine-neue-freigabe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-07 14:39"
-  },
-  {
     "headline": "Finland orders pause on Google AI data centres over environmental concerns",
     "headline_fi": "Finland orders pause on Google AI data centres over environmental concerns",
     "link": "https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns",
@@ -362,13 +530,6 @@
     "link": "https://www.euronews.com/video/2026/10/07/tokyo-sleep-competition-offers-2-million-yen-prize-to-best-sleeper",
     "source": "Euronews",
     "pub": "2026-10-07 14:30"
-  },
-  {
-    "headline": "WHO seeks clarity on second pneumonia case in Russia amid plague fears",
-    "headline_fi": "WHO seeks clarity on second pneumonia case in Russia amid plague fears",
-    "link": "https://www.politico.eu/article/world-health-organization-who-information-pneumonia-russia-plague/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-07 14:29"
   },
   {
     "headline": "Trump to talk plague with Putin as Russia plays down fears of outbreak",
@@ -390,13 +551,6 @@
     "link": "https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 14:11"
-  },
-  {
-    "headline": "October 7: Israelis mark three years since Hamas attacks",
-    "headline_fi": "October 7: Israelis mark three years since Hamas attacks",
-    "link": "https://www.france24.com/en/video/20261007-october-7-israelis-mark-three-years-since-hamas-attacks",
-    "source": "France 24",
-    "pub": "2026-10-07 14:04"
   },
   {
     "headline": "Debate: Three years after the attack on Israel: what remains?",
@@ -462,13 +616,6 @@
     "pub": "2026-10-07 14:02"
   },
   {
-    "headline": "France suspends stun grenade use at student protests ahead of PM speech",
-    "headline_fi": "France suspends stun grenade use at student protests ahead of PM speech",
-    "link": "https://www.france24.com/en/video/20261007-france-suspends-stun-grenade-use-at-student-protests-ahead-of-pm-speech",
-    "source": "France 24",
-    "pub": "2026-10-07 13:55"
-  },
-  {
     "headline": "Kyiv residents take refuge underground during overnight Russian attacks",
     "headline_fi": "Kyiv residents take refuge underground during overnight Russian attacks",
     "link": "https://www.euronews.com/video/2026/10/07/kyiv-residents-take-refuge-underground-during-overnight-russian-attacks",
@@ -490,39 +637,11 @@
     "pub": "2026-10-07 13:33"
   },
   {
-    "headline": "France and Germany say diesel promise to Trump won’t require new stock release",
-    "headline_fi": "France and Germany say diesel promise to Trump won’t require new stock release",
-    "link": "https://www.politico.eu/article/france-and-germany-say-diesel-promise-to-trump-wont-require-new-stock-release/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-07 13:12"
-  },
-  {
     "headline": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
     "headline_fi": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
     "link": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition",
     "source": "Euronews",
     "pub": "2026-10-07 13:12"
-  },
-  {
-    "headline": "Latest news bulletin | October 7th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 7th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-07 13:00"
-  },
-  {
-    "headline": "Why are Melania Trump staffers gloating about ‘Digger’ and its box office woes?",
-    "headline_fi": "Why are Melania Trump staffers gloating about ‘Digger’ and its box office woes?",
-    "link": "https://www.euronews.com/2026/10/07/why-are-melania-trump-staffers-gloating-about-digger-and-its-box-office-woes",
-    "source": "Euronews",
-    "pub": "2026-10-07 12:49"
-  },
-  {
-    "headline": "Hardline Iranian MPs move to impeach foreign minister over UN General Assembly talks",
-    "headline_fi": "Hardline Iranian MPs move to impeach foreign minister over UN General Assembly talks",
-    "link": "https://www.euronews.com/2026/10/07/hardline-iranian-mps-move-to-impeach-foreign-minister-over-un-general-assembly-talks",
-    "source": "Euronews",
-    "pub": "2026-10-07 12:44"
   },
   {
     "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
@@ -532,20 +651,6 @@
     "pub": "2026-10-07 12:44"
   },
   {
-    "headline": "Zelenskyy says Russia missile attack that killed 14 is birthday 'gift' to Putin",
-    "headline_fi": "Zelenskyy says Russia missile attack that killed 14 is birthday 'gift' to Putin",
-    "link": "https://www.euronews.com/2026/10/07/zelensky-says-russia-missile-attack-that-killed-12-is-birthday-gift-to-putin",
-    "source": "Euronews",
-    "pub": "2026-10-07 12:33"
-  },
-  {
-    "headline": "EU trade chief heads to Beijing under pressure to deliver on Chinese imports",
-    "headline_fi": "EU trade chief heads to Beijing under pressure to deliver on Chinese imports",
-    "link": "https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports",
-    "source": "Euronews",
-    "pub": "2026-10-07 11:58"
-  },
-  {
     "headline": "Nobelitis — How winning a Nobel Prize can give you delusions of grandeur",
     "headline_fi": "Nobelitis — How winning a Nobel Prize can give you delusions of grandeur",
     "link": "https://www.dw.com/en/nobelitis-how-winning-a-nobel-prize-can-give-you-delusions-of-grandeur/a-79525772?maca=en-rss-en-all-1573-rdf",
@@ -553,95 +658,11 @@
     "pub": "2026-10-07 11:58"
   },
   {
-    "headline": "Russia asks Vietnam for planes as illegally re-registered Western fleet falls apart",
-    "headline_fi": "Russia asks Vietnam for planes as illegally re-registered Western fleet falls apart",
-    "link": "https://www.euronews.com/2026/10/07/russia-asks-vietnam-for-planes-as-illegally-re-registered-western-fleet-falls-apart",
-    "source": "Euronews",
-    "pub": "2026-10-07 11:47"
-  },
-  {
-    "headline": "Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says",
-    "headline_fi": "Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says",
-    "link": "https://www.euronews.com/video/2026/10/07/removing-russian-oligarchs-from-sanctions-list-sets-a-very-bad-precedent-browder-says",
-    "source": "Euronews",
-    "pub": "2026-10-07 11:18"
-  },
-  {
-    "headline": "IMF chief signals austerity is back as global public debt heads for 100% of GDP",
-    "headline_fi": "IMF chief signals austerity is back as global public debt heads for 100% of GDP",
-    "link": "https://www.euronews.com/2026/10/07/imf-chief-signals-austerity-is-back-as-global-public-debt-heads-for-100-of-gdp",
-    "source": "Euronews",
-    "pub": "2026-10-07 11:14"
-  },
-  {
-    "headline": "Israel pauses in moment of silence to remember those killed on 7 October",
-    "headline_fi": "Israel pauses in moment of silence to remember those killed on 7 October",
-    "link": "https://www.euronews.com/2026/10/07/israel-pauses-in-moment-of-silence-to-remember-those-killed-on-7-october",
-    "source": "Euronews",
-    "pub": "2026-10-07 11:00"
-  },
-  {
-    "headline": "The solar boom is rapidly transforming emerging economies",
-    "headline_fi": "The solar boom is rapidly transforming emerging economies",
-    "link": "https://www.dw.com/en/the-solar-boom-is-rapidly-transforming-emerging-economies/a-79474847?maca=en-rss-en-all-1573-rdf",
+    "headline": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
+    "headline_fi": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
+    "link": "https://www.dw.com/en/emerging-economies-are-embracing-solar-power-and-skipping-fossil-fuels-much-faster-than-europe-or-the-us/a-79474847?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 10:48"
-  },
-  {
-    "headline": "Israel's ambassador Zarka: France has a serious antisemitism problem",
-    "headline_fi": "Israel's ambassador Zarka: France has a serious antisemitism problem",
-    "link": "https://www.euronews.com/video/2026/10/07/israels-ambassador-zarka-france-has-a-serious-antisemitism-problem",
-    "source": "Euronews",
-    "pub": "2026-10-07 10:36"
-  },
-  {
-    "headline": "India hikes interest rates for first time in over three years as Iran war fuels inflation",
-    "headline_fi": "India hikes interest rates for first time in over three years as Iran war fuels inflation",
-    "link": "https://www.euronews.com/2026/10/07/india-hikes-interest-rates-for-first-time-in-over-three-years-as-iran-war-fuels-inflation",
-    "source": "Euronews",
-    "pub": "2026-10-07 10:27"
-  },
-  {
-    "headline": "Eva Marie Saint, ‘North By Northwest’ star and 'On the Waterfront' Oscar winner, dies aged 102",
-    "headline_fi": "Eva Marie Saint, ‘North By Northwest’ star and 'On the Waterfront' Oscar winner, dies aged 102",
-    "link": "https://www.euronews.com/2026/10/07/eva-marie-saint-north-by-northwest-star-and-on-the-waterfront-oscar-winner-dies-aged-102",
-    "source": "Euronews",
-    "pub": "2026-10-07 10:26"
-  },
-  {
-    "headline": "Siberia plague outbreak is an 'isolated incident', virologist says",
-    "headline_fi": "Siberia plague outbreak is an 'isolated incident', virologist says",
-    "link": "https://www.euronews.com/video/2026/10/07/siberia-plague-outbreak-is-an-isolated-incident-virologist-says",
-    "source": "Euronews",
-    "pub": "2026-10-07 10:17"
-  },
-  {
-    "headline": "Israelis mourn Nova festival victims three years after Hamas attack",
-    "headline_fi": "Israelis mourn Nova festival victims three years after Hamas attack",
-    "link": "https://www.euronews.com/video/2026/10/07/israelis-mourn-nova-festival-victims-three-years-after-hamas-attack",
-    "source": "Euronews",
-    "pub": "2026-10-07 10:00"
-  },
-  {
-    "headline": "Israel marks third anniversary of October 7 Hamas terror attacks with memorials",
-    "headline_fi": "Israel marks third anniversary of October 7 Hamas terror attacks with memorials",
-    "link": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 09:51"
-  },
-  {
-    "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
-    "headline_fi": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
-    "link": "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 09:49"
-  },
-  {
-    "headline": "India news: Opposition protest clouds Modi's 25-year milestone",
-    "headline_fi": "India news: Opposition protest clouds Modi's 25-year milestone",
-    "link": "https://www.dw.com/en/india-news-opposition-protest-clouds-modi-s-25-year-milestone/live-79570653?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 08:03"
   },
   {
     "headline": "Where is Spain headed after the snap election announcement?",
@@ -649,13 +670,6 @@
     "link": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 07:33"
-  },
-  {
-    "headline": "Mali: Junta forces retake strategic town of Kidal from separatists",
-    "headline_fi": "Mali: Junta forces retake strategic town of Kidal from separatists",
-    "link": "https://www.dw.com/en/mali-junta-forces-retake-strategic-town-of-kidal-from-separatists/a-79570617?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 05:45"
   },
   {
     "headline": "EU seeks ways to make expansion more palatable to members",
@@ -943,13 +957,6 @@
     "link": "https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-29 17:20"
-  },
-  {
-    "headline": "UK PM Burnham seeks 'hope again' at Labour Party conference",
-    "headline_fi": "UK PM Burnham seeks 'hope again' at Labour Party conference",
-    "link": "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-29 16:38"
   },
   {
     "headline": "Global trade weathers Iran, Ukraine and Trump's tariffs",
