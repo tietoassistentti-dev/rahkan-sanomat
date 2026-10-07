@@ -1,140 +1,280 @@
 [
   {
+    "headline": "Germany: Did CDU lawmakers support the far-right AfD?",
+    "headline_fi": "Saksa: tukivatko CDU:n lainsäätäjät äärioikeistolaista AfD:tä?",
+    "link": "https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-07 14:11"
+  },
+  {
+    "headline": "October 7: Israelis mark three years since Hamas attacks",
+    "headline_fi": "7. lokakuuta: Israel viettää kolme vuotta Hamasin hyökkäyksistä",
+    "link": "https://www.france24.com/en/video/20261007-october-7-israelis-mark-three-years-since-hamas-attacks",
+    "source": "France 24",
+    "pub": "2026-10-07 14:04"
+  },
+  {
+    "headline": "Debate: Three years after the attack on Israel: what remains?",
+    "headline_fi": "Keskustelu: Kolme vuotta Israelin hyökkäyksen jälkeen: mitä jää jäljelle?",
+    "link": "https://www.eurotopics.net/en/365204/three-years-after-the-attack-on-israel-what-remains?pk_campaign=rss-en&pk_kwd=2026-10-07",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "Stubborn government, poisoned population | El País - Spain",
+    "headline_fi": "Itsepäinen hallitus, myrkytetty väestö |El País - Espanja",
+    "link": "https://www.eurotopics.net/en/365204/three-years-after-the-attack-on-israel-what-remains?zitat=365173&pk_campaign=rss-en&pk_kwd=2026-10-07#zitat365173",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "Pro-Palestine demonstrations on this day mock the victims | Expressen - Sweden",
+    "headline_fi": "Palestiinaa tukevissa mielenosoituksissa tänä päivänä pilkataan uhreja |Expressen - Ruotsi",
+    "link": "https://www.eurotopics.net/en/365204/three-years-after-the-attack-on-israel-what-remains?zitat=365188&pk_campaign=rss-en&pk_kwd=2026-10-07#zitat365188",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "Debate: Saxony-Anhalt: first ever AfD parliamentary speaker",
+    "headline_fi": "Keskustelu: Saksi-Anhalt: ensimmäinen AfD:n parlamentin puhemies",
+    "link": "https://www.eurotopics.net/en/365206/saxony-anhalt-first-ever-afd-parliamentary-speaker?pk_campaign=rss-en&pk_kwd=2026-10-07",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "Chance to renew dialogue with Russia | Iswestija - Russia",
+    "headline_fi": "Mahdollisuus jatkaa vuoropuhelua Venäjän kanssa |Iswestija - Venäjä",
+    "link": "https://www.eurotopics.net/en/365206/saxony-anhalt-first-ever-afd-parliamentary-speaker?zitat=365152&pk_campaign=rss-en&pk_kwd=2026-10-07#zitat365152",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "Backlash triggered by disregard | NV - Ukraine",
+    "headline_fi": "Huomioimatta jättämisen aiheuttama takaisku |NV - Ukraina",
+    "link": "https://www.eurotopics.net/en/365206/saxony-anhalt-first-ever-afd-parliamentary-speaker?zitat=365192&pk_campaign=rss-en&pk_kwd=2026-10-07#zitat365192",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "Debate: Suspected case of plague in Siberia",
+    "headline_fi": "Keskustelu: Epäilty ruttotapaus Siperiassa",
+    "link": "https://www.eurotopics.net/en/365205/suspected-case-of-plague-in-siberia?pk_campaign=rss-en&pk_kwd=2026-10-07",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "Debate: Czech Republic: a president who skips elections?",
+    "headline_fi": "Keskustelu: Tšekki: presidentti, joka ohittaa vaalit?",
+    "link": "https://www.eurotopics.net/en/365207/czech-republic-a-president-who-skips-elections?pk_campaign=rss-en&pk_kwd=2026-10-07",
+    "source": "Eurotopics",
+    "pub": "2026-10-07 14:03"
+  },
+  {
+    "headline": "France suspends stun grenade use at student protests ahead of PM speech",
+    "headline_fi": "Ranska keskeyttää tainnutuskranaattien käytön opiskelijamielenosoituksissa ennen pääministerin puhetta",
+    "link": "https://www.france24.com/en/video/20261007-france-suspends-stun-grenade-use-at-student-protests-ahead-of-pm-speech",
+    "source": "France 24",
+    "pub": "2026-10-07 13:55"
+  },
+  {
+    "headline": "Israeli papers commemorate October 7 attacks, three years on",
+    "headline_fi": "Israelin lehdet muistelevat lokakuun 7. päivän iskuja, kolme vuotta myöhemmin",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20261007-israeli-papers-commemorate-october-7-attacks-three-years-on",
+    "source": "France 24",
+    "pub": "2026-10-07 13:55"
+  },
+  {
+    "headline": "French government scrambles to calm nationwide student protests",
+    "headline_fi": "Ranskan hallitus pyrkii rauhoittamaan valtakunnallisia opiskelijamielenosoituksia",
+    "link": "https://www.france24.com/en/video/20261007-french-government-scrambles-to-calm-nationwide-student-protests",
+    "source": "France 24",
+    "pub": "2026-10-07 13:54"
+  },
+  {
+    "headline": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
+    "headline_fi": "Paramount päättää suuren Warner Brosin fuusion luodakseen Hollywoodin voimanpesän Skydancen",
+    "link": "https://www.france24.com/en/video/20261007-paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance",
+    "source": "France 24",
+    "pub": "2026-10-07 13:26"
+  },
+  {
+    "headline": "Israel marks three years since Hamas's October 7 attack",
+    "headline_fi": "Israel täyttää kolme vuotta Hamasin hyökkäyksestä lokakuun 7. päivänä",
+    "link": "https://www.france24.com/en/video/20261007-israel-marks-three-years-since-hamas-s-october-7-attack",
+    "source": "France 24",
+    "pub": "2026-10-07 13:24"
+  },
+  {
+    "headline": "Three years since Hamas October 7 attack: What did Netanyahu know?",
+    "headline_fi": "Kolme vuotta Hamasin hyökkäyksestä lokakuun 7. päivänä: Mitä Netanjahu tiesi?",
+    "link": "https://www.france24.com/en/video/20261007-three-years-since-hamas-october-7-attack-what-did-netanyahu-know",
+    "source": "France 24",
+    "pub": "2026-10-07 13:23"
+  },
+  {
+    "headline": "Houthis attack Aden airport as fighting intensifies in Yemen",
+    "headline_fi": "Huthit hyökkäävät Adenin lentokentälle taistelujen kiihtyessä Jemenissä",
+    "link": "https://www.france24.com/en/video/20261007-houthis-attack-aden-airport-as-fighting-intensifies-in-yemen",
+    "source": "France 24",
+    "pub": "2026-10-07 13:20"
+  },
+  {
+    "headline": "Trump to speak to Putin on plague as US, UN urge transparency",
+    "headline_fi": "Trump puhuu Putinille rutosta, kun Yhdysvallat ja YK vaativat avoimuutta",
+    "link": "https://www.france24.com/en/video/20261007-trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency",
+    "source": "France 24",
+    "pub": "2026-10-07 13:19"
+  },
+  {
+    "headline": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
+    "headline_fi": "İzmirin keskustavasemmistolainen pormestari liittyy Erdoğanin AK-puolueeseen, järkyttäen Turkin oppositiota",
+    "link": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition",
+    "source": "Euronews",
+    "pub": "2026-10-07 13:12"
+  },
+  {
+    "headline": "Latest news bulletin | October 7th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |7. lokakuuta 2026 – keskipäivä",
+    "link": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-10-07 13:00"
+  },
+  {
     "headline": "🔴Nobel Prize in chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
-    "headline_fi": "🔴Kemian Nobelin palkinto myönnettiin ranskalaiselle Henri Kaganille, japanilaiselle Kenso Soaille",
+    "headline_fi": "🔴Nobel Prize in chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
     "link": "https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai",
     "source": "France 24",
     "pub": "2026-10-07 12:54"
   },
   {
     "headline": "Nobel Prize in Chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
-    "headline_fi": "Nobelin kemian palkinto myönnettiin ranskalaiselle Henri Kaganille, japanilaiselle Kenso Soaille",
+    "headline_fi": "Nobel Prize in Chemistry awarded to France's Henri Kagan, Japan's Kenso Soai",
     "link": "https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai",
     "source": "France 24",
     "pub": "2026-10-07 12:52"
   },
   {
     "headline": "Why are Melania Trump staffers gloating about ‘Digger’ and its box office woes?",
-    "headline_fi": "Miksi Melania Trumpin työntekijät iloitsevat \"Diggeristä\" ja sen lipputuloista?",
+    "headline_fi": "Why are Melania Trump staffers gloating about ‘Digger’ and its box office woes?",
     "link": "https://www.euronews.com/2026/10/07/why-are-melania-trump-staffers-gloating-about-digger-and-its-box-office-woes",
     "source": "Euronews",
     "pub": "2026-10-07 12:49"
   },
   {
     "headline": "Hardline Iranian MPs move to impeach foreign minister over UN General Assembly talks",
-    "headline_fi": "Kovan linjan Iranin kansanedustajat aikovat nostaa ulkoministerin viran YK:n yleiskokouksen neuvotteluista",
+    "headline_fi": "Hardline Iranian MPs move to impeach foreign minister over UN General Assembly talks",
     "link": "https://www.euronews.com/2026/10/07/hardline-iranian-mps-move-to-impeach-foreign-minister-over-un-general-assembly-talks",
     "source": "Euronews",
     "pub": "2026-10-07 12:44"
   },
   {
     "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
-    "headline_fi": "Epäilty keuhkoputto Siperiassa: Mitä tiedämme taudista",
+    "headline_fi": "Suspected pneumonic plague in Siberia: What we know about the disease",
     "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 12:44"
   },
   {
     "headline": "Russia hits Ukraine with wave of attacks on Putin’s birthday",
-    "headline_fi": "Venäjä iskee Ukrainaan iskuilla Putinin syntymäpäivänä",
+    "headline_fi": "Russia hits Ukraine with wave of attacks on Putin’s birthday",
     "link": "https://www.politico.eu/article/russia-ukraine-attacks-vladimir-putin-birthday/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-07 12:34"
   },
   {
     "headline": "Zelenskyy says Russia missile attack that killed 12 is birthday 'gift' to Putin",
-    "headline_fi": "Zelensky sanoo, että Venäjän ohjushyökkäys, jossa kuoli 12 ihmistä, on syntymäpäivälahja Putinille",
+    "headline_fi": "Zelenskyy says Russia missile attack that killed 12 is birthday 'gift' to Putin",
     "link": "https://www.euronews.com/2026/10/07/zelensky-says-russia-missile-attack-that-killed-12-is-birthday-gift-to-putin",
     "source": "Euronews",
     "pub": "2026-10-07 12:33"
   },
   {
     "headline": "EU trade chief heads to Beijing under pressure to deliver on Chinese imports",
-    "headline_fi": "EU:n kauppapäällikkö suuntaa Pekingiin paineen alla toimittaa kiinalaista tuontia",
+    "headline_fi": "EU trade chief heads to Beijing under pressure to deliver on Chinese imports",
     "link": "https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports",
     "source": "Euronews",
     "pub": "2026-10-07 11:58"
   },
   {
     "headline": "Nobelitis — How winning a Nobel Prize can give you delusions of grandeur",
-    "headline_fi": "Nobelitis – Kuinka Nobel-palkinnon voittaminen voi saada aikaan harhaluuloja suuruudesta",
+    "headline_fi": "Nobelitis — How winning a Nobel Prize can give you delusions of grandeur",
     "link": "https://www.dw.com/en/nobelitis-how-winning-a-nobel-prize-can-give-you-delusions-of-grandeur/a-79525772?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 11:58"
   },
   {
     "headline": "Russia asks Vietnam for planes as illegally re-registered Western fleet falls apart",
-    "headline_fi": "Venäjä pyytää Vietnamilta koneita, koska laittomasti uudelleenrekisteröity länsimainen laivasto hajoaa",
+    "headline_fi": "Russia asks Vietnam for planes as illegally re-registered Western fleet falls apart",
     "link": "https://www.euronews.com/2026/10/07/russia-asks-vietnam-for-planes-as-illegally-re-registered-western-fleet-falls-apart",
     "source": "Euronews",
     "pub": "2026-10-07 11:47"
   },
   {
     "headline": "Will Tory donors splash the cash?",
-    "headline_fi": "Roiskuvatko toryn lahjoittajat käteistä?",
+    "headline_fi": "Will Tory donors splash the cash?",
     "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-tory-donors-splash-the-cash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-07 11:41"
   },
   {
     "headline": "Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death",
-    "headline_fi": "Politkovskaja \"ennusti\" Venäjän käännettä Putinin aikana, toimittaja sanoo hänen kuolemansa 20-vuotispäivänä",
+    "headline_fi": "Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death",
     "link": "https://www.france24.com/en/europe/20261007-anna-politkovskaya-the-slain-reporter-who-predicted-russia-future",
     "source": "France 24",
     "pub": "2026-10-07 11:32"
   },
   {
     "headline": "Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says",
-    "headline_fi": "Venäläisten oligarkkien poistaminen pakotelistalta on \"erittäin huono ennakkotapaus\", Browder sanoo",
+    "headline_fi": "Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says",
     "link": "https://www.euronews.com/video/2026/10/07/removing-russian-oligarchs-from-sanctions-list-sets-a-very-bad-precedent-browder-says",
     "source": "Euronews",
     "pub": "2026-10-07 11:18"
   },
   {
     "headline": "IMF chief signals austerity is back as global public debt heads for 100% of GDP",
-    "headline_fi": "Kansainvälisen valuuttarahaston IMF:n pääjohtaja osoittaa, että säästötoimet ovat palanneet, sillä maailman julkinen velka on 100 % BKT:sta",
+    "headline_fi": "IMF chief signals austerity is back as global public debt heads for 100% of GDP",
     "link": "https://www.euronews.com/2026/10/07/imf-chief-signals-austerity-is-back-as-global-public-debt-heads-for-100-of-gdp",
     "source": "Euronews",
     "pub": "2026-10-07 11:14"
   },
   {
     "headline": "Israel pauses in moment of silence to remember those killed on 7 October",
-    "headline_fi": "Israel pysähtyy hiljaisuuden hetkeen muistellakseen kuolleita 7. lokakuuta",
+    "headline_fi": "Israel pauses in moment of silence to remember those killed on 7 October",
     "link": "https://www.euronews.com/2026/10/07/israel-pauses-in-moment-of-silence-to-remember-those-killed-on-7-october",
     "source": "Euronews",
     "pub": "2026-10-07 11:00"
   },
   {
     "headline": "The solar boom is rapidly transforming emerging economies",
-    "headline_fi": "Aurinkobuumi muuttaa nopeasti nousevia talouksia",
+    "headline_fi": "The solar boom is rapidly transforming emerging economies",
     "link": "https://www.dw.com/en/the-solar-boom-is-rapidly-transforming-emerging-economies/a-79474847?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 10:48"
   },
   {
     "headline": "Live: France suspends stun grenade use in school protests after 15-year-old loses hand",
-    "headline_fi": "Live: Ranska keskeyttää tainnutuskranaattien käytön koulujen mielenosoituksissa 15-vuotiaan menetyksen jälkeen",
+    "headline_fi": "Live: France suspends stun grenade use in school protests after 15-year-old loses hand",
     "link": "https://www.france24.com/en/france/20261007-live-france-suspends-stun-grenade-use-school-protests-after-15-year-old-loses-hand",
     "source": "France 24",
     "pub": "2026-10-07 10:47"
   },
   {
     "headline": "Israel's ambassador Zarka: France has a serious antisemitism problem",
-    "headline_fi": "Israelin suurlähettiläs Zarka: Ranskalla on vakava antisemitismiongelma",
+    "headline_fi": "Israel's ambassador Zarka: France has a serious antisemitism problem",
     "link": "https://www.euronews.com/video/2026/10/07/israels-ambassador-zarka-france-has-a-serious-antisemitism-problem",
     "source": "Euronews",
     "pub": "2026-10-07 10:36"
   },
   {
     "headline": "India hikes interest rates for first time in over three years as Iran war fuels inflation",
-    "headline_fi": "Intia nostaa korkoa ensimmäistä kertaa yli kolmeen vuoteen Iranin sodan kiihdyttäessä inflaatiota",
+    "headline_fi": "India hikes interest rates for first time in over three years as Iran war fuels inflation",
     "link": "https://www.euronews.com/2026/10/07/india-hikes-interest-rates-for-first-time-in-over-three-years-as-iran-war-fuels-inflation",
     "source": "Euronews",
     "pub": "2026-10-07 10:27"
   },
   {
     "headline": "Eva Marie Saint, ‘North By Northwest’ star and 'On the Waterfront' Oscar winner, dies aged 102",
-    "headline_fi": "North By Northwest -tähti ja On the Waterfrontin Oscar-voittaja Eva Marie Saint on kuollut 102-vuotiaana.",
+    "headline_fi": "Eva Marie Saint, ‘North By Northwest’ star and 'On the Waterfront' Oscar winner, dies aged 102",
     "link": "https://www.euronews.com/2026/10/07/eva-marie-saint-north-by-northwest-star-and-on-the-waterfront-oscar-winner-dies-aged-102",
     "source": "Euronews",
     "pub": "2026-10-07 10:26"
@@ -406,60 +546,11 @@
     "pub": "2026-10-07 00:36"
   },
   {
-    "headline": "Kenya reports its first-ever Ebola death",
-    "headline_fi": "Kenya reports its first-ever Ebola death",
-    "link": "https://www.france24.com/en/kenya-reports-first-ever-ebola-death",
-    "source": "France 24",
-    "pub": "2026-10-07 00:28"
-  },
-  {
-    "headline": "French policeman charged after firing tear gas grenade at high school student",
-    "headline_fi": "French policeman charged after firing tear gas grenade at high school student",
-    "link": "https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student",
-    "source": "France 24",
-    "pub": "2026-10-07 00:04"
-  },
-  {
-    "headline": "Russian lab worker's death sparks plague fears as unverified claims spread online",
-    "headline_fi": "Russian lab worker's death sparks plague fears as unverified claims spread online",
-    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261006-russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
-    "source": "France 24",
-    "pub": "2026-10-06 23:58"
-  },
-  {
-    "headline": "How much does France spend on education?",
-    "headline_fi": "How much does France spend on education?",
-    "link": "https://www.france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education",
-    "source": "France 24",
-    "pub": "2026-10-06 23:29"
-  },
-  {
     "headline": "Judo: Japan crowns two new world champions in Baku",
     "headline_fi": "Judo: Japan crowns two new world champions in Baku",
     "link": "https://www.euronews.com/2026/10/06/judo-japan-crowns-two-new-world-champions-in-baku",
     "source": "Euronews",
     "pub": "2026-10-06 22:55"
-  },
-  {
-    "headline": "Police make seventh arrest over UK airbase incident",
-    "headline_fi": "Police make seventh arrest over UK airbase incident",
-    "link": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
-    "source": "France 24",
-    "pub": "2026-10-06 22:51"
-  },
-  {
-    "headline": "Calls to block social media platforms for minors in France amid school protests",
-    "headline_fi": "Calls to block social media platforms for minors in France amid school protests",
-    "link": "https://www.france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests",
-    "source": "France 24",
-    "pub": "2026-10-06 22:47"
-  },
-  {
-    "headline": "'We're fed up': Paris students rise up in a movement that shows no sign of slowing",
-    "headline_fi": "'We're fed up': Paris students rise up in a movement that shows no sign of slowing",
-    "link": "https://www.france24.com/en/france/20261006-we-re-fed-up-paris-students-rise-up-in-a-movement-that-shows-no-sign-of-slowing",
-    "source": "France 24",
-    "pub": "2026-10-06 22:41"
   },
   {
     "headline": "Naked Trump statue goes on display in Strasbourg",
@@ -511,8 +602,8 @@
     "pub": "2026-10-06 17:53"
   },
   {
-    "headline": "Book weighing over 200kg illustrated by Dalí and Cocteau stolen in Auvergne",
-    "headline_fi": "Book weighing over 200kg illustrated by Dalí and Cocteau stolen in Auvergne",
+    "headline": "A heavy lift: Thieves steal Dalí's 200kg diamond-studded 'Book of the Apocalypse' in France",
+    "headline_fi": "A heavy lift: Thieves steal Dalí's 200kg diamond-studded 'Book of the Apocalypse' in France",
     "link": "https://www.euronews.com/2026/10/06/book-weighing-over-200kg-illustrated-by-dali-and-cocteau-stolen-in-auvergne",
     "source": "Euronews",
     "pub": "2026-10-06 17:51"
@@ -567,20 +658,6 @@
     "pub": "2026-10-06 17:18"
   },
   {
-    "headline": "'Whole world is paying' for Iran war, Qatar warns as mediation efforts continue",
-    "headline_fi": "'Whole world is paying' for Iran war, Qatar warns as mediation efforts continue",
-    "link": "https://www.euronews.com/2026/10/06/whole-world-is-paying-for-iran-war-qatar-warns-as-mediation-efforts-continue",
-    "source": "Euronews",
-    "pub": "2026-10-06 17:17"
-  },
-  {
-    "headline": "EU countries to discuss suspected plague outbreak in Russia",
-    "headline_fi": "EU countries to discuss suspected plague outbreak in Russia",
-    "link": "https://www.euronews.com/2026/10/06/eu-countries-to-discuss-suspected-plague-outbreak-in-russia",
-    "source": "Euronews",
-    "pub": "2026-10-06 17:17"
-  },
-  {
     "headline": "Germany's far-right AfD makes history again in Saxony-Anhalt",
     "headline_fi": "Germany's far-right AfD makes history again in Saxony-Anhalt",
     "link": "https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-all-1573-rdf",
@@ -600,69 +677,6 @@
     "link": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 14:07"
-  },
-  {
-    "headline": "Debate: Brazil: lurch to the right with Bolsonaro?",
-    "headline_fi": "Debate: Brazil: lurch to the right with Bolsonaro?",
-    "link": "https://www.eurotopics.net/en/365128/brazil-lurch-to-the-right-with-bolsonaro?pk_campaign=rss-en&pk_kwd=2026-10-06",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Trumpists advancing across the globe | De Standaard - Belgium",
-    "headline_fi": "Trumpists advancing across the globe | De Standaard - Belgium",
-    "link": "https://www.eurotopics.net/en/365128/brazil-lurch-to-the-right-with-bolsonaro?zitat=365125&pk_campaign=rss-en&pk_kwd=2026-10-06#zitat365125",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Leaving Brics would not cause big waves | Radio Kommersant FM - Russia",
-    "headline_fi": "Leaving Brics would not cause big waves | Radio Kommersant FM - Russia",
-    "link": "https://www.eurotopics.net/en/365128/brazil-lurch-to-the-right-with-bolsonaro?zitat=365077&pk_campaign=rss-en&pk_kwd=2026-10-06#zitat365077",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Debate: Spain: snap election after tenant-protection decrees fail",
-    "headline_fi": "Debate: Spain: snap election after tenant-protection decrees fail",
-    "link": "https://www.eurotopics.net/en/365058/spain-snap-election-after-tenant-protection-decrees-fail?pk_campaign=rss-en&pk_kwd=2026-10-06",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Debate: Latvian elections: clear victory for incumbent PM",
-    "headline_fi": "Debate: Latvian elections: clear victory for incumbent PM",
-    "link": "https://www.eurotopics.net/en/365129/latvian-elections-clear-victory-for-incumbent-pm?pk_campaign=rss-en&pk_kwd=2026-10-06",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Flawless performance from political newcomer | Echo - Russia",
-    "headline_fi": "Flawless performance from political newcomer | Echo - Russia",
-    "link": "https://www.eurotopics.net/en/365129/latvian-elections-clear-victory-for-incumbent-pm?zitat=365078&pk_campaign=rss-en&pk_kwd=2026-10-06#zitat365078",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Hard times ahead for science and environmental protection? | Satori - Latvia",
-    "headline_fi": "Hard times ahead for science and environmental protection? | Satori - Latvia",
-    "link": "https://www.eurotopics.net/en/365129/latvian-elections-clear-victory-for-incumbent-pm?zitat=365095&pk_campaign=rss-en&pk_kwd=2026-10-06#zitat365095",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Free hand in picking a partner | Delfi - Estonia",
-    "headline_fi": "Free hand in picking a partner | Delfi - Estonia",
-    "link": "https://www.eurotopics.net/en/365129/latvian-elections-clear-victory-for-incumbent-pm?zitat=365117&pk_campaign=rss-en&pk_kwd=2026-10-06#zitat365117",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
-  },
-  {
-    "headline": "Debate: Bosnia and Herzegovina: new presidency elected",
-    "headline_fi": "Debate: Bosnia and Herzegovina: new presidency elected",
-    "link": "https://www.eurotopics.net/en/365130/bosnia-and-herzegovina-new-presidency-elected?pk_campaign=rss-en&pk_kwd=2026-10-06",
-    "source": "Eurotopics",
-    "pub": "2026-10-06 13:33"
   },
   {
     "headline": "AI models keep hacking real systems during tests. What does this mean?",
@@ -936,13 +950,6 @@
     "link": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-29 12:51"
-  },
-  {
-    "headline": "UK: US government questions bail for Fairford base suspects",
-    "headline_fi": "UK: US government questions bail for Fairford base suspects",
-    "link": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-29 11:17"
   },
   {
     "headline": "Germany news: COVID vaccine maker BioNTech to close 3 sites",
