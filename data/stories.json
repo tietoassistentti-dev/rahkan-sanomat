@@ -1,5 +1,82 @@
 [
   {
+    "headline": "Brazil: Thousands of students march against Bolsonaro",
+    "headline_fi": "Brazil: Thousands of students march against Bolsonaro",
+    "link": "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-08 03:50"
+  },
+  {
+    "headline": "EU, Canada and Lithuania pull out of disinformation conference after US pressure",
+    "headline_fi": "EU, Canada and Lithuania pull out of disinformation conference after US pressure",
+    "link": "https://www.politico.com/news/2026/10/07/disinformation-conference-europe-us-pressure-01111134?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-08 02:54"
+  },
+  {
+    "headline": "Russian man who swam from Kaliningrad to Lithuania in asylum attempt sentenced to six years hard labour",
+    "headline_fi": "Russian man who swam from Kaliningrad to Lithuania in asylum attempt sentenced to six years hard labour",
+    "link": "https://www.euronews.com/2026/10/08/russian-man-who-swam-from-kaliningrad-to-lithuania-in-asylum-attempt-sentenced-to-six-year",
+    "source": "Euronews",
+    "pub": "2026-10-08 01:45"
+  },
+  {
+    "headline": "DNC sues Trump administration over taxpayer-funded TV ads promoting president",
+    "headline_fi": "DNC sues Trump administration over taxpayer-funded TV ads promoting president",
+    "link": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads",
+    "source": "France 24",
+    "pub": "2026-10-08 01:27"
+  },
+  {
+    "headline": "No longer the same Israel? October 7th and the future of the Jewish State",
+    "headline_fi": "No longer the same Israel? October 7th and the future of the Jewish State",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20261007-no-longer-the-same-israel-october-7th-and-the-future-of-the-jewish-state",
+    "source": "France 24",
+    "pub": "2026-10-08 01:10"
+  },
+  {
+    "headline": "Thousands protest Flavio Bolsonaro, fearing far-right return in Brazil",
+    "headline_fi": "Thousands protest Flavio Bolsonaro, fearing far-right return in Brazil",
+    "link": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
+    "source": "France 24",
+    "pub": "2026-10-08 01:01"
+  },
+  {
+    "headline": "Israel marks three years since October 7 attack ahead of elections",
+    "headline_fi": "Israel marks three years since October 7 attack ahead of elections",
+    "link": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
+    "source": "France 24",
+    "pub": "2026-10-08 00:50"
+  },
+  {
+    "headline": "UN health agency wants more details from Russia on suspected pneumonic plague case",
+    "headline_fi": "UN health agency wants more details from Russia on suspected pneumonic plague case",
+    "link": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
+    "source": "France 24",
+    "pub": "2026-10-08 00:24"
+  },
+  {
+    "headline": "Christa Pike 'angry and confused' after botched execution",
+    "headline_fi": "Christa Pike 'angry and confused' after botched execution",
+    "link": "https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-08 00:23"
+  },
+  {
+    "headline": "France suspends stun grenade use at student protests after pupil loses hand",
+    "headline_fi": "France suspends stun grenade use at student protests after pupil loses hand",
+    "link": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
+    "source": "France 24",
+    "pub": "2026-10-08 00:19"
+  },
+  {
+    "headline": "French PM vows to address debt despite student protests",
+    "headline_fi": "French PM vows to address debt despite student protests",
+    "link": "https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests",
+    "source": "France 24",
+    "pub": "2026-10-08 00:13"
+  },
+  {
     "headline": "French prime minister says government not indifferent to students' concerns in TV address",
     "headline_fi": "French prime minister says government not indifferent to students' concerns in TV address",
     "link": "https://www.euronews.com/2026/10/07/french-prime-minister-says-government-not-indifferent-to-students-concerns-in-tv-address",
@@ -7,8 +84,15 @@
     "pub": "2026-10-07 23:47"
   },
   {
-    "headline": "France schools protests: more than 6,100 arrested since start of demonstrations",
-    "headline_fi": "France schools protests: more than 6,100 arrested since start of demonstrations",
+    "headline": "Africa joins the data center backlash",
+    "headline_fi": "Africa joins the data center backlash",
+    "link": "https://www.france24.com/en/africa-joins-the-data-center-backlash",
+    "source": "France 24",
+    "pub": "2026-10-07 23:37"
+  },
+  {
+    "headline": "France schools protests: more than 6,000 arrested since start of demonstrations",
+    "headline_fi": "France schools protests: more than 6,000 arrested since start of demonstrations",
     "link": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
     "source": "France 24",
     "pub": "2026-10-07 23:17"
@@ -336,27 +420,6 @@
     "pub": "2026-10-07 17:19"
   },
   {
-    "headline": "New Comoros law bans foreign nationals from certain jobs",
-    "headline_fi": "New Comoros law bans foreign nationals from certain jobs",
-    "link": "https://www.france24.com/en/video/20261007-new-comoros-law-bans-foreign-nationals-from-certain-jobs",
-    "source": "France 24",
-    "pub": "2026-10-07 17:17"
-  },
-  {
-    "headline": "A new 'Les Mis': This week in French film",
-    "headline_fi": "A new 'Les Mis': This week in French film",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20261007-a-new-les-mis-this-week-in-french-film",
-    "source": "France 24",
-    "pub": "2026-10-07 17:12"
-  },
-  {
-    "headline": "What we know about espionage, treason allegations against Germany's ex-spy chief",
-    "headline_fi": "What we know about espionage, treason allegations against Germany's ex-spy chief",
-    "link": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief",
-    "source": "France 24",
-    "pub": "2026-10-07 17:06"
-  },
-  {
     "headline": "Italians and Czechs push Brussels to ease green rules as energy crisis hits industry",
     "headline_fi": "Italians and Czechs push Brussels to ease green rules as energy crisis hits industry",
     "link": "https://www.euronews.com/2026/10/07/italians-and-czechs-push-brussels-to-ease-green-rules-as-energy-crisis-hits-industry",
@@ -369,27 +432,6 @@
     "link": "https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran",
     "source": "Euronews",
     "pub": "2026-10-07 17:04"
-  },
-  {
-    "headline": "From Mai 68 to 2026: France’s long student protests tradition",
-    "headline_fi": "From Mai 68 to 2026: France’s long student protests tradition",
-    "link": "https://www.france24.com/en/video/20261007-from-mai-68-to-2026-france-s-long-student-protests-tradition",
-    "source": "France 24",
-    "pub": "2026-10-07 16:57"
-  },
-  {
-    "headline": "The secrets behind Mali junta’s takeover of Kidal without a fight",
-    "headline_fi": "The secrets behind Mali junta’s takeover of Kidal without a fight",
-    "link": "https://www.france24.com/en/video/20261007-russia-backed-mali-junta-retakes-strategic-town-after-separatists-withdraw",
-    "source": "France 24",
-    "pub": "2026-10-07 16:55"
-  },
-  {
-    "headline": "Why American artist Mary Cassatt's legacy still resonates in France today",
-    "headline_fi": "Why American artist Mary Cassatt's legacy still resonates in France today",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261007-why-american-artist-mary-cassatt-s-legacy-still-resonates-in-france-today",
-    "source": "France 24",
-    "pub": "2026-10-07 16:52"
   },
   {
     "headline": "Longevity: why do Poles live shorter than Western Europeans?",
@@ -411,20 +453,6 @@
     "link": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-07 16:45"
-  },
-  {
-    "headline": "Russia warns against spreading 'false information' as reports emerge of second plague case",
-    "headline_fi": "Russia warns against spreading 'false information' as reports emerge of second plague case",
-    "link": "https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case",
-    "source": "France 24",
-    "pub": "2026-10-07 16:43"
-  },
-  {
-    "headline": "China's evolving funeral practices: From traditional burials to cremation",
-    "headline_fi": "China's evolving funeral practices: From traditional burials to cremation",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261007-china-s-evolving-funeral-practices-from-traditional-burials-to-cremation",
-    "source": "France 24",
-    "pub": "2026-10-07 16:39"
   },
   {
     "headline": "Iran parliament votes to criminalise interviews with 'hostile' foreign media",
@@ -467,13 +495,6 @@
     "link": "https://www.politico.eu/article/us-greece-combat-security-threats-marco-rubio/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-07 15:28"
-  },
-  {
-    "headline": "Reform probe clears Farage aides caught in donations sting",
-    "headline_fi": "Reform probe clears Farage aides caught in donations sting",
-    "link": "https://www.politico.eu/article/reform-probe-clears-nigel-farage-aides-james-orr-dan-jukes-donations-sting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-07 15:25"
   },
   {
     "headline": "EU agrees to sanction over 1,600 people and entities linked to Russia's war",
@@ -635,13 +656,6 @@
     "link": "https://www.euronews.com/2026/10/07/eu-to-put-energy-security-at-heart-of-cop31-push-for-faster-green-transition",
     "source": "Euronews",
     "pub": "2026-10-07 13:33"
-  },
-  {
-    "headline": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
-    "headline_fi": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
-    "link": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition",
-    "source": "Euronews",
-    "pub": "2026-10-07 13:12"
   },
   {
     "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
