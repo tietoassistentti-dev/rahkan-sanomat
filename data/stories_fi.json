@@ -1,7 +1,63 @@
 [
   {
+    "headline": "Man injured after New York shooting involving ICE",
+    "headline_fi": "Mies loukkaantui New Yorkin ammuskelun jälkeen, johon osallistui ICE",
+    "link": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 03:16"
+  },
+  {
+    "headline": "US files new torture charges against  Venezuela's Nicolas Maduro and wife Cilia Flores",
+    "headline_fi": "Yhdysvallat nosti uudet kidutussyytteet venezuelalaiselle Nicolas Madurolle ja vaimolleen Cilia Floresille",
+    "link": "https://www.france24.com/en/americas/20261008-us-files-new-torture-charges-venezuela-nicolas-maduro-cilia-flores",
+    "source": "France 24",
+    "pub": "2026-10-09 02:56"
+  },
+  {
+    "headline": "OpenAI bans Russian, Iranian ChatGPT propaganda networks",
+    "headline_fi": "OpenAI kieltää venäläiset ja iranilaiset ChatGPT-propagandaverkot",
+    "link": "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks",
+    "source": "France 24",
+    "pub": "2026-10-09 02:42"
+  },
+  {
+    "headline": "Ex-German Chancellor Schröder attends Putin's birthday bash",
+    "headline_fi": "Saksan entinen liittokansleri Schröder osallistuu Putinin syntymäpäiväjuhliin",
+    "link": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 01:53"
+  },
+  {
+    "headline": "UK: Two Latvian men arrested for breaking into RAF base",
+    "headline_fi": "UK: Kaksi latvialaista miestä pidätettiin murtautumisesta RAF:n tukikohtaan",
+    "link": "https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 01:19"
+  },
+  {
+    "headline": "Deadly floods sweep Albania and Montenegro as rivers burst banks",
+    "headline_fi": "Tappavat tulvat pyyhkäisevät Albaniaa ja Montenegroa jokien jyrähtäessä rantaan",
+    "link": "https://www.euronews.com/video/2026/10/09/deadly-floods-sweep-albania-and-montenegro-as-rivers-burst-banks",
+    "source": "Euronews",
+    "pub": "2026-10-09 01:07"
+  },
+  {
+    "headline": "Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says",
+    "headline_fi": "Fort Hoodin ampujan ampumaryhmän teloitus lähetetään suorana, Pentagon sanoo",
+    "link": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
+    "source": "France 24",
+    "pub": "2026-10-09 01:01"
+  },
+  {
+    "headline": "Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears",
+    "headline_fi": "Sadat maanviljelijät kokoontuvat Pariisissa EU-Mercosur-sopimusta ja tuontipelkoja vastaan",
+    "link": "https://www.euronews.com/video/2026/10/08/hundreds-of-farmers-rally-in-paris-against-eu-mercosur-pact-and-import-fears",
+    "source": "Euronews",
+    "pub": "2026-10-09 00:57"
+  },
+  {
     "headline": "Trump envoys, European officials to discuss ‘new ideas’ for Ukraine peace in Miami",
-    "headline_fi": "Trump lähettiläs- ja eurooppalaiset virkamiehet keskustelemaan Ukrainan rauhan \"uusista ideoista\" Miamissa",
+    "headline_fi": "Trump lähetti EU:n virkamiehiä keskustelemaan \"uusista ideoista\" Ukrainan rauhaa varten Miamissa",
     "link": "https://www.france24.com/en/europe/20261008-trump-envoys-ukraine-peace-talks-miami",
     "source": "France 24",
     "pub": "2026-10-09 00:19"
@@ -85,56 +141,56 @@
   },
   {
     "headline": "Croatian MEP stands down from national party after friends and family attended EU Parliament event",
-    "headline_fi": "Kroatialainen Euroopan parlamentin jäsen erosi kansallisesta puolueesta sen jälkeen, kun ystävät ja perheenjäsenet osallistuivat EU-parlamentin tapahtumaan",
+    "headline_fi": "Croatian MEP stands down from national party after friends and family attended EU Parliament event",
     "link": "https://www.politico.eu/article/croatia-mep-romana-jerkovic-stand-down-national-party-friends-family-european-parliament-event/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-08 21:02"
   },
   {
     "headline": "NATO attempts to cool tensions with Russia ahead of key nuclear exercise",
-    "headline_fi": "Nato yrittää jäähdyttää jännitteitä Venäjän kanssa ennen keskeistä ydinharjoitusta",
+    "headline_fi": "NATO attempts to cool tensions with Russia ahead of key nuclear exercise",
     "link": "https://www.politico.eu/article/nato-attempts-to-cool-tensions-with-russia-ahead-of-key-nuclear-exercise/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-08 20:47"
   },
   {
     "headline": "Aaron Sorkin, Mikey Madison, Jeremy Allen White: The director and cast behind the Facebook sequel",
-    "headline_fi": "Aaron Sorkin, Mikey Madison, Jeremy Allen White: Ohjaaja ja näyttelijät Facebook-jatko-osan takana",
+    "headline_fi": "Aaron Sorkin, Mikey Madison, Jeremy Allen White: The director and cast behind the Facebook sequel",
     "link": "https://www.france24.com/en/tv-shows/arts24/20261008-aaron-sorkin-mikey-madison-jeremy-allen-white-the-director-and-cast-behind-the-facebook-sequel",
     "source": "France 24",
     "pub": "2026-10-08 20:42"
   },
   {
     "headline": "French top general acknowledges joint tank program with Germany has failed",
-    "headline_fi": "Ranskan ylin kenraali myöntää, että yhteinen panssarivaunuohjelma Saksan kanssa on epäonnistunut",
+    "headline_fi": "French top general acknowledges joint tank program with Germany has failed",
     "link": "https://www.politico.eu/article/french-top-general-acknowledges-franco-german-tank-program-failed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-08 20:37"
   },
   {
     "headline": "UK plans to announce ban on workers’ non-compete clauses in push for growth",
-    "headline_fi": "Britannia aikoo ilmoittaa työntekijöiden kilpailukieltolausekkeiden kiellosta kasvun edistämiseksi",
+    "headline_fi": "UK plans to announce ban on workers’ non-compete clauses in push for growth",
     "link": "https://www.politico.eu/article/uk-plans-to-announce-ban-on-workers-non-compete-clauses-in-push-for-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-08 20:34"
   },
   {
     "headline": "EU debates harsh working conditions for fishers: 'I had no other choice'",
-    "headline_fi": "EU keskustelee kalastajien ankarista työehdoista: \"Minulla ei ollut muuta vaihtoehtoa\"",
+    "headline_fi": "EU debates harsh working conditions for fishers: 'I had no other choice'",
     "link": "https://www.euronews.com/2026/10/08/eu-debates-harsh-working-conditions-for-fishers-i-had-no-other-choice",
     "source": "Euronews",
     "pub": "2026-10-08 20:25"
   },
   {
     "headline": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature",
-    "headline_fi": "Kanadalainen runoilija ja esseisti Anne Carson voitti kirjallisuuden Nobel-palkinnon",
+    "headline_fi": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature",
     "link": "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature",
     "source": "France 24",
     "pub": "2026-10-08 20:12"
   },
   {
     "headline": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
-    "headline_fi": "Venäjän hyökkäys Ukrainan busseihin on osa \"siviileihin kohdistuvien hyökkäysten jatkuvaa lisääntymistä\"",
+    "headline_fi": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
     "link": "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
     "source": "France 24",
     "pub": "2026-10-08 20:11"
@@ -399,25 +455,11 @@
     "pub": "2026-10-08 16:43"
   },
   {
-    "headline": "High school student protests continue in France",
-    "headline_fi": "High school student protests continue in France",
-    "link": "https://www.france24.com/en/video/20261008-high-school-student-protests-continue-in-france",
-    "source": "France 24",
-    "pub": "2026-10-08 16:40"
-  },
-  {
     "headline": "EU presses Russia for more details on suspected plague case",
     "headline_fi": "EU presses Russia for more details on suspected plague case",
     "link": "https://www.euronews.com/2026/10/08/eu-presses-russia-for-more-details-on-suspected-plague-case",
     "source": "Euronews",
     "pub": "2026-10-08 16:36"
-  },
-  {
-    "headline": "New Paris exhibition explores Ireland's housing crisis through contemporary art",
-    "headline_fi": "New Paris exhibition explores Ireland's housing crisis through contemporary art",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261008-new-paris-exhibition-explores-ireland-s-housing-crisis-through-contemporary-art",
-    "source": "France 24",
-    "pub": "2026-10-08 16:29"
   },
   {
     "headline": "Germany lifts GDP forecast as economy withstands Iran war",
@@ -448,13 +490,6 @@
     "pub": "2026-10-08 16:00"
   },
   {
-    "headline": "France student protests: What measures is the government taking?",
-    "headline_fi": "France student protests: What measures is the government taking?",
-    "link": "https://www.france24.com/en/video/20261008-france-student-protests-what-measures-is-the-government-taking",
-    "source": "France 24",
-    "pub": "2026-10-08 15:54"
-  },
-  {
     "headline": "Scientists in Austria and China create the world’s first nuclear clocks. Here’s why it matters",
     "headline_fi": "Scientists in Austria and China create the world’s first nuclear clocks. Here’s why it matters",
     "link": "https://www.euronews.com/2026/10/08/scientists-in-austria-and-china-create-the-worlds-first-nuclear-clocks-heres-why-it-matter",
@@ -474,13 +509,6 @@
     "link": "https://www.dw.com/en/south-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-08 15:17"
-  },
-  {
-    "headline": "India news: Opposition doubles down against poll chief after detentions",
-    "headline_fi": "India news: Opposition doubles down against poll chief after detentions",
-    "link": "https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-08 15:16"
   },
   {
     "headline": "Ethiopian drones hit Eritrean forces accused of backing rebels in Tigray",
@@ -516,13 +544,6 @@
     "link": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-08 14:45"
-  },
-  {
-    "headline": "French police arrest 5 suspects over Renoir museum theft",
-    "headline_fi": "French police arrest 5 suspects over Renoir museum theft",
-    "link": "https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-08 14:44"
   },
   {
     "headline": "How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands",
@@ -677,13 +698,6 @@
     "link": "https://www.euronews.com/2026/10/08/uk-airport-e-gates-to-become-passport-free-and-contactless-by-early-2027",
     "source": "Euronews",
     "pub": "2026-10-08 13:24"
-  },
-  {
-    "headline": "Latest news bulletin | October 8th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 8th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/08/latest-news-bulletin-october-8th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-08 13:00"
   },
   {
     "headline": "German Bundeswehr: A new naval port in Emden aims to enhance Germany's defense capabilities",
@@ -964,13 +978,6 @@
     "link": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 03:54"
-  },
-  {
-    "headline": "Latvians head to the polls with Russia on their minds",
-    "headline_fi": "Latvians head to the polls with Russia on their minds",
-    "link": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-01 20:57"
   },
   {
     "headline": "Germans' biggest fear is the high cost of living, an annual study finds",
@@ -1293,19 +1300,5 @@
     "link": "https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-11 12:39"
-  },
-  {
-    "headline": "Conspiracy theories can provide answers but not peace",
-    "headline_fi": "Conspiracy theories can provide answers but not peace",
-    "link": "https://www.dw.com/en/conspiracy-theories-can-provide-answers-but-not-peace/a-79022756?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-09 12:45"
-  },
-  {
-    "headline": "The billion-euro trade driving Europe's eels to extinction",
-    "headline_fi": "The billion-euro trade driving Europe's eels to extinction",
-    "link": "https://www.dw.com/en/the-billion-euro-trade-driving-europe-s-eels-to-extinction/a-78523145?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-09 11:36"
   }
 ]
