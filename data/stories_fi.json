@@ -1,140 +1,315 @@
 [
   {
+    "headline": "Italy's biggest-ever wine heist",
+    "headline_fi": "Italian kaikkien aikojen suurin viiniryöstö",
+    "link": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
+    "source": "France 24",
+    "pub": "2026-10-09 23:08"
+  },
+  {
+    "headline": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
+    "headline_fi": "Trump solmi dieselsopimuksen Putinin kanssa ja kumoaa vuosien Venäjään kohdistuneen Ukrainan sodan aiheuttaman paineen",
+    "link": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
+    "source": "France 24",
+    "pub": "2026-10-09 23:00"
+  },
+  {
+    "headline": "Schools crisis in France: Investment fails to inspire confidence",
+    "headline_fi": "Koulukriisi Ranskassa: Investoinnit eivät herätä luottamusta",
+    "link": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 22:52"
+  },
+  {
+    "headline": "Paris court jails Indian man for leading sadist neo-Nazi cult that tortured girls",
+    "headline_fi": "Pariisin tuomioistuin vangitsee intialaisen miehen tyttöjen kiduttaneen sadistisen uusnatsikultin johtamisesta",
+    "link": "https://www.france24.com/en/france/20261009-paris-court-jails-indian-man-for-leading-sadist-neo-nazi-cult-that-tortured-girls",
+    "source": "France 24",
+    "pub": "2026-10-09 22:45"
+  },
+  {
+    "headline": "Trump says US to import Russian diesel to ease prices",
+    "headline_fi": "Trump sanoo Yhdysvaltojen tuovan venäläistä dieseliä hintojen helpottamiseksi",
+    "link": "https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices",
+    "source": "Euronews",
+    "pub": "2026-10-09 22:43"
+  },
+  {
+    "headline": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
+    "headline_fi": "Trump ja Putin sopivat sopimuksesta venäläisen dieselin luovuttamisesta USA:n maailmanmarkkinoille",
+    "link": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 22:29"
+  },
+  {
+    "headline": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices",
+    "headline_fi": "Trump poistaa venäläistä dieseliä koskevat pakotteet ja ehdottaa, että Yhdysvallat voisi ostaa polttoaineen hintojen nousun keskellä",
+    "link": "https://www.politico.com/news/2026/10/09/trump-diesel-sanctions-lifted-russia-01114977?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-09 22:21"
+  },
+  {
+    "headline": "Strong earthquake shakes Panama, prompting tsunami alert",
+    "headline_fi": "Voimakas maanjäristys ravistelee Panamaa, mikä on antanut tsunamivaroituksen",
+    "link": "https://www.dw.com/en/strong-earthquake-shakes-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 22:03"
+  },
+  {
+    "headline": "🔴 Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning",
+    "headline_fi": "🔴 Voimakas 7,6 magnitudin järistys ravistelee Panamaa ja laukaisee tsunamivaroituksen",
+    "link": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
+    "source": "France 24",
+    "pub": "2026-10-09 21:41"
+  },
+  {
+    "headline": "Tsunami threat after 7.6-magnitude earthquake strikes Panama, USGS says",
+    "headline_fi": "Tsunamiuhka sen jälkeen, kun 7,6 magnitudin maanjäristys iski Panamaan, USGS kertoo",
+    "link": "https://www.euronews.com/2026/10/09/tsunami-threat-after-76-magnitude-earthquake-strikes-panama-usgs-says",
+    "source": "Euronews",
+    "pub": "2026-10-09 21:40"
+  },
+  {
+    "headline": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warnings",
+    "headline_fi": "Voimakas 7,6 magnitudin järistys ravistelee Panamaa ja laukaisi tsunamivaroituksen",
+    "link": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
+    "source": "France 24",
+    "pub": "2026-10-09 21:39"
+  },
+  {
+    "headline": "Flydubai co-pilot planned suicide attack in Tel Aviv airport inspired by 9/11",
+    "headline_fi": "Flydubai-perämies suunnitteli itsemurhaiskua Tel Avivin lentokentällä 9/11:n innoittamana",
+    "link": "https://www.euronews.com/2026/10/09/flydubai-co-pilot-planned-suicide-attack-in-tel-aviv-airport-inspired-by-911",
+    "source": "Euronews",
+    "pub": "2026-10-09 21:29"
+  },
+  {
+    "headline": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
+    "headline_fi": "Ranska protestit, Israelin \"poliittisesti latautunut\" muisto, Ethopia, Ukraina",
+    "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
+    "source": "France 24",
+    "pub": "2026-10-09 21:28"
+  },
+  {
+    "headline": "UAE: Omani Flydubai co-pilot planned suicide attack",
+    "headline_fi": "Arabiemiirikunnat: Omani Flydubai -perämies suunnitteli itsemurhaiskua",
+    "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 21:23"
+  },
+  {
+    "headline": "Rare waterspouts slam western Sicily, wrecking homes and a school",
+    "headline_fi": "Harvinaiset vesiputket iskevät Länsi-Sisiliaan ja tuhoavat koteja ja koulun",
+    "link": "https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school",
+    "source": "Euronews",
+    "pub": "2026-10-09 20:49"
+  },
+  {
+    "headline": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
+    "headline_fi": "Navi Pillaylle myönnettiin rauhanpalkinto: \"Elämä kulunut taistelemiseen sen puolesta, mikä on oikein ja puolustaakseen ihmisoikeuksia\"",
+    "link": "https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights",
+    "source": "France 24",
+    "pub": "2026-10-09 20:27"
+  },
+  {
+    "headline": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
+    "headline_fi": "🔴 FlyDubain perämies suunnitteli itsemurhaiskua Tel Avivin lentokentälle 9/11:n innoittamana, Yhdistyneiden arabiemiirikuntien syyttäjä sanoo",
+    "link": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11",
+    "source": "France 24",
+    "pub": "2026-10-09 20:09"
+  },
+  {
+    "headline": "China, EU reach deal to 'moderate' China's car exports to EU",
+    "headline_fi": "Kiina ja EU sopivat Kiinan autoviennin \"maltillisesta\" hillitsemisestä EU:hun",
+    "link": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-09 20:09"
+  },
+  {
+    "headline": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
+    "headline_fi": "ISW:n analyysi osoittaa, että Ukrainan operaatio Vivaldi tekee tyhjäksi Venäjän suunnitelman saartaa Donbas",
+    "link": "https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows",
+    "source": "Euronews",
+    "pub": "2026-10-09 20:04"
+  },
+  {
+    "headline": "FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, prosecutor says",
+    "headline_fi": "FlyDubain perämies suunnitteli itsemurhaiskua Tel Avivin lentokentälle 9/11:n innoittamana, syyttäjä sanoo",
+    "link": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11",
+    "source": "France 24",
+    "pub": "2026-10-09 20:04"
+  },
+  {
+    "headline": "Unweaving Jeffrey Epstein’s web: What the files have revealed",
+    "headline_fi": "Unweaving Jeffrey Epstein’s web: What the files have revealed",
+    "link": "https://www.france24.com/en/video/20261009-unweaving-jeffrey-epstein-s-web-what-the-files-have-revealed",
+    "source": "France 24",
+    "pub": "2026-10-09 20:00"
+  },
+  {
+    "headline": "Latvia’s border guard seeks greater powers amid increasingly violent border crossings",
+    "headline_fi": "Latvia’s border guard seeks greater powers amid increasingly violent border crossings",
+    "link": "https://www.euronews.com/2026/10/09/latvias-border-guard-seeks-greater-powers-amid-increasingly-violent-border-crossings",
+    "source": "Euronews",
+    "pub": "2026-10-09 19:25"
+  },
+  {
+    "headline": "EU calls US sanctions on International Criminal Court 'regrettable'",
+    "headline_fi": "EU calls US sanctions on International Criminal Court 'regrettable'",
+    "link": "https://www.euronews.com/2026/10/09/eu-calls-us-sanctions-on-international-criminal-court-regrettable",
+    "source": "Euronews",
+    "pub": "2026-10-09 19:14"
+  },
+  {
+    "headline": "Latest news bulletin | October 9th, 2026 – Evening",
+    "headline_fi": "Latest news bulletin | October 9th, 2026 – Evening",
+    "link": "https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-09 19:00"
+  },
+  {
     "headline": "Brussels: Rioters clash with police at anti-austerity rally",
-    "headline_fi": "Bryssel: Mellakkaat ottivat yhteen poliisin kanssa säästötoimien vastaisessa mielenosoituksessa",
+    "headline_fi": "Brussels: Rioters clash with police at anti-austerity rally",
     "link": "https://www.dw.com/en/brussels-rioters-clash-with-police-at-anti-austerity-rally/a-79620594?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 18:54"
   },
   {
     "headline": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
-    "headline_fi": "Euroopan tilintarkastustuomioistuin, Pierre Moscovici, EU:n Covid-palautusrahasto oli \"täysin menestys\"",
+    "headline_fi": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
     "link": "https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici",
     "source": "France 24",
     "pub": "2026-10-09 18:51"
   },
   {
     "headline": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay?",
-    "headline_fi": "2026 Nobelin rauhanpalkinto: Kuka on Navanethem \"Navi\" Pillay?",
+    "headline_fi": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay?",
     "link": "https://www.france24.com/en/video/20261009-2026-nobel-peace-prize-who-is-navanethem-navi-pillay",
     "source": "France 24",
     "pub": "2026-10-09 18:47"
   },
   {
+    "headline": "French students vow to keep up protests as UN voices 'concern' over violence",
+    "headline_fi": "French students vow to keep up protests as UN voices 'concern' over violence",
+    "link": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
+    "source": "France 24",
+    "pub": "2026-10-09 18:37"
+  },
+  {
     "headline": "2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality",
-    "headline_fi": "2027 kevät-kesä valmiit mallistot: Audacity, liike ja aistillisuus",
+    "headline_fi": "2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality",
     "link": "https://www.france24.com/en/tv-shows/fashion/20261009-2027-spring-summer-ready-to-wear-collections-audacity-movement-and-sensuality",
     "source": "France 24",
     "pub": "2026-10-09 18:26"
   },
   {
     "headline": "Israel a rare dissenting voice as praise pours in for Nobel Peace Prize winner Navi Pillay",
-    "headline_fi": "Israel on harvinainen eriävä ääni, kun Nobelin rauhanpalkinnon voittaja Navi Pillay ylistetään",
+    "headline_fi": "Israel a rare dissenting voice as praise pours in for Nobel Peace Prize winner Navi Pillay",
     "link": "https://www.france24.com/en/europe/20261009-israel-a-rare-dissenting-voice-as-praise-pours-in-for-nobel-peace-prize-winner-navi-pillay",
     "source": "France 24",
     "pub": "2026-10-09 18:20"
   },
   {
     "headline": "Eritrean troops in Ethiopia raise fears of a regional war",
-    "headline_fi": "Eritrean joukot Etiopiassa herättävät pelkoa alueellisesta sodasta",
+    "headline_fi": "Eritrean troops in Ethiopia raise fears of a regional war",
     "link": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 18:20"
   },
   {
-    "headline": "US sanctions on ICC: a 'test of resilience'",
-    "headline_fi": "Yhdysvaltain pakotteet ICC:lle: \"sietokyvyn testi\"",
-    "link": "https://www.france24.com/en/live-news/20261009-us-sanctions-on-icc-a-test-of-resilience",
+    "headline": "International Criminal Court faces 'test of resilience' as US imposes sweeping sanctions",
+    "headline_fi": "International Criminal Court faces 'test of resilience' as US imposes sweeping sanctions",
+    "link": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions",
     "source": "France 24",
     "pub": "2026-10-09 18:19"
   },
   {
     "headline": "Macron and Steinmeier struggle to revive Franco-German ties",
-    "headline_fi": "Macron ja Steinmeier kamppailevat elvyttääkseen ranskalais-saksalaisia ​​suhteita",
+    "headline_fi": "Macron and Steinmeier struggle to revive Franco-German ties",
     "link": "https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 18:17"
   },
   {
     "headline": "Which European countries are winning the tech funding race?",
-    "headline_fi": "Mitkä Euroopan maat voittivat teknologian rahoituskilpailun?",
+    "headline_fi": "Which European countries are winning the tech funding race?",
     "link": "https://www.euronews.com/2026/10/09/which-european-countries-are-winning-the-tech-funding-race",
     "source": "Euronews",
     "pub": "2026-10-09 18:06"
   },
   {
     "headline": "Iran's IRGC strikes tanker and threatens to target vessels beyond Hormuz",
-    "headline_fi": "Iranin IRGC iskee tankkeriin ja uhkaa hyökätä aluksiin Hormuzin ulkopuolella",
+    "headline_fi": "Iran's IRGC strikes tanker and threatens to target vessels beyond Hormuz",
     "link": "https://www.euronews.com/2026/10/09/irans-irgc-strikes-tanker-and-threatens-to-target-vessels-beyond-hormuz",
     "source": "Euronews",
     "pub": "2026-10-09 18:04"
   },
   {
     "headline": "Author or artificial intelligence? Literature in crisis",
-    "headline_fi": "Tekijä vai tekoäly?Kirjallisuus kriisissä",
+    "headline_fi": "Author or artificial intelligence? Literature in crisis",
     "link": "https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 18:04"
   },
   {
     "headline": "Falling test scores in schools startle EU countries: Why are standards going down?",
-    "headline_fi": "Koetulosten lasku kouluissa hätkähtää EU-maita: Miksi standardit laskevat?",
+    "headline_fi": "Falling test scores in schools startle EU countries: Why are standards going down?",
     "link": "https://www.france24.com/en/tv-shows/talking-europe/20261009-falling-test-scores-in-schools-startle-eu-countries-why-are-standards-going-down",
     "source": "France 24",
     "pub": "2026-10-09 18:03"
   },
   {
     "headline": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
-    "headline_fi": "Yhdysvallat määrää pakotteita, joiden tarkoituksena on \"purkaa\" Kansainvälinen rikostuomioistuin",
+    "headline_fi": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
     "link": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 17:53"
   },
   {
     "headline": "Four astronauts return to Earth after eight months in space",
-    "headline_fi": "Neljä astronauttia palaa Maahan kahdeksan kuukauden avaruuden jälkeen",
+    "headline_fi": "Four astronauts return to Earth after eight months in space",
     "link": "https://www.france24.com/en/video/20261009-four-astronauts-return-to-earth-after-eight-months-in-space",
     "source": "France 24",
     "pub": "2026-10-09 17:43"
   },
   {
     "headline": "Callum Turner's new film sparkles at Dinard Film Festival",
-    "headline_fi": "Callum Turnerin uusi elokuva kimaltelee Dinard Film Festivalilla",
+    "headline_fi": "Callum Turner's new film sparkles at Dinard Film Festival",
     "link": "https://www.france24.com/en/tv-shows/arts24/20261009-callum-turner-s-new-film-sparkles-at-dinard-film-festival",
     "source": "France 24",
     "pub": "2026-10-09 17:34"
   },
   {
     "headline": "Lawsuits blame Fox News for deaths of journalists in Ukraine",
-    "headline_fi": "Oikeusjutut syyttävät Fox Newsia toimittajien kuolemasta Ukrainassa",
+    "headline_fi": "Lawsuits blame Fox News for deaths of journalists in Ukraine",
     "link": "https://www.france24.com/en/tv-shows/scoop/20261009-lawsuits-blame-fox-news-for-deaths-of-journalists-in-ukraine",
     "source": "France 24",
     "pub": "2026-10-09 17:23"
   },
   {
     "headline": "UN voices 'concern' over violence as French students plan more protests",
-    "headline_fi": "YK ilmaisee \"huolinsa\" väkivallasta, kun ranskalaiset opiskelijat suunnittelevat lisää mielenosoituksia",
+    "headline_fi": "UN voices 'concern' over violence as French students plan more protests",
     "link": "https://www.euronews.com/2026/10/09/un-voices-concern-over-violence-as-french-students-plan-more-protests",
     "source": "Euronews",
     "pub": "2026-10-09 17:14"
   },
   {
     "headline": "Tornadoes sweep across Sicily, leaving flipped cars and damaged buildings",
-    "headline_fi": "Tornadot pyyhkäisevät Sisilian halki jättäen pyörähtäneitä autoja ja vaurioituneita rakennuksia",
+    "headline_fi": "Tornadoes sweep across Sicily, leaving flipped cars and damaged buildings",
     "link": "https://www.euronews.com/video/2026/10/09/tornadoes-sweep-across-sicily-leaving-flipped-cars-and-damaged-buildings",
     "source": "Euronews",
     "pub": "2026-10-09 17:02"
   },
   {
     "headline": "Arrested German spy chief lashed out at his old agency over allegations he spied for Russia",
-    "headline_fi": "Pidätetty saksalainen vakoojapäällikkö moitti vanhaa virastoaan syytöksistä, joiden mukaan hän vakoili Venäjän hyväksi",
+    "headline_fi": "Arrested German spy chief lashed out at his old agency over allegations he spied for Russia",
     "link": "https://www.politico.eu/article/arrested-german-august-hanning-lashes-out-bnd-russia-spy-allegations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-09 17:01"
   },
   {
     "headline": "Saudi coalition vows 'firm' response after airport attack kills 3",
-    "headline_fi": "Saudi-Arabian liittouma vannoo \"tiukkaa\" vastausta sen jälkeen, kun lentokenttä-iskussa kuoli kolme ihmistä",
+    "headline_fi": "Saudi coalition vows 'firm' response after airport attack kills 3",
     "link": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 17:01"
@@ -152,13 +327,6 @@
     "link": "https://www.france24.com/en/video/20261009-russia-says-all-clear-after-contact-tracing-in-reported-plague-case",
     "source": "France 24",
     "pub": "2026-10-09 16:53"
-  },
-  {
-    "headline": "Madrid mourns evicted retiree, 'icon' of Spain housing protests",
-    "headline_fi": "Madrid mourns evicted retiree, 'icon' of Spain housing protests",
-    "link": "https://www.france24.com/en/video/20261009-madrid-mourns-evicted-retiree-icon-of-spain-housing-protests",
-    "source": "France 24",
-    "pub": "2026-10-09 16:51"
   },
   {
     "headline": "Dutch PM slams ‘absurd’ US decision to livestream execution",
@@ -182,13 +350,6 @@
     "pub": "2026-10-09 16:51"
   },
   {
-    "headline": "No peace without international law: The message behind Navi Pillay’s Nobel",
-    "headline_fi": "No peace without international law: The message behind Navi Pillay’s Nobel",
-    "link": "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel",
-    "source": "France 24",
-    "pub": "2026-10-09 16:50"
-  },
-  {
     "headline": "Sounds of Mexico brings Mexican orchestral music to Doha",
     "headline_fi": "Sounds of Mexico brings Mexican orchestral music to Doha",
     "link": "https://www.euronews.com/2026/10/09/sounds-of-mexico-brings-mexican-orchestral-music-to-doha",
@@ -196,25 +357,11 @@
     "pub": "2026-10-09 16:45"
   },
   {
-    "headline": "French high school students react to Education Minister’s measures",
-    "headline_fi": "French high school students react to Education Minister’s measures",
-    "link": "https://www.france24.com/en/video/20261009-french-high-school-students-react-to-education-minister-s-measures",
-    "source": "France 24",
-    "pub": "2026-10-09 16:35"
-  },
-  {
     "headline": "Police and protesters clash in Brussels as anti-austerity rally disrupts city",
     "headline_fi": "Police and protesters clash in Brussels as anti-austerity rally disrupts city",
     "link": "https://www.euronews.com/2026/10/09/police-and-protesters-clash-in-brussels-as-anti-austerity-rally-disrupts-city",
     "source": "Euronews",
     "pub": "2026-10-09 16:25"
-  },
-  {
-    "headline": "India protests grow over Election Commission mistrust",
-    "headline_fi": "India protests grow over Election Commission mistrust",
-    "link": "https://www.france24.com/en/tv-shows/access-asia/20261009-india-protests-grow-over-election-commission-mistrust",
-    "source": "France 24",
-    "pub": "2026-10-09 16:08"
   },
   {
     "headline": "Is China seeking to restrict Taiwan's cultural presence?",
@@ -231,20 +378,6 @@
     "pub": "2026-10-09 16:03"
   },
   {
-    "headline": "France’s seafood problem starts elsewhere",
-    "headline_fi": "France’s seafood problem starts elsewhere",
-    "link": "https://www.france24.com/en/environment/20261009-france-s-seafood-problem-starts-elsewhere",
-    "source": "France 24",
-    "pub": "2026-10-09 16:01"
-  },
-  {
-    "headline": "Morocco and Senegal await AFCON final verdict after arbitration hearing",
-    "headline_fi": "Morocco and Senegal await AFCON final verdict after arbitration hearing",
-    "link": "https://www.france24.com/en/tv-shows/sports/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing",
-    "source": "France 24",
-    "pub": "2026-10-09 15:59"
-  },
-  {
     "headline": "35 killed in strikes on Ukraine's Donetsk region as Russia reports four dead across Belgorod",
     "headline_fi": "35 killed in strikes on Ukraine's Donetsk region as Russia reports four dead across Belgorod",
     "link": "https://www.euronews.com/2026/10/09/35-killed-in-strikes-on-ukraines-donetsk-region-as-russia-reports-four-dead-across-belgoro",
@@ -257,13 +390,6 @@
     "link": "https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 15:50"
-  },
-  {
-    "headline": "No, the French army did not deploy tanks against protesting students",
-    "headline_fi": "No, the French army did not deploy tanks against protesting students",
-    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261009-no-the-french-army-did-not-deploy-tanks-against-protesting-students",
-    "source": "France 24",
-    "pub": "2026-10-09 15:49"
   },
   {
     "headline": "EU paid €7.9bn for Russian Arctic LNG amid record imports",
@@ -308,27 +434,6 @@
     "pub": "2026-10-09 15:23"
   },
   {
-    "headline": "Foreign aid to Africa falls by over 25%: How women and children are bearing the brunt",
-    "headline_fi": "Foreign aid to Africa falls by over 25%: How women and children are bearing the brunt",
-    "link": "https://www.france24.com/en/tv-shows/the-51/20261009-foreign-aid-to-africa-falls-by-over-25-how-women-and-children-are-bearing-the-brunt",
-    "source": "France 24",
-    "pub": "2026-10-09 15:22"
-  },
-  {
-    "headline": "India's dowry curse: Outlawed practice remains deeply entrenched",
-    "headline_fi": "India's dowry curse: Outlawed practice remains deeply entrenched",
-    "link": "https://www.france24.com/en/tv-shows/reporters/20261009-india-dowry-curse-outlawed-practice-remains-deeply-entrenched",
-    "source": "France 24",
-    "pub": "2026-10-09 15:19"
-  },
-  {
-    "headline": "Renoir paintings stolen from French Riviera museum recovered, six suspects arrested",
-    "headline_fi": "Renoir paintings stolen from French Riviera museum recovered, six suspects arrested",
-    "link": "https://www.france24.com/en/france/20261009-renoir-paintings-stolen-from-french-riviera-museum-recovered-six-people-arrested",
-    "source": "France 24",
-    "pub": "2026-10-09 15:09"
-  },
-  {
     "headline": "Passport-free travel, AI agents and longevity: Key takeaways from the WTTC Global Summit",
     "headline_fi": "Passport-free travel, AI agents and longevity: Key takeaways from the WTTC Global Summit",
     "link": "https://www.euronews.com/2026/10/09/passport-free-travel-ai-agents-and-longevity-key-takeaways-from-the-wttc-global-summit",
@@ -362,13 +467,6 @@
     "link": "https://www.euronews.com/2026/10/09/putin-offers-help-to-end-iran-war-while-russia-continues-its-own-in-ukraine",
     "source": "Euronews",
     "pub": "2026-10-09 14:53"
-  },
-  {
-    "headline": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
-    "headline_fi": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261009-residents-of-ukraine-s-kramatorsk-forced-to-flee-as-drone-strikes-intensify",
-    "source": "France 24",
-    "pub": "2026-10-09 14:51"
   },
   {
     "headline": "EU and China clinch deal to curb hybrid car exports",
@@ -525,32 +623,11 @@
     "pub": "2026-10-09 12:27"
   },
   {
-    "headline": "Jurist Navi Pillay wins Nobel Peace Prize for 2026",
-    "headline_fi": "Jurist Navi Pillay wins Nobel Peace Prize for 2026",
-    "link": "https://www.euronews.com/2026/10/09/jurist-navi-pillay-wins-nobel-peace-prize-for-2026",
-    "source": "Euronews",
-    "pub": "2026-10-09 12:07"
-  },
-  {
     "headline": "Hitler Mussolini wins local election",
     "headline_fi": "Hitler Mussolini wins local election",
     "link": "https://www.politico.eu/article/hitler-mussolini-wins-local-election-peru/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-09 11:48"
-  },
-  {
-    "headline": "Violence is 'not general' in French students protests, MEP says",
-    "headline_fi": "Violence is 'not general' in French students protests, MEP says",
-    "link": "https://www.euronews.com/video/2026/10/09/violence-is-not-general-in-french-students-protests-mep-says",
-    "source": "Euronews",
-    "pub": "2026-10-09 11:33"
-  },
-  {
-    "headline": "Scientific study reveals scariest horror movie – with one 2026 title breaking heart rate record",
-    "headline_fi": "Scientific study reveals scariest horror movie – with one 2026 title breaking heart rate record",
-    "link": "https://www.euronews.com/2026/10/09/scientific-study-reveals-scariest-horror-movie-with-one-2026-title-breaking-heart-rate-rec",
-    "source": "Euronews",
-    "pub": "2026-10-09 11:33"
   },
   {
     "headline": "Bosnia and Herzegovina will soon have a new Grand Mufti",
@@ -572,55 +649,6 @@
     "link": "https://www.politico.eu/article/eus-new-list-of-critical-mineral-projects-focuses-on-clean-energy-metals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-09 11:07"
-  },
-  {
-    "headline": "Police arrest suspect after deadly shooting in Germany's Upper Palatinate",
-    "headline_fi": "Police arrest suspect after deadly shooting in Germany's Upper Palatinate",
-    "link": "https://www.euronews.com/2026/10/09/police-arrest-suspect-after-deadly-shooting-in-germanys-upper-palatinate",
-    "source": "Euronews",
-    "pub": "2026-10-09 11:05"
-  },
-  {
-    "headline": "'Fire hoses' are Britain's nuclear submarine's only defence against drone attacks, reports say",
-    "headline_fi": "'Fire hoses' are Britain's nuclear submarine's only defence against drone attacks, reports say",
-    "link": "https://www.euronews.com/2026/10/09/fire-hoses-are-britains-nuclear-submarines-only-defence-against-drone-attacks-reports-say",
-    "source": "Euronews",
-    "pub": "2026-10-09 11:03"
-  },
-  {
-    "headline": "Huge victory for Spain as two cities crowned greenest in the EU. Which countries missed out?",
-    "headline_fi": "Huge victory for Spain as two cities crowned greenest in the EU. Which countries missed out?",
-    "link": "https://www.euronews.com/2026/10/09/where-is-europes-greenest-city-eight-finalists-announced-for-2028-and-three-are-in-spain",
-    "source": "Euronews",
-    "pub": "2026-10-09 11:02"
-  },
-  {
-    "headline": "EU may need to cut winter gas demand by 7% as storage hits record low, IEEFA warns",
-    "headline_fi": "EU may need to cut winter gas demand by 7% as storage hits record low, IEEFA warns",
-    "link": "https://www.euronews.com/2026/10/09/eu-may-need-to-cut-winter-gas-demand-by-7-as-storage-hits-record-low-ieefa-warns",
-    "source": "Euronews",
-    "pub": "2026-10-09 10:57"
-  },
-  {
-    "headline": "Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law",
-    "headline_fi": "Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law",
-    "link": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 10:40"
-  },
-  {
-    "headline": "Malaysia shuts schools amid toxic haze from Indonesian fires",
-    "headline_fi": "Malaysia shuts schools amid toxic haze from Indonesian fires",
-    "link": "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 09:39"
-  },
-  {
-    "headline": "EU faces gas supply shortage as winter looms",
-    "headline_fi": "EU faces gas supply shortage as winter looms",
-    "link": "https://www.politico.eu/article/eu-faces-gas-supply-shortage-iran-war-winter-looms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-09 07:01"
   },
   {
     "headline": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
@@ -931,13 +959,6 @@
     "pub": "2026-10-02 14:17"
   },
   {
-    "headline": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
-    "headline_fi": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
-    "link": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 07:40"
-  },
-  {
     "headline": "Turkey: Stock market scandal hits half a million investors",
     "headline_fi": "Turkey: Stock market scandal hits half a million investors",
     "link": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf",
@@ -1174,13 +1195,6 @@
     "link": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-17 19:02"
-  },
-  {
-    "headline": "Klopp wants Germany's football team to 'reclaim the flag'",
-    "headline_fi": "Klopp wants Germany's football team to 'reclaim the flag'",
-    "link": "https://www.dw.com/en/klopp-wants-germany-s-football-team-to-reclaim-the-flag/a-79307610?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-17 14:41"
   },
   {
     "headline": "How climate change worsened Nepal's deadly mountain collapse",
