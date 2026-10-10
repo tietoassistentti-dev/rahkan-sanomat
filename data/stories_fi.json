@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Trump names new press secretary to succeed Karoline Leavitt",
+    "headline_fi": "Trump nimesi uuden lehdistösihteerin Karoline Leavittin seuraajaksi",
+    "link": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-10 02:12"
+  },
+  {
+    "headline": "Police clash with protesters in Brussels as thousands march against spending cuts",
+    "headline_fi": "Poliisi otti yhteen mielenosoittajien kanssa Brysselissä, kun tuhannet marssivat menoleikkauksia vastaan",
+    "link": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
+    "source": "Euronews",
+    "pub": "2026-10-10 01:27"
+  },
+  {
+    "headline": "South African judge awarded Nobel Peace Prize",
+    "headline_fi": "Eteläafrikkalainen tuomari sai Nobelin rauhanpalkinnon",
+    "link": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+    "source": "France 24",
+    "pub": "2026-10-10 00:53"
+  },
+  {
+    "headline": "UK bans Protestant march from Catholic area in Northern Ireland",
+    "headline_fi": "Iso-Britannia kieltää protestanttien marssin Pohjois-Irlannin katolisella alueella",
+    "link": "https://www.politico.eu/article/uk-bans-protestant-march-from-catholic-area-in-northern-ireland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-10 00:37"
+  },
+  {
     "headline": "Italy's biggest-ever wine heist",
     "headline_fi": "Italian kaikkien aikojen suurin viiniryöstö",
     "link": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
@@ -22,7 +50,7 @@
   },
   {
     "headline": "Paris court jails Indian man for leading sadist neo-Nazi cult that tortured girls",
-    "headline_fi": "Pariisin tuomioistuin vangitsee intialaisen miehen tyttöjen kiduttaneen sadistisen uusnatsikultin johtamisesta",
+    "headline_fi": "Pariisin tuomioistuin vangitsee intialaisen miehen tyttöjen kidutuksen johtamisesta",
     "link": "https://www.france24.com/en/france/20261009-paris-court-jails-indian-man-for-leading-sadist-neo-nazi-cult-that-tortured-girls",
     "source": "France 24",
     "pub": "2026-10-09 22:45"
@@ -36,7 +64,7 @@
   },
   {
     "headline": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
-    "headline_fi": "Trump ja Putin sopivat sopimuksesta venäläisen dieselin luovuttamisesta USA:n maailmanmarkkinoille",
+    "headline_fi": "Trump ja Putin sopivat venäläisen dieselin luovuttamisesta USA:n maailmanmarkkinoille",
     "link": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 22:29"
@@ -49,9 +77,9 @@
     "pub": "2026-10-09 22:21"
   },
   {
-    "headline": "Strong earthquake shakes Panama, prompting tsunami alert",
-    "headline_fi": "Voimakas maanjäristys ravistelee Panamaa, mikä on antanut tsunamivaroituksen",
-    "link": "https://www.dw.com/en/strong-earthquake-shakes-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf",
+    "headline": "Strong earthquakes shake Panama, buildings damaged",
+    "headline_fi": "Voimakkaat maanjäristykset ravistivat Panamaa, rakennuksia vaurioitui",
+    "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 22:03"
   },
@@ -106,35 +134,35 @@
   },
   {
     "headline": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
-    "headline_fi": "Navi Pillaylle myönnettiin rauhanpalkinto: \"Elämä kulunut taistelemiseen sen puolesta, mikä on oikein ja puolustaakseen ihmisoikeuksia\"",
+    "headline_fi": "Navi Pillaylle myönnettiin rauhanpalkinto: \"Elämä kulunut taisteluun sen puolesta, mikä on oikein ja ihmisoikeuksien puolustamiseen\"",
     "link": "https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights",
     "source": "France 24",
     "pub": "2026-10-09 20:27"
   },
   {
     "headline": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
-    "headline_fi": "🔴 FlyDubain perämies suunnitteli itsemurhaiskua Tel Avivin lentokentälle 9/11:n innoittamana, Yhdistyneiden arabiemiirikuntien syyttäjä sanoo",
+    "headline_fi": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
     "link": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11",
     "source": "France 24",
     "pub": "2026-10-09 20:09"
   },
   {
     "headline": "China, EU reach deal to 'moderate' China's car exports to EU",
-    "headline_fi": "Kiina ja EU sopivat Kiinan autoviennin \"maltillisesta\" hillitsemisestä EU:hun",
+    "headline_fi": "China, EU reach deal to 'moderate' China's car exports to EU",
     "link": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 20:09"
   },
   {
     "headline": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
-    "headline_fi": "ISW:n analyysi osoittaa, että Ukrainan operaatio Vivaldi tekee tyhjäksi Venäjän suunnitelman saartaa Donbas",
+    "headline_fi": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
     "link": "https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows",
     "source": "Euronews",
     "pub": "2026-10-09 20:04"
   },
   {
     "headline": "FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, prosecutor says",
-    "headline_fi": "FlyDubain perämies suunnitteli itsemurhaiskua Tel Avivin lentokentälle 9/11:n innoittamana, syyttäjä sanoo",
+    "headline_fi": "FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, prosecutor says",
     "link": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11",
     "source": "France 24",
     "pub": "2026-10-09 20:04"
@@ -320,13 +348,6 @@
     "link": "https://www.france24.com/en/tv-shows/revisited/20261009-sierra-leone-from-blood-diamonds-to-stones-of-hopen",
     "source": "France 24",
     "pub": "2026-10-09 16:58"
-  },
-  {
-    "headline": "Russia says all clear after contact tracing in reported plague case",
-    "headline_fi": "Russia says all clear after contact tracing in reported plague case",
-    "link": "https://www.france24.com/en/video/20261009-russia-says-all-clear-after-contact-tracing-in-reported-plague-case",
-    "source": "France 24",
-    "pub": "2026-10-09 16:53"
   },
   {
     "headline": "Dutch PM slams ‘absurd’ US decision to livestream execution",
@@ -609,20 +630,6 @@
     "pub": "2026-10-09 12:35"
   },
   {
-    "headline": "Intense diplomatic manoeuvring in Athens over first Russian team in European tournament",
-    "headline_fi": "Intense diplomatic manoeuvring in Athens over first Russian team in European tournament",
-    "link": "https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament",
-    "source": "Euronews",
-    "pub": "2026-10-09 12:32"
-  },
-  {
-    "headline": "South Africa pulls asylum directive after violent protests in Johannesburg, Durban",
-    "headline_fi": "South Africa pulls asylum directive after violent protests in Johannesburg, Durban",
-    "link": "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests-in-johannesburg-durban/a-79605037?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 12:27"
-  },
-  {
     "headline": "Hitler Mussolini wins local election",
     "headline_fi": "Hitler Mussolini wins local election",
     "link": "https://www.politico.eu/article/hitler-mussolini-wins-local-election-peru/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -642,13 +649,6 @@
     "link": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 11:12"
-  },
-  {
-    "headline": "EU’s new list of critical mineral projects focuses on clean energy metals",
-    "headline_fi": "EU’s new list of critical mineral projects focuses on clean energy metals",
-    "link": "https://www.politico.eu/article/eus-new-list-of-critical-mineral-projects-focuses-on-clean-energy-metals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-09 11:07"
   },
   {
     "headline": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
