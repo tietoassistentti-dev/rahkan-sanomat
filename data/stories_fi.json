@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Palestinian president postpones elections until late 2027",
+    "headline_fi": "Palestiinan presidentti lykkää vaalit vuoden 2027 lopulle",
+    "link": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-11 01:54"
+  },
+  {
+    "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+    "headline_fi": "Saudi-Arabia: 12 kuoli, satoja loukkaantui Riadin lentokentän hyökkäyksessä",
+    "link": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-11 01:07"
+  },
+  {
     "headline": "Trump says Ukraine needs new president after Zelenskyy condemns Russia fuel deal",
     "headline_fi": "Trump sanoo, että Ukraina tarvitsee uutta presidenttiä Zelenskyyn tuomitsettua Venäjän polttoainesopimuksen",
     "link": "https://www.euronews.com/2026/10/10/trump-says-ukraine-needs-new-president-after-zelenskyy-condemns-russia-fuel-deal",
@@ -28,8 +42,8 @@
     "pub": "2026-10-10 21:22"
   },
   {
-    "headline": "Riyadh airport suspends operations after attack leaves multiple people wounded",
-    "headline_fi": "Riadin lentoasema keskeytti toimintansa, koska iskussa useita ihmisiä on haavoittunut",
+    "headline": "At least two killed, multiple people wounded in attack on Riyadh airport",
+    "headline_fi": "Ainakin kaksi kuoli ja useita loukkaantui hyökkäyksessä Riadin lentokentälle",
     "link": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
     "source": "France 24",
     "pub": "2026-10-10 21:03"
@@ -54,13 +68,6 @@
     "link": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
     "source": "France 24",
     "pub": "2026-10-10 20:39"
-  },
-  {
-    "headline": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
-    "headline_fi": "Saudi-Arabia keskeytti toimintansa Riadin lentokentällä, koska hyökkäys aiheutti useita loukkaantumisia",
-    "link": "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-10 19:52"
   },
   {
     "headline": "Left-wing primary: more than half of registered voters have already voted, say organisers",
@@ -134,7 +141,7 @@
   },
   {
     "headline": "India detains 'cockroach' movement leaders in bid to thwart election protest",
-    "headline_fi": "Intia pidätti \"torakka\"-liikkeen johtajia pyrkiessään estämään vaalien mielenosoituksen",
+    "headline_fi": "India detains 'cockroach' movement leaders in bid to thwart election protest",
     "link": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
     "source": "France 24",
     "pub": "2026-10-10 18:37"
@@ -180,6 +187,13 @@
     "link": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
     "source": "France 24",
     "pub": "2026-10-10 16:45"
+  },
+  {
+    "headline": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
+    "headline_fi": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
+    "link": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
+    "source": "France 24",
+    "pub": "2026-10-10 16:39"
   },
   {
     "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
@@ -278,13 +292,6 @@
     "link": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-10 12:38"
-  },
-  {
-    "headline": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-    "headline_fi": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-    "link": "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
-    "source": "France 24",
-    "pub": "2026-10-10 12:25"
   },
   {
     "headline": "Russian strikes on Ukraine kill at least 20, including three children",
@@ -462,25 +469,11 @@
     "pub": "2026-10-09 21:29"
   },
   {
-    "headline": "UAE: Omani Flydubai co-pilot planned suicide attack",
-    "headline_fi": "UAE: Omani Flydubai co-pilot planned suicide attack",
-    "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 21:23"
-  },
-  {
     "headline": "Rare waterspouts slam western Sicily, wrecking homes and a school",
     "headline_fi": "Rare waterspouts slam western Sicily, wrecking homes and a school",
     "link": "https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school",
     "source": "Euronews",
     "pub": "2026-10-09 20:49"
-  },
-  {
-    "headline": "China, EU reach deal to 'moderate' China's car exports to EU",
-    "headline_fi": "China, EU reach deal to 'moderate' China's car exports to EU",
-    "link": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 20:09"
   },
   {
     "headline": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
