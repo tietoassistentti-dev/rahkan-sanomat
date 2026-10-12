@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Houthi strike on Riyadh airport kills one, injures 11 in second attack in two days",
+    "headline_fi": "Houthi strike on Riyadh airport kills one, injures 11 in second attack in two days",
+    "link": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
+    "source": "France 24",
+    "pub": "2026-10-12 04:01"
+  },
+  {
+    "headline": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+    "headline_fi": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+    "link": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-12 01:59"
+  },
+  {
+    "headline": "UK's Burnham accuses Russia of meddling in Brexit vote",
+    "headline_fi": "UK's Burnham accuses Russia of meddling in Brexit vote",
+    "link": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-12 01:18"
+  },
+  {
+    "headline": "Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda",
+    "headline_fi": "Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda",
+    "link": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform",
+    "source": "France 24",
+    "pub": "2026-10-12 01:01"
+  },
+  {
     "headline": "Independent wins Kraków mayoral race in setback for PM Tusk",
     "headline_fi": "Independent wins Kraków mayoral race in setback for PM Tusk",
     "link": "https://www.politico.eu/article/lukasz-gibala-wins-krakow-mayoral-runoff-donald-tusk-setback/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -89,13 +117,6 @@
     "link": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
     "source": "France 24",
     "pub": "2026-10-11 19:44"
-  },
-  {
-    "headline": "Saudi Arabia: Second strike hits Riyadh airport",
-    "headline_fi": "Saudi Arabia: Second strike hits Riyadh airport",
-    "link": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-11 19:24"
   },
   {
     "headline": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
@@ -336,25 +357,11 @@
     "pub": "2026-10-11 13:23"
   },
   {
-    "headline": "Ukraine says ready to halt refinery strikes if Moscow stops energy attacks",
-    "headline_fi": "Ukraine says ready to halt refinery strikes if Moscow stops energy attacks",
-    "link": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says",
-    "source": "France 24",
-    "pub": "2026-10-11 13:21"
-  },
-  {
     "headline": "Czech PM Babiš's ANO faces strong challenge in first round of Senate election",
     "headline_fi": "Czech PM Babiš's ANO faces strong challenge in first round of Senate election",
     "link": "https://www.euronews.com/2026/10/11/czech-pm-babiss-ano-faces-strong-challenge-in-first-round-of-senate-election",
     "source": "Euronews",
     "pub": "2026-10-11 13:18"
-  },
-  {
-    "headline": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
-    "headline_fi": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
-    "link": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
-    "source": "France 24",
-    "pub": "2026-10-11 13:10"
   },
   {
     "headline": "Latest news bulletin | October 11th, 2026 – Midday",
@@ -481,13 +488,6 @@
     "link": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-10 22:16"
-  },
-  {
-    "headline": "Eritrea urges UN deterrence measures against Ethiopia",
-    "headline_fi": "Eritrea urges UN deterrence measures against Ethiopia",
-    "link": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-10 21:32"
   },
   {
     "headline": "Left-wing primary: more than half of registered voters have already voted, say organisers",
@@ -1279,12 +1279,5 @@
     "link": "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-14 10:50"
-  },
-  {
-    "headline": "Why are European banks moving gold out of United States?",
-    "headline_fi": "Why are European banks moving gold out of United States?",
-    "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-12 18:32"
   }
 ]
