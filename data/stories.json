@@ -1,5 +1,96 @@
 [
   {
+    "headline": "French anti-terror investigators probe True Crime Community link to school shooting",
+    "headline_fi": "French anti-terror investigators probe True Crime Community link to school shooting",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
+    "source": "France 24",
+    "pub": "2026-10-15 00:01"
+  },
+  {
+    "headline": "French anti-terror investigators probe True Crime Community link to school shooting",
+    "headline_fi": "French anti-terror investigators probe True Crime Community link to school shooting",
+    "link": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
+    "source": "France 24",
+    "pub": "2026-10-14 23:58"
+  },
+  {
+    "headline": "Macron warns student anger is being exploited as France braces for more protests",
+    "headline_fi": "Macron warns student anger is being exploited as France braces for more protests",
+    "link": "https://www.euronews.com/2026/10/14/macron-warns-student-anger-is-being-exploited-as-france-braces-for-more-protests",
+    "source": "Euronews",
+    "pub": "2026-10-14 23:56"
+  },
+  {
+    "headline": "French glassmaker Duralex pulled back from the brink - again",
+    "headline_fi": "French glassmaker Duralex pulled back from the brink - again",
+    "link": "https://www.france24.com/en/french-glassmaker-duralex-pulled-back-from-the-brink-again",
+    "source": "France 24",
+    "pub": "2026-10-14 23:55"
+  },
+  {
+    "headline": "Kenya reports second Ebola case",
+    "headline_fi": "Kenya reports second Ebola case",
+    "link": "https://www.france24.com/en/kenya-reports-second-ebola-case",
+    "source": "France 24",
+    "pub": "2026-10-14 23:32"
+  },
+  {
+    "headline": "What is Starshield, SpaceX's military version of Starlink?",
+    "headline_fi": "What is Starshield, SpaceX's military version of Starlink?",
+    "link": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
+    "source": "France 24",
+    "pub": "2026-10-14 23:15"
+  },
+  {
+    "headline": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
+    "headline_fi": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
+    "link": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
+    "source": "France 24",
+    "pub": "2026-10-14 22:56"
+  },
+  {
+    "headline": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
+    "headline_fi": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
+    "link": "https://www.politico.eu/article/france-emmanuel-macron-germany-friedrich-merz-hold-keys-eu-budget-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-14 22:52"
+  },
+  {
+    "headline": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+    "headline_fi": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+    "link": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres",
+    "source": "France 24",
+    "pub": "2026-10-14 22:49"
+  },
+  {
+    "headline": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
+    "headline_fi": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
+    "link": "https://www.euronews.com/2026/10/14/meloni-warns-trumps-russian-diesel-deal-is-very-risky-and-legitimises-moscow",
+    "source": "Euronews",
+    "pub": "2026-10-14 22:47"
+  },
+  {
+    "headline": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack",
+    "headline_fi": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack",
+    "link": "https://www.france24.com/en/trump-sparks-outrage-over-ai-tiger-video-after-sharing-footage-of-fatal-uk-attack-1",
+    "source": "France 24",
+    "pub": "2026-10-14 22:39"
+  },
+  {
+    "headline": "How far will cockroach movement go? India's youth-led protests defy Modi government",
+    "headline_fi": "How far will cockroach movement go? India's youth-led protests defy Modi government",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
+    "source": "France 24",
+    "pub": "2026-10-14 21:40"
+  },
+  {
+    "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
+    "headline_fi": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
+    "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-14 21:28"
+  },
+  {
     "headline": "Nord Stream trial opens in Germany, defense seeks dismissal",
     "headline_fi": "Nord Stream trial opens in Germany, defense seeks dismissal",
     "link": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
@@ -14,8 +105,8 @@
     "pub": "2026-10-14 20:57"
   },
   {
-    "headline": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
-    "headline_fi": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
+    "headline": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
+    "headline_fi": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
     "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 20:55"
@@ -28,8 +119,8 @@
     "pub": "2026-10-14 20:45"
   },
   {
-    "headline": "EU leaders talk energy crisis and budget — live updates",
-    "headline_fi": "EU leaders talk energy crisis and budget — live updates",
+    "headline": "EU leaders gather to talk energy crisis, China and budget — live updates",
+    "headline_fi": "EU leaders gather to talk energy crisis, China and budget — live updates",
     "link": "https://www.politico.eu/article/eu-leaders-talk-energy-crisis-and-budget-european-council-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-14 20:40"
@@ -98,8 +189,8 @@
     "pub": "2026-10-14 18:39"
   },
   {
-    "headline": "One person killed and 20 others injured in overnight Russian attacks on Kyiv",
-    "headline_fi": "One person killed and 20 others injured in overnight Russian attacks on Kyiv",
+    "headline": "Russia and Ukraine trade blame over Trump’s ‘energy ceasefire’ after deadly Kyiv strike",
+    "headline_fi": "Russia and Ukraine trade blame over Trump’s ‘energy ceasefire’ after deadly Kyiv strike",
     "link": "https://www.euronews.com/2026/10/14/one-person-killed-and-20-others-injured-in-overnight-russian-attacks-on-kyiv",
     "source": "Euronews",
     "pub": "2026-10-14 18:29"
@@ -224,13 +315,6 @@
     "pub": "2026-10-14 17:23"
   },
   {
-    "headline": "Burnham rules out partnership with Greens after Zionism row",
-    "headline_fi": "Burnham rules out partnership with Greens after Zionism row",
-    "link": "https://www.politico.eu/article/burnham-cannot-support-greens-after-zionism-row/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 17:17"
-  },
-  {
     "headline": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
     "headline_fi": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
     "link": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf",
@@ -315,13 +399,6 @@
     "pub": "2026-10-14 16:47"
   },
   {
-    "headline": "France’s Mélenchon sees Spain’s Sánchez as inspiration for fixing public finances",
-    "headline_fi": "France’s Mélenchon sees Spain’s Sánchez as inspiration for fixing public finances",
-    "link": "https://www.politico.eu/article/france-melenchon-spain-sanchez-inspiration-fixing-public-finances/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 16:44"
-  },
-  {
     "headline": "Germany: Supporters rally in Hamburg as trial opens over Nord Stream pipeline blasts",
     "headline_fi": "Germany: Supporters rally in Hamburg as trial opens over Nord Stream pipeline blasts",
     "link": "https://www.euronews.com/video/2026/10/14/germany-supporters-rally-in-hamburg-as-trial-opens-over-nord-stream-pipeline-blasts",
@@ -371,39 +448,11 @@
     "pub": "2026-10-14 15:59"
   },
   {
-    "headline": "French MPs back bill to tackle sexual and gender-based violence",
-    "headline_fi": "French MPs back bill to tackle sexual and gender-based violence",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261014-french-mps-back-bill-to-tackle-sexual-and-gender-based-violence",
-    "source": "France 24",
-    "pub": "2026-10-14 15:58"
-  },
-  {
-    "headline": "Cheap weapons, growing fears: Inside the Taliban’s drone campaign against Pakistan",
-    "headline_fi": "Cheap weapons, growing fears: Inside the Taliban’s drone campaign against Pakistan",
-    "link": "https://www.france24.com/en/asia-pacific/20261014-taliban-suicide-drone-attacks-pakistan",
-    "source": "France 24",
-    "pub": "2026-10-14 15:52"
-  },
-  {
-    "headline": "Louvre boss warns of closure risk unless museum is 'repaired, updated and transformed'",
-    "headline_fi": "Louvre boss warns of closure risk unless museum is 'repaired, updated and transformed'",
-    "link": "https://www.france24.com/en/culture/20261014-louvre-boss-warns-of-closure-risk-unless-museum-is-repaired-updated-and-transformed",
-    "source": "France 24",
-    "pub": "2026-10-14 15:21"
-  },
-  {
     "headline": "World’s oldest shipwreck off Turkey: 4,700-year-old amphorae discovered",
     "headline_fi": "World’s oldest shipwreck off Turkey: 4,700-year-old amphorae discovered",
     "link": "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-off-turkey-4700-year-old-amphorae-discovered",
     "source": "Euronews",
     "pub": "2026-10-14 15:18"
-  },
-  {
-    "headline": "Trump's crackdown on migrants: New documentary investigates ICE operations",
-    "headline_fi": "Trump's crackdown on migrants: New documentary investigates ICE operations",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261014-trump-s-crackdown-on-migrants-new-documentary-investigates-ice-operations",
-    "source": "France 24",
-    "pub": "2026-10-14 14:51"
   },
   {
     "headline": "China's influence in the gaming industry is growing",
@@ -427,13 +476,6 @@
     "pub": "2026-10-14 14:37"
   },
   {
-    "headline": "French student protesters are being 'exploited' by political forces, Macron says",
-    "headline_fi": "French student protesters are being 'exploited' by political forces, Macron says",
-    "link": "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces",
-    "source": "France 24",
-    "pub": "2026-10-14 14:33"
-  },
-  {
     "headline": "‘Heartbreaking’ elephants and wily coyotes: Wildlife Photographer of the Year 2026 – in pictures",
     "headline_fi": "‘Heartbreaking’ elephants and wily coyotes: Wildlife Photographer of the Year 2026 – in pictures",
     "link": "https://www.euronews.com/2026/10/14/heartbreaking-elephants-and-wily-coyotes-wildlife-photographer-of-the-year-2026-in-picture",
@@ -448,25 +490,11 @@
     "pub": "2026-10-14 14:10"
   },
   {
-    "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-    "headline_fi": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-    "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 14:07"
-  },
-  {
     "headline": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
     "headline_fi": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
     "link": "https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 13:58"
-  },
-  {
-    "headline": "Republicans weigh midterms strategy, pour money into campaigns even in red states",
-    "headline_fi": "Republicans weigh midterms strategy, pour money into campaigns even in red states",
-    "link": "https://www.france24.com/en/video/20261014-republicans-weigh-midterms-strategy-pour-money-into-campaigns-even-in-red-states",
-    "source": "France 24",
-    "pub": "2026-10-14 13:56"
   },
   {
     "headline": "Japan summons Russian ambassador to protest journalist's arrest on spying charges",
@@ -476,31 +504,10 @@
     "pub": "2026-10-14 13:55"
   },
   {
-    "headline": "Faithful pray for Pope Leo after lung cancer diagnosis",
-    "headline_fi": "Faithful pray for Pope Leo after lung cancer diagnosis",
-    "link": "https://www.france24.com/en/video/20261014-faithful-pray-for-pope-leo-after-lung-cancer-diagnosis",
-    "source": "France 24",
-    "pub": "2026-10-14 13:55"
-  },
-  {
-    "headline": "Dangote refinery extends IPO: Plant has reshaped Nigeria's fuel market",
-    "headline_fi": "Dangote refinery extends IPO: Plant has reshaped Nigeria's fuel market",
-    "link": "https://www.france24.com/en/video/20261014-dangote-refinery-extends-ipo-plant-has-reshaped-nigeria-s-fuel-market",
-    "source": "France 24",
-    "pub": "2026-10-14 13:53"
-  },
-  {
     "headline": "Prosecution calls Russell Brand 'ruthless' sexual predator at opening of sex assault trial",
     "headline_fi": "Prosecution calls Russell Brand 'ruthless' sexual predator at opening of sex assault trial",
     "link": "https://www.euronews.com/2026/10/14/prosecution-calls-russell-brand-ruthless-sexual-predator-at-opening-of-sex-assault-trial",
     "source": "Euronews",
-    "pub": "2026-10-14 13:51"
-  },
-  {
-    "headline": "F1, Rwanda announce creation of African Grand Prix",
-    "headline_fi": "F1, Rwanda announce creation of African Grand Prix",
-    "link": "https://www.france24.com/en/video/20261014-f1-rwanda-announce-creation-of-african-grand-prix",
-    "source": "France 24",
     "pub": "2026-10-14 13:51"
   },
   {
@@ -602,13 +609,6 @@
     "pub": "2026-10-14 13:00"
   },
   {
-    "headline": "'Super-Earths' might be better than our planet. But are they reachable?",
-    "headline_fi": "'Super-Earths' might be better than our planet. But are they reachable?",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261014-super-earths-might-be-better-than-our-planet-but-are-they-reachable",
-    "source": "France 24",
-    "pub": "2026-10-14 12:57"
-  },
-  {
     "headline": "Portuguese parliament backs extension of parental leave: what changes?",
     "headline_fi": "Portuguese parliament backs extension of parental leave: what changes?",
     "link": "https://www.euronews.com/2026/10/14/portuguese-parliament-backs-extension-of-parental-leave-what-changes",
@@ -651,46 +651,11 @@
     "pub": "2026-10-14 12:04"
   },
   {
-    "headline": "These are the best holiday destinations in Europe for embracing a longevity lifestyle",
-    "headline_fi": "These are the best holiday destinations in Europe for embracing a longevity lifestyle",
-    "link": "https://www.euronews.com/2026/10/14/these-are-the-best-holiday-destinations-in-europe-for-embracing-a-longevity-lifestyle",
-    "source": "Euronews",
-    "pub": "2026-10-14 12:00"
-  },
-  {
-    "headline": "ASML posts record €11.7 billion in sales but warns it can’t keep up with AI demand",
-    "headline_fi": "ASML posts record €11.7 billion in sales but warns it can’t keep up with AI demand",
-    "link": "https://www.euronews.com/2026/10/14/asml-posts-record-117-billion-in-sales-but-warns-it-cant-keep-up-with-ai-demand",
-    "source": "Euronews",
-    "pub": "2026-10-14 11:48"
-  },
-  {
     "headline": "Do non-German nationals commit more crimes than Germans?",
     "headline_fi": "Do non-German nationals commit more crimes than Germans?",
     "link": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 11:48"
-  },
-  {
-    "headline": "Trump faces backlash after posting 'sick' video of UK man killed by tiger",
-    "headline_fi": "Trump faces backlash after posting 'sick' video of UK man killed by tiger",
-    "link": "https://www.euronews.com/2026/10/14/trump-faces-backlash-after-posting-sick-video-of-uk-man-killed-by-tiger",
-    "source": "Euronews",
-    "pub": "2026-10-14 11:40"
-  },
-  {
-    "headline": "EU’s AI rules face first enforcement test over lab incidents",
-    "headline_fi": "EU’s AI rules face first enforcement test over lab incidents",
-    "link": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
-    "source": "Euronews",
-    "pub": "2026-10-14 11:35"
-  },
-  {
-    "headline": "Africa records world's fastest gains in disaster resilience, new study shows",
-    "headline_fi": "Africa records world's fastest gains in disaster resilience, new study shows",
-    "link": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows",
-    "source": "Euronews",
-    "pub": "2026-10-14 11:23"
   },
   {
     "headline": "The hidden treasure in discarded wearable and fast tech",
