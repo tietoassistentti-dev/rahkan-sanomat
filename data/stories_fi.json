@@ -1,10 +1,87 @@
 [
   {
+    "headline": "Seven missing after tanker catches fire off Romanian coast",
+    "headline_fi": "Seitsemän kateissa tankkerin syttyessä tuleen Romanian rannikolla",
+    "link": "https://www.politico.eu/article/seven-missing-after-tanker-catches-fire-off-romanian-coast/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 14:48"
+  },
+  {
+    "headline": "Macron's 'trickle-down economics': French poverty at 'highest level' in decades, hunger on the rise",
+    "headline_fi": "Macronin \"tihkuu taloustiede\": Ranskan köyhyys \"korkeimmalla tasolla\" vuosikymmeniin, nälkä lisääntyy",
+    "link": "https://www.france24.com/en/macron-s-trickle-down-economics-french-poverty-at-highest-level-in-decades-hunger-on-the-rise",
+    "source": "France 24",
+    "pub": "2026-10-15 14:40"
+  },
+  {
+    "headline": "Russia detains independent outlet Novaya Gazeta editor Sergei Sokolov",
+    "headline_fi": "Venäjä kertoo riippumattoman Novaja Gazetan päätoimittajan Sergei Sokolovin",
+    "link": "https://www.france24.com/en/europe/20261015-russia-detains-novaya-gazeta-editor-in-chief-sergei-sokolov-after-home-search",
+    "source": "France 24",
+    "pub": "2026-10-15 14:39"
+  },
+  {
+    "headline": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+    "headline_fi": "Ukraina jatkaa hyökkäyksiä venäläisiä jalostamoita vastaan, kun Zelensky sanoi \"olemme valmis\"",
+    "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 14:32"
+  },
+  {
+    "headline": "'It melts all sides': Slovenia takes drastic measures to stop its last glacier from vanishing",
+    "headline_fi": "\"Se sulattaa kaikki puolet\": Slovenia ryhtyy rajuihin toimenpiteisiin estääkseen viimeisen jäätikkönsä katoamisen",
+    "link": "https://www.euronews.com/2026/10/15/it-melts-all-sides-slovenia-takes-drastic-measures-to-stop-its-last-glacier-from-vanishing",
+    "source": "Euronews",
+    "pub": "2026-10-15 14:31"
+  },
+  {
+    "headline": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+    "headline_fi": "Romania: 2 alusta tulessa Mustallamerellä, 7 miehistön jäsentä kadoksissa",
+    "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 14:27"
+  },
+  {
+    "headline": "Water scarcity and costly imports threaten food security in landlocked countries",
+    "headline_fi": "Veden niukkuus ja kallis tuonti uhkaavat elintarviketurvaa sisämaavaltioissa",
+    "link": "https://www.euronews.com/2026/10/15/water-scarcity-and-costly-imports-threaten-food-security-in-landlocked-countries",
+    "source": "Euronews",
+    "pub": "2026-10-15 14:22"
+  },
+  {
+    "headline": "Starlink in Ukraine: Musk suggests US govt behind any slowdown",
+    "headline_fi": "Starlink Ukrainassa: Musk ehdottaa, että Yhdysvaltojen hallitus olisi hidastumisen takana",
+    "link": "https://www.france24.com/en/video/20261015-starlink-in-ukraine-musk-suggests-us-govt-behind-any-slowdown",
+    "source": "France 24",
+    "pub": "2026-10-15 14:19"
+  },
+  {
+    "headline": "'American abandonment' threatens Ukraine's civilians in war against Russia",
+    "headline_fi": "\"Amerikan hylkääminen\" uhkaa Ukrainan siviilejä sodassa Venäjää vastaan",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20261015-american-abandonment-threatens-ukraine-s-civilians-in-war-against-russia",
+    "source": "France 24",
+    "pub": "2026-10-15 14:09"
+  },
+  {
+    "headline": "Hamburg court sentences Iranian agents over plans to attack Jewish leaders in Germany",
+    "headline_fi": "Hampurin tuomioistuin tuomitsi iranilaiset agentit suunnitelmista hyökätä juutalaisten johtajia vastaan ​​Saksassa",
+    "link": "https://www.dw.com/en/hamburg-court-sentences-iranian-agents-over-plans-to-attack-jewish-leaders-in-germany/a-79667895?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 14:07"
+  },
+  {
     "headline": "German gamblers could claim losses back",
     "headline_fi": "Saksalaiset pelaajat voivat vaatia tappioita takaisin",
     "link": "https://www.dw.com/en/german-gamblers-could-claim-losses-back/a-79667844?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 13:50"
+  },
+  {
+    "headline": "Azerbaijan engineers rare summit with in-conflict Middle East and Asian leaders",
+    "headline_fi": "Azerbaidžanin insinöörien harvinainen huippukokous konfliktissa olevien Lähi-idän ja Aasian johtajien kanssa",
+    "link": "https://www.euronews.com/2026/10/15/azerbaijan-engineers-rare-summit-with-in-conflict-middle-east-and-asian-leaders",
+    "source": "Euronews",
+    "pub": "2026-10-15 13:44"
   },
   {
     "headline": "Kenya reports second Ebola case, family member of first patient",
@@ -141,63 +218,63 @@
   },
   {
     "headline": "EU leaders head for showdown over bloc long-term budget",
-    "headline_fi": "EU leaders head for showdown over bloc long-term budget",
+    "headline_fi": "EU:n johtajat ottavat yhteen lohkon pitkän aikavälin budjetin",
     "link": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget",
     "source": "France 24",
     "pub": "2026-10-15 13:09"
   },
   {
     "headline": "Domestic violence in France: 111 women killed by a partner or ex in 2025, up 4%",
-    "headline_fi": "Domestic violence in France: 111 women killed by a partner or ex in 2025, up 4%",
+    "headline_fi": "Perheväkivalta Ranskassa: 111 naista tappoi kumppanin tai exän toimesta vuonna 2025, 4 % enemmän",
     "link": "https://www.euronews.com/2026/10/15/domestic-violence-in-france-111-women-killed-by-a-partner-or-ex-in-2025-up-4",
     "source": "Euronews",
     "pub": "2026-10-15 13:08"
   },
   {
     "headline": "Musk suggests US govt behind any slowdown in Ukraine's Starshield system",
-    "headline_fi": "Musk suggests US govt behind any slowdown in Ukraine's Starshield system",
+    "headline_fi": "Musk ehdottaa, että Ukrainan Starshield-järjestelmän hidastumisen takana on Yhdysvaltojen hallitus",
     "link": "https://www.france24.com/en/video/20261015-musk-suggests-us-govt-behind-any-slowdown-in-ukraine-s-starshield-system",
     "source": "France 24",
     "pub": "2026-10-15 13:08"
   },
   {
     "headline": "Albanian students protest over education, jobs, clash with police",
-    "headline_fi": "Albanian students protest over education, jobs, clash with police",
+    "headline_fi": "Albanialaiset opiskelijat protestoivat koulutuksesta, työpaikoista ja yhteenotoista poliisin kanssa",
     "link": "https://www.france24.com/en/video/20261015-albanian-students-protest-over-education-jobs-clash-with-police",
     "source": "France 24",
     "pub": "2026-10-15 13:06"
   },
   {
     "headline": "China, North Korea open long-delayed border bridge",
-    "headline_fi": "China, North Korea open long-delayed border bridge",
+    "headline_fi": "Kiina ja Pohjois-Korea avasivat pitkään viivästyneen rajasillan",
     "link": "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge",
     "source": "France 24",
     "pub": "2026-10-15 13:05"
   },
   {
     "headline": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
-    "headline_fi": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
+    "headline_fi": "FRANCE 24 raportoi: Intian Z-sukupolven mielenosoittajat löytävät aukkoja turvatoimissa",
     "link": "https://www.france24.com/en/video/20261015-france-24-report-india-s-gen-z-protesters-find-gaps-in-security-clampdown",
     "source": "France 24",
     "pub": "2026-10-15 13:03"
   },
   {
     "headline": "Colombians, fearing for future, march against right-wing president",
-    "headline_fi": "Colombians, fearing for future, march against right-wing president",
+    "headline_fi": "Kolumbialaiset marssivat tulevaisuutta peläten oikeistolaista presidenttiä vastaan",
     "link": "https://www.france24.com/en/video/20261015-colombians-fearing-for-future-march-against-right-wing-president",
     "source": "France 24",
     "pub": "2026-10-15 13:00"
   },
   {
     "headline": "Latest news bulletin | October 15th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 15th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |15. lokakuuta 2026 – keskipäivä",
     "link": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-15 13:00"
   },
   {
     "headline": "PSG outgun embattled Man City in six-goal Champions League thriller",
-    "headline_fi": "PSG outgun embattled Man City in six-goal Champions League thriller",
+    "headline_fi": "PSG voitti Man Cityn kuuden maalin Mestarien liigan trillerissä",
     "link": "https://www.france24.com/en/video/20261015-psg-outgun-embattled-man-city-in-six-goal-champions-league-thriller",
     "source": "France 24",
     "pub": "2026-10-15 12:57"
@@ -532,13 +609,6 @@
     "pub": "2026-10-15 06:57"
   },
   {
-    "headline": "Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
-    "headline_fi": "Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
-    "link": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
-    "source": "France 24",
-    "pub": "2026-10-15 06:52"
-  },
-  {
     "headline": "Das Rot-Grün-Rot-Dilemma in der Hauptstadt",
     "headline_fi": "Das Rot-Grün-Rot-Dilemma in der Hauptstadt",
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-rot-grun-rot-dilemma-in-der-hauptstadt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -574,53 +644,11 @@
     "pub": "2026-10-15 05:00"
   },
   {
-    "headline": "EU leaders head into high-stakes budget battle as elections loom",
-    "headline_fi": "EU leaders head into high-stakes budget battle as elections loom",
-    "link": "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget",
-    "source": "France 24",
-    "pub": "2026-10-15 04:59"
-  },
-  {
-    "headline": "Thousands of Colombians march against new right-wing president's policies",
-    "headline_fi": "Thousands of Colombians march against new right-wing president's policies",
-    "link": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
-    "source": "France 24",
-    "pub": "2026-10-15 04:57"
-  },
-  {
-    "headline": "Lula's party to file complaint against Meta over Brazil election interference",
-    "headline_fi": "Lula's party to file complaint against Meta over Brazil election interference",
-    "link": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
-    "source": "France 24",
-    "pub": "2026-10-15 02:52"
-  },
-  {
     "headline": "North Korea says it tested cruise missiles to be launched from sub",
     "headline_fi": "North Korea says it tested cruise missiles to be launched from sub",
     "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 02:37"
-  },
-  {
-    "headline": "Macron warns student anger is being exploited as France braces for more protests",
-    "headline_fi": "Macron warns student anger is being exploited as France braces for more protests",
-    "link": "https://www.euronews.com/2026/10/14/macron-warns-student-anger-is-being-exploited-as-france-braces-for-more-protests",
-    "source": "Euronews",
-    "pub": "2026-10-14 23:56"
-  },
-  {
-    "headline": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
-    "headline_fi": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
-    "link": "https://www.politico.eu/article/france-emmanuel-macron-germany-friedrich-merz-hold-keys-eu-budget-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 22:52"
-  },
-  {
-    "headline": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
-    "headline_fi": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
-    "link": "https://www.euronews.com/2026/10/14/meloni-warns-trumps-russian-diesel-deal-is-very-risky-and-legitimises-moscow",
-    "source": "Euronews",
-    "pub": "2026-10-14 22:47"
   },
   {
     "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
@@ -651,13 +679,6 @@
     "pub": "2026-10-14 20:28"
   },
   {
-    "headline": "Turkey: Government raids, takes over top news channel",
-    "headline_fi": "Turkey: Government raids, takes over top news channel",
-    "link": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 19:07"
-  },
-  {
     "headline": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
     "headline_fi": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
     "link": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf",
@@ -670,13 +691,6 @@
     "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 17:56"
-  },
-  {
-    "headline": "Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan",
-    "headline_fi": "Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan",
-    "link": "https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 17:25"
   },
   {
     "headline": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
@@ -908,13 +922,6 @@
     "link": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-08 13:55"
-  },
-  {
-    "headline": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
-    "headline_fi": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
-    "link": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-08 13:52"
   },
   {
     "headline": "German Bundeswehr: A new naval port in Emden aims to enhance Germany's defense capabilities",
