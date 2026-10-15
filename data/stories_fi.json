@@ -1,10 +1,80 @@
 [
   {
+    "headline": "Starlink: How Elon Musk's company influences geopolitics",
+    "headline_fi": "Starlink: Kuinka Elon Muskin yritys vaikuttaa geopolitiikkaan",
+    "link": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 15:59"
+  },
+  {
+    "headline": "Elon Musk and Donald Trump: What their growing ties mean for Ukraine",
+    "headline_fi": "Elon Musk ja Donald Trump: Mitä heidän kasvavat siteensä merkitsevät Ukrainalle",
+    "link": "https://www.france24.com/en/video/20261015-elon-musk-and-donald-trump-what-their-growing-ties-mean-for-ukraine",
+    "source": "France 24",
+    "pub": "2026-10-15 15:39"
+  },
+  {
+    "headline": "Chad’s ICC exit plans raise concerns over Sudan war crimes probes",
+    "headline_fi": "Tšadin ICC:n erosuunnitelmat herättävät huolta Sudanin sotarikostutkimuksista",
+    "link": "https://www.france24.com/en/video/20261015-chad-s-icc-exit-plans-raise-concerns-over-sudan-war-crimes-probes",
+    "source": "France 24",
+    "pub": "2026-10-15 15:36"
+  },
+  {
+    "headline": "Ukraine's Zelensky defies Trump with Russian refinery strikes",
+    "headline_fi": "Ukrainalainen Zelenski uhmaa Trumpia Venäjän jalostamolakoilla",
+    "link": "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes",
+    "source": "France 24",
+    "pub": "2026-10-15 15:34"
+  },
+  {
+    "headline": "Outcry over US plans to livestream firing squad execution of Fort Hood shooter",
+    "headline_fi": "Meteli USA:n suunnitelmista lähettää suorana lähetyksenä Fort Hoodin ampujan ampumajoukon teloituksesta",
+    "link": "https://www.france24.com/en/video/20261015-outcry-over-us-plans-to-livestream-firing-squad-execution-of-fort-hood-shooter",
+    "source": "France 24",
+    "pub": "2026-10-15 15:33"
+  },
+  {
+    "headline": "‘Appalling’: Actor Omar Sy joins public figures criticising French authorities’ response to student protests",
+    "headline_fi": "\"Kauhistuttava\": Näyttelijä Omar Sy liittyy julkisuuden henkilöihin, jotka arvostelevat Ranskan viranomaisten vastausta opiskelijoiden mielenosoituksiin",
+    "link": "https://www.euronews.com/2026/10/15/appalling-actor-omar-sy-joins-public-figures-criticising-french-authorities-response-to-st",
+    "source": "Euronews",
+    "pub": "2026-10-15 15:28"
+  },
+  {
+    "headline": "Euro slides to fresh lows against US dollar and British pound despite ECB rate hikes",
+    "headline_fi": "Euro putoaa uuteen pohjaan suhteessa Yhdysvaltain dollariin ja Ison-Britannian puntaan EKP:n koronnostoista huolimatta",
+    "link": "https://www.euronews.com/2026/10/15/euro-slides-to-fresh-lows-against-us-dollar-and-british-pound-despite-ecb-rate-hikes",
+    "source": "Euronews",
+    "pub": "2026-10-15 15:25"
+  },
+  {
+    "headline": "China, North Korea open long-delayed trade bridge",
+    "headline_fi": "Kiina ja Pohjois-Korea avasivat pitkään viivästyneen kauppasillan",
+    "link": "https://www.france24.com/en/tv-shows/business/20261015-china-north-korea-open-long-delayed-trade-bridge",
+    "source": "France 24",
+    "pub": "2026-10-15 15:20"
+  },
+  {
+    "headline": "A deep dive into the global spy plane market",
+    "headline_fi": "Syvä sukellus maailmanlaajuisille vakoilukonemarkkinoille",
+    "link": "https://www.france24.com/en/tv-shows/the-observers/20261015-deep-dive-global-spy-plane-market",
+    "source": "France 24",
+    "pub": "2026-10-15 15:09"
+  },
+  {
     "headline": "Seven missing after tanker catches fire off Romanian coast",
     "headline_fi": "Seitsemän kateissa tankkerin syttyessä tuleen Romanian rannikolla",
     "link": "https://www.politico.eu/article/seven-missing-after-tanker-catches-fire-off-romanian-coast/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-15 14:48"
+  },
+  {
+    "headline": "Millions of phones exposed to Israeli spyware operation through online ads, researchers say",
+    "headline_fi": "Miljoonat puhelimet ovat altistuneet Israelin vakoiluohjelmille verkkomainosten kautta, tutkijat sanovat",
+    "link": "https://www.politico.eu/article/israel-firm-advertising-spyware-mobile-phone-hacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 14:45"
   },
   {
     "headline": "Macron's 'trickle-down economics': French poverty at 'highest level' in decades, hunger on the rise",
@@ -70,9 +140,9 @@
     "pub": "2026-10-15 14:07"
   },
   {
-    "headline": "German gamblers could claim losses back",
-    "headline_fi": "Saksalaiset pelaajat voivat vaatia tappioita takaisin",
-    "link": "https://www.dw.com/en/german-gamblers-could-claim-losses-back/a-79667844?maca=en-rss-en-all-1573-rdf",
+    "headline": "Thousands of German gamblers could sue for their money back",
+    "headline_fi": "Tuhannet saksalaiset pelaajat voivat haastaa oikeuteen rahansa takaisin",
+    "link": "https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 13:50"
   },
@@ -196,6 +266,13 @@
     "pub": "2026-10-15 13:16"
   },
   {
+    "headline": "French teen charged in school shooting cites revenge for bullying",
+    "headline_fi": "Kouluammuskelusta syytetty ranskalainen teini vetoaa kostoun kiusaamisesta",
+    "link": "https://www.france24.com/en/france/20261015-france-charges-teen-shooter-citing-revenge-for-bullying-in-school",
+    "source": "France 24",
+    "pub": "2026-10-15 13:15"
+  },
+  {
     "headline": "What you need to know about Germany’s planned tax on sugary drinks",
     "headline_fi": "Mitä sinun tulee tietää Saksan suunnitellusta sokeripitoisten juomien verosta",
     "link": "https://www.euronews.com/2026/10/15/what-you-need-to-know-about-germanys-planned-tax-on-sugary-drinks",
@@ -281,77 +358,56 @@
   },
   {
     "headline": "Restrictions expose Ukraine's Starlink dependency in Russia war",
-    "headline_fi": "Restrictions expose Ukraine's Starlink dependency in Russia war",
+    "headline_fi": "Rajoitukset paljastavat Ukrainan Starlink-riippuvuuden Venäjän sodassa",
     "link": "https://www.france24.com/en/video/20261015-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war",
     "source": "France 24",
     "pub": "2026-10-15 12:55"
   },
   {
-    "headline": "New four-lane bridge opens between China, North Korea",
-    "headline_fi": "New four-lane bridge opens between China, North Korea",
-    "link": "https://www.france24.com/en/video/20261015-new-four-lane-bridge-opens-between-china-north-korea",
-    "source": "France 24",
-    "pub": "2026-10-15 12:54"
-  },
-  {
     "headline": "Brazil's elections matter for the planet. This is why",
-    "headline_fi": "Brazil's elections matter for the planet. This is why",
+    "headline_fi": "Brasilian vaaleilla on merkitystä planeetalle.Tästä syystä",
     "link": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 12:52"
   },
   {
-    "headline": "War in Ukraine: Kyiv residents decry shortage of bomb shelters",
-    "headline_fi": "War in Ukraine: Kyiv residents decry shortage of bomb shelters",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261015-war-in-ukraine-kyiv-residents-decry-shortage-of-bomb-shelters",
-    "source": "France 24",
-    "pub": "2026-10-15 12:50"
-  },
-  {
     "headline": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
-    "headline_fi": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
+    "headline_fi": "Intian uutiset: Korkein oikeus kuulee Rahul Gandhin vaalilautakunnan vetoomuksen",
     "link": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 12:48"
   },
   {
     "headline": "IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters",
-    "headline_fi": "IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters",
+    "headline_fi": "IMF varoittaa, että Saudi-Arabiaan kohdistuvat hyökkäykset voivat vahingoittaa maailmantaloutta Aramcon päämajan iskun jälkeen",
     "link": "https://www.euronews.com/2026/10/15/imf-warns-attacks-on-saudi-arabia-could-hurt-global-economy-after-strike-on-aramco-headqua",
     "source": "Euronews",
     "pub": "2026-10-15 12:48"
   },
   {
     "headline": "UK's hard-right Reform party hit by fresh scandal as racist views caught on camera",
-    "headline_fi": "UK's hard-right Reform party hit by fresh scandal as racist views caught on camera",
+    "headline_fi": "Ison-Britannian kovaoikeistolainen reformipuolue joutui uuteen skandaaliin, kun rasistiset näkemykset jäivät kameraan",
     "link": "https://www.euronews.com/2026/10/15/uks-hard-right-reform-party-hit-by-fresh-scandal-as-racist-views-caught-on-camera",
     "source": "Euronews",
     "pub": "2026-10-15 12:27"
   },
   {
     "headline": "Mental health at work starts by breaking the taboo, EU agency says",
-    "headline_fi": "Mental health at work starts by breaking the taboo, EU agency says",
+    "headline_fi": "Mielenterveys työpaikalla alkaa tabujen rikkomisesta, EU-virasto sanoo",
     "link": "https://www.euronews.com/2026/10/15/mental-health-at-work-starts-by-breaking-the-taboo-eu-agency-says",
     "source": "Euronews",
     "pub": "2026-10-15 12:21"
   },
   {
-    "headline": "🔴Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
-    "headline_fi": "🔴Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
-    "link": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
-    "source": "France 24",
-    "pub": "2026-10-15 12:21"
-  },
-  {
     "headline": "Croatia pumps the brakes on Montenegro’s EU membership bid",
-    "headline_fi": "Croatia pumps the brakes on Montenegro’s EU membership bid",
+    "headline_fi": "Kroatia jarruttaa Montenegron EU-jäsenyyttä",
     "link": "https://www.politico.eu/article/croatia-pumps-the-brakes-on-montenegros-eu-membership-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-15 12:16"
   },
   {
     "headline": "Anthropic revenue jumps 46% to $16.8bn as AI firm eyes record $2 trillion IPO valuation",
-    "headline_fi": "Anthropic revenue jumps 46% to $16.8bn as AI firm eyes record $2 trillion IPO valuation",
+    "headline_fi": "Ihmisten tuotot nousevat 46 prosenttia 16,8 miljardiin dollariin, kun tekoälyn yrityksen silmät ennättävät 2 biljoonan dollarin IPO-arvostuksen",
     "link": "https://www.euronews.com/2026/10/15/anthropic-revenue-jumps-46-to-168bn-as-ai-firm-eyes-record-2-trillion-ipo-valuation",
     "source": "Euronews",
     "pub": "2026-10-15 11:57"
@@ -371,8 +427,8 @@
     "pub": "2026-10-15 11:37"
   },
   {
-    "headline": "Pope Leo XIV has 'good night' in hospital after lung surgery, Vatican says",
-    "headline_fi": "Pope Leo XIV has 'good night' in hospital after lung surgery, Vatican says",
+    "headline": "Pope Leo XIV's doctors say chest X-ray shows 'good recovery' of lung",
+    "headline_fi": "Pope Leo XIV's doctors say chest X-ray shows 'good recovery' of lung",
     "link": "https://www.euronews.com/2026/10/15/pope-leo-xiv-has-good-night-in-hospital-after-lung-surgery-vatican-says",
     "source": "Euronews",
     "pub": "2026-10-15 11:18"
@@ -397,13 +453,6 @@
     "link": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 11:12"
-  },
-  {
-    "headline": "Pakistan school roof collapse kills dozens of pupils, teacher in Peshawar",
-    "headline_fi": "Pakistan school roof collapse kills dozens of pupils, teacher in Peshawar",
-    "link": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar",
-    "source": "France 24",
-    "pub": "2026-10-15 11:02"
   },
   {
     "headline": "EU enlargement is the bloc’s “most powerful” geostrategic instrument, says Austrian Foreign Minister",
@@ -511,13 +560,6 @@
     "pub": "2026-10-15 09:34"
   },
   {
-    "headline": "EU leaders head into high-stakes budget battle as elections loom",
-    "headline_fi": "EU leaders head into high-stakes budget battle as elections loom",
-    "link": "https://www.france24.com/en/eu-leaders-head-into-high-stakes-budget-battle-as-elections-loom",
-    "source": "France 24",
-    "pub": "2026-10-15 09:03"
-  },
-  {
     "headline": "Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off",
     "headline_fi": "Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off",
     "link": "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off",
@@ -530,13 +572,6 @@
     "link": "https://www.euronews.com/2026/10/15/romania-probes-possible-drone-attack-on-tanker-in-its-black-sea-territorial-waters",
     "source": "Euronews",
     "pub": "2026-10-15 08:54"
-  },
-  {
-    "headline": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
-    "headline_fi": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
-    "link": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
-    "source": "France 24",
-    "pub": "2026-10-15 08:49"
   },
   {
     "headline": "EU summit: Leaders seek solutions to spiralling energy prices",
@@ -602,13 +637,6 @@
     "pub": "2026-10-15 07:00"
   },
   {
-    "headline": "Europe’s debt map flips: Belgium borrows like Greece as France pays more than Italy",
-    "headline_fi": "Europe’s debt map flips: Belgium borrows like Greece as France pays more than Italy",
-    "link": "https://www.euronews.com/2026/10/15/europes-debt-map-flips-belgium-borrows-like-greece-france-pays-more-than-italy",
-    "source": "Euronews",
-    "pub": "2026-10-15 06:57"
-  },
-  {
     "headline": "Das Rot-Grün-Rot-Dilemma in der Hauptstadt",
     "headline_fi": "Das Rot-Grün-Rot-Dilemma in der Hauptstadt",
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-rot-grun-rot-dilemma-in-der-hauptstadt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -633,13 +661,6 @@
     "headline": "How Russia plans to revive its ties with Slovakia",
     "headline_fi": "How Russia plans to revive its ties with Slovakia",
     "link": "https://www.politico.eu/article/russia-plans-revive-slovakia-ties/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-15 05:00"
-  },
-  {
-    "headline": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
-    "headline_fi": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
-    "link": "https://www.politico.eu/article/ukrainian-strikes-data-centers-problem-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-15 05:00"
   },
@@ -670,13 +691,6 @@
     "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 20:55"
-  },
-  {
-    "headline": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
-    "headline_fi": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
-    "link": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 20:28"
   },
   {
     "headline": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
