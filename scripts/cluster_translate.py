@@ -30,6 +30,55 @@ def format_pub(dt):
         return "Recent"
     return dt.strftime("%Y-%m-%d %H:%M")
 
+def story_key(story):
+    return (story.get("link", "#"), story.get("headline", ""))
+
+def load_previous_translations(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            previous_stories = json.load(f)
+    except FileNotFoundError:
+        return {}
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Could not load previous Finnish translations: {e}")
+        return {}
+
+    translations = {}
+    for story in previous_stories:
+        headline = story.get("headline", "")
+        headline_fi = story.get("headline_fi", "")
+        if headline_fi and headline_fi != headline:
+            translations[story_key(story)] = headline_fi
+    return translations
+
+def translate_stories(stories, previous_translations, translator):
+    stories_fi = []
+    translation_attempts = 0
+
+    for story in stories:
+        story_fi = story.copy()
+        previous_translation = previous_translations.get(story_key(story))
+        if previous_translation:
+            story_fi["headline_fi"] = previous_translation
+        elif translation_attempts < 20:
+            translation_attempts += 1
+            try:
+                result = translator.translate(story["headline"], "fi")
+                if result and result.result:
+                    story_fi["headline_fi"] = result.result
+                else:
+                    story_fi["headline_fi"] = story["headline"]
+            except Exception as e:
+                print(f"Translation failed: {e}")
+                story_fi["headline_fi"] = story["headline"]
+            time.sleep(1.0)
+        else:
+            story_fi["headline_fi"] = story["headline"]
+
+        stories_fi.append(story_fi)
+
+    return stories_fi
+
 def main():
     rows = []
     if os.path.exists(MATCHES):
@@ -56,30 +105,14 @@ def main():
             "_dt": dt.isoformat()
         })
     
-    stories_fi = []
     from translatepy import Translator
     translator = Translator()
-    
-    # Translate top 20 stories to Finnish
-    for i, s in enumerate(stories):
-        s_fi = s.copy()
-        if i < 20:
-            try:
-                result = translator.translate(s["headline"], 'fi')
-                if result and result.result:
-                    s_fi["headline_fi"] = result.result
-                else:
-                    s_fi["headline_fi"] = s["headline"]
-            except Exception as e:
-                print(f"Translation failed: {e}")
-                s_fi["headline_fi"] = s["headline"]
-            time.sleep(1.0)
-        else:
-            s_fi["headline_fi"] = s["headline"]
-        
-        s.pop("_dt", None)
+
+    previous_translations = load_previous_translations(DATA_DIR / "stories_fi.json")
+    stories_fi = translate_stories(stories, previous_translations, translator)
+
+    for s_fi in stories_fi:
         s_fi.pop("_dt", None)
-        stories_fi.append(s_fi)
 
     for s in stories:
         s.pop("_dt", None)
