@@ -1,5 +1,390 @@
 [
   {
+    "headline": "German gamblers could claim losses back",
+    "headline_fi": "German gamblers could claim losses back",
+    "link": "https://www.dw.com/en/german-gamblers-could-claim-losses-back/a-79667844?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 13:50"
+  },
+  {
+    "headline": "Kenya reports second Ebola case, family member of first patient",
+    "headline_fi": "Kenya reports second Ebola case, family member of first patient",
+    "link": "https://www.france24.com/en/video/20261015-kenya-reports-second-ebola-case-family-member-of-first-patient",
+    "source": "France 24",
+    "pub": "2026-10-15 13:39"
+  },
+  {
+    "headline": "Debate: Midterms 2026: what comes next for the US and Europe?",
+    "headline_fi": "Debate: Midterms 2026: what comes next for the US and Europe?",
+    "link": "https://www.eurotopics.net/en/365639/midterms-2026-what-comes-next-for-the-us-and-europe?pk_campaign=rss-en&pk_kwd=2026-10-15",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "The tale of the stolen election | Le Monde - France",
+    "headline_fi": "The tale of the stolen election | Le Monde - France",
+    "link": "https://www.eurotopics.net/en/365639/midterms-2026-what-comes-next-for-the-us-and-europe?zitat=365631&pk_campaign=rss-en&pk_kwd=2026-10-15#zitat365631",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "EU weathering the storm | Radio Kommersant FM - Russia",
+    "headline_fi": "EU weathering the storm | Radio Kommersant FM - Russia",
+    "link": "https://www.eurotopics.net/en/365639/midterms-2026-what-comes-next-for-the-us-and-europe?zitat=365606&pk_campaign=rss-en&pk_kwd=2026-10-15#zitat365606",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Making voters believe Zelensky is the obstacle | Vot Tak - Russia",
+    "headline_fi": "Making voters believe Zelensky is the obstacle | Vot Tak - Russia",
+    "link": "https://www.eurotopics.net/en/365639/midterms-2026-what-comes-next-for-the-us-and-europe?zitat=365613&pk_campaign=rss-en&pk_kwd=2026-10-15#zitat365613",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Debate: Pope Leo XIV: surgery for lung cancer",
+    "headline_fi": "Debate: Pope Leo XIV: surgery for lung cancer",
+    "link": "https://www.eurotopics.net/en/365640/pope-leo-xiv-surgery-for-lung-cancer?pk_campaign=rss-en&pk_kwd=2026-10-15",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Anti-reformists will play for time now | The Times - United Kingdom",
+    "headline_fi": "Anti-reformists will play for time now | The Times - United Kingdom",
+    "link": "https://www.eurotopics.net/en/365640/pope-leo-xiv-surgery-for-lung-cancer?zitat=365623&pk_campaign=rss-en&pk_kwd=2026-10-15#zitat365623",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Debate: Nord Stream attack: Ukrainian in court",
+    "headline_fi": "Debate: Nord Stream attack: Ukrainian in court",
+    "link": "https://www.eurotopics.net/en/365644/nord-stream-attack-ukrainian-in-court?pk_campaign=rss-en&pk_kwd=2026-10-15",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Law must apply no matter how inconvenient | Handelsblatt - Germany",
+    "headline_fi": "Law must apply no matter how inconvenient | Handelsblatt - Germany",
+    "link": "https://www.eurotopics.net/en/365644/nord-stream-attack-ukrainian-in-court?zitat=365598&pk_campaign=rss-en&pk_kwd=2026-10-15#zitat365598",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Debate: Czech Republic: new hurdles for children with disabilities?",
+    "headline_fi": "Debate: Czech Republic: new hurdles for children with disabilities?",
+    "link": "https://www.eurotopics.net/en/365642/czech-republic-new-hurdles-for-children-with-disabilities?pk_campaign=rss-en&pk_kwd=2026-10-15",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Debate: Finland: Google stops work on data centres",
+    "headline_fi": "Debate: Finland: Google stops work on data centres",
+    "link": "https://www.eurotopics.net/en/365643/finland-google-stops-work-on-data-centres?pk_campaign=rss-en&pk_kwd=2026-10-15",
+    "source": "Eurotopics",
+    "pub": "2026-10-15 13:31"
+  },
+  {
+    "headline": "Russia detains Swedish citizen as Moscow eyes future prisoner swaps",
+    "headline_fi": "Russia detains Swedish citizen as Moscow eyes future prisoner swaps",
+    "link": "https://www.euronews.com/2026/10/15/russia-detains-swedish-citizen-as-moscow-eyes-future-prisoner-swaps",
+    "source": "Euronews",
+    "pub": "2026-10-15 13:25"
+  },
+  {
+    "headline": "Bulgarian PM breaks ranks with EU leaders to back Trump-Putin diesel deal",
+    "headline_fi": "Bulgarian PM breaks ranks with EU leaders to back Trump-Putin diesel deal",
+    "link": "https://www.euronews.com/2026/10/15/bulgarian-pm-breaks-ranks-with-eu-leaders-to-back-trump-putin-diesel-deal",
+    "source": "Euronews",
+    "pub": "2026-10-15 13:25"
+  },
+  {
+    "headline": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
+    "headline_fi": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
+    "link": "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile",
+    "source": "France 24",
+    "pub": "2026-10-15 13:24"
+  },
+  {
+    "headline": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
+    "headline_fi": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
+    "link": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 13:20"
+  },
+  {
+    "headline": "A cultural stroll through Paris with photographer Nikos Aliagas and writer Jean-Paul Enthoven",
+    "headline_fi": "A cultural stroll through Paris with photographer Nikos Aliagas and writer Jean-Paul Enthoven",
+    "link": "https://www.france24.com/en/tv-shows/paris-des-arts/20261015-a-cultural-stroll-through-paris-with-photographer-nikos-aliagas-and-writer-jean-paul-enthoven",
+    "source": "France 24",
+    "pub": "2026-10-15 13:16"
+  },
+  {
+    "headline": "What you need to know about Germany’s planned tax on sugary drinks",
+    "headline_fi": "What you need to know about Germany’s planned tax on sugary drinks",
+    "link": "https://www.euronews.com/2026/10/15/what-you-need-to-know-about-germanys-planned-tax-on-sugary-drinks",
+    "source": "Euronews",
+    "pub": "2026-10-15 13:14"
+  },
+  {
+    "headline": "Germany news: Train station alcohol ban comes into force",
+    "headline_fi": "Germany news: Train station alcohol ban comes into force",
+    "link": "https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 13:14"
+  },
+  {
+    "headline": "EU leaders to clash over long-term budget, Ukraine support",
+    "headline_fi": "EU leaders to clash over long-term budget, Ukraine support",
+    "link": "https://www.france24.com/en/video/20261015-eu-leaders-to-clash-over-long-term-budget-ukraine-support",
+    "source": "France 24",
+    "pub": "2026-10-15 13:11"
+  },
+  {
+    "headline": "EU leaders head for showdown over bloc long-term budget",
+    "headline_fi": "EU leaders head for showdown over bloc long-term budget",
+    "link": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget",
+    "source": "France 24",
+    "pub": "2026-10-15 13:09"
+  },
+  {
+    "headline": "Domestic violence in France: 111 women killed by a partner or ex in 2025, up 4%",
+    "headline_fi": "Domestic violence in France: 111 women killed by a partner or ex in 2025, up 4%",
+    "link": "https://www.euronews.com/2026/10/15/domestic-violence-in-france-111-women-killed-by-a-partner-or-ex-in-2025-up-4",
+    "source": "Euronews",
+    "pub": "2026-10-15 13:08"
+  },
+  {
+    "headline": "Musk suggests US govt behind any slowdown in Ukraine's Starshield system",
+    "headline_fi": "Musk suggests US govt behind any slowdown in Ukraine's Starshield system",
+    "link": "https://www.france24.com/en/video/20261015-musk-suggests-us-govt-behind-any-slowdown-in-ukraine-s-starshield-system",
+    "source": "France 24",
+    "pub": "2026-10-15 13:08"
+  },
+  {
+    "headline": "Albanian students protest over education, jobs, clash with police",
+    "headline_fi": "Albanian students protest over education, jobs, clash with police",
+    "link": "https://www.france24.com/en/video/20261015-albanian-students-protest-over-education-jobs-clash-with-police",
+    "source": "France 24",
+    "pub": "2026-10-15 13:06"
+  },
+  {
+    "headline": "China, North Korea open long-delayed border bridge",
+    "headline_fi": "China, North Korea open long-delayed border bridge",
+    "link": "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge",
+    "source": "France 24",
+    "pub": "2026-10-15 13:05"
+  },
+  {
+    "headline": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
+    "headline_fi": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
+    "link": "https://www.france24.com/en/video/20261015-france-24-report-india-s-gen-z-protesters-find-gaps-in-security-clampdown",
+    "source": "France 24",
+    "pub": "2026-10-15 13:03"
+  },
+  {
+    "headline": "Colombians, fearing for future, march against right-wing president",
+    "headline_fi": "Colombians, fearing for future, march against right-wing president",
+    "link": "https://www.france24.com/en/video/20261015-colombians-fearing-for-future-march-against-right-wing-president",
+    "source": "France 24",
+    "pub": "2026-10-15 13:00"
+  },
+  {
+    "headline": "Latest news bulletin | October 15th, 2026 – Midday",
+    "headline_fi": "Latest news bulletin | October 15th, 2026 – Midday",
+    "link": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-10-15 13:00"
+  },
+  {
+    "headline": "PSG outgun embattled Man City in six-goal Champions League thriller",
+    "headline_fi": "PSG outgun embattled Man City in six-goal Champions League thriller",
+    "link": "https://www.france24.com/en/video/20261015-psg-outgun-embattled-man-city-in-six-goal-champions-league-thriller",
+    "source": "France 24",
+    "pub": "2026-10-15 12:57"
+  },
+  {
+    "headline": "Restrictions expose Ukraine's Starlink dependency in Russia war",
+    "headline_fi": "Restrictions expose Ukraine's Starlink dependency in Russia war",
+    "link": "https://www.france24.com/en/video/20261015-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war",
+    "source": "France 24",
+    "pub": "2026-10-15 12:55"
+  },
+  {
+    "headline": "New four-lane bridge opens between China, North Korea",
+    "headline_fi": "New four-lane bridge opens between China, North Korea",
+    "link": "https://www.france24.com/en/video/20261015-new-four-lane-bridge-opens-between-china-north-korea",
+    "source": "France 24",
+    "pub": "2026-10-15 12:54"
+  },
+  {
+    "headline": "Brazil's elections matter for the planet. This is why",
+    "headline_fi": "Brazil's elections matter for the planet. This is why",
+    "link": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 12:52"
+  },
+  {
+    "headline": "War in Ukraine: Kyiv residents decry shortage of bomb shelters",
+    "headline_fi": "War in Ukraine: Kyiv residents decry shortage of bomb shelters",
+    "link": "https://www.france24.com/en/tv-shows/focus/20261015-war-in-ukraine-kyiv-residents-decry-shortage-of-bomb-shelters",
+    "source": "France 24",
+    "pub": "2026-10-15 12:50"
+  },
+  {
+    "headline": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
+    "headline_fi": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
+    "link": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 12:48"
+  },
+  {
+    "headline": "IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters",
+    "headline_fi": "IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters",
+    "link": "https://www.euronews.com/2026/10/15/imf-warns-attacks-on-saudi-arabia-could-hurt-global-economy-after-strike-on-aramco-headqua",
+    "source": "Euronews",
+    "pub": "2026-10-15 12:48"
+  },
+  {
+    "headline": "UK's hard-right Reform party hit by fresh scandal as racist views caught on camera",
+    "headline_fi": "UK's hard-right Reform party hit by fresh scandal as racist views caught on camera",
+    "link": "https://www.euronews.com/2026/10/15/uks-hard-right-reform-party-hit-by-fresh-scandal-as-racist-views-caught-on-camera",
+    "source": "Euronews",
+    "pub": "2026-10-15 12:27"
+  },
+  {
+    "headline": "Mental health at work starts by breaking the taboo, EU agency says",
+    "headline_fi": "Mental health at work starts by breaking the taboo, EU agency says",
+    "link": "https://www.euronews.com/2026/10/15/mental-health-at-work-starts-by-breaking-the-taboo-eu-agency-says",
+    "source": "Euronews",
+    "pub": "2026-10-15 12:21"
+  },
+  {
+    "headline": "🔴Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
+    "headline_fi": "🔴Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
+    "link": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
+    "source": "France 24",
+    "pub": "2026-10-15 12:21"
+  },
+  {
+    "headline": "Croatia pumps the brakes on Montenegro’s EU membership bid",
+    "headline_fi": "Croatia pumps the brakes on Montenegro’s EU membership bid",
+    "link": "https://www.politico.eu/article/croatia-pumps-the-brakes-on-montenegros-eu-membership-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 12:16"
+  },
+  {
+    "headline": "Anthropic revenue jumps 46% to $16.8bn as AI firm eyes record $2 trillion IPO valuation",
+    "headline_fi": "Anthropic revenue jumps 46% to $16.8bn as AI firm eyes record $2 trillion IPO valuation",
+    "link": "https://www.euronews.com/2026/10/15/anthropic-revenue-jumps-46-to-168bn-as-ai-firm-eyes-record-2-trillion-ipo-valuation",
+    "source": "Euronews",
+    "pub": "2026-10-15 11:57"
+  },
+  {
+    "headline": "Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums",
+    "headline_fi": "Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums",
+    "link": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 11:45"
+  },
+  {
+    "headline": "New J.K. Rowling documentary set to explore ‘polarising’ Harry Potter author",
+    "headline_fi": "New J.K. Rowling documentary set to explore ‘polarising’ Harry Potter author",
+    "link": "https://www.euronews.com/2026/10/15/new-jk-rowling-documentary-set-to-explore-polarising-harry-potter-author",
+    "source": "Euronews",
+    "pub": "2026-10-15 11:37"
+  },
+  {
+    "headline": "Pope Leo XIV has 'good night' in hospital after lung surgery, Vatican says",
+    "headline_fi": "Pope Leo XIV has 'good night' in hospital after lung surgery, Vatican says",
+    "link": "https://www.euronews.com/2026/10/15/pope-leo-xiv-has-good-night-in-hospital-after-lung-surgery-vatican-says",
+    "source": "Euronews",
+    "pub": "2026-10-15 11:18"
+  },
+  {
+    "headline": "China and North Korea open New Yalu River Bridge after 12-year delay",
+    "headline_fi": "China and North Korea open New Yalu River Bridge after 12-year delay",
+    "link": "https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay",
+    "source": "Euronews",
+    "pub": "2026-10-15 11:13"
+  },
+  {
+    "headline": "Manchester City, the UAE and the UK's OM in a political tangle",
+    "headline_fi": "Manchester City, the UAE and the UK's OM in a political tangle",
+    "link": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 11:13"
+  },
+  {
+    "headline": "North Korea, China open border bridge after 12-year delay",
+    "headline_fi": "North Korea, China open border bridge after 12-year delay",
+    "link": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 11:12"
+  },
+  {
+    "headline": "Pakistan school roof collapse kills dozens of pupils, teacher in Peshawar",
+    "headline_fi": "Pakistan school roof collapse kills dozens of pupils, teacher in Peshawar",
+    "link": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar",
+    "source": "France 24",
+    "pub": "2026-10-15 11:02"
+  },
+  {
+    "headline": "EU enlargement is the bloc’s “most powerful” geostrategic instrument, says Austrian Foreign Minister",
+    "headline_fi": "EU enlargement is the bloc’s “most powerful” geostrategic instrument, says Austrian Foreign Minister",
+    "link": "https://www.euronews.com/video/2026/10/15/eu-enlargement-is-the-blocs-most-powerful-geostrategic-instrument-says-austrian-foreign-mi",
+    "source": "Euronews",
+    "pub": "2026-10-15 11:02"
+  },
+  {
+    "headline": "Jordan is “becoming a safe gateway” for neighbouring countries, says investment minister.",
+    "headline_fi": "Jordan is “becoming a safe gateway” for neighbouring countries, says investment minister.",
+    "link": "https://www.euronews.com/video/2026/10/15/jordan-is-becoming-a-safe-gateway-for-neighbouring-countries-says-investment-minister",
+    "source": "Euronews",
+    "pub": "2026-10-15 10:59"
+  },
+  {
+    "headline": "'Spain's hallmark in Vatican': The Spanish medical science behind Pope Francis' lung operation",
+    "headline_fi": "'Spain's hallmark in Vatican': The Spanish medical science behind Pope Francis' lung operation",
+    "link": "https://www.euronews.com/2026/10/15/spains-hallmark-in-vatican-the-spanish-medical-science-behind-pope-francis-lung-operation",
+    "source": "Euronews",
+    "pub": "2026-10-15 10:55"
+  },
+  {
+    "headline": "EIB seeks cross-border projects to boost Central Asia’s economic development",
+    "headline_fi": "EIB seeks cross-border projects to boost Central Asia’s economic development",
+    "link": "https://www.euronews.com/2026/10/15/eib-seeks-cross-border-projects-to-boost-central-asias-economic-development",
+    "source": "Euronews",
+    "pub": "2026-10-15 10:52"
+  },
+  {
+    "headline": "UK economy unexpectedly grows despite fall in consumer spending",
+    "headline_fi": "UK economy unexpectedly grows despite fall in consumer spending",
+    "link": "https://www.euronews.com/2026/10/15/uk-economy-unexpectedly-grows-despite-fall-in-consumer-spending",
+    "source": "Euronews",
+    "pub": "2026-10-15 10:46"
+  },
+  {
+    "headline": "The extremes of Reform: What will Farage do?",
+    "headline_fi": "The extremes of Reform: What will Farage do?",
+    "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/the-extremes-of-reform-what-will-farage-do/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 10:35"
+  },
+  {
+    "headline": "Kallas: Ukraine’s attacks on Russian refineries constitute self-defence",
+    "headline_fi": "Kallas: Ukraine’s attacks on Russian refineries constitute self-defence",
+    "link": "https://www.euronews.com/2026/10/15/kallas-ukraines-attacks-on-russian-refineries-constitute-self-defence",
+    "source": "Euronews",
+    "pub": "2026-10-15 10:29"
+  },
+  {
+    "headline": "2027 budget: French cinema fears a catastrophic scenario",
+    "headline_fi": "2027 budget: French cinema fears a catastrophic scenario",
+    "link": "https://www.euronews.com/2026/10/15/2027-budget-french-cinema-fears-a-catastrophic-scenario",
+    "source": "Euronews",
+    "pub": "2026-10-15 10:15"
+  },
+  {
     "headline": "EU's top diplomat says Trump's Russian diesel deal was a gift to Putin",
     "headline_fi": "EU's top diplomat says Trump's Russian diesel deal was a gift to Putin",
     "link": "https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin",
@@ -49,6 +434,13 @@
     "pub": "2026-10-15 09:34"
   },
   {
+    "headline": "EU leaders head into high-stakes budget battle as elections loom",
+    "headline_fi": "EU leaders head into high-stakes budget battle as elections loom",
+    "link": "https://www.france24.com/en/eu-leaders-head-into-high-stakes-budget-battle-as-elections-loom",
+    "source": "France 24",
+    "pub": "2026-10-15 09:03"
+  },
+  {
     "headline": "Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off",
     "headline_fi": "Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off",
     "link": "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off",
@@ -56,8 +448,8 @@
     "pub": "2026-10-15 09:01"
   },
   {
-    "headline": "Romania says eight people missing after fire on tanker in its territorial Black Sea waters",
-    "headline_fi": "Romania says eight people missing after fire on tanker in its territorial Black Sea waters",
+    "headline": "Romania says seven people missing after fire on San Marino-flagged tanker in Black Sea",
+    "headline_fi": "Romania says seven people missing after fire on San Marino-flagged tanker in Black Sea",
     "link": "https://www.euronews.com/2026/10/15/romania-probes-possible-drone-attack-on-tanker-in-its-black-sea-territorial-waters",
     "source": "Euronews",
     "pub": "2026-10-15 08:54"
@@ -70,8 +462,8 @@
     "pub": "2026-10-15 08:49"
   },
   {
-    "headline": "EU summit: Leaders seek fast solutions to spiralling energy prices",
-    "headline_fi": "EU summit: Leaders seek fast solutions to spiralling energy prices",
+    "headline": "EU summit: Leaders seek solutions to spiralling energy prices",
+    "headline_fi": "EU summit: Leaders seek solutions to spiralling energy prices",
     "link": "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices",
     "source": "Euronews",
     "pub": "2026-10-15 08:30"
@@ -82,13 +474,6 @@
     "link": "https://www.euronews.com/2026/10/15/new-four-lane-bridge-between-china-and-north-korea-opens-after-a-decade-of-delay",
     "source": "Euronews",
     "pub": "2026-10-15 08:23"
-  },
-  {
-    "headline": "India news: Supreme Court likely to hear Rahul Gandhi's Election Commission plea",
-    "headline_fi": "India news: Supreme Court likely to hear Rahul Gandhi's Election Commission plea",
-    "link": "https://www.dw.com/en/india-news-supreme-court-likely-to-hear-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-15 08:09"
   },
   {
     "headline": "‘They’re not dead yet’: Bleached corals recover in record time after touching healthy clones",
@@ -147,8 +532,8 @@
     "pub": "2026-10-15 06:57"
   },
   {
-    "headline": "Live: Russia strikes several regions in Ukraine, hits two cargo ships in Black Sea",
-    "headline_fi": "Live: Russia strikes several regions in Ukraine, hits two cargo ships in Black Sea",
+    "headline": "Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
+    "headline_fi": "Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
     "link": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
     "source": "France 24",
     "pub": "2026-10-15 06:52"
@@ -196,8 +581,8 @@
     "pub": "2026-10-15 04:59"
   },
   {
-    "headline": "Thousands protest across Colombia against new right-wing president",
-    "headline_fi": "Thousands protest across Colombia against new right-wing president",
+    "headline": "Thousands of Colombians march against new right-wing president's policies",
+    "headline_fi": "Thousands of Colombians march against new right-wing president's policies",
     "link": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
     "source": "France 24",
     "pub": "2026-10-15 04:57"
@@ -217,67 +602,11 @@
     "pub": "2026-10-15 02:37"
   },
   {
-    "headline": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
-    "headline_fi": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
-    "link": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
-    "source": "France 24",
-    "pub": "2026-10-15 02:12"
-  },
-  {
-    "headline": "Albania protests turn violent as protestors demand PM Rama's resignation",
-    "headline_fi": "Albania protests turn violent as protestors demand PM Rama's resignation",
-    "link": "https://www.france24.com/en/europe/20261014-albania-protests-protestors-demand-pm-rama-resignation",
-    "source": "France 24",
-    "pub": "2026-10-15 01:35"
-  },
-  {
-    "headline": "French anti-terror investigators probe True Crime Community link to school shooting",
-    "headline_fi": "French anti-terror investigators probe True Crime Community link to school shooting",
-    "link": "https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
-    "source": "France 24",
-    "pub": "2026-10-15 00:01"
-  },
-  {
-    "headline": "French anti-terror investigators probe True Crime Community link to school shooting",
-    "headline_fi": "French anti-terror investigators probe True Crime Community link to school shooting",
-    "link": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
-    "source": "France 24",
-    "pub": "2026-10-14 23:58"
-  },
-  {
     "headline": "Macron warns student anger is being exploited as France braces for more protests",
     "headline_fi": "Macron warns student anger is being exploited as France braces for more protests",
     "link": "https://www.euronews.com/2026/10/14/macron-warns-student-anger-is-being-exploited-as-france-braces-for-more-protests",
     "source": "Euronews",
     "pub": "2026-10-14 23:56"
-  },
-  {
-    "headline": "French glassmaker Duralex pulled back from the brink - again",
-    "headline_fi": "French glassmaker Duralex pulled back from the brink - again",
-    "link": "https://www.france24.com/en/french-glassmaker-duralex-pulled-back-from-the-brink-again",
-    "source": "France 24",
-    "pub": "2026-10-14 23:55"
-  },
-  {
-    "headline": "Kenya reports second Ebola case",
-    "headline_fi": "Kenya reports second Ebola case",
-    "link": "https://www.france24.com/en/kenya-reports-second-ebola-case",
-    "source": "France 24",
-    "pub": "2026-10-14 23:32"
-  },
-  {
-    "headline": "What is Starshield, SpaceX's military version of Starlink?",
-    "headline_fi": "What is Starshield, SpaceX's military version of Starlink?",
-    "link": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
-    "source": "France 24",
-    "pub": "2026-10-14 23:15"
-  },
-  {
-    "headline": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
-    "headline_fi": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
-    "link": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
-    "source": "France 24",
-    "pub": "2026-10-14 22:56"
   },
   {
     "headline": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
@@ -287,32 +616,11 @@
     "pub": "2026-10-14 22:52"
   },
   {
-    "headline": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
-    "headline_fi": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
-    "link": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres",
-    "source": "France 24",
-    "pub": "2026-10-14 22:49"
-  },
-  {
     "headline": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
     "headline_fi": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
     "link": "https://www.euronews.com/2026/10/14/meloni-warns-trumps-russian-diesel-deal-is-very-risky-and-legitimises-moscow",
     "source": "Euronews",
     "pub": "2026-10-14 22:47"
-  },
-  {
-    "headline": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack",
-    "headline_fi": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack",
-    "link": "https://www.france24.com/en/trump-sparks-outrage-over-ai-tiger-video-after-sharing-footage-of-fatal-uk-attack-1",
-    "source": "France 24",
-    "pub": "2026-10-14 22:39"
-  },
-  {
-    "headline": "How far will cockroach movement go? India's youth-led protests defy Modi government",
-    "headline_fi": "How far will cockroach movement go? India's youth-led protests defy Modi government",
-    "link": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
-    "source": "France 24",
-    "pub": "2026-10-14 21:40"
   },
   {
     "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
@@ -329,25 +637,11 @@
     "pub": "2026-10-14 21:00"
   },
   {
-    "headline": "Albania’s capital burns as protests escalate",
-    "headline_fi": "Albania’s capital burns as protests escalate",
-    "link": "https://www.politico.eu/article/albania-protests-escalate-students-torch-businesses-government-buildings/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 20:57"
-  },
-  {
     "headline": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
     "headline_fi": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
     "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 20:55"
-  },
-  {
-    "headline": "How Azerbaijan is building its next chapter in tourism",
-    "headline_fi": "How Azerbaijan is building its next chapter in tourism",
-    "link": "https://www.euronews.com/2026/10/14/how-azerbaijan-is-building-its-next-chapter-in-tourism",
-    "source": "Euronews",
-    "pub": "2026-10-14 20:45"
   },
   {
     "headline": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
@@ -357,60 +651,11 @@
     "pub": "2026-10-14 20:28"
   },
   {
-    "headline": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
-    "headline_fi": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
-    "link": "https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders",
-    "source": "France 24",
-    "pub": "2026-10-14 20:18"
-  },
-  {
-    "headline": "‘The idea that Modi must be feared because he holds all levers of power has gone out of the window’",
-    "headline_fi": "‘The idea that Modi must be feared because he holds all levers of power has gone out of the window’",
-    "link": "https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window",
-    "source": "France 24",
-    "pub": "2026-10-14 19:51"
-  },
-  {
-    "headline": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
-    "headline_fi": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
-    "link": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
-    "source": "France 24",
-    "pub": "2026-10-14 19:21"
-  },
-  {
     "headline": "Turkey: Government raids, takes over top news channel",
     "headline_fi": "Turkey: Government raids, takes over top news channel",
     "link": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 19:07"
-  },
-  {
-    "headline": "Latest news bulletin | October 14th, 2026 – Evening",
-    "headline_fi": "Latest news bulletin | October 14th, 2026 – Evening",
-    "link": "https://www.euronews.com/video/2026/10/14/latest-news-bulletin-october-14th-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-10-14 19:00"
-  },
-  {
-    "headline": "Thousands of supermarket fridges still exposed after cyberattack",
-    "headline_fi": "Thousands of supermarket fridges still exposed after cyberattack",
-    "link": "https://www.euronews.com/2026/10/14/thousands-of-supermarket-fridges-still-exposed-after-cyberattack",
-    "source": "Euronews",
-    "pub": "2026-10-14 18:42"
-  },
-  {
-    "headline": "Mont Blanc rises by almost two metres, now standing at 4,807.47 metres",
-    "headline_fi": "Mont Blanc rises by almost two metres, now standing at 4,807.47 metres",
-    "link": "https://www.euronews.com/2026/10/14/mont-blanc-rises-by-almost-two-metres-now-standing-at-480747-metres",
-    "source": "Euronews",
-    "pub": "2026-10-14 18:39"
-  },
-  {
-    "headline": "Russia and Ukraine trade blame over Trump’s ‘energy ceasefire’ after deadly Kyiv strike",
-    "headline_fi": "Russia and Ukraine trade blame over Trump’s ‘energy ceasefire’ after deadly Kyiv strike",
-    "link": "https://www.euronews.com/2026/10/14/one-person-killed-and-20-others-injured-in-overnight-russian-attacks-on-kyiv",
-    "source": "Euronews",
-    "pub": "2026-10-14 18:29"
   },
   {
     "headline": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
@@ -420,67 +665,11 @@
     "pub": "2026-10-14 18:13"
   },
   {
-    "headline": "FBI arrest Saudi OpenAI employee for allegedly planting recording device in office",
-    "headline_fi": "FBI arrest Saudi OpenAI employee for allegedly planting recording device in office",
-    "link": "https://www.euronews.com/2026/10/14/fbi-arrest-saudi-openai-employee-for-allegedly-planting-recording-device-in-office",
-    "source": "Euronews",
-    "pub": "2026-10-14 18:08"
-  },
-  {
-    "headline": "Croatia's wartime grievances threaten Montenegro's hopes of joining EU by 2028",
-    "headline_fi": "Croatia's wartime grievances threaten Montenegro's hopes of joining EU by 2028",
-    "link": "https://www.euronews.com/2026/10/14/croatias-wartime-grievances-threaten-montenegros-hopes-of-joining-eu-by-2028",
-    "source": "Euronews",
-    "pub": "2026-10-14 18:06"
-  },
-  {
-    "headline": "Todd Haynes at Lumière Festival: 'It is a time to remember how important it is to protect our freedoms'",
-    "headline_fi": "Todd Haynes at Lumière Festival: 'It is a time to remember how important it is to protect our freedoms'",
-    "link": "https://www.euronews.com/2026/10/14/todd-haynes-at-lumiere-festival-it-is-a-time-to-remember-how-important-it-is-to-protect-ou",
-    "source": "Euronews",
-    "pub": "2026-10-14 18:00"
-  },
-  {
-    "headline": "Turkish police raid Halk TV in Istanbul, sparking outrage over media freedom",
-    "headline_fi": "Turkish police raid Halk TV in Istanbul, sparking outrage over media freedom",
-    "link": "https://www.euronews.com/video/2026/10/14/turkish-police-raid-halk-tv-in-istanbul-sparking-outrage-over-media-freedom",
-    "source": "Euronews",
-    "pub": "2026-10-14 17:59"
-  },
-  {
     "headline": "Albania: Fire at Education Ministry as students protest",
     "headline_fi": "Albania: Fire at Education Ministry as students protest",
     "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 17:56"
-  },
-  {
-    "headline": "Spanish Foreign Minister tells Euronews 'fundamental rights of people' at stake in snap election",
-    "headline_fi": "Spanish Foreign Minister tells Euronews 'fundamental rights of people' at stake in snap election",
-    "link": "https://www.euronews.com/video/2026/10/14/spanish-foreign-minister-tells-euronews-fundamental-rights-of-people-at-stake-in-snap-elec",
-    "source": "Euronews",
-    "pub": "2026-10-14 17:48"
-  },
-  {
-    "headline": "In Phoenix, young ultra-conservatives look to carry on Charlie Kirk’s legacy",
-    "headline_fi": "In Phoenix, young ultra-conservatives look to carry on Charlie Kirk’s legacy",
-    "link": "https://www.france24.com/en/americas/20261014-in-phoenix-young-ultra-conservatives-look-to-carry-on-charlie-kirk-s-legacy",
-    "source": "France 24",
-    "pub": "2026-10-14 17:37"
-  },
-  {
-    "headline": "EU summit: Leaders tackle energy prices, spar over budget and unite on Ukraine",
-    "headline_fi": "EU summit: Leaders tackle energy prices, spar over budget and unite on Ukraine",
-    "link": "https://www.euronews.com/2026/10/14/eu-summit-leaders-tackle-energy-prices-spar-over-budget-and-unite-on-ukraine",
-    "source": "Euronews",
-    "pub": "2026-10-14 17:28"
-  },
-  {
-    "headline": "Rutte urges allies to send more air defence to Ukraine",
-    "headline_fi": "Rutte urges allies to send more air defence to Ukraine",
-    "link": "https://www.euronews.com/2026/10/14/rutte-urges-allies-to-send-more-air-defence-to-ukraine",
-    "source": "Euronews",
-    "pub": "2026-10-14 17:25"
   },
   {
     "headline": "Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan",
@@ -497,76 +686,6 @@
     "pub": "2026-10-14 17:15"
   },
   {
-    "headline": "Louvre could be forced to close without major overhaul, director warns",
-    "headline_fi": "Louvre could be forced to close without major overhaul, director warns",
-    "link": "https://www.euronews.com/2026/10/14/louvre-could-be-forced-to-close-without-major-overhaul-director-warns",
-    "source": "Euronews",
-    "pub": "2026-10-14 17:06"
-  },
-  {
-    "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-    "headline_fi": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-    "link": "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
-    "source": "France 24",
-    "pub": "2026-10-14 17:00"
-  },
-  {
-    "headline": "Ceuta an 'inalienable' part of Spain, king says on key visit",
-    "headline_fi": "Ceuta an 'inalienable' part of Spain, king says on key visit",
-    "link": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
-    "source": "France 24",
-    "pub": "2026-10-14 16:58"
-  },
-  {
-    "headline": "Russia’s internet shutdowns push state firms back to landline phones",
-    "headline_fi": "Russia’s internet shutdowns push state firms back to landline phones",
-    "link": "https://www.euronews.com/2026/10/14/russias-internet-shutdowns-push-state-firms-back-to-landline-phones",
-    "source": "Euronews",
-    "pub": "2026-10-14 16:52"
-  },
-  {
-    "headline": "Germany news: Merz attacks extremes for fueling division",
-    "headline_fi": "Germany news: Merz attacks extremes for fueling division",
-    "link": "https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 16:48"
-  },
-  {
-    "headline": "Germany: Supporters rally in Hamburg as trial opens over Nord Stream pipeline blasts",
-    "headline_fi": "Germany: Supporters rally in Hamburg as trial opens over Nord Stream pipeline blasts",
-    "link": "https://www.euronews.com/video/2026/10/14/germany-supporters-rally-in-hamburg-as-trial-opens-over-nord-stream-pipeline-blasts",
-    "source": "Euronews",
-    "pub": "2026-10-14 16:42"
-  },
-  {
-    "headline": "Houthis launch fresh wave of missiles across Saudi Arabia",
-    "headline_fi": "Houthis launch fresh wave of missiles across Saudi Arabia",
-    "link": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 16:35"
-  },
-  {
-    "headline": "Major artworks by masters on sale as Monsoon's Peter Simon clears out collection",
-    "headline_fi": "Major artworks by masters on sale as Monsoon's Peter Simon clears out collection",
-    "link": "https://www.euronews.com/video/2026/10/14/major-artworks-by-masters-on-sale-as-monsoons-peter-simon-clears-out-collection",
-    "source": "Euronews",
-    "pub": "2026-10-14 16:18"
-  },
-  {
-    "headline": "US inflation rises to 3.7% as fuel costs climb ahead of midterms",
-    "headline_fi": "US inflation rises to 3.7% as fuel costs climb ahead of midterms",
-    "link": "https://www.euronews.com/2026/10/14/us-inflation-rises-to-37-as-fuel-costs-climb-ahead-of-midterms",
-    "source": "Euronews",
-    "pub": "2026-10-14 16:07"
-  },
-  {
-    "headline": "Meet the 76-year-old Kazakh traveller on a mission to walk around the world",
-    "headline_fi": "Meet the 76-year-old Kazakh traveller on a mission to walk around the world",
-    "link": "https://www.euronews.com/2026/10/14/meet-the-76-year-old-kazakh-traveller-on-a-mission-to-walk-around-the-world",
-    "source": "Euronews",
-    "pub": "2026-10-14 16:00"
-  },
-  {
     "headline": "China's influence in the gaming industry is growing",
     "headline_fi": "China's influence in the gaming industry is growing",
     "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
@@ -579,69 +698,6 @@
     "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 14:40"
-  },
-  {
-    "headline": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
-    "headline_fi": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
-    "link": "https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 13:58"
-  },
-  {
-    "headline": "Debate: EU budget: how much is too much?",
-    "headline_fi": "Debate: EU budget: how much is too much?",
-    "link": "https://www.eurotopics.net/en/365577/eu-budget-how-much-is-too-much?pk_campaign=rss-en&pk_kwd=2026-10-14",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
-  },
-  {
-    "headline": "Debate: Ukraine war: does Europe need a new direction?",
-    "headline_fi": "Debate: Ukraine war: does Europe need a new direction?",
-    "link": "https://www.eurotopics.net/en/365578/ukraine-war-does-europe-need-a-new-direction?pk_campaign=rss-en&pk_kwd=2026-10-14",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
-  },
-  {
-    "headline": "Don't lose sight of the battle against corruption | Frankfurter Allgemeine Zeitung - Germany",
-    "headline_fi": "Don't lose sight of the battle against corruption | Frankfurter Allgemeine Zeitung - Germany",
-    "link": "https://www.eurotopics.net/en/365578/ukraine-war-does-europe-need-a-new-direction?zitat=365526&pk_campaign=rss-en&pk_kwd=2026-10-14#zitat365526",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
-  },
-  {
-    "headline": "Up the pressure on Russian tankers | La Stampa - Italy",
-    "headline_fi": "Up the pressure on Russian tankers | La Stampa - Italy",
-    "link": "https://www.eurotopics.net/en/365578/ukraine-war-does-europe-need-a-new-direction?zitat=365550&pk_campaign=rss-en&pk_kwd=2026-10-14#zitat365550",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
-  },
-  {
-    "headline": "Debate: Athens: US ambassador Kimberly Guilfoyle out",
-    "headline_fi": "Debate: Athens: US ambassador Kimberly Guilfoyle out",
-    "link": "https://www.eurotopics.net/en/365579/athens-us-ambassador-kimberly-guilfoyle-out?pk_campaign=rss-en&pk_kwd=2026-10-14",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
-  },
-  {
-    "headline": "Political risk factor eliminated | To Vima - Greece",
-    "headline_fi": "Political risk factor eliminated | To Vima - Greece",
-    "link": "https://www.eurotopics.net/en/365579/athens-us-ambassador-kimberly-guilfoyle-out?zitat=365545&pk_campaign=rss-en&pk_kwd=2026-10-14#zitat365545",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
-  },
-  {
-    "headline": "The party's over | News247 - Greece",
-    "headline_fi": "The party's over | News247 - Greece",
-    "link": "https://www.eurotopics.net/en/365579/athens-us-ambassador-kimberly-guilfoyle-out?zitat=365559&pk_campaign=rss-en&pk_kwd=2026-10-14#zitat365559",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
-  },
-  {
-    "headline": "Debate: What do the Houthi attacks on Saudi Arabia mean?",
-    "headline_fi": "Debate: What do the Houthi attacks on Saudi Arabia mean?",
-    "link": "https://www.eurotopics.net/en/365502/what-do-the-houthi-attacks-on-saudi-arabia-mean?pk_campaign=rss-en&pk_kwd=2026-10-14",
-    "source": "Eurotopics",
-    "pub": "2026-10-14 13:13"
   },
   {
     "headline": "Fact check: Misleading graph about alleged Russian bot activity",
@@ -1029,13 +1085,6 @@
     "pub": "2026-10-02 16:48"
   },
   {
-    "headline": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
-    "headline_fi": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
-    "link": "https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 14:17"
-  },
-  {
     "headline": "Turkey: Stock market scandal hits half a million investors",
     "headline_fi": "Turkey: Stock market scandal hits half a million investors",
     "link": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf",
@@ -1216,13 +1265,6 @@
     "link": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-19 12:14"
-  },
-  {
-    "headline": "Women's football in Germany booming, but still much to do",
-    "headline_fi": "Women's football in Germany booming, but still much to do",
-    "link": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-19 07:42"
   },
   {
     "headline": "Strait of Hormuz attacks spill oil into Persian Gulf",
