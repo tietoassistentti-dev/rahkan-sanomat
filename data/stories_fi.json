@@ -1,140 +1,343 @@
 [
   {
-    "headline": "Lula’s party accuses Meta of election interference ahead of Brazil runoff",
-    "headline_fi": "Lulan puolue syyttää Metaa vaalien sekaantumisesta ennen Brasilian toista kierrosta",
+    "headline": "EU's top diplomat says Trump's Russian diesel deal was a gift to Putin",
+    "headline_fi": "EU:n johtava diplomaatti sanoo, että Trumpin Venäjän dieselsopimus oli lahja Putinille",
+    "link": "https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin",
+    "source": "Euronews",
+    "pub": "2026-10-15 10:04"
+  },
+  {
+    "headline": "Russia miscalculated by sidelining Europe in US talks, Kallas tells Euronews",
+    "headline_fi": "Venäjä on laskenut väärin jättäessään Euroopan sivuun Yhdysvaltojen neuvotteluissa, Kallas kertoo Euronewsille",
+    "link": "https://www.euronews.com/2026/10/15/russia-miscalculated-by-sidelining-europe-in-us-talks-kallas-tells-euronews",
+    "source": "Euronews",
+    "pub": "2026-10-15 09:54"
+  },
+  {
+    "headline": "Taiwan chip giant TSMC says net profit hit record in third quarter",
+    "headline_fi": "Taiwanin sirujätti TSMC sanoo, että nettotulos saavutti ennätyksen kolmannella neljänneksellä",
+    "link": "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter",
+    "source": "Euronews",
+    "pub": "2026-10-15 09:43"
+  },
+  {
+    "headline": "EU summit to focus on China, Ukraine and bloc budget",
+    "headline_fi": "EU-huippukokous keskittyy Kiinaan, Ukrainaan ja blokkibudjettiin",
+    "link": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 09:43"
+  },
+  {
+    "headline": "Thailand: Bangkok protesters decry IMF and World Bank, warn of destructive capitalism",
+    "headline_fi": "Thaimaa: Bangkokin mielenosoittajat tuomitsivat IMF:n ja Maailmanpankin, varoittavat tuhoisasta kapitalismista",
+    "link": "https://www.euronews.com/video/2026/10/15/thailand-bangkok-protesters-decry-imf-and-world-bank-warn-of-destructive-capitalism",
+    "source": "Euronews",
+    "pub": "2026-10-15 09:39"
+  },
+  {
+    "headline": "Can a European Security Council help the EU fight Russia’s hybrid attacks?",
+    "headline_fi": "Voiko Euroopan turvallisuusneuvosto auttaa EU:ta torjumaan Venäjän hybridihyökkäyksiä?",
+    "link": "https://www.euronews.com/2026/10/15/can-a-european-security-council-help-the-eu-fight-russias-hybrid-attacks",
+    "source": "Euronews",
+    "pub": "2026-10-15 09:35"
+  },
+  {
+    "headline": "EU leaders enter crunch talks on energy, China and the budget",
+    "headline_fi": "EU-johtajat aloittavat neuvottelut energiasta, Kiinasta ja budjetista",
+    "link": "https://www.euronews.com/2026/10/15/eu-leaders-enter-crunch-talks-on-energy-china-and-the-budget",
+    "source": "Euronews",
+    "pub": "2026-10-15 09:34"
+  },
+  {
+    "headline": "Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off",
+    "headline_fi": "Europe Today: Kallas puhuu yksinomaan Euronewsille tärkeän EU-huippukokouksen alkaessa",
+    "link": "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off",
+    "source": "Euronews",
+    "pub": "2026-10-15 09:01"
+  },
+  {
+    "headline": "Romania says eight people missing after fire on tanker in its territorial Black Sea waters",
+    "headline_fi": "Romanian mukaan kahdeksan ihmistä on kadonnut säiliöaluksen tulipalon seurauksena Mustanmeren aluevesillä",
+    "link": "https://www.euronews.com/2026/10/15/romania-probes-possible-drone-attack-on-tanker-in-its-black-sea-territorial-waters",
+    "source": "Euronews",
+    "pub": "2026-10-15 08:54"
+  },
+  {
+    "headline": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
+    "headline_fi": "Ranska \"ei voi enää rahoittaa\" Ukrainaa, äärioikeiston presidenttiehdokas Le Pen sanoi",
+    "link": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
+    "source": "France 24",
+    "pub": "2026-10-15 08:49"
+  },
+  {
+    "headline": "EU summit: Leaders seek fast solutions to spiralling energy prices",
+    "headline_fi": "EU:n huippukokous: Johtajat etsivät nopeita ratkaisuja nouseviin energiahintoihin",
+    "link": "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices",
+    "source": "Euronews",
+    "pub": "2026-10-15 08:30"
+  },
+  {
+    "headline": "New four-lane bridge between China and North Korea opens after a decade of delay",
+    "headline_fi": "Uusi nelikaistainen silta Kiinan ja Pohjois-Korean välillä avataan kymmenen vuoden viiveen jälkeen",
+    "link": "https://www.euronews.com/2026/10/15/new-four-lane-bridge-between-china-and-north-korea-opens-after-a-decade-of-delay",
+    "source": "Euronews",
+    "pub": "2026-10-15 08:23"
+  },
+  {
+    "headline": "India news: Supreme Court likely to hear Rahul Gandhi's Election Commission plea",
+    "headline_fi": "Intian uutiset: Korkein oikeus kuulee todennäköisesti Rahul Gandhin vaalilautakunnan vetoomuksen",
+    "link": "https://www.dw.com/en/india-news-supreme-court-likely-to-hear-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 08:09"
+  },
+  {
+    "headline": "‘They’re not dead yet’: Bleached corals recover in record time after touching healthy clones",
+    "headline_fi": "\"Ne eivät ole vielä kuolleet\": Valkaistut korallit toipuvat ennätysajassa koskettuaan terveisiin klooniin",
+    "link": "https://www.euronews.com/2026/10/15/theyre-not-dead-yet-bleached-corals-recover-in-record-time-after-touching-healthy-clones",
+    "source": "Euronews",
+    "pub": "2026-10-15 08:02"
+  },
+  {
+    "headline": "Latest news bulletin | October 15th, 2026 – Morning",
+    "headline_fi": "Uusin uutistiedote |15. lokakuuta 2026 – Aamu",
+    "link": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-10-15 08:00"
+  },
+  {
+    "headline": "Embryo gene editing is getting more precise, but how safe and ethical is the practice? | Euronews Tech Talks",
+    "headline_fi": "Alkioiden geenien muokkaaminen tarkentuu, mutta kuinka turvallista ja eettistä se on?|Euronews Tech Talks",
+    "link": "https://www.euronews.com/2026/10/15/embryo-gene-editing-is-getting-more-precise-but-how-safe-and-ethical-is-the-practice-euron",
+    "source": "Euronews",
+    "pub": "2026-10-15 08:00"
+  },
+  {
+    "headline": "India urges Russia, Ukraine to protect Black Sea shipping",
+    "headline_fi": "Intia kehottaa Venäjää ja Ukrainaa suojelemaan Mustanmeren laivaliikennettä",
+    "link": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 07:19"
+  },
+  {
+    "headline": "Musk suggests US government behind slowdown in Ukraine's Starshield system",
+    "headline_fi": "Musk ehdottaa, että Ukrainan Starshield-järjestelmän hidastumisen takana on Yhdysvaltain hallitus",
+    "link": "https://www.euronews.com/2026/10/15/musk-points-to-trump-behind-any-slowdown-in-ukraines-starshield-system",
+    "source": "Euronews",
+    "pub": "2026-10-15 07:10"
+  },
+  {
+    "headline": "AI in healthcare: from fighting epidemics to family doctors",
+    "headline_fi": "Tekoäly terveydenhuollossa: epidemioiden torjunnasta perhelääkäreihin",
+    "link": "https://www.euronews.com/2026/10/15/ai-in-healthcare-from-fighting-epidemics-to-family-doctors",
+    "source": "Euronews",
+    "pub": "2026-10-15 07:05"
+  },
+  {
+    "headline": "EU leaders face off over the budget",
+    "headline_fi": "EU:n johtajat kohtaavat budjettia",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/eu-leaders-face-off-over-the-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 07:00"
+  },
+  {
+    "headline": "Europe’s debt map flips: Belgium borrows like Greece as France pays more than Italy",
+    "headline_fi": "Europe’s debt map flips: Belgium borrows like Greece as France pays more than Italy",
+    "link": "https://www.euronews.com/2026/10/15/europes-debt-map-flips-belgium-borrows-like-greece-france-pays-more-than-italy",
+    "source": "Euronews",
+    "pub": "2026-10-15 06:57"
+  },
+  {
+    "headline": "Live: Russia strikes several regions in Ukraine, hits two cargo ships in Black Sea",
+    "headline_fi": "Live: Russia strikes several regions in Ukraine, hits two cargo ships in Black Sea",
+    "link": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
+    "source": "France 24",
+    "pub": "2026-10-15 06:52"
+  },
+  {
+    "headline": "Das Rot-Grün-Rot-Dilemma in der Hauptstadt",
+    "headline_fi": "Das Rot-Grün-Rot-Dilemma in der Hauptstadt",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-rot-grun-rot-dilemma-in-der-hauptstadt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 06:30"
+  },
+  {
+    "headline": "UK polling watchdog faces reckoning after Farage sting",
+    "headline_fi": "UK polling watchdog faces reckoning after Farage sting",
+    "link": "https://www.politico.eu/article/uk-polling-watchdog-faces-reckoning-after-farage-donor-sting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 06:00"
+  },
+  {
+    "headline": "Frontex suspends reintegration program after blowing through its budget",
+    "headline_fi": "Frontex suspends reintegration program after blowing through its budget",
+    "link": "https://www.politico.eu/article/frontex-suspends-reintegration-program-after-blowing-through-its-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 05:00"
+  },
+  {
+    "headline": "How Russia plans to revive its ties with Slovakia",
+    "headline_fi": "How Russia plans to revive its ties with Slovakia",
+    "link": "https://www.politico.eu/article/russia-plans-revive-slovakia-ties/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 05:00"
+  },
+  {
+    "headline": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
+    "headline_fi": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
+    "link": "https://www.politico.eu/article/ukrainian-strikes-data-centers-problem-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-15 05:00"
+  },
+  {
+    "headline": "EU leaders head into high-stakes budget battle as elections loom",
+    "headline_fi": "EU leaders head into high-stakes budget battle as elections loom",
+    "link": "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget",
+    "source": "France 24",
+    "pub": "2026-10-15 04:59"
+  },
+  {
+    "headline": "Thousands protest across Colombia against new right-wing president",
+    "headline_fi": "Thousands protest across Colombia against new right-wing president",
+    "link": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
+    "source": "France 24",
+    "pub": "2026-10-15 04:57"
+  },
+  {
+    "headline": "Lula's party to file complaint against Meta over Brazil election interference",
+    "headline_fi": "Lula's party to file complaint against Meta over Brazil election interference",
     "link": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
     "source": "France 24",
     "pub": "2026-10-15 02:52"
   },
   {
     "headline": "North Korea says it tested cruise missiles to be launched from sub",
-    "headline_fi": "Pohjois-Korea kertoo testaaneensa risteilyohjuksia, jotka voidaan laukaista sukellusveneestä",
+    "headline_fi": "North Korea says it tested cruise missiles to be launched from sub",
     "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 02:37"
   },
   {
     "headline": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
-    "headline_fi": "Pohjois-Korea testasi sukellusveneistä laukaistavia risteilyohjuksia jännityksen lisääntyessä",
+    "headline_fi": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
     "link": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
     "source": "France 24",
     "pub": "2026-10-15 02:12"
   },
   {
     "headline": "Albania protests turn violent as protestors demand PM Rama's resignation",
-    "headline_fi": "Albanian mielenosoitukset muuttuvat väkivaltaisiksi mielenosoittajien vaatiessa pääministeri Raman eroa",
+    "headline_fi": "Albania protests turn violent as protestors demand PM Rama's resignation",
     "link": "https://www.france24.com/en/europe/20261014-albania-protests-protestors-demand-pm-rama-resignation",
     "source": "France 24",
     "pub": "2026-10-15 01:35"
   },
   {
     "headline": "French anti-terror investigators probe True Crime Community link to school shooting",
-    "headline_fi": "Ranskan terrorismin vastaiset tutkijat tutkivat True Crime Communityn yhteyttä kouluammuskeluun",
+    "headline_fi": "French anti-terror investigators probe True Crime Community link to school shooting",
     "link": "https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
     "source": "France 24",
     "pub": "2026-10-15 00:01"
   },
   {
     "headline": "French anti-terror investigators probe True Crime Community link to school shooting",
-    "headline_fi": "Ranskan terrorismin vastaiset tutkijat tutkivat True Crime Communityn yhteyttä kouluammuskeluun",
+    "headline_fi": "French anti-terror investigators probe True Crime Community link to school shooting",
     "link": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
     "source": "France 24",
     "pub": "2026-10-14 23:58"
   },
   {
     "headline": "Macron warns student anger is being exploited as France braces for more protests",
-    "headline_fi": "Macron varoittaa, että opiskelijoiden vihaa käytetään hyväksi Ranskan valmistautuessa uusiin mielenosoituksiin",
+    "headline_fi": "Macron warns student anger is being exploited as France braces for more protests",
     "link": "https://www.euronews.com/2026/10/14/macron-warns-student-anger-is-being-exploited-as-france-braces-for-more-protests",
     "source": "Euronews",
     "pub": "2026-10-14 23:56"
   },
   {
     "headline": "French glassmaker Duralex pulled back from the brink - again",
-    "headline_fi": "Ranskalainen lasinvalmistaja Duralex vetäytyi partaalta - jälleen",
+    "headline_fi": "French glassmaker Duralex pulled back from the brink - again",
     "link": "https://www.france24.com/en/french-glassmaker-duralex-pulled-back-from-the-brink-again",
     "source": "France 24",
     "pub": "2026-10-14 23:55"
   },
   {
     "headline": "Kenya reports second Ebola case",
-    "headline_fi": "Kenia raportoi toisesta ebolatapauksesta",
+    "headline_fi": "Kenya reports second Ebola case",
     "link": "https://www.france24.com/en/kenya-reports-second-ebola-case",
     "source": "France 24",
     "pub": "2026-10-14 23:32"
   },
   {
     "headline": "What is Starshield, SpaceX's military version of Starlink?",
-    "headline_fi": "Mikä on Starshield, SpaceX:n Starlinkin sotilasversio?",
+    "headline_fi": "What is Starshield, SpaceX's military version of Starlink?",
     "link": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
     "source": "France 24",
     "pub": "2026-10-14 23:15"
   },
   {
     "headline": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
-    "headline_fi": "Nord Stream saattoi olla laillinen kohde, väittävät pommi-iskusta syytetyn ukrainalaisen asianajajat",
+    "headline_fi": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
     "link": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
     "source": "France 24",
     "pub": "2026-10-14 22:56"
   },
   {
     "headline": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
-    "headline_fi": "Macronilla ja Merzillä on avaimet EU:n budjettisopimukseen, mutta he saattavat olla liian heikkoja käyttämään niitä",
+    "headline_fi": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
     "link": "https://www.politico.eu/article/france-emmanuel-macron-germany-friedrich-merz-hold-keys-eu-budget-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-14 22:52"
   },
   {
     "headline": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
-    "headline_fi": "Starlink-rajoitus \"ei yllätys\", kun Musk tuomitsi Ukrainan iskut Venäjän tietokeskuksiin",
+    "headline_fi": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
     "link": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres",
     "source": "France 24",
     "pub": "2026-10-14 22:49"
   },
   {
     "headline": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
-    "headline_fi": "Meloni varoittaa Trumpin Venäjän dieselsopimuksen olevan \"erittäin riskialtista\" ja legitimoi Moskovan",
+    "headline_fi": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
     "link": "https://www.euronews.com/2026/10/14/meloni-warns-trumps-russian-diesel-deal-is-very-risky-and-legitimises-moscow",
     "source": "Euronews",
     "pub": "2026-10-14 22:47"
   },
   {
     "headline": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack",
-    "headline_fi": "Trump herättää raivoa tekoälytiikerivideosta jakaessaan kuvamateriaalia kohtalokkaasta Britannian hyökkäyksestä",
+    "headline_fi": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack",
     "link": "https://www.france24.com/en/trump-sparks-outrage-over-ai-tiger-video-after-sharing-footage-of-fatal-uk-attack-1",
     "source": "France 24",
     "pub": "2026-10-14 22:39"
   },
   {
     "headline": "How far will cockroach movement go? India's youth-led protests defy Modi government",
-    "headline_fi": "Kuinka pitkälle torakan liike menee?Intian nuorten johtamat mielenosoitukset uhmaavat Modin hallitusta",
+    "headline_fi": "How far will cockroach movement go? India's youth-led protests defy Modi government",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
     "source": "France 24",
     "pub": "2026-10-14 21:40"
   },
   {
     "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-    "headline_fi": "Ukraina sanoo, että Muskin SpaceX rajoittaa Kiovan Starlinkin pääsyä",
+    "headline_fi": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
     "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 21:28"
   },
   {
     "headline": "Nord Stream trial opens in Germany, defense seeks dismissal",
-    "headline_fi": "Nord Stream -oikeudenkäynti alkaa Saksassa, puolustus vaatii irtisanomista",
+    "headline_fi": "Nord Stream trial opens in Germany, defense seeks dismissal",
     "link": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 21:00"
   },
   {
     "headline": "Albania’s capital burns as protests escalate",
-    "headline_fi": "Albanian pääkaupunki palaa mielenosoitusten lisääntyessä",
+    "headline_fi": "Albania’s capital burns as protests escalate",
     "link": "https://www.politico.eu/article/albania-protests-escalate-students-torch-businesses-government-buildings/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-14 20:57"
   },
   {
     "headline": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
-    "headline_fi": "Kuinka Trumpin dieselsopimus Venäjän kanssa vaikuttaa Yhdysvaltoihin ja Ukrainaan",
+    "headline_fi": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
     "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 20:55"
@@ -145,13 +348,6 @@
     "link": "https://www.euronews.com/2026/10/14/how-azerbaijan-is-building-its-next-chapter-in-tourism",
     "source": "Euronews",
     "pub": "2026-10-14 20:45"
-  },
-  {
-    "headline": "EU leaders gather to talk energy crisis, China and budget — live updates",
-    "headline_fi": "EU leaders gather to talk energy crisis, China and budget — live updates",
-    "link": "https://www.politico.eu/article/eu-leaders-talk-energy-crisis-and-budget-european-council-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 20:40"
   },
   {
     "headline": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
@@ -203,13 +399,6 @@
     "pub": "2026-10-14 18:42"
   },
   {
-    "headline": "David Lisnard, bulle ou réalité ?",
-    "headline_fi": "David Lisnard, bulle ou réalité ?",
-    "link": "https://www.politico.eu/podcast/playbook-paris-podcast/david-lisnard-bulle-ou-realite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 18:42"
-  },
-  {
     "headline": "Mont Blanc rises by almost two metres, now standing at 4,807.47 metres",
     "headline_fi": "Mont Blanc rises by almost two metres, now standing at 4,807.47 metres",
     "link": "https://www.euronews.com/2026/10/14/mont-blanc-rises-by-almost-two-metres-now-standing-at-480747-metres",
@@ -224,27 +413,6 @@
     "pub": "2026-10-14 18:29"
   },
   {
-    "headline": "Ukrainian officers warn Starlink slowdown ‘comparable to a nuclear strike against us’",
-    "headline_fi": "Ukrainian officers warn Starlink slowdown ‘comparable to a nuclear strike against us’",
-    "link": "https://www.politico.eu/article/ukraine-starlink-restrictions-disrupt-drone-strikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 18:29"
-  },
-  {
-    "headline": "India urges Russia, Ukraine to protect Black Sea shipping",
-    "headline_fi": "India urges Russia, Ukraine to protect Black Sea shipping",
-    "link": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 18:29"
-  },
-  {
-    "headline": "Deadly drone strikes in NATO waters raise stakes for Black Sea trade",
-    "headline_fi": "Deadly drone strikes in NATO waters raise stakes for Black Sea trade",
-    "link": "https://www.politico.eu/article/drone-strikes-in-nato-waters-raise-stakes-for-black-sea-trade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 18:27"
-  },
-  {
     "headline": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
     "headline_fi": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
     "link": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf",
@@ -257,13 +425,6 @@
     "link": "https://www.euronews.com/2026/10/14/fbi-arrest-saudi-openai-employee-for-allegedly-planting-recording-device-in-office",
     "source": "Euronews",
     "pub": "2026-10-14 18:08"
-  },
-  {
-    "headline": "NGO: Brussels confirms Czech PM’s agri business conflict of interest",
-    "headline_fi": "NGO: Brussels confirms Czech PM’s agri business conflict of interest",
-    "link": "https://www.politico.eu/article/ngo-brussels-confirms-czech-pm-andrej-babis-agri-business-conflict-of-interest/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 18:06"
   },
   {
     "headline": "Croatia's wartime grievances threaten Montenegro's hopes of joining EU by 2028",
@@ -308,13 +469,6 @@
     "pub": "2026-10-14 17:37"
   },
   {
-    "headline": "UK rolls out King Charles to welcome Zelenskyy after Trump rift",
-    "headline_fi": "UK rolls out King Charles to welcome Zelenskyy after Trump rift",
-    "link": "https://www.politico.eu/article/uk-rolls-out-king-charles-welcome-zelenskyy-after-trump-rift/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 17:33"
-  },
-  {
     "headline": "EU summit: Leaders tackle energy prices, spar over budget and unite on Ukraine",
     "headline_fi": "EU summit: Leaders tackle energy prices, spar over budget and unite on Ukraine",
     "link": "https://www.euronews.com/2026/10/14/eu-summit-leaders-tackle-energy-prices-spar-over-budget-and-unite-on-ukraine",
@@ -334,13 +488,6 @@
     "link": "https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 17:25"
-  },
-  {
-    "headline": "Palantir settles dispute with Sadiq Khan",
-    "headline_fi": "Palantir settles dispute with Sadiq Khan",
-    "link": "https://www.politico.eu/article/palantir-settles-dispute-with-sadiq-khan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-14 17:23"
   },
   {
     "headline": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
@@ -371,46 +518,11 @@
     "pub": "2026-10-14 16:58"
   },
   {
-    "headline": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
-    "headline_fi": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
-    "link": "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen",
-    "source": "France 24",
-    "pub": "2026-10-14 16:57"
-  },
-  {
-    "headline": "Cornell University bans fraternity parties after alleged gang rape",
-    "headline_fi": "Cornell University bans fraternity parties after alleged gang rape",
-    "link": "https://www.france24.com/en/video/20261014-cornell-university-bans-fraternity-parties-after-alleged-gang-rape",
-    "source": "France 24",
-    "pub": "2026-10-14 16:55"
-  },
-  {
-    "headline": "School closures persist in France as protests gain momentum",
-    "headline_fi": "School closures persist in France as protests gain momentum",
-    "link": "https://www.france24.com/en/video/20261014-school-closures-persist-in-france-as-protests-gain-momentum",
-    "source": "France 24",
-    "pub": "2026-10-14 16:53"
-  },
-  {
     "headline": "Russia’s internet shutdowns push state firms back to landline phones",
     "headline_fi": "Russia’s internet shutdowns push state firms back to landline phones",
     "link": "https://www.euronews.com/2026/10/14/russias-internet-shutdowns-push-state-firms-back-to-landline-phones",
     "source": "Euronews",
     "pub": "2026-10-14 16:52"
-  },
-  {
-    "headline": "Ukraine asking US, SpaceX and NATO to clarify Starlink limitations",
-    "headline_fi": "Ukraine asking US, SpaceX and NATO to clarify Starlink limitations",
-    "link": "https://www.france24.com/en/video/20261014-ukraine-asking-us-spacex-and-nato-to-clarify-starlink-limitations",
-    "source": "France 24",
-    "pub": "2026-10-14 16:52"
-  },
-  {
-    "headline": "Yemen conflict escalates as Houthis say seized new strategic area",
-    "headline_fi": "Yemen conflict escalates as Houthis say seized new strategic area",
-    "link": "https://www.france24.com/en/video/20261014-escalating-conflict-in-yemen-as-houthis-say-seized-new-strategic-area",
-    "source": "France 24",
-    "pub": "2026-10-14 16:50"
   },
   {
     "headline": "Germany news: Merz attacks extremes for fueling division",
@@ -455,20 +567,6 @@
     "pub": "2026-10-14 16:00"
   },
   {
-    "headline": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
-    "headline_fi": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
-    "link": "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor",
-    "source": "Euronews",
-    "pub": "2026-10-14 15:59"
-  },
-  {
-    "headline": "World’s oldest shipwreck off Turkey: 4,700-year-old amphorae discovered",
-    "headline_fi": "World’s oldest shipwreck off Turkey: 4,700-year-old amphorae discovered",
-    "link": "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-off-turkey-4700-year-old-amphorae-discovered",
-    "source": "Euronews",
-    "pub": "2026-10-14 15:18"
-  },
-  {
     "headline": "China's influence in the gaming industry is growing",
     "headline_fi": "China's influence in the gaming industry is growing",
     "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
@@ -483,67 +581,11 @@
     "pub": "2026-10-14 14:40"
   },
   {
-    "headline": "IEA warns diesel prices in Europe could rise as global crunch lasts into 2027",
-    "headline_fi": "IEA warns diesel prices in Europe could rise as global crunch lasts into 2027",
-    "link": "https://www.euronews.com/2026/10/14/iea-warns-diesel-prices-in-europe-could-rise-as-global-crunch-lasts-into-2027",
-    "source": "Euronews",
-    "pub": "2026-10-14 14:37"
-  },
-  {
-    "headline": "‘Heartbreaking’ elephants and wily coyotes: Wildlife Photographer of the Year 2026 – in pictures",
-    "headline_fi": "‘Heartbreaking’ elephants and wily coyotes: Wildlife Photographer of the Year 2026 – in pictures",
-    "link": "https://www.euronews.com/2026/10/14/heartbreaking-elephants-and-wily-coyotes-wildlife-photographer-of-the-year-2026-in-picture",
-    "source": "Euronews",
-    "pub": "2026-10-14 14:32"
-  },
-  {
-    "headline": "Tsui Hark at Lumière Festival: ‘We don't know where the future will bring us’",
-    "headline_fi": "Tsui Hark at Lumière Festival: ‘We don't know where the future will bring us’",
-    "link": "https://www.euronews.com/2026/10/14/tsui-hark-at-lumiere-festival-we-dont-know-where-the-future-will-bring-us",
-    "source": "Euronews",
-    "pub": "2026-10-14 14:10"
-  },
-  {
     "headline": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
     "headline_fi": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
     "link": "https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 13:58"
-  },
-  {
-    "headline": "Japan summons Russian ambassador to protest journalist's arrest on spying charges",
-    "headline_fi": "Japan summons Russian ambassador to protest journalist's arrest on spying charges",
-    "link": "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying",
-    "source": "Euronews",
-    "pub": "2026-10-14 13:55"
-  },
-  {
-    "headline": "Prosecution calls Russell Brand 'ruthless' sexual predator at opening of sex assault trial",
-    "headline_fi": "Prosecution calls Russell Brand 'ruthless' sexual predator at opening of sex assault trial",
-    "link": "https://www.euronews.com/2026/10/14/prosecution-calls-russell-brand-ruthless-sexual-predator-at-opening-of-sex-assault-trial",
-    "source": "Euronews",
-    "pub": "2026-10-14 13:51"
-  },
-  {
-    "headline": "MEPs urge EU to shield International Criminal Court from US sanctions",
-    "headline_fi": "MEPs urge EU to shield International Criminal Court from US sanctions",
-    "link": "https://www.euronews.com/2026/10/14/meps-urge-eu-to-shield-international-criminal-court-from-us-sanctions",
-    "source": "Euronews",
-    "pub": "2026-10-14 13:44"
-  },
-  {
-    "headline": "How Germany is training medical staff to fight Ebola",
-    "headline_fi": "How Germany is training medical staff to fight Ebola",
-    "link": "https://www.euronews.com/2026/10/14/how-germany-is-training-medical-staff-to-fight-ebola",
-    "source": "Euronews",
-    "pub": "2026-10-14 13:25"
-  },
-  {
-    "headline": "EU's methane rules face one-year delay, sparking environmental backlash",
-    "headline_fi": "EU's methane rules face one-year delay, sparking environmental backlash",
-    "link": "https://www.euronews.com/2026/10/14/eus-methane-rules-face-two-year-delay-sparking-environmental-backlash",
-    "source": "Euronews",
-    "pub": "2026-10-14 13:18"
   },
   {
     "headline": "Debate: EU budget: how much is too much?",
@@ -602,67 +644,11 @@
     "pub": "2026-10-14 13:13"
   },
   {
-    "headline": "Climate change is putting Europe’s brain health at risk",
-    "headline_fi": "Climate change is putting Europe’s brain health at risk",
-    "link": "https://www.euronews.com/2026/10/14/climate-change-is-putting-europes-brain-health-at-risk",
-    "source": "Euronews",
-    "pub": "2026-10-14 13:06"
-  },
-  {
-    "headline": "Latest news bulletin | October 14th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 14th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/14/latest-news-bulletin-october-14th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-14 13:00"
-  },
-  {
-    "headline": "Trump announces plans for major oil, gas and mineral exploration in Greenland",
-    "headline_fi": "Trump announces plans for major oil, gas and mineral exploration in Greenland",
-    "link": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-14 13:00"
-  },
-  {
-    "headline": "Portuguese parliament backs extension of parental leave: what changes?",
-    "headline_fi": "Portuguese parliament backs extension of parental leave: what changes?",
-    "link": "https://www.euronews.com/2026/10/14/portuguese-parliament-backs-extension-of-parental-leave-what-changes",
-    "source": "Euronews",
-    "pub": "2026-10-14 12:50"
-  },
-  {
-    "headline": "Iran executes man accused of armed attacks during US-Israeli strikes",
-    "headline_fi": "Iran executes man accused of armed attacks during US-Israeli strikes",
-    "link": "https://www.euronews.com/2026/10/14/iran-executes-man-accused-of-armed-attacks-during-us-israeli-strikes",
-    "source": "Euronews",
-    "pub": "2026-10-14 12:40"
-  },
-  {
-    "headline": "Former Ukrainian military officer to stand trial in Germany over Nord Stream sabotage",
-    "headline_fi": "Former Ukrainian military officer to stand trial in Germany over Nord Stream sabotage",
-    "link": "https://www.euronews.com/2026/10/14/former-ukrainian-military-officer-to-stand-trial-in-germany-over-nord-stream-sabotage",
-    "source": "Euronews",
-    "pub": "2026-10-14 12:37"
-  },
-  {
-    "headline": "Albania: Student protests in Tirana turn violent as Flamingo Revolution escalates",
-    "headline_fi": "Albania: Student protests in Tirana turn violent as Flamingo Revolution escalates",
-    "link": "https://www.euronews.com/video/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates",
-    "source": "Euronews",
-    "pub": "2026-10-14 12:22"
-  },
-  {
     "headline": "Fact check: Misleading graph about alleged Russian bot activity",
     "headline_fi": "Fact check: Misleading graph about alleged Russian bot activity",
     "link": "https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 12:08"
-  },
-  {
-    "headline": "Duane Davis gets minimum 40 years in prison for orchestrating murder of Tupac Shakur",
-    "headline_fi": "Duane Davis gets minimum 40 years in prison for orchestrating murder of Tupac Shakur",
-    "link": "https://www.euronews.com/2026/10/14/duane-davis-gets-minimum-40-years-in-prison-for-orchestrating-murder-of-tupac-shakur",
-    "source": "Euronews",
-    "pub": "2026-10-14 12:04"
   },
   {
     "headline": "Do non-German nationals commit more crimes than Germans?",
@@ -882,13 +868,6 @@
     "pub": "2026-10-08 12:34"
   },
   {
-    "headline": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
-    "headline_fi": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
-    "link": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-08 11:38"
-  },
-  {
     "headline": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
     "headline_fi": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
     "link": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf",
@@ -1062,13 +1041,6 @@
     "link": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 07:32"
-  },
-  {
-    "headline": "Germans' biggest fear is the high cost of living, an annual study finds",
-    "headline_fi": "Germans' biggest fear is the high cost of living, an annual study finds",
-    "link": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-01 12:46"
   },
   {
     "headline": "Servers at Munich's iconic Oktoberfest call for more respect",
