@@ -1,5 +1,117 @@
 [
   {
+    "headline": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
+    "headline_fi": "Sanchez torjuu Espanjan maahanmuuttopolitiikan kritiikin: \"sanat eivät vastaa todellisuutta\"",
+    "link": "https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality",
+    "source": "Euronews",
+    "pub": "2026-10-16 23:30"
+  },
+  {
+    "headline": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+    "headline_fi": "Zelensky kääntyy Euroopan puoleen saadakseen tukea suhteiden Trumpin heikentyessä",
+    "link": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
+    "source": "France 24",
+    "pub": "2026-10-16 23:25"
+  },
+  {
+    "headline": "KENYA CONFIRMS THIRD EBOLA CASE",
+    "headline_fi": "KENYA VAHVISTAA KOLMANNEN EBOLA-TAPAUKSEN",
+    "link": "https://www.france24.com/en/kenya-confirms-third-ebola-case",
+    "source": "France 24",
+    "pub": "2026-10-16 23:25"
+  },
+  {
+    "headline": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+    "headline_fi": "\"Viimeistele se, mitä aloitimme\": Opiskelijoiden mielenosoitusten jälkeen Ranska valmistautuu keltaisten liivien palauttamiseen",
+    "link": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
+    "source": "France 24",
+    "pub": "2026-10-16 23:10"
+  },
+  {
+    "headline": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
+    "headline_fi": "Yhteenotot Tiranassa, kun Albanian pääministeri syyttää \"vieraat käsiä\" levottomuuksien lisääntymisestä",
+    "link": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
+    "source": "France 24",
+    "pub": "2026-10-16 22:59"
+  },
+  {
+    "headline": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+    "headline_fi": "Ukrainan presidentti Zelenskyy puhuu EU-huippukokouksessa kiistelyssä Donald Trumpin kanssa",
+    "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-16 22:42"
+  },
+  {
+    "headline": "West Bank: US journalist injured by Israeli settlers",
+    "headline_fi": "Länsiranta: Israelin siirtokuntien haavoittunut yhdysvaltalainen toimittaja",
+    "link": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-16 22:32"
+  },
+  {
+    "headline": "EU leaders clash over migration, Ukraine and budget in Brussels — but delay big decisions",
+    "headline_fi": "EU-johtajat riitelevät Brysselissä muuttoliikkeestä, Ukrainasta ja budjetista – mutta viivyttelevät suuria päätöksiä",
+    "link": "https://www.politico.eu/article/eu-summit-decisions-ukraine-funding-budget-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-16 22:30"
+  },
+  {
+    "headline": "Trump's new press secretary leaves after less than a week following controversy",
+    "headline_fi": "Trumpin uusi lehdistösihteeri lähtee alle viikon kuluttua kiistan jälkeen",
+    "link": "https://www.euronews.com/2026/10/16/trumps-new-press-secretary-leaves-after-less-than-a-week-following-controversy",
+    "source": "Euronews",
+    "pub": "2026-10-16 22:29"
+  },
+  {
+    "headline": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
+    "headline_fi": "Trump vs Zelensky, Näytöstä kaduille, Z-sukupolvi protestoi Pariisista Dehliin",
+    "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
+    "source": "France 24",
+    "pub": "2026-10-16 22:21"
+  },
+  {
+    "headline": "'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'",
+    "headline_fi": "\"USA kallistuu kohti Venäjää: eurooppalaiset seisovat yhä lujemmin Zelenskin rinnalla\"",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261016-us-tilting-toward-russia-europeans-are-standing-more-and-more-solidly-with-zelensky",
+    "source": "France 24",
+    "pub": "2026-10-16 21:33"
+  },
+  {
+    "headline": "Romanian president calls for greater NATO oversight in the Black Sea in Euronews interview",
+    "headline_fi": "Romanian presidentti vaatii Euronewsin haastattelussa lisää Naton valvontaa Mustallamerellä",
+    "link": "https://www.euronews.com/2026/10/16/romanian-president-calls-for-greater-nato-oversight-in-the-black-sea-in-euronews-interview",
+    "source": "Euronews",
+    "pub": "2026-10-16 21:30"
+  },
+  {
+    "headline": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+    "headline_fi": "Hijab-kielto kouluissa Azerbaidžanissa: mikä on harvinaisen mielenosoitusaallon takana?",
+    "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-16 20:46"
+  },
+  {
+    "headline": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
+    "headline_fi": "Budjetti, Ukraina, maahanmuutto: Viisi poimintaa EU:n johtajien huippukokouksesta",
+    "link": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+    "source": "Euronews",
+    "pub": "2026-10-16 20:38"
+  },
+  {
+    "headline": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
+    "headline_fi": "EU-johtajat lupasivat huippukokouksessa tukea Ukrainan Zelenskyille",
+    "link": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-16 20:34"
+  },
+  {
+    "headline": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
+    "headline_fi": "Albanian pääministeri syyttää \"ulkomaisia ​​käsiä\" hallituksen vastaisten levottomuuksien kärjistymisestä",
+    "link": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
+    "source": "Euronews",
+    "pub": "2026-10-16 20:25"
+  },
+  {
     "headline": "Commission and Ukraine launch joint task force over EU accession",
     "headline_fi": "Komissio ja Ukraina perustavat yhteisen työryhmän EU-jäsenyyden johdosta",
     "link": "https://www.euronews.com/2026/10/16/commission-and-ukraine-launch-joint-task-force-over-eu-accession",
@@ -40,6 +152,13 @@
     "link": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-evening",
     "source": "Euronews",
     "pub": "2026-10-16 19:00"
+  },
+  {
+    "headline": "Embattled new White House Press Secretary Zacharia 'let go' from her role",
+    "headline_fi": "Taisteleva Valkoisen talon uusi lehdistösihteeri Zacharia \"vapautti\" roolistaan",
+    "link": "https://www.france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role",
+    "source": "France 24",
+    "pub": "2026-10-16 18:57"
   },
   {
     "headline": "Cost-of-living demonstrations to grip pre-election France",
@@ -130,7 +249,7 @@
     "headline_fi": "Uzbekistan allekirjoittaa 4,7 miljardin dollarin energiasopimukset ja hahmottelee suunnitelmia kahden muun ydinvoimalan rakentamiseksi",
     "link": "https://www.euronews.com/2026/10/16/uzbekistan-signs-47bn-energy-deals-and-outlines-plans-for-two-more-nuclear-power-plants",
     "source": "Euronews",
-    "pub": "2026-10-16 17:43"
+    "pub": "2026-10-16 17:44"
   },
   {
     "headline": "German colonialism on agenda in Bundestag debate on Namibia genocide",
@@ -148,21 +267,21 @@
   },
   {
     "headline": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
-    "headline_fi": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
+    "headline_fi": "Gazan palestiinalaiset pelkäävät uutta talvea ilman turvallista suojaa",
     "link": "https://www.euronews.com/2026/10/16/palestinians-in-gaza-dread-another-winter-with-nowhere-safe-to-shelter",
     "source": "Euronews",
     "pub": "2026-10-16 17:34"
   },
   {
     "headline": "Iran: When 'honor' becomes a death sentence for women",
-    "headline_fi": "Iran: When 'honor' becomes a death sentence for women",
+    "headline_fi": "Iran: Kun \"kunniasta\" tulee naisten kuolemantuomio",
     "link": "https://www.dw.com/en/iran-when-honor-becomes-a-death-sentence-for-women/a-79681977?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 17:27"
   },
   {
     "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-    "headline_fi": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+    "headline_fi": "Albania: Opiskelijat vaativat poliittista muutosta ja pääministeri Edi Raman eroa",
     "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 17:23"
@@ -194,13 +313,6 @@
     "link": "https://www.euronews.com/2026/10/16/norwegian-teenager-sentenced-to-20-years-in-prison-over-uk-murder-plot",
     "source": "Euronews",
     "pub": "2026-10-16 16:38"
-  },
-  {
-    "headline": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
-    "headline_fi": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
-    "link": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 16:17"
   },
   {
     "headline": "The EU wants an AI revolution. But on whose terms?",
@@ -280,13 +392,6 @@
     "pub": "2026-10-16 15:10"
   },
   {
-    "headline": "EU and Canada seek closer ties: Will Canada become the EU's first associate member?",
-    "headline_fi": "EU ja Kanada pyrkivät lähentämään suhteita: Tuleeko Kanadasta EU:n ensimmäinen liitännäisjäsen?",
-    "link": "https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member",
-    "source": "France 24",
-    "pub": "2026-10-16 15:04"
-  },
-  {
     "headline": "Croatia's leaders slam pro-Nazi chants ahead of Ajax match in southern city Split",
     "headline_fi": "Kroatian johtajat lyövät natsi-mielisiä lauluja ennen Ajax-ottelua eteläisessä Splitissä",
     "link": "https://www.euronews.com/2026/10/16/croatias-leaders-slam-pro-nazi-chants-ahead-of-ajax-match-in-southern-city-split",
@@ -299,13 +404,6 @@
     "link": "https://www.politico.eu/article/spain-is-not-for-sale-feijoo-calls-for-navy-to-be-deployed-in-ceuta/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-16 14:53"
-  },
-  {
-    "headline": "🔴Follow live: 'Ukraine is dependent on Starlink', Zelensky says in Brussels",
-    "headline_fi": "🔴Seuraa livenä: \"Ukraina on riippuvainen Starlinkistä\", Zelensky sanoo Brysselissä",
-    "link": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
-    "source": "France 24",
-    "pub": "2026-10-16 14:46"
   },
   {
     "headline": "‘Subsidising suicide’: UN chief urges governments to stop propping up polluting fossil fuels",
@@ -361,13 +459,6 @@
     "headline_fi": "Venäjä iskee yhdeksään Ukrainan aluetta jännityksen kasvaessa Zelenskyyn ja Trumpin välillä",
     "link": "https://www.euronews.com/2026/10/16/russia-strikes-nine-ukrainian-regions-as-strain-grows-between-zelenskyy-and-trump",
     "source": "Euronews",
-    "pub": "2026-10-16 13:58"
-  },
-  {
-    "headline": "Spring-summer 2027 ready-to-wear collections: Africa in the spotlight at Paris Fashion Week",
-    "headline_fi": "Kevät-kesä 2027 valmiit mallistot: Afrikka valokeilassa Pariisin muotiviikolla",
-    "link": "https://www.france24.com/en/tv-shows/fashion/20261016-spring-summer-2027-ready-to-wear-collections-africa-in-the-spotlight-at-paris-fashion-week",
-    "source": "France 24",
     "pub": "2026-10-16 13:58"
   },
   {
@@ -504,25 +595,11 @@
     "pub": "2026-10-16 12:37"
   },
   {
-    "headline": "How books are being scanned and destroyed to train artificial intelligence",
-    "headline_fi": "How books are being scanned and destroyed to train artificial intelligence",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261016-how-books-are-being-scanned-and-destroyed-to-train-artificial-intelligence",
-    "source": "France 24",
-    "pub": "2026-10-16 12:31"
-  },
-  {
     "headline": "EU leaders demand joint action to tackle soaring energy prices",
     "headline_fi": "EU leaders demand joint action to tackle soaring energy prices",
     "link": "https://www.euronews.com/2026/10/16/eu-leaders-demand-joint-action-to-tackle-soaring-energy-prices",
     "source": "Euronews",
     "pub": "2026-10-16 12:28"
-  },
-  {
-    "headline": "Shooter kills teacher, three children at Oregon elementary school",
-    "headline_fi": "Shooter kills teacher, three children at Oregon elementary school",
-    "link": "https://www.france24.com/en/video/20261016-shooter-kills-teacher-three-children-at-oregon-elementary-school",
-    "source": "France 24",
-    "pub": "2026-10-16 12:27"
   },
   {
     "headline": "Fed’s Warsh sees AI boosting productivity but gives no signal on next rate hike",
@@ -532,25 +609,11 @@
     "pub": "2026-10-16 12:27"
   },
   {
-    "headline": "US considers hitting Iran with 'Mother of All Bombs'",
-    "headline_fi": "US considers hitting Iran with 'Mother of All Bombs'",
-    "link": "https://www.france24.com/en/video/20261016-us-considers-hitting-iran-with-mother-of-all-bombs",
-    "source": "France 24",
-    "pub": "2026-10-16 12:27"
-  },
-  {
     "headline": "Clashes erupt at Argentine student protests against President Milei's austerity policies",
     "headline_fi": "Clashes erupt at Argentine student protests against President Milei's austerity policies",
     "link": "https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 12:26"
-  },
-  {
-    "headline": "Zelensky rallies European allies as Trump ties slump",
-    "headline_fi": "Zelensky rallies European allies as Trump ties slump",
-    "link": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump",
-    "source": "France 24",
-    "pub": "2026-10-16 12:21"
   },
   {
     "headline": "Marine Le Pen ready to 'debate' Zelenskyy after she vowed to end French aid to Ukraine",
@@ -574,60 +637,11 @@
     "pub": "2026-10-16 12:07"
   },
   {
-    "headline": "At least 12 dead after migrant boat sinks off Gambia",
-    "headline_fi": "At least 12 dead after migrant boat sinks off Gambia",
-    "link": "https://www.euronews.com/2026/10/16/at-least-12-dead-after-migrant-boat-sinks-off-gambia",
-    "source": "Euronews",
-    "pub": "2026-10-16 11:43"
-  },
-  {
-    "headline": "Ukraine unveils flying ambulance drone that could save lives in minutes",
-    "headline_fi": "Ukraine unveils flying ambulance drone that could save lives in minutes",
-    "link": "https://www.euronews.com/video/2026/10/16/ukraine-unveils-flying-ambulance-drone-that-could-save-lives-in-minutes",
-    "source": "Euronews",
-    "pub": "2026-10-16 11:41"
-  },
-  {
     "headline": "Formula One in Rwanda: Sportswashing claims vs. hopes for African legacy",
     "headline_fi": "Formula One in Rwanda: Sportswashing claims vs. hopes for African legacy",
     "link": "https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 11:37"
-  },
-  {
-    "headline": "Families of 34 children killed in Pakistan school roof collapse demand justice",
-    "headline_fi": "Families of 34 children killed in Pakistan school roof collapse demand justice",
-    "link": "https://www.euronews.com/2026/10/16/families-of-32-children-killed-in-pakistan-school-roof-collapse-demand-justice",
-    "source": "Euronews",
-    "pub": "2026-10-16 11:29"
-  },
-  {
-    "headline": "Germany set to hike tobacco tax: Cigarette packs could reach close to €12 by 2030",
-    "headline_fi": "Germany set to hike tobacco tax: Cigarette packs could reach close to €12 by 2030",
-    "link": "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030",
-    "source": "Euronews",
-    "pub": "2026-10-16 10:44"
-  },
-  {
-    "headline": "Houthi missile attack targets Yemeni presidential palace in Aden",
-    "headline_fi": "Houthi missile attack targets Yemeni presidential palace in Aden",
-    "link": "https://www.euronews.com/video/2026/10/16/houthi-missile-attack-targets-yemeni-presidential-palace-in-aden",
-    "source": "Euronews",
-    "pub": "2026-10-16 10:29"
-  },
-  {
-    "headline": "Russians can't sip margaritas in the EU while Putin bombs Ukraine, says EPP MEP",
-    "headline_fi": "Russians can't sip margaritas in the EU while Putin bombs Ukraine, says EPP MEP",
-    "link": "https://www.euronews.com/video/2026/10/16/russians-cant-sip-margaritas-in-the-eu-while-putin-bombs-ukraine-says-epp-mep",
-    "source": "Euronews",
-    "pub": "2026-10-16 10:28"
-  },
-  {
-    "headline": "India: CJP's Dipke detained amid call for fresh Delhi demo",
-    "headline_fi": "India: CJP's Dipke detained amid call for fresh Delhi demo",
-    "link": "https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 09:04"
   },
   {
     "headline": "Police raid the major pro-opposition Halk TV channel in Turkey",
