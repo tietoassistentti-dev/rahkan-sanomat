@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Historic Limoges town hall engulfed in flames amid protests in France",
+    "headline_fi": "Historic Limoges town hall engulfed in flames amid protests in France",
+    "link": "https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
+    "source": "Euronews",
+    "pub": "2026-10-17 23:55"
+  },
+  {
+    "headline": "Looters seize on massive French protests to raid and vandalise shops",
+    "headline_fi": "Looters seize on massive French protests to raid and vandalise shops",
+    "link": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
+    "source": "France 24",
+    "pub": "2026-10-17 23:15"
+  },
+  {
+    "headline": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
+    "headline_fi": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
+    "link": "https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-",
+    "source": "Euronews",
+    "pub": "2026-10-17 22:59"
+  },
+  {
+    "headline": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+    "headline_fi": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+    "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-17 22:17"
+  },
+  {
     "headline": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
     "headline_fi": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
     "link": "https://www.euronews.com/2026/10/17/romanian-f-16s-shoot-down-two-drones-over-black-sea-authorities-say",
@@ -196,9 +224,9 @@
     "pub": "2026-10-17 16:43"
   },
   {
-    "headline": "Looting, blazes and clashes in France amid nationwide protests",
-    "headline_fi": "Looting, blazes and clashes in France amid nationwide protests",
-    "link": "https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations",
+    "headline": "Fires and clashes rock France amid massive nationwide protests",
+    "headline_fi": "Fires and clashes rock France amid massive nationwide protests",
+    "link": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
     "source": "France 24",
     "pub": "2026-10-17 15:31"
   },
@@ -266,16 +294,9 @@
     "pub": "2026-10-17 13:36"
   },
   {
-    "headline": "Pope Leo returns to Vatican four days after lung cancer surgery",
-    "headline_fi": "Pope Leo returns to Vatican four days after lung cancer surgery",
-    "link": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
-    "source": "France 24",
-    "pub": "2026-10-17 13:35"
-  },
-  {
-    "headline": "Germany news: Merz faces conservative youth wing in Bonn",
-    "headline_fi": "Germany news: Merz faces conservative youth wing in Bonn",
-    "link": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany news: Berlin's leftist parties move step closer to forming government",
+    "headline_fi": "Germany news: Berlin's leftist parties move step closer to forming government",
+    "link": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 13:34"
   },
@@ -294,9 +315,9 @@
     "pub": "2026-10-17 11:19"
   },
   {
-    "headline": "France: Police and protesters clash in nationwide protests",
-    "headline_fi": "France: Police and protesters clash in nationwide protests",
-    "link": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+    "headline": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+    "headline_fi": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+    "link": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 11:02"
   },
@@ -462,13 +483,6 @@
     "pub": "2026-10-16 20:38"
   },
   {
-    "headline": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
-    "headline_fi": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
-    "link": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 20:34"
-  },
-  {
     "headline": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
     "headline_fi": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
     "link": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
@@ -565,20 +579,6 @@
     "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 16:12"
-  },
-  {
-    "headline": "From Samarkand to Paris: Preserving Central Asia's scientific heritage",
-    "headline_fi": "From Samarkand to Paris: Preserving Central Asia's scientific heritage",
-    "link": "https://www.euronews.com/2026/10/16/from-samarkand-to-paris-preserving-central-asias-scientific-heritage",
-    "source": "Euronews",
-    "pub": "2026-10-16 16:00"
-  },
-  {
-    "headline": "Inside Qatar’s Geekend where gamers, cosplayers and artists share their love of games, comics and anime",
-    "headline_fi": "Inside Qatar’s Geekend where gamers, cosplayers and artists share their love of games, comics and anime",
-    "link": "https://www.euronews.com/2026/10/16/inside-qatars-geekend-where-gamers-cosplayers-and-artists-share-their-love-of-games-comics",
-    "source": "Euronews",
-    "pub": "2026-10-16 16:00"
   },
   {
     "headline": "Zelenskyy warns 20M Ukrainians could flee to Europe if Russia wins war",

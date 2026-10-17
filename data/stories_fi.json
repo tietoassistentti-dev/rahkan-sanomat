@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Historic Limoges town hall engulfed in flames amid protests in France",
+    "headline_fi": "Historiallinen Limogesin kaupungintalo nielaisi liekkeihin Ranskan mielenosoituksissa",
+    "link": "https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
+    "source": "Euronews",
+    "pub": "2026-10-17 23:55"
+  },
+  {
+    "headline": "Looters seize on massive French protests to raid and vandalise shops",
+    "headline_fi": "Ryöstäjät tarttuvat Ranskan massiivisiin mielenosoituksiin tehdäkseen hyökkäyksiä ja tuhotakseen kauppoja",
+    "link": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
+    "source": "France 24",
+    "pub": "2026-10-17 23:15"
+  },
+  {
+    "headline": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
+    "headline_fi": "\"Ei tilaa väkivallalle\", Macron sanoo sen jälkeen, kun mellakaattorit ja ryöstäjät kaappasivat rauhanomaisia ​​mielenosoituksia eri puolilla Ranskaa",
+    "link": "https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-",
+    "source": "Euronews",
+    "pub": "2026-10-17 22:59"
+  },
+  {
+    "headline": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+    "headline_fi": "Ilhan Omar: Donald Trumpin kohteena oleva Yhdysvaltain demokraatti",
+    "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-17 22:17"
+  },
+  {
     "headline": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
     "headline_fi": "Viranomaisten mukaan romanialaiset F-16-koneet ampuivat alas kaksi dronia Mustanmeren yllä",
     "link": "https://www.euronews.com/2026/10/17/romanian-f-16s-shoot-down-two-drones-over-black-sea-authorities-say",
@@ -196,9 +224,9 @@
     "pub": "2026-10-17 16:43"
   },
   {
-    "headline": "Looting, blazes and clashes in France amid nationwide protests",
-    "headline_fi": "Ryöstelyä, tulipaloa ja yhteenottoja Ranskassa valtakunnallisten mielenosoitusten keskellä",
-    "link": "https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations",
+    "headline": "Fires and clashes rock France amid massive nationwide protests",
+    "headline_fi": "Tulipalot ja yhteenotot riehuvat Ranskassa massiivisten valtakunnallisten mielenosoitusten keskellä",
+    "link": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
     "source": "France 24",
     "pub": "2026-10-17 15:31"
   },
@@ -266,16 +294,9 @@
     "pub": "2026-10-17 13:36"
   },
   {
-    "headline": "Pope Leo returns to Vatican four days after lung cancer surgery",
-    "headline_fi": "Paavi Leo palaa Vatikaaniin neljä päivää keuhkosyöpäleikkauksen jälkeen",
-    "link": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
-    "source": "France 24",
-    "pub": "2026-10-17 13:35"
-  },
-  {
-    "headline": "Germany news: Merz faces conservative youth wing in Bonn",
-    "headline_fi": "Saksan uutiset: Merz kohtaa konservatiivisen nuorisosiiven Bonnissa",
-    "link": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany news: Berlin's leftist parties move step closer to forming government",
+    "headline_fi": "Saksan uutiset: Berliinin vasemmistopuolueet siirtyvät askeleen lähemmäksi hallituksen muodostamista",
+    "link": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 13:34"
   },
@@ -294,9 +315,9 @@
     "pub": "2026-10-17 11:19"
   },
   {
-    "headline": "France: Police and protesters clash in nationwide protests",
-    "headline_fi": "Ranska: Poliisi ja mielenosoittajat kohtaavat valtakunnallisissa mielenosoituksissa",
-    "link": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+    "headline": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+    "headline_fi": "Ranska: Mielenosoittajat ottivat yhteen poliisin kanssa valtakunnallisissa mielenosoituksissa sosiaalisen polarisoitumisen lisääntyessä",
+    "link": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 11:02"
   },
@@ -462,13 +483,6 @@
     "pub": "2026-10-16 20:38"
   },
   {
-    "headline": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
-    "headline_fi": "EU-johtajat lupasivat huippukokouksessa tukea Ukrainan Zelenskyille",
-    "link": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 20:34"
-  },
-  {
     "headline": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
     "headline_fi": "Albanian pääministeri syyttää \"ulkomaisia ​​käsiä\" hallituksen vastaisten levottomuuksien kärjistymisestä",
     "link": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
@@ -565,20 +579,6 @@
     "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 16:12"
-  },
-  {
-    "headline": "From Samarkand to Paris: Preserving Central Asia's scientific heritage",
-    "headline_fi": "Samarkandista Pariisiin: Keski-Aasian tieteellisen perinnön säilyttäminen",
-    "link": "https://www.euronews.com/2026/10/16/from-samarkand-to-paris-preserving-central-asias-scientific-heritage",
-    "source": "Euronews",
-    "pub": "2026-10-16 16:00"
-  },
-  {
-    "headline": "Inside Qatar’s Geekend where gamers, cosplayers and artists share their love of games, comics and anime",
-    "headline_fi": "Sisällä Qatar's Geekend, jossa pelaajat, cosplay-pelaajat ja taiteilijat jakavat rakkautensa peleihin, sarjakuviin ja animeihin",
-    "link": "https://www.euronews.com/2026/10/16/inside-qatars-geekend-where-gamers-cosplayers-and-artists-share-their-love-of-games-comics",
-    "source": "Euronews",
-    "pub": "2026-10-16 16:00"
   },
   {
     "headline": "Zelenskyy warns 20M Ukrainians could flee to Europe if Russia wins war",
@@ -771,91 +771,91 @@
   },
   {
     "headline": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
-    "headline_fi": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+    "headline_fi": "Nord Stream: Saksa asettaa syytteeseen epäillyn ukrainalaisen putkilinjan sabotöörin",
     "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 14:40"
   },
   {
     "headline": "Fact check: Misleading graph about alleged Russian bot activity",
-    "headline_fi": "Fact check: Misleading graph about alleged Russian bot activity",
+    "headline_fi": "Faktan tarkistus: Harhaanjohtava kaavio väitetystä venäläisestä bottitoiminnasta",
     "link": "https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 12:08"
   },
   {
     "headline": "Do non-German nationals commit more crimes than Germans?",
-    "headline_fi": "Do non-German nationals commit more crimes than Germans?",
+    "headline_fi": "Tekevätkö ei-saksalaiset enemmän rikoksia kuin saksalaiset?",
     "link": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 11:48"
   },
   {
     "headline": "The hidden treasure in discarded wearable and fast tech",
-    "headline_fi": "The hidden treasure in discarded wearable and fast tech",
+    "headline_fi": "Piilotettu aarre käytöstä poistetussa puettavassa ja nopeassa tekniikassa",
     "link": "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 09:52"
   },
   {
     "headline": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-    "headline_fi": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+    "headline_fi": "Ukraina liittoutui Puolassa Starlink-sabotaasin ja Trumpin dieselsopimuksen jälkeen",
     "link": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-13 21:52"
   },
   {
     "headline": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
-    "headline_fi": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
+    "headline_fi": "Ukraina ja Yhdysvallat: Mitä tapahtuu Trumpin ja Venäjän välisen dieselsopimuksen jälkeen?",
     "link": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-13 21:51"
   },
   {
     "headline": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-    "headline_fi": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
+    "headline_fi": "Kriitikot varoittavat vakoiluriskeistä Slovakian palauttaessa sotilas-diplomaattisen edustuksen Venäjän kanssa",
     "link": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-13 15:04"
   },
   {
     "headline": "Germany's China calculation shifts as import pressures eclipse export benefits",
-    "headline_fi": "Germany's China calculation shifts as import pressures eclipse export benefits",
+    "headline_fi": "Saksan Kiinan laskelma muuttuu, kun tuontipaineet syrjäyttävät vientihyötyjä",
     "link": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-13 11:47"
   },
   {
     "headline": "125 years of Thomas Mann's 'Buddenbrooks'",
-    "headline_fi": "125 years of Thomas Mann's 'Buddenbrooks'",
+    "headline_fi": "125 vuotta Thomas Mannin \"Buddenbrooksista\"",
     "link": "https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-13 11:09"
   },
   {
     "headline": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
-    "headline_fi": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+    "headline_fi": "UK: Iran on \"erittäin todennäköisesti\" RAF Fairfordin välikohtauksen takana",
     "link": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-12 22:02"
   },
   {
     "headline": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
-    "headline_fi": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+    "headline_fi": "Puola raportoi kahden Turkin kansalaisen pidättämisestä Saksassa viime kuussa tapahtuneen Starlink-asemapalon yhteydessä",
     "link": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-12 21:05"
   },
   {
     "headline": "Germany: Labor Minister's resignation puts a spotlight on cracks within the government",
-    "headline_fi": "Germany: Labor Minister's resignation puts a spotlight on cracks within the government",
+    "headline_fi": "Saksa: Työministerin ero nostaa huomion halkeamia hallituksen sisällä",
     "link": "https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-12 20:08"
   },
   {
     "headline": "Pope lung nodule: Could it be cancer?",
-    "headline_fi": "Pope lung nodule: Could it be cancer?",
+    "headline_fi": "Paavin keuhkojen kyhmy: Voisiko se olla syöpä?",
     "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-12 17:41"
