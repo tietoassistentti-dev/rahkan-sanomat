@@ -1,10 +1,94 @@
 [
   {
+    "headline": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
+    "headline_fi": "Viranomaisten mukaan romanialaiset F-16-koneet ampuivat alas kaksi dronia Mustanmeren yllä",
+    "link": "https://www.euronews.com/2026/10/17/romanian-f-16s-shoot-down-two-drones-over-black-sea-authorities-say",
+    "source": "Euronews",
+    "pub": "2026-10-17 21:14"
+  },
+  {
+    "headline": "Albanian police fire rubber bullets and arrest hundreds as anti-government protests enter fifth day",
+    "headline_fi": "Albanian poliisi ampuu kumiluoteja ja pidätti satoja hallituksen vastaisten mielenosoitusten alkaessa viidettä päivää",
+    "link": "https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-",
+    "source": "Euronews",
+    "pub": "2026-10-17 21:11"
+  },
+  {
+    "headline": "Romanian fighter jets shoot down 2 drones over Black Sea",
+    "headline_fi": "Romanialaiset hävittäjät ampuivat alas 2 dronia Mustanmeren yllä",
+    "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-17 20:51"
+  },
+  {
+    "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+    "headline_fi": "Egyptin Ssisi sanoo puolustavansa Saudi-Arabiaa pyydettäessä",
+    "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-17 20:49"
+  },
+  {
+    "headline": "Protesters clash with police in Belgium as demonstrations turn violent across Europe",
+    "headline_fi": "Mielenosoittajat ottivat yhteen Belgiassa poliisin kanssa, kun mielenosoitukset muuttuvat väkivaltaisiksi kaikkialla Euroopassa",
+    "link": "https://www.euronews.com/2026/10/17/protesters-clash-with-police-in-belgium-as-demonstrations-turn-violent-across-europe",
+    "source": "Euronews",
+    "pub": "2026-10-17 20:29"
+  },
+  {
+    "headline": "European diplomats attacked by Israeli settlers amid rising violence in occupied West Bank",
+    "headline_fi": "Israelin uudisasukkaat hyökkäsivät eurooppalaisten diplomaattien kimppuun väkivallan lisääntyessä miehitetyllä Länsirannalla",
+    "link": "https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank",
+    "source": "Euronews",
+    "pub": "2026-10-17 20:23"
+  },
+  {
+    "headline": "🔴 Live: Chaotic scenes as organisers of French protests claim 800,000 have taken to streets",
+    "headline_fi": "🔴 Live: Kaoottisia kohtauksia, kun ranskalaisten mielenosoitusten järjestäjät väittävät, että 800 000 ihmistä on mennyt kaduille",
+    "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+    "source": "France 24",
+    "pub": "2026-10-17 20:18"
+  },
+  {
+    "headline": "Euronews' crew assaulted by masked individuals while covering protests in Paris",
+    "headline_fi": "Naamioituneet henkilöt hyökkäsivät Euronewsin miehistöön kuvattaessa mielenosoituksia Pariisissa",
+    "link": "https://www.euronews.com/2026/10/17/euronews-crew-assaulted-by-masked-individuals-while-covering-the-major-demonstrations-in-p",
+    "source": "Euronews",
+    "pub": "2026-10-17 19:42"
+  },
+  {
+    "headline": "Protesters storm town hall and clash with police in France’s Marseille",
+    "headline_fi": "Mielenosoittajat ryntäsivät kaupungintalolle ja ottivat yhteen poliisin kanssa Ranskan Marseillessa",
+    "link": "https://www.euronews.com/video/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille",
+    "source": "Euronews",
+    "pub": "2026-10-17 19:29"
+  },
+  {
+    "headline": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+    "headline_fi": "Länsiranta: Israelin uudisasukkaat hyökkäsivät EU-diplomaatteja ja Ranskan pormestaria vastaan",
+    "link": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-17 19:29"
+  },
+  {
+    "headline": "India: Police crack down on New Delhi protests",
+    "headline_fi": "Intia: Poliisi tukahdutti New Delhin mielenosoitukset",
+    "link": "https://www.france24.com/en/video/20261017-india-police-crack-down-on-new-delhi-protests",
+    "source": "France 24",
+    "pub": "2026-10-17 19:29"
+  },
+  {
     "headline": "Brazil: Amazon deforestation at 40-year low",
     "headline_fi": "Brasilia: Amazonin metsien hävitys 40 vuoden alimmillaan",
     "link": "https://www.france24.com/en/video/20261017-brazil-amazon-deforestation-at-40-year-low",
     "source": "France 24",
     "pub": "2026-10-17 19:07"
+  },
+  {
+    "headline": "Latest news bulletin | October 17th, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |17.10.2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-17 19:00"
   },
   {
     "headline": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
@@ -112,6 +196,13 @@
     "pub": "2026-10-17 16:43"
   },
   {
+    "headline": "Looting, blazes and clashes in France amid nationwide protests",
+    "headline_fi": "Ryöstelyä, tulipaloa ja yhteenottoja Ranskassa valtakunnallisten mielenosoitusten keskellä",
+    "link": "https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations",
+    "source": "France 24",
+    "pub": "2026-10-17 15:31"
+  },
+  {
     "headline": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
     "headline_fi": "🔴 Suorana: Kymmenet tuhannet osallistuvat mielenosoituksiin eri puolilla Ranskaa, yhteenottoja on raportoitu useissa kaupungeissa",
     "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
@@ -189,25 +280,11 @@
     "pub": "2026-10-17 13:34"
   },
   {
-    "headline": "Trump says did not order curb to Starshield for Ukraine",
-    "headline_fi": "Trump sanoo, ettei hän käskenyt hillitä Starshieldiä Ukrainalle",
-    "link": "https://www.france24.com/en/video/20261017-trump-says-did-not-order-curb-to-starshield-for-ukraine",
-    "source": "France 24",
-    "pub": "2026-10-17 13:19"
-  },
-  {
     "headline": "Latest news bulletin | October 17th, 2026 – Midday",
     "headline_fi": "Uusin uutistiedote |17.10.2026 – keskipäivä",
     "link": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-17 13:00"
-  },
-  {
-    "headline": "Zelensky drums up European backing as Trump ties slump",
-    "headline_fi": "Zelensky lisää eurooppalaista tukea Trumpin suhteiden taantuessa",
-    "link": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
-    "source": "France 24",
-    "pub": "2026-10-17 12:25"
   },
   {
     "headline": "Mexico sentences killers of US, Australian surfers to 158 years each in prison",
@@ -259,8 +336,8 @@
     "pub": "2026-10-17 09:04"
   },
   {
-    "headline": "Dozens arrested as protesters clash with security forces in Paris in major day of planned demonstrations",
-    "headline_fi": "Dozens arrested as protesters clash with security forces in Paris in major day of planned demonstrations",
+    "headline": "Dozens arrested as protesters clash with security forces in Paris",
+    "headline_fi": "Kymmeniä pidätettiin mielenosoittajien yhteenotossa turvallisuusjoukkojen kanssa Pariisissa",
     "link": "https://www.euronews.com/2026/10/17/france-braces-for-tense-protests-as-security-concerns-take-centre-stage",
     "source": "Euronews",
     "pub": "2026-10-17 09:00"
@@ -413,13 +490,6 @@
     "pub": "2026-10-16 19:21"
   },
   {
-    "headline": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
-    "headline_fi": "Etiopian Abiy Ahmed nimittää väliaikaisen Tigrayn hallituksen",
-    "link": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 19:19"
-  },
-  {
     "headline": "Latest news bulletin | October 16th, 2026 – Evening",
     "headline_fi": "Uusin uutistiedote |16.10.2026 – ilta",
     "link": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-evening",
@@ -434,13 +504,6 @@
     "pub": "2026-10-16 18:40"
   },
   {
-    "headline": "Germany, France agree on deal to support Europe's struggling car industry",
-    "headline_fi": "Saksa ja Ranska sopivat sopimuksesta Euroopan vaikeuksissa olevan autoteollisuuden tukemiseksi",
-    "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 18:31"
-  },
-  {
     "headline": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
     "headline_fi": "Uzbekistan allekirjoittaa 4,7 miljardin dollarin energiasopimukset ja hahmottelee suunnitelmia kahden muun ydinvoimalan rakentamiseksi",
     "link": "https://www.euronews.com/2026/10/16/uzbekistan-signs-47bn-energy-deals-and-outlines-plans-for-two-more-nuclear-power-plants",
@@ -448,9 +511,9 @@
     "pub": "2026-10-16 17:44"
   },
   {
-    "headline": "German colonialism on agenda in Bundestag debate on Namibia genocide",
-    "headline_fi": "Saksan kolonialismi esityslistalla Bundestag-keskustelussa Namibian kansanmurhasta",
-    "link": "https://www.dw.com/en/german-colonialism-on-agenda-in-bundestag-debate-on-namibia-genocide/a-79682388?maca=en-rss-en-all-1573-rdf",
+    "headline": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
+    "headline_fi": "Bundestag on keskustellut Saksan Namibiassa sata vuotta sitten suorittamasta kansanmurhasta.Mutta edistääkö se edistystä siirtomaarikosten torjunnassa?",
+    "link": "https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 17:42"
   },
@@ -523,34 +586,6 @@
     "link": "https://www.politico.eu/article/zelenskyy-warns-20m-ukrainians-could-flee-to-europe-if-russia-wins-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-16 15:56"
-  },
-  {
-    "headline": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
-    "headline_fi": "Venäläiset ohjukset aiheuttavat valtavia tehdaspalot Ukrainan Odesassa ja Zaporizhzhiassa",
-    "link": "https://www.euronews.com/video/2026/10/16/russian-missiles-spark-huge-factory-fires-in-ukraines-odesa-and-zaporizhzhia",
-    "source": "Euronews",
-    "pub": "2026-10-16 15:46"
-  },
-  {
-    "headline": "France and Germany strike car-industry deal linking 2035 engine rules to ‘Made in Europe’ push",
-    "headline_fi": "Ranska ja Saksa solmivat autoteollisuuden sopimuksen, joka yhdistää vuoden 2035 moottorisäännöt \"Made in Europe\" -pyrkimykseen",
-    "link": "https://www.euronews.com/2026/10/16/france-and-germany-strike-car-industry-deal-linking-2035-engine-rules-to-made-in-europe-pu",
-    "source": "Euronews",
-    "pub": "2026-10-16 15:36"
-  },
-  {
-    "headline": "Portuguese journalist and writer Joaquim Letria dies",
-    "headline_fi": "Portugalilainen toimittaja ja kirjailija Joaquim Letria kuolee",
-    "link": "https://www.euronews.com/2026/10/16/portuguese-journalist-and-writer-joaquim-letria-dies",
-    "source": "Euronews",
-    "pub": "2026-10-16 15:10"
-  },
-  {
-    "headline": "Croatia's leaders slam pro-Nazi chants ahead of Ajax match in southern city Split",
-    "headline_fi": "Kroatian johtajat lyövät natsi-mielisiä lauluja ennen Ajax-ottelua eteläisessä Splitissä",
-    "link": "https://www.euronews.com/2026/10/16/croatias-leaders-slam-pro-nazi-chants-ahead-of-ajax-match-in-southern-city-split",
-    "source": "Euronews",
-    "pub": "2026-10-16 15:00"
   },
   {
     "headline": "Debate: France: protests gain momentum",
@@ -701,35 +736,35 @@
   },
   {
     "headline": "Manchester City, the UAE and the UK's OM in a political tangle",
-    "headline_fi": "Manchester City, the UAE and the UK's OM in a political tangle",
+    "headline_fi": "Manchester City, Yhdistyneet arabiemiirikunnat ja Yhdistyneen kuningaskunnan OM poliittisessa sotkussa",
     "link": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 11:13"
   },
   {
     "headline": "Nord Stream trial opens in Germany, defense seeks dismissal",
-    "headline_fi": "Nord Stream trial opens in Germany, defense seeks dismissal",
+    "headline_fi": "Nord Stream -oikeudenkäynti alkaa Saksassa, puolustus vaatii irtisanomista",
     "link": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 21:00"
   },
   {
     "headline": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
-    "headline_fi": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
+    "headline_fi": "Saksan äärioikeistolainen AfD muodostaa Venäjä-mielisen liiton BSW:n kanssa",
     "link": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 18:13"
   },
   {
     "headline": "Albania: Fire at Education Ministry as students protest",
-    "headline_fi": "Albania: Fire at Education Ministry as students protest",
+    "headline_fi": "Albania: Tulipalo opetusministeriössä opiskelijoiden mielenosoituksen vuoksi",
     "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 17:56"
   },
   {
     "headline": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-    "headline_fi": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
+    "headline_fi": "Trumpin dieselsopimus Venäjän kanssa tuskin alentaa merkittävästi maailman polttoaineiden hintoja huolimatta nopeasta helpotuksesta",
     "link": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-14 17:15"
