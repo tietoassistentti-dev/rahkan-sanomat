@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
+    "headline_fi": "Ebola: Keniassa tapauksia on 8, ja se leviää 8. Kongon maakuntaan",
+    "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-19 01:04"
+  },
+  {
+    "headline": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+    "headline_fi": "Trump puolustaa Venäjän pakotteiden lieventämistä ja räjäyttää Zelenskia rauhaan",
+    "link": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+    "source": "France 24",
+    "pub": "2026-10-19 00:59"
+  },
+  {
     "headline": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
     "headline_fi": "Albanian pääministeri Edi Rama jättää huomiotta kehotukset erota väkivaltaisten yhteenottojen keskellä",
     "link": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf",
@@ -308,20 +322,6 @@
     "pub": "2026-10-18 14:15"
   },
   {
-    "headline": "Out-of-control truck kills 13 at Hindu festival in India",
-    "headline_fi": "Hallitsematon kuorma-auto tappoi 13 hindufestivaalilla Intiassa",
-    "link": "https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india",
-    "source": "France 24",
-    "pub": "2026-10-18 14:14"
-  },
-  {
-    "headline": "Riots in Tirana enter a fifth day as Albania's anti-government protests escalate",
-    "headline_fi": "Tiranan mellakat alkavat viidettä päivää, kun Albanian hallituksen vastaiset mielenosoitukset kärjistyvät",
-    "link": "https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate",
-    "source": "France 24",
-    "pub": "2026-10-18 14:06"
-  },
-  {
     "headline": "Ukrainian forces strike St Petersburg and Leningrad region",
     "headline_fi": "Ukrainan joukot iskevät Pietariin ja Leningradin alueelle",
     "link": "https://www.euronews.com/2026/10/18/ukrainian-forces-strike-st-petersburg-and-leningrad-region",
@@ -476,9 +476,9 @@
     "pub": "2026-10-18 08:00"
   },
   {
-    "headline": "Canada: Fire at military base in Alberta leaves four dead",
-    "headline_fi": "Kanada: Albertan sotilastukikohdan tulipalossa kuoli neljä",
-    "link": "https://www.dw.com/en/canada-fire-at-military-base-in-alberta-leaves-four-dead/a-79690515?maca=en-rss-en-all-1573-rdf",
+    "headline": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
+    "headline_fi": "Kanada: Albertan sotilastukikohdan tulipalossa kuoli neljä, ja 19 on kriittisessä tilassa",
+    "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-18 05:08"
   },
@@ -530,13 +530,6 @@
     "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 20:51"
-  },
-  {
-    "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-    "headline_fi": "Egyptin Ssisi sanoo puolustavansa Saudi-Arabiaa pyydettäessä",
-    "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-17 20:49"
   },
   {
     "headline": "Protesters clash with police in Belgium as demonstrations turn violent across Europe",
@@ -1219,112 +1212,112 @@
   },
   {
     "headline": "Spain grows fruit and vegetables for Europe, but it's running out of water",
-    "headline_fi": "Spain grows fruit and vegetables for Europe, but it's running out of water",
+    "headline_fi": "Espanja kasvattaa hedelmiä ja vihanneksia Eurooppaan, mutta vesi on loppumassa",
     "link": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-29 12:51"
   },
   {
     "headline": "Diesel prices are surging putting further pressure on Europe",
-    "headline_fi": "Diesel prices are surging putting further pressure on Europe",
+    "headline_fi": "Dieselin hinnat nousevat ja lisää painetta Eurooppaan",
     "link": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-28 13:35"
   },
   {
     "headline": "Will Jürgen Klopp's charisma be enough for Germany?",
-    "headline_fi": "Will Jürgen Klopp's charisma be enough for Germany?",
+    "headline_fi": "Riittääkö Jürgen Kloppin karisma Saksalle?",
     "link": "https://www.dw.com/en/will-jürgen-klopp-s-charisma-be-enough-for-germany/a-79455266?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-28 12:42"
   },
   {
     "headline": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
-    "headline_fi": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
+    "headline_fi": "Irlanti voitti Israelin 3-0 Nations League -ottelussa poliittisen kiistan varjoon",
     "link": "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-28 12:26"
   },
   {
     "headline": "Backlash over data centers tests Europe's AI ambitions",
-    "headline_fi": "Backlash over data centers tests Europe's AI ambitions",
+    "headline_fi": "Palvelin palvelinkeskuksiin testaa Euroopan AI-tavoitteet",
     "link": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-26 21:08"
   },
   {
     "headline": "DW shows solidarity with Georgians' commitment to democracy",
-    "headline_fi": "DW shows solidarity with Georgians' commitment to democracy",
+    "headline_fi": "DW osoittaa solidaarisuutta georgialaisten sitoutumiselle demokratiaan",
     "link": "https://www.dw.com/en/dw-shows-solidarity-with-georgians-commitment-to-democracy/a-79432731?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-25 18:06"
   },
   {
     "headline": "Bundesliga, other top European leagues call for major FIFA reforms",
-    "headline_fi": "Bundesliga, other top European leagues call for major FIFA reforms",
+    "headline_fi": "Bundesliiga ja muut Euroopan huippusarjat vaativat suuria FIFA-uudistuksia",
     "link": "https://www.dw.com/en/bundesliga-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-25 16:52"
   },
   {
     "headline": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
-    "headline_fi": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
+    "headline_fi": "Jürgen Klopp aloittaa Saksan työpaikan horjuvalla Hollannin arvonnalla",
     "link": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-25 01:16"
   },
   {
     "headline": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
-    "headline_fi": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
+    "headline_fi": "Kolmisuuntainen taistelu vallasta maailman shakissa: Kuka valitaan FIDEn presidentiksi Samarkandissa?",
     "link": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-24 21:59"
   },
   {
     "headline": "Political psychology: Why extremist parties are thriving and what democratic politicians can do against it",
-    "headline_fi": "Political psychology: Why extremist parties are thriving and what democratic politicians can do against it",
+    "headline_fi": "Poliittinen psykologia: miksi ääripuolueet kukoistavat ja mitä demokraattiset poliitikot voivat tehdä sitä vastaan",
     "link": "https://www.dw.com/en/political-psychology-why-extremist-parties-are-thriving-and-what-democratic-politicians-can-do-against-it/a-79410960?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-24 17:00"
   },
   {
     "headline": "Could flattering AI make humanity turn on itself?",
-    "headline_fi": "Could flattering AI make humanity turn on itself?",
+    "headline_fi": "Voisiko imarteleva tekoäly saada ihmiskunnan kääntymään itsensä päälle?",
     "link": "https://www.dw.com/en/could-flattering-ai-make-humanity-turn-on-itself/a-79377894?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-24 16:10"
   },
   {
     "headline": "Living in the shadow of LA's hidden oil wells",
-    "headline_fi": "Living in the shadow of LA's hidden oil wells",
+    "headline_fi": "Asuu LA:n piilotettujen öljylähteiden varjossa",
     "link": "https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-22 16:34"
   },
   {
     "headline": "Male infertility is 'grossly underreported'",
-    "headline_fi": "Male infertility is 'grossly underreported'",
+    "headline_fi": "Miesten hedelmättömyys on \"paljolti aliraportoitu\"",
     "link": "https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-22 13:00"
   },
   {
     "headline": "Will Germany have enough gas this winter amid energy supply crunch?",
-    "headline_fi": "Will Germany have enough gas this winter amid energy supply crunch?",
+    "headline_fi": "Onko Saksalla tarpeeksi kaasua tänä talvena energiapulan keskellä?",
     "link": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-22 11:25"
   },
   {
     "headline": "Germany's car crisis: Can the 35-hour workweek survive?",
-    "headline_fi": "Germany's car crisis: Can the 35-hour workweek survive?",
+    "headline_fi": "Saksan autokriisi: selviääkö 35 tunnin työviikko?",
     "link": "https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-21 11:13"
   },
   {
     "headline": "Germany faces energy tax losses as EV sales rise",
-    "headline_fi": "Germany faces energy tax losses as EV sales rise",
+    "headline_fi": "Saksa kohtaa energiaverotappioita sähköautojen myynnin kasvaessa",
     "link": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-20 17:02"
