@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Brussels goes looking for billions to fund Ukraine",
+    "headline_fi": "Bryssel etsii miljardeja Ukrainan rahoittamiseksi",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/brussels-goes-looking-for-billions-to-fund-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-21 07:05"
+  },
+  {
+    "headline": "AfD-Hack: Was hinter den geleakten Mails steckt",
+    "headline_fi": "AfD-hakkerointi: Mikä on vuotaneiden sähköpostien takana",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/afd-hack-was-hinter-den-geleakten-mails-steckt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-21 06:10"
+  },
+  {
+    "headline": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
+    "headline_fi": "Elon Musk määräsi Starlinkin hidastamisen Ukrainassa - raportti",
+    "link": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-21 06:00"
+  },
+  {
+    "headline": "EU to press Canada and UK for more Ukraine funding",
+    "headline_fi": "EU painostaa Kanadaa ja Britanniaa lisäämään Ukrainan rahoitusta",
+    "link": "https://www.politico.eu/article/eu-to-press-canada-and-uk-for-more-ukraine-funding/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-21 05:00"
+  },
+  {
+    "headline": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+    "headline_fi": "Ison-Britannian hävittäjät suojelevat Saudi-Arabiaa Houthi-hyökkäyksiltä",
+    "link": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-21 04:23"
+  },
+  {
+    "headline": "Live: French PM Lecornu to meet with unions ahead of new protests",
+    "headline_fi": "Live: Ranskan pääministeri Lecornu tapaa ammattiliittoja ennen uusia mielenosoituksia",
+    "link": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+    "source": "France 24",
+    "pub": "2026-10-21 03:45"
+  },
+  {
     "headline": "Italy announces new security measures after Milan riots, deploying 500 soldiers",
     "headline_fi": "Italia ilmoitti uusista turvatoimista Milanon mellakoiden jälkeen ja lähettää 500 sotilasta",
     "link": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
@@ -147,6 +189,20 @@
     "pub": "2026-10-20 22:48"
   },
   {
+    "headline": "Europe’s conservatives have 2 new targets in their campaign to weaken EU climate laws",
+    "headline_fi": "Euroopan konservatiiveilla on kaksi uutta tavoitetta kampanjassaan EU:n ilmastolainsäädäntöön",
+    "link": "https://www.politico.eu/article/europe-conservatives-new-targets-campaign-weaken-eu-climate-laws/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-20 22:15"
+  },
+  {
+    "headline": "Ed Miliband’s clean energy company is being split apart",
+    "headline_fi": "Ed Milibandin puhtaan energian yritys hajotetaan",
+    "link": "https://www.politico.eu/article/ed-miliband-clean-energy-company-is-being-split-apart/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-20 22:10"
+  },
+  {
     "headline": "Nigeria records its first Ebola case, in capital Abuja",
     "headline_fi": "Nigeriassa on todettu ensimmäinen ebolatapaus pääkaupungissa Abujassa",
     "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf",
@@ -252,13 +308,6 @@
     "pub": "2026-10-20 19:50"
   },
   {
-    "headline": "5 things the EU wants to change about its Arctic policy",
-    "headline_fi": "5 asiaa, jotka EU haluaa muuttaa arktisessa politiikassaan",
-    "link": "https://www.politico.eu/article/5-things-the-eu-wants-to-change-about-its-arctic-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-20 19:47"
-  },
-  {
     "headline": "New EU plan for Arctic warily eyes influence of Russia, US",
     "headline_fi": "EU:n uusi arktisen alueen suunnitelma katselee varovaisesti Venäjän ja Yhdysvaltojen vaikutusta",
     "link": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf",
@@ -308,13 +357,6 @@
     "pub": "2026-10-20 18:52"
   },
   {
-    "headline": "Kallas buys time on EU response to US sanctions against the ICC",
-    "headline_fi": "Kallas ostaa aikaa EU:n vastaukselle ICC:n vastaisiin Yhdysvaltain pakotteisiin",
-    "link": "https://www.politico.eu/article/kaja-kallas-eu-response-us-sanctions-against-icc/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-20 18:50"
-  },
-  {
     "headline": "France plans 'massive' weekend police surge amid protests",
     "headline_fi": "Ranska suunnittelee \"massiivista\" poliisivoimia viikonloppuna mielenosoitusten keskellä",
     "link": "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf",
@@ -357,20 +399,6 @@
     "pub": "2026-10-20 18:04"
   },
   {
-    "headline": "Government expected to approve Jackdaw gas field on Wednesday",
-    "headline_fi": "Hallituksen odotetaan hyväksyvän Jackdaw-kaasukentän keskiviikkona",
-    "link": "https://www.politico.eu/article/government-expected-to-approve-jackdaw-gas-field-on-wednesday/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-20 18:02"
-  },
-  {
-    "headline": "French PM vows 'massive' police deployment for new demonstrations Saturday",
-    "headline_fi": "Ranskan pääministeri lupasi \"massiivisen\" poliisin lähettämisen uusiin mielenosoituksiin lauantaina",
-    "link": "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday",
-    "source": "France 24",
-    "pub": "2026-10-20 17:54"
-  },
-  {
     "headline": "To infinity and beyond: Starmus co-founder Garik Israelian on mixing science, music and art",
     "headline_fi": "Äärettömään ja pidemmälle: Starmusin perustaja Garik Israelian tieteen, musiikin ja taiteen sekoittamisesta",
     "link": "https://www.euronews.com/video/2026/10/20/to-infinity-and-beyond-starmus-co-founder-garik-israelian-on-mixing-science-music-and-art",
@@ -399,71 +427,64 @@
     "pub": "2026-10-20 17:22"
   },
   {
-    "headline": "Rubio insists the US isn’t trying to hurt Ukraine",
-    "headline_fi": "Rubio insists the US isn’t trying to hurt Ukraine",
-    "link": "https://www.politico.eu/article/marco-rubio-denies-us-withholding-ukraine-missile-warnings-air-defense/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-20 17:01"
-  },
-  {
     "headline": "Paris shop owners clean up and repair stores after riots",
-    "headline_fi": "Paris shop owners clean up and repair stores after riots",
+    "headline_fi": "Pariisin kauppojen omistajat siivoavat ja korjaavat myymälöitä mellakoiden jälkeen",
     "link": "https://www.euronews.com/video/2026/10/20/paris-shop-owners-clean-up-and-repair-stores-after-riots",
     "source": "Euronews",
     "pub": "2026-10-20 16:41"
   },
   {
     "headline": "How Turkey and Uzbekistan are preparing their cities for a changing climate",
-    "headline_fi": "How Turkey and Uzbekistan are preparing their cities for a changing climate",
+    "headline_fi": "Kuinka Turkki ja Uzbekistan valmistavat kaupunkejaan muuttuvaan ilmastoon",
     "link": "https://www.euronews.com/2026/10/20/how-turkey-and-uzbekistan-are-preparing-their-cities-for-a-changing-climate",
     "source": "Euronews",
     "pub": "2026-10-20 16:00"
   },
   {
     "headline": "Uzbekistan expands transport links and eases travel rules to turn its tourism boom into economic gains",
-    "headline_fi": "Uzbekistan expands transport links and eases travel rules to turn its tourism boom into economic gains",
+    "headline_fi": "Uzbekistan laajentaa liikenneyhteyksiä ja helpottaa matkustussääntöjä muuttaakseen matkailubuuminsa taloudelliseksi hyödyksi",
     "link": "https://www.euronews.com/2026/10/20/uzbekistan-expands-transport-links-and-eases-travel-rules-to-turn-its-tourism-boom-into-ec",
     "source": "Euronews",
     "pub": "2026-10-20 16:00"
   },
   {
     "headline": "King Charles welcomes Oman’s Sultan Haitham for state visit to UK",
-    "headline_fi": "King Charles welcomes Oman’s Sultan Haitham for state visit to UK",
+    "headline_fi": "Kuningas Charles toivottaa tervetulleeksi Omanin sulttaani Haithamin valtiovierailulle Isoon-Britanniaan",
     "link": "https://www.euronews.com/video/2026/10/20/king-charles-welcomes-omans-sultan-haitham-for-state-visit-to-uk",
     "source": "Euronews",
     "pub": "2026-10-20 15:18"
   },
   {
     "headline": "'Everything is destroyed,' Paris pharmacy owner says after protests",
-    "headline_fi": "'Everything is destroyed,' Paris pharmacy owner says after protests",
+    "headline_fi": "\"Kaikki on tuhottu\", Pariisin apteekin omistaja sanoo mielenosoitusten jälkeen",
     "link": "https://www.euronews.com/video/2026/10/20/everything-is-destroyed-paris-pharmacy-owner-says-after-protests",
     "source": "Euronews",
     "pub": "2026-10-20 15:14"
   },
   {
     "headline": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday",
-    "headline_fi": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday",
+    "headline_fi": "Airbnb esittelee sääsuojan, joka maksaa, jos lomallasi sataa liikaa",
     "link": "https://www.euronews.com/2026/10/20/airbnb-introduces-weather-protection-that-will-pay-out-if-it-rains-too-much-on-your-holida",
     "source": "Euronews",
     "pub": "2026-10-20 14:56"
   },
   {
     "headline": "Germany: Google must have consent to publish property images",
-    "headline_fi": "Germany: Google must have consent to publish property images",
+    "headline_fi": "Saksa: Googlella on oltava suostumus kiinteistökuvien julkaisemiseen",
     "link": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-20 14:46"
   },
   {
     "headline": "Lisbon police arrest 55 housing protesters and clear Rossio tent camp",
-    "headline_fi": "Lisbon police arrest 55 housing protesters and clear Rossio tent camp",
+    "headline_fi": "Lissabonin poliisi pidätti 55 mielenosoittajaa ja tyhjensi Rossion telttaleirin",
     "link": "https://www.euronews.com/2026/10/20/lisbon-police-arrest-55-housing-protesters-and-clear-rossio-tent-camp",
     "source": "Euronews",
     "pub": "2026-10-20 14:21"
   },
   {
     "headline": "Fireworks, petrol bombs and water cannon as unrest escalates in Albania",
-    "headline_fi": "Fireworks, petrol bombs and water cannon as unrest escalates in Albania",
+    "headline_fi": "Ilotulitus, bensiinipommeja ja vesitykkejä levottomuuksien kärjistyessä Albaniassa",
     "link": "https://www.euronews.com/video/2026/10/20/fireworks-petrol-bombs-and-water-cannon-as-unrest-escalates-in-albania",
     "source": "Euronews",
     "pub": "2026-10-20 14:12"
@@ -484,7 +505,7 @@
   },
   {
     "headline": "Digital bank Revolut suffers worldwide outage: everything you need to know",
-    "headline_fi": "Digital bank Revolut suffers worldwide outage: everything you need to know",
+    "headline_fi": "Digipankki Revolut kärsii maailmanlaajuisesta katkoksesta: kaikki mitä sinun tarvitsee tietää",
     "link": "https://www.euronews.com/2026/10/20/digital-bank-revolut-down-in-major-worldwide-outage",
     "source": "Euronews",
     "pub": "2026-10-20 13:45"
@@ -561,14 +582,14 @@
   },
   {
     "headline": "Latest news bulletin | October 20th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 20th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |20.10.2026 - Keskipäivä",
     "link": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-20 13:00"
   },
   {
     "headline": "Kallas: Russian Black Sea strikes deepen ‘perfect storm’ for world food supplies",
-    "headline_fi": "Kallas: Russian Black Sea strikes deepen ‘perfect storm’ for world food supplies",
+    "headline_fi": "Kallas: Venäjän Mustanmeren lakot syventävät \"täydellistä myrskyä\" maailman elintarviketoimituksiin",
     "link": "https://www.euronews.com/2026/10/20/kallas-russian-black-sea-strikes-deepen-perfect-storm-for-world-food-supplies",
     "source": "Euronews",
     "pub": "2026-10-20 12:44"
@@ -663,20 +684,6 @@
     "link": "https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-20 09:22"
-  },
-  {
-    "headline": "Canada: Alberta rejects separation bid, CBC projects",
-    "headline_fi": "Canada: Alberta rejects separation bid, CBC projects",
-    "link": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-20 09:13"
-  },
-  {
-    "headline": "Australian MP seriously hurt in suspected car attack",
-    "headline_fi": "Australian MP seriously hurt in suspected car attack",
-    "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-20 09:02"
   },
   {
     "headline": "Bulgaria seeks suspects in Germany after Starlink sabotage",
@@ -1300,12 +1307,5 @@
     "link": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-22 11:25"
-  },
-  {
-    "headline": "Germany's car crisis: Can the 35-hour workweek survive?",
-    "headline_fi": "Saksan autokriisi: selviääkö 35 tunnin työviikko?",
-    "link": "https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-21 11:13"
   }
 ]
