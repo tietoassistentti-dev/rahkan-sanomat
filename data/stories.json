@@ -1,10 +1,108 @@
 [
   {
+    "headline": "Who speaks for Europe in the Ukraine peace talks?",
+    "headline_fi": "Who speaks for Europe in the Ukraine peace talks?",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/who-speaks-for-europe-in-the-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-22 07:05"
+  },
+  {
+    "headline": "Merz‘ Montenegro-Mission",
+    "headline_fi": "Merz‘ Montenegro-Mission",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-montenegro-mission/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-22 06:30"
+  },
+  {
+    "headline": "Live: Paris bans protests after violent unrest as Macron takes swipe at Trump",
+    "headline_fi": "Live: Paris bans protests after violent unrest as Macron takes swipe at Trump",
+    "link": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+    "source": "France 24",
+    "pub": "2026-10-22 05:28"
+  },
+  {
+    "headline": "Trump’s diesel deal derailed Ukraine-Russia peace progress, says Czech president",
+    "headline_fi": "Trump’s diesel deal derailed Ukraine-Russia peace progress, says Czech president",
+    "link": "https://www.politico.eu/article/donald-trump-diesel-deal-derailed-ukraine-russia-peace-progress-says-czech-president-petr-pavel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-22 05:02"
+  },
+  {
+    "headline": "Far-right Italian general hunts the manosphere vote",
+    "headline_fi": "Far-right Italian general hunts the manosphere vote",
+    "link": "https://www.politico.eu/article/roberto-vannacci-far-right-italy-manosphere-vote/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-22 05:00"
+  },
+  {
+    "headline": "Ukraine’s foreign fighters battle Russians — and red tape",
+    "headline_fi": "Ukraine’s foreign fighters battle Russians — and red tape",
+    "link": "https://www.politico.eu/article/ukraine-foreign-fighters-face-bureaucratic-hurdles-residency-permits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-22 05:00"
+  },
+  {
+    "headline": "Merz’s eastern nightmare is far from over",
+    "headline_fi": "Merz’s eastern nightmare is far from over",
+    "link": "https://www.politico.eu/article/germany-friedrich-merz-cdu-eastern-nightmare-is-far-from-over/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-22 05:00"
+  },
+  {
+    "headline": "Russian missiles hit Kyiv as Moscow signals readiness for peace talks",
+    "headline_fi": "Russian missiles hit Kyiv as Moscow signals readiness for peace talks",
+    "link": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks",
+    "source": "France 24",
+    "pub": "2026-10-22 04:51"
+  },
+  {
+    "headline": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
+    "headline_fi": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
+    "link": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-22 04:48"
+  },
+  {
+    "headline": "Ireland votes to end UN approval requirement for overseas peacekeeping missions",
+    "headline_fi": "Ireland votes to end UN approval requirement for overseas peacekeeping missions",
+    "link": "https://www.france24.com/en/europe/20261022-ireland-votes-un-veto-overseas-peacekeeping-missions",
+    "source": "France 24",
+    "pub": "2026-10-22 03:35"
+  },
+  {
+    "headline": "Pope Leo will not need further cancer treatment — Vatican",
+    "headline_fi": "Pope Leo will not need further cancer treatment — Vatican",
+    "link": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-22 02:47"
+  },
+  {
+    "headline": "German youth plan France-style mass protests",
+    "headline_fi": "German youth plan France-style mass protests",
+    "link": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-22 02:11"
+  },
+  {
+    "headline": "Sudan’s war escalates as UN warns of wider regional crisis",
+    "headline_fi": "Sudan’s war escalates as UN warns of wider regional crisis",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
+    "source": "France 24",
+    "pub": "2026-10-22 01:41"
+  },
+  {
     "headline": "France bans protests in parts of Paris as Macron slams Trump",
     "headline_fi": "France bans protests in parts of Paris as Macron slams Trump",
     "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-22 01:32"
+  },
+  {
+    "headline": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "headline_fi": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261021-trump-admin-destroying-us-democracy-with-autocratic-terrorist-version-of-christian-nationalism",
+    "source": "France 24",
+    "pub": "2026-10-22 01:11"
   },
   {
     "headline": "Pope Leo XIV needs no further lung cancer treatment, Vatican says",
@@ -175,13 +273,6 @@
     "pub": "2026-10-21 21:02"
   },
   {
-    "headline": "Ex-DUP chief faces new allegation of raping woman inside Westminster",
-    "headline_fi": "Ex-DUP chief faces new allegation of raping woman inside Westminster",
-    "link": "https://www.politico.eu/article/jeffrey-donaldson-democratic-unionist-party-dup-new-allegation-rape-woman-westminster/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-21 20:32"
-  },
-  {
     "headline": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
     "headline_fi": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
     "link": "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel",
@@ -280,38 +371,10 @@
     "pub": "2026-10-21 18:29"
   },
   {
-    "headline": "France: Far right leader Marine Le Pen gains popularity amid nationwide riots",
-    "headline_fi": "France: Far right leader Marine Le Pen gains popularity amid nationwide riots",
-    "link": "https://www.france24.com/en/france-far-right-leader-marine-le-pen-gains-popularity-amid-nationwide-riots",
-    "source": "France 24",
-    "pub": "2026-10-21 18:29"
-  },
-  {
-    "headline": "Some Brazilians long associated with the left now shift towards Flavio Bolsonaro",
-    "headline_fi": "Some Brazilians long associated with the left now shift towards Flavio Bolsonaro",
-    "link": "https://www.france24.com/en/video/20261021-some-brazilians-long-associated-with-the-left-now-shift-towards-flavio-bolsonaro",
-    "source": "France 24",
-    "pub": "2026-10-21 18:28"
-  },
-  {
-    "headline": "70% of water produced in Guadeloupe never reaches homes",
-    "headline_fi": "70% of water produced in Guadeloupe never reaches homes",
-    "link": "https://www.france24.com/en/tv-shows/down-to-earth/20261021-70-of-water-produced-in-guadeloupe-never-reaches-homes",
-    "source": "France 24",
-    "pub": "2026-10-21 18:26"
-  },
-  {
     "headline": "African health ministers to hold Ebola crisis talks as Nigeria confirms first case",
     "headline_fi": "African health ministers to hold Ebola crisis talks as Nigeria confirms first case",
     "link": "https://www.euronews.com/2026/10/21/african-health-ministers-to-hold-ebola-crisis-talks-as-nigeria-confirms-first-case",
     "source": "Euronews",
-    "pub": "2026-10-21 18:18"
-  },
-  {
-    "headline": "Italy: Giorgia Meloni approves tougher anti-riot laws after Milan violence 🇮🇹",
-    "headline_fi": "Italy: Giorgia Meloni approves tougher anti-riot laws after Milan violence 🇮🇹",
-    "link": "https://www.france24.com/en/video/20261021-italy-giorgia-meloni-approves-tougher-anti-riot-laws-after-milan-violence-%F0%9F%87%AE%F0%9F%87%B9",
-    "source": "France 24",
     "pub": "2026-10-21 18:18"
   },
   {
@@ -322,13 +385,6 @@
     "pub": "2026-10-21 18:16"
   },
   {
-    "headline": "Water sector to wait until 2027 for full details of Burnham’s overhaul",
-    "headline_fi": "Water sector to wait until 2027 for full details of Burnham’s overhaul",
-    "link": "https://www.politico.eu/article/water-sector-wait-2027-full-details-burnham-overhaul-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-21 18:14"
-  },
-  {
     "headline": "Poland’s abortion reforms would leave it among the EU’s most restrictive, even if signed into law",
     "headline_fi": "Poland’s abortion reforms would leave it among the EU’s most restrictive, even if signed into law",
     "link": "https://www.euronews.com/2026/10/21/polands-abortion-reforms-would-leave-it-among-the-eus-most-restrictive-even-if-signed-into",
@@ -336,25 +392,11 @@
     "pub": "2026-10-21 18:13"
   },
   {
-    "headline": "Prosecutors search European Parliament offices of far-right Patriots bloc in graft probe",
-    "headline_fi": "Prosecutors search European Parliament offices of far-right Patriots bloc in graft probe",
-    "link": "https://www.france24.com/en/europe/20261021-prosecutors-search-european-parliament-offices-of-far-right-patriots-bloc-in-graft-probe",
-    "source": "France 24",
-    "pub": "2026-10-21 18:07"
-  },
-  {
     "headline": "Roaming roots: Artist Gulnur Mukazhanova explores her nomadic heritage at Frieze London",
     "headline_fi": "Roaming roots: Artist Gulnur Mukazhanova explores her nomadic heritage at Frieze London",
     "link": "https://www.euronews.com/2026/10/21/roaming-roots-artist-gulnur-mukazhanova-explores-her-nomadic-heritage-at-frieze-london",
     "source": "Euronews",
     "pub": "2026-10-21 17:59"
-  },
-  {
-    "headline": "Film show: Olivia Colman, Alexander Skarsgård star in horny feminist fantasy 'Wicker'",
-    "headline_fi": "Film show: Olivia Colman, Alexander Skarsgård star in horny feminist fantasy 'Wicker'",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20261021-film-show-olivia-colman-alexander-skarsg%C3%A5rd-star-in-horny-feminist-fantasy-wicker",
-    "source": "France 24",
-    "pub": "2026-10-21 17:54"
   },
   {
     "headline": "UN warns El Nino could be strongest on record as it urges world to prepare",
@@ -404,20 +446,6 @@
     "link": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-21 16:56"
-  },
-  {
-    "headline": "Prosecutor searches far-right group offices in EU Parliament",
-    "headline_fi": "Prosecutor searches far-right group offices in EU Parliament",
-    "link": "https://www.politico.eu/article/patriots-european-parliament-office-search-eu-funds-mismanagement/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-21 16:52"
-  },
-  {
-    "headline": "Publishers want Brussels and London to stop Meta’s new AI terms",
-    "headline_fi": "Publishers want Brussels and London to stop Meta’s new AI terms",
-    "link": "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-21 16:23"
   },
   {
     "headline": "This country aims to attract €18B in cleaner energy investment",
@@ -616,13 +644,6 @@
     "pub": "2026-10-21 08:00"
   },
   {
-    "headline": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
-    "headline_fi": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
-    "link": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-21 06:00"
-  },
-  {
     "headline": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
     "headline_fi": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
     "link": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf",
@@ -635,13 +656,6 @@
     "link": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-21 02:11"
-  },
-  {
-    "headline": "AfD's Alice Weidel to unveil plan to cut EU powers — report",
-    "headline_fi": "AfD's Alice Weidel to unveil plan to cut EU powers — report",
-    "link": "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-21 01:25"
   },
   {
     "headline": "New EU plan for Arctic warily eyes influence of Russia, US",
@@ -929,20 +943,6 @@
     "link": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-13 21:52"
-  },
-  {
-    "headline": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
-    "headline_fi": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
-    "link": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-13 21:51"
-  },
-  {
-    "headline": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-    "headline_fi": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-    "link": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-13 15:04"
   },
   {
     "headline": "Germany's China calculation shifts as import pressures eclipse export benefits",
@@ -1251,26 +1251,5 @@
     "link": "https://www.dw.com/en/could-flattering-ai-make-humanity-turn-on-itself/a-79377894?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-24 16:10"
-  },
-  {
-    "headline": "Living in the shadow of LA's hidden oil wells",
-    "headline_fi": "Living in the shadow of LA's hidden oil wells",
-    "link": "https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-22 16:34"
-  },
-  {
-    "headline": "Male infertility is 'grossly underreported'",
-    "headline_fi": "Male infertility is 'grossly underreported'",
-    "link": "https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-22 13:00"
-  },
-  {
-    "headline": "Will Germany have enough gas this winter amid energy supply crunch?",
-    "headline_fi": "Will Germany have enough gas this winter amid energy supply crunch?",
-    "link": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-22 11:25"
   }
 ]
