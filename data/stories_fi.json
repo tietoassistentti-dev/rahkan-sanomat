@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Watch: Catholic bishops pray over Trump in the Oval Office",
+    "headline_fi": "Katso: Katoliset piispat rukoilevat Trumpin puolesta soikeassa toimistossa",
+    "link": "https://www.euronews.com/video/2026/10/22/catholic-bishops-pray-over-trump-in-the-oval-office",
+    "source": "Euronews",
+    "pub": "2026-10-23 00:50"
+  },
+  {
+    "headline": "Emirati diplomat could become next UN chief despite human rights concerns",
+    "headline_fi": "Emiratin diplomaatista voi tulla seuraava YK:n pääjohtaja ihmisoikeushuolesta huolimatta",
+    "link": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh",
+    "source": "France 24",
+    "pub": "2026-10-23 00:18"
+  },
+  {
+    "headline": "Strong earthquake strikes China’s remote Tibet region",
+    "headline_fi": "Voimakas maanjäristys iski Kiinan syrjäiselle Tiibetin alueelle",
+    "link": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven",
+    "source": "France 24",
+    "pub": "2026-10-23 00:09"
+  },
+  {
+    "headline": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
+    "headline_fi": "Italian rekkakuljettajien mielenosoitukset pysäyttivät puhvelimozzarellan tuotannon ja maksoivat tuottajille kolme miljoonaa euroa",
+    "link": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
+    "source": "France 24",
+    "pub": "2026-10-22 23:54"
+  },
+  {
+    "headline": "Poland: Thousands protest for more abortion rights",
+    "headline_fi": "Puola: Tuhannet protestoivat aborttioikeuksien lisäämisen puolesta",
+    "link": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-22 23:52"
+  },
+  {
+    "headline": "Emmy-winning US actor Tom Skerritt, known for ‘Top Gun’ and ‘Picket Fences’, dies at 93",
+    "headline_fi": "Emmy-palkittu yhdysvaltalainen näyttelijä Tom Skerritt, joka tunnetaan Top Gunista ja Picket Fencesistä, kuoli 93-vuotiaana",
+    "link": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93",
+    "source": "France 24",
+    "pub": "2026-10-22 23:11"
+  },
+  {
+    "headline": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
+    "headline_fi": "\"Maapallon paras\": Voiko heikko talouskasvu heikentää Euroopan \"erittäin kehittynyttä sosiaalijärjestelmää\"?",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261022-the-best-on-earth-can-weak-economic-growth-undermine-europe-s-very-sophisticated-social-system",
+    "source": "France 24",
+    "pub": "2026-10-22 22:59"
+  },
+  {
+    "headline": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+    "headline_fi": "Kiina: Paniikki, kun 7,0 magnitudin maanjäristys järisyttää Tiibetiä",
+    "link": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet",
+    "source": "Euronews",
+    "pub": "2026-10-22 22:57"
+  },
+  {
+    "headline": "Curfew imposed in certain areas of Paris every night until Monday morning",
+    "headline_fi": "Ulkonaliikkumiskielto otettiin käyttöön tietyillä Pariisin alueilla joka ilta maanantaiaamuun asti",
+    "link": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
+    "source": "France 24",
+    "pub": "2026-10-22 22:48"
+  },
+  {
+    "headline": "Israel’s Ben-Gvir shares AI videos mocking Gazans as ‘donkeys’ and sending them to Paris",
+    "headline_fi": "Israelin Ben-Gvir jakaa tekoälyvideoita, joissa pilkataan gazalaisia ​​\"aaseina\" ja lähetetään Pariisiin",
+    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261022-israel-s-ben-gvir-shares-ai-videos-mocking-gazans-as-donkeys-and-sending-them-to-paris",
+    "source": "France 24",
+    "pub": "2026-10-22 22:38"
+  },
+  {
     "headline": "Albania's student protests are only getting bigger",
     "headline_fi": "Albanian opiskelijamielenosoitukset vain lisääntyvät",
     "link": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
@@ -35,8 +105,8 @@
     "pub": "2026-10-22 21:18"
   },
   {
-    "headline": "Portuguese and Spanish unions in talks over 'Iberian general strike'",
-    "headline_fi": "Portugalin ja Espanjan ammattiliitot neuvottelevat \"Iberian yleislakosta\"",
+    "headline": "Spanish and Portuguese unions discuss joint general strike",
+    "headline_fi": "Espanjan ja Portugalin ammattiliitot keskustelevat yhteisestä yleislakosta",
     "link": "https://www.euronews.com/2026/10/22/portuguese-and-spanish-unions-in-talks-over-iberian-general-strike",
     "source": "Euronews",
     "pub": "2026-10-22 20:59"
@@ -49,8 +119,8 @@
     "pub": "2026-10-22 20:27"
   },
   {
-    "headline": "Women protest across Poland over stalled abortion law reforms",
-    "headline_fi": "Naiset protestoivat kaikkialla Puolassa jumissa aborttilain uudistuksista",
+    "headline": "Thousands protest in Poland over stalled abortion law reforms",
+    "headline_fi": "Tuhannet mielenosoittivat Puolassa jumissa aborttilain uudistuksista",
     "link": "https://www.euronews.com/2026/10/22/women-protest-across-poland-over-stalled-abortion-law-reforms",
     "source": "Euronews",
     "pub": "2026-10-22 20:18"
@@ -141,56 +211,56 @@
   },
   {
     "headline": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
-    "headline_fi": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
+    "headline_fi": "Etiopia-Eritrea: Onko olemassa laajemman konfliktin vaara?",
     "link": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
     "source": "France 24",
     "pub": "2026-10-22 18:40"
   },
   {
     "headline": "How migration is reshaping the political debate in Spain's Ceuta",
-    "headline_fi": "How migration is reshaping the political debate in Spain's Ceuta",
+    "headline_fi": "Kuinka muuttoliike muokkaa poliittista keskustelua Espanjan Ceutan osavaltiossa",
     "link": "https://www.euronews.com/video/2026/10/22/how-migration-is-reshaping-the-political-debate-in-spains-ceuta",
     "source": "Euronews",
     "pub": "2026-10-22 18:39"
   },
   {
     "headline": "French students demonstrate again, despite school holidays",
-    "headline_fi": "French students demonstrate again, despite school holidays",
+    "headline_fi": "Ranskalaiset opiskelijat osoittavat jälleen mieltään koulujen lomasta huolimatta",
     "link": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
     "source": "France 24",
     "pub": "2026-10-22 18:37"
   },
   {
     "headline": "Families of missing Azerbaijanis call for support from European institutions",
-    "headline_fi": "Families of missing Azerbaijanis call for support from European institutions",
+    "headline_fi": "Kadonneiden azerbaidžanilaisten perheet vaativat tukea EU:n toimielimiltä",
     "link": "https://www.euronews.com/2026/10/22/families-of-missing-azerbaijanis-call-for-support-from-european-institutions",
     "source": "Euronews",
     "pub": "2026-10-22 18:37"
   },
   {
     "headline": "Reports show US and Israel are planning new strikes on Iran",
-    "headline_fi": "Reports show US and Israel are planning new strikes on Iran",
+    "headline_fi": "Raporttien mukaan Yhdysvallat ja Israel suunnittelevat uusia iskuja Iraniin",
     "link": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
     "source": "France 24",
     "pub": "2026-10-22 18:34"
   },
   {
     "headline": "Italian truckers block roads to protest against soaring diesel prices",
-    "headline_fi": "Italian truckers block roads to protest against soaring diesel prices",
+    "headline_fi": "Italialaiset kuorma-autot tukkivat teitä protestoidakseen dieselin huimaa hintojen nousua vastaan",
     "link": "https://www.france24.com/en/video/20261022-italian-truckers-block-roads-to-protest-against-soaring-diesel-prices",
     "source": "France 24",
     "pub": "2026-10-22 18:31"
   },
   {
     "headline": "France: Artists and collectors gather at Art Basel Paris despite unrest",
-    "headline_fi": "France: Artists and collectors gather at Art Basel Paris despite unrest",
+    "headline_fi": "Ranska: Taiteilijat ja keräilijät kokoontuvat Art Basel Parisiin levottomuuksista huolimatta",
     "link": "https://www.euronews.com/video/2026/10/22/france-artists-and-collectors-gather-at-art-basel-paris-despite-unrest",
     "source": "Euronews",
     "pub": "2026-10-22 18:15"
   },
   {
     "headline": "Germany: Humanoid robots and AI supercomputers take centre stage in Berlin",
-    "headline_fi": "Germany: Humanoid robots and AI supercomputers take centre stage in Berlin",
+    "headline_fi": "Saksa: Humanoidirobotit ja tekoälysupertietokoneet ovat keskeisessä asemassa Berliinissä",
     "link": "https://www.euronews.com/video/2026/10/22/germany-humanoid-robots-and-ai-supercomputers-take-centre-stage-in-berlin",
     "source": "Euronews",
     "pub": "2026-10-22 18:01"
@@ -287,39 +357,11 @@
     "pub": "2026-10-22 16:39"
   },
   {
-    "headline": "Combatting online scams in the age of AI",
-    "headline_fi": "Verkkohuijausten torjunta tekoälyn aikakaudella",
-    "link": "https://www.france24.com/en/tv-shows/people-profit/20261022-combatting-online-scams-in-the-age-of-ai",
-    "source": "France 24",
-    "pub": "2026-10-22 16:33"
-  },
-  {
-    "headline": "France: 'Legitimate' grievances over education & inflation risk being overshadowed by violent unrest",
-    "headline_fi": "France: 'Legitimate' grievances over education & inflation risk being overshadowed by violent unrest",
-    "link": "https://www.france24.com/en/video/20261022-what-is-happening-in-france-unpacking-the-recent-waves-of-protests",
-    "source": "France 24",
-    "pub": "2026-10-22 16:15"
-  },
-  {
     "headline": "First known human case of Shamonda virus confirmed in France",
     "headline_fi": "Ensimmäinen tunnettu Shamonda-virustapaus ihmisellä vahvistettu Ranskassa",
     "link": "https://www.politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-22 16:14"
-  },
-  {
-    "headline": "REPLAY: French President vows to prevent violence ahead of protests",
-    "headline_fi": "REPLAY: Ranskan presidentti lupaa estää väkivaltaa ennen mielenosoituksia",
-    "link": "https://www.france24.com/en/video/20261022-replay-french-president-vows-to-prevent-violence-ahead-of-protests",
-    "source": "France 24",
-    "pub": "2026-10-22 16:04"
-  },
-  {
-    "headline": "From screen to stage: 'Singin' in the Rain' comes to Paris",
-    "headline_fi": "Näytöstä lavalle: \"Singin' in the Rain\" saapuu Pariisiin",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261022-from-screen-to-stage-singin-in-the-rain-comes-to-paris",
-    "source": "France 24",
-    "pub": "2026-10-22 16:02"
   },
   {
     "headline": "EIB to double climate funding to €30bn as extreme weather costs soar",
@@ -357,31 +399,10 @@
     "pub": "2026-10-22 15:46"
   },
   {
-    "headline": "Brazil's sprawling favelas require long-term urban planning solutions",
-    "headline_fi": "Brazil's sprawling favelas require long-term urban planning solutions",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261022-brazil-s-sprawling-favelas-require-long-term-urban-planning-solutions",
-    "source": "France 24",
-    "pub": "2026-10-22 15:31"
-  },
-  {
-    "headline": "France reports first human case of Shamonda virus, but says there's no public health risk",
-    "headline_fi": "France reports first human case of Shamonda virus, but says there's no public health risk",
-    "link": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk",
-    "source": "France 24",
-    "pub": "2026-10-22 15:22"
-  },
-  {
     "headline": "MEPs side with industry in vote to delay methane rules",
     "headline_fi": "MEPs side with industry in vote to delay methane rules",
     "link": "https://www.euronews.com/2026/10/22/meps-side-with-industry-in-vote-to-delay-methane-rules",
     "source": "Euronews",
-    "pub": "2026-10-22 15:11"
-  },
-  {
-    "headline": "France bans or curbs protests in bid to prevent new weekend unrest",
-    "headline_fi": "France bans or curbs protests in bid to prevent new weekend unrest",
-    "link": "https://www.france24.com/en/france/20261022-france-bans-or-curbs-protests-in-bid-to-prevent-new-wave-of-unrest",
-    "source": "France 24",
     "pub": "2026-10-22 15:11"
   },
   {
@@ -698,27 +719,6 @@
     "link": "https://www.euronews.com/video/2026/10/22/public-order-a-big-failure-of-the-government-says-french-mep-jean-marc-germain",
     "source": "Euronews",
     "pub": "2026-10-22 10:26"
-  },
-  {
-    "headline": "Serbia: Student protesters flood Belgrade ahead of snap elections",
-    "headline_fi": "Serbia: Student protesters flood Belgrade ahead of snap elections",
-    "link": "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections",
-    "source": "Euronews",
-    "pub": "2026-10-22 10:19"
-  },
-  {
-    "headline": "French police union to sue government over mishandling of riots",
-    "headline_fi": "French police union to sue government over mishandling of riots",
-    "link": "https://www.euronews.com/video/2026/10/22/french-police-union-to-sue-government-over-mishandling-of-riots",
-    "source": "Euronews",
-    "pub": "2026-10-22 10:03"
-  },
-  {
-    "headline": "Russian strikes kill 7 in Ukraine after US envoy meets Putin",
-    "headline_fi": "Russian strikes kill 7 in Ukraine after US envoy meets Putin",
-    "link": "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit",
-    "source": "Euronews",
-    "pub": "2026-10-22 09:28"
   },
   {
     "headline": "Germany news: AfD's Weidel calls for major EU reforms",
