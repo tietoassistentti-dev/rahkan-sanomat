@@ -1,5 +1,68 @@
 [
   {
+    "headline": "Princess and prizewinners champion hope against 'darker times' at Princess of Asturias Awards",
+    "headline_fi": "Princess and prizewinners champion hope against 'darker times' at Princess of Asturias Awards",
+    "link": "https://www.euronews.com/2026/10/23/princess-and-prizewinners-champion-hope-against-darker-times-at-princess-of-asturias-award",
+    "source": "Euronews",
+    "pub": "2026-10-24 00:20"
+  },
+  {
+    "headline": "Ebola: Kenya announces second death",
+    "headline_fi": "Ebola: Kenya announces second death",
+    "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-24 00:09"
+  },
+  {
+    "headline": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
+    "headline_fi": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
+    "link": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
+    "source": "France 24",
+    "pub": "2026-10-23 23:50"
+  },
+  {
+    "headline": "Trump eases Canada tariffs ahead of US midterms",
+    "headline_fi": "Trump eases Canada tariffs ahead of US midterms",
+    "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-23 23:49"
+  },
+  {
+    "headline": "Building collapse in Nairobi search for survivors under way",
+    "headline_fi": "Building collapse in Nairobi search for survivors under way",
+    "link": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way",
+    "source": "France 24",
+    "pub": "2026-10-23 23:31"
+  },
+  {
+    "headline": "Jihadists reportedly urge attacks during protests in Portugal and Spain",
+    "headline_fi": "Jihadists reportedly urge attacks during protests in Portugal and Spain",
+    "link": "https://www.euronews.com/2026/10/23/jihadists-reportedly-urge-attacks-during-protests-in-portugal-and-spain",
+    "source": "Euronews",
+    "pub": "2026-10-23 22:55"
+  },
+  {
+    "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+    "headline_fi": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+    "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-23 22:08"
+  },
+  {
+    "headline": "US designates helium as critical material as Europe faces supply squeeze",
+    "headline_fi": "US designates helium as critical material as Europe faces supply squeeze",
+    "link": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
+    "source": "Euronews",
+    "pub": "2026-10-23 22:02"
+  },
+  {
+    "headline": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
+    "headline_fi": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
+    "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261023-after-french-riots-curfews-calm-is-a-new-storm-brewing-plus-ukraine-israel",
+    "source": "France 24",
+    "pub": "2026-10-23 21:48"
+  },
+  {
     "headline": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
     "headline_fi": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
@@ -259,20 +322,6 @@
     "pub": "2026-10-23 16:07"
   },
   {
-    "headline": "War in the Middle East: Israel launches West Bank operations",
-    "headline_fi": "War in the Middle East: Israel launches West Bank operations",
-    "link": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
-    "source": "France 24",
-    "pub": "2026-10-23 15:57"
-  },
-  {
-    "headline": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
-    "headline_fi": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
-    "link": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
-    "source": "France 24",
-    "pub": "2026-10-23 15:45"
-  },
-  {
     "headline": "Belgium boosts heating-oil aid for vulnerable households as energy prices rise",
     "headline_fi": "Belgium boosts heating-oil aid for vulnerable households as energy prices rise",
     "link": "https://www.euronews.com/2026/10/23/belgium-boosts-heating-oil-aid-for-vulnerable-households-as-energy-prices-rise",
@@ -306,13 +355,6 @@
     "link": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-23 15:06"
-  },
-  {
-    "headline": "Singapore's longevity industry: The quest for eternal youth",
-    "headline_fi": "Singapore's longevity industry: The quest for eternal youth",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261023-singapore-s-longevity-industry-the-quest-for-eternal-youth",
-    "source": "France 24",
-    "pub": "2026-10-23 14:53"
   },
   {
     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
@@ -553,39 +595,11 @@
     "pub": "2026-10-23 10:50"
   },
   {
-    "headline": "Volvo Cars announces 2,500 job cuts as it swings to quarterly loss",
-    "headline_fi": "Volvo Cars announces 2,500 job cuts as it swings to quarterly loss",
-    "link": "https://www.euronews.com/2026/10/23/volvo-cars-announces-2500-job-cuts-as-it-swings-to-quarterly-loss",
-    "source": "Euronews",
-    "pub": "2026-10-23 10:24"
-  },
-  {
     "headline": "Germany sit out FIFA Under-15 World Cup as Russia return",
     "headline_fi": "Germany sit out FIFA Under-15 World Cup as Russia return",
     "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-23 10:17"
-  },
-  {
-    "headline": "Serbia election results expected to be ‘very tight’, analyst says",
-    "headline_fi": "Serbia election results expected to be ‘very tight’, analyst says",
-    "link": "https://www.euronews.com/video/2026/10/23/serbia-election-results-expected-to-be-very-tight-analyst-says",
-    "source": "Euronews",
-    "pub": "2026-10-23 10:11"
-  },
-  {
-    "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
-    "headline_fi": "Musk's Starshield system 'back' in Ukraine, says Trump",
-    "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-23 08:37"
-  },
-  {
-    "headline": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
-    "headline_fi": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
-    "link": "https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-23 07:46"
   },
   {
     "headline": "Die Suche nach dem Super-Sozi",
