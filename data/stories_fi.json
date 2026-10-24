@@ -1,5 +1,89 @@
 [
   {
+    "headline": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
+    "headline_fi": "Euronews paikan päällä, kun sadat tuhannet saapuvat Pariisin kaduille",
+    "link": "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris",
+    "source": "Euronews",
+    "pub": "2026-10-24 21:51"
+  },
+  {
+    "headline": "France: Watching the Post-Riot Protests",
+    "headline_fi": "Ranska: mellakan jälkeisten mielenosoitusten katselu",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
+    "source": "France 24",
+    "pub": "2026-10-24 21:42"
+  },
+  {
+    "headline": "“Witkoff should step down” says Ukraine Committee Chief",
+    "headline_fi": "\"Witkoffin pitäisi erota\", sanoo Ukrainan komitean päällikkö",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
+    "source": "France 24",
+    "pub": "2026-10-24 21:37"
+  },
+  {
+    "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+    "headline_fi": "Tuhannet ihmiset protestoivat Tel Avivin kaduilla Netanjahua vastaan",
+    "link": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+    "source": "France 24",
+    "pub": "2026-10-24 21:21"
+  },
+  {
+    "headline": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
+    "headline_fi": "Mielenosoitukset, mielipidemittaukset ja lopullinen keskustelu – Brasilia valmistautuu sunnuntain veitsenteräisiin presidentinvaaleihin",
+    "link": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
+    "source": "Euronews",
+    "pub": "2026-10-24 20:54"
+  },
+  {
+    "headline": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+    "headline_fi": "Jemenin huthikapinalliset väittävät tehneensä uusia hyökkäyksiä öljylaitoksiin ja lentokentille kaikkialla Saudi-Arabiassa",
+    "link": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+    "source": "France 24",
+    "pub": "2026-10-24 20:50"
+  },
+  {
+    "headline": "France: Clashes erupt as protests sweep across cities",
+    "headline_fi": "Ranska: yhteenotot puhkeavat, kun mielenosoitukset pyyhkäisevät kaupungeissa",
+    "link": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
+    "source": "France 24",
+    "pub": "2026-10-24 20:50"
+  },
+  {
+    "headline": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
+    "headline_fi": "Bardella saa 99 prosentin kannatuksen, kun Le Pen valmistautuu Ranskan presidentinvaaleihin",
+    "link": "https://www.euronews.com/2026/10/24/bardella-wins-99-backing-as-le-pen-gears-up-for-french-presidential-race",
+    "source": "Euronews",
+    "pub": "2026-10-24 20:19"
+  },
+  {
+    "headline": "Israel begins demolitions in West Bank",
+    "headline_fi": "Israel aloittaa purkutyöt Länsirannalla",
+    "link": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
+    "source": "France 24",
+    "pub": "2026-10-24 20:13"
+  },
+  {
+    "headline": "Italy hit by new cost of living protests",
+    "headline_fi": "Italiassa uudet elinkustannusmielenosoitukset",
+    "link": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
+    "source": "France 24",
+    "pub": "2026-10-24 20:12"
+  },
+  {
+    "headline": "Paris: 70.000 police officers deployed nationwide",
+    "headline_fi": "Pariisi: 70 000 poliisia valtakunnallisesti",
+    "link": "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
+    "source": "France 24",
+    "pub": "2026-10-24 20:11"
+  },
+  {
+    "headline": "France: Protests continue while police fire tear gas at demonstrators",
+    "headline_fi": "Ranska: Mielenosoitukset jatkuvat poliisin ampuessa kyynelkaasua mielenosoittajia kohti",
+    "link": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
+    "source": "France 24",
+    "pub": "2026-10-24 20:10"
+  },
+  {
     "headline": "Latest news bulletin | October 24th, 2026 – Evening",
     "headline_fi": "Uusin uutistiedote |24.10.2026 – ilta",
     "link": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening",
@@ -91,8 +175,8 @@
     "pub": "2026-10-24 16:09"
   },
   {
-    "headline": "Thousands rally in Tirana as anti-government protests persist",
-    "headline_fi": "Tuhannet osoittivat mieltään Tiranassa hallituksen vastaisten mielenosoitusten jatkuessa",
+    "headline": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
+    "headline_fi": "Väkivaltaiset mielenosoitukset ravistelevat Tiranaa, kun poliisi käyttää kyynelkaasua ja vesitykkejä mielenosoittajia vastaan",
     "link": "https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic",
     "source": "Euronews",
     "pub": "2026-10-24 15:56"
@@ -105,8 +189,8 @@
     "pub": "2026-10-24 15:46"
   },
   {
-    "headline": "Italy deploys hundreds of soldiers as nationwide protests raise fears of fresh violence",
-    "headline_fi": "Italia lähettää satoja sotilaita, kun valtakunnalliset mielenosoitukset herättävät pelkoa uudesta väkivallasta",
+    "headline": "Italy: Thousands take to the streets as protests turn violent in several cities",
+    "headline_fi": "Italia: Tuhannet ihmiset lähtevät kaduille, kun mielenosoitukset muuttuvat väkivaltaisiksi useissa kaupungeissa",
     "link": "https://www.euronews.com/2026/10/24/italy-deploys-hundreds-of-soldiers-as-nationwide-protests-raise-fears-of-fresh-violence",
     "source": "Euronews",
     "pub": "2026-10-24 15:39"
@@ -126,8 +210,8 @@
     "pub": "2026-10-24 15:06"
   },
   {
-    "headline": "135 arrested as new round of protests gets underway in France",
-    "headline_fi": "135 pidätettiin uuden mielenosoituksen alkaessa Ranskassa",
+    "headline": "Clashes erupt between police and protesters in Paris with teargas and water cannons deployed",
+    "headline_fi": "Pariisissa syttyy yhteenottoja poliisin ja mielenosoittajien välillä kyynelkaasun ja vesitykkien ollessa käytössä",
     "link": "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators",
     "source": "Euronews",
     "pub": "2026-10-24 14:55"
@@ -175,13 +259,6 @@
     "pub": "2026-10-24 14:40"
   },
   {
-    "headline": "France braces for new protests",
-    "headline_fi": "Ranska valmistautuu uusiin mielenosoituksiin",
-    "link": "https://www.france24.com/en/france-braces-for-new-protests",
-    "source": "France 24",
-    "pub": "2026-10-24 14:36"
-  },
-  {
     "headline": "Will Guinea-Bissau remain trapped in political chaos?",
     "headline_fi": "Pysyykö Guinea-Bissau poliittisen kaaoksen loukussa?",
     "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf",
@@ -210,53 +287,11 @@
     "pub": "2026-10-24 14:03"
   },
   {
-    "headline": "NFL would cancel Paris game if unsafe due to protests, Steelers QB Aaron Rodgers says",
-    "headline_fi": "Steelers QB Aaron Rodgers sanoo, että NFL peruisi Paris-ottelun, jos se ei ole turvallinen protestien vuoksi",
-    "link": "https://www.france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says",
-    "source": "France 24",
-    "pub": "2026-10-24 13:36"
-  },
-  {
-    "headline": "Netanyahu orders West Bank operation",
-    "headline_fi": "Netanyahu määrää Länsirannan operaation",
-    "link": "https://www.france24.com/en/netanyahu-orders-west-bank-operation",
-    "source": "France 24",
-    "pub": "2026-10-24 13:33"
-  },
-  {
-    "headline": "Typhoon Champi batters Taiwan",
-    "headline_fi": "Typhoon Champi batters Taiwan",
-    "link": "https://www.france24.com/en/typhoon-champi-batters-taiwan",
-    "source": "France 24",
-    "pub": "2026-10-24 13:33"
-  },
-  {
     "headline": "EU moves to loosen rules on pesticide use as experts sound the alarm",
     "headline_fi": "EU pyrkii höllentämään torjunta-aineiden käyttöä koskevia sääntöjä, kun asiantuntijat antavat hälytystä",
     "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 13:33"
-  },
-  {
-    "headline": "French students vow to keep protesting",
-    "headline_fi": "Ranskalaiset opiskelijat lupaavat jatkaa mielenosoitusta",
-    "link": "https://www.france24.com/en/french-students-vow-to-keep-protesting",
-    "source": "France 24",
-    "pub": "2026-10-24 13:31"
-  },
-  {
-    "headline": "France: March against National Rally in Orleans",
-    "headline_fi": "Ranska: maaliskuu Orléansin kansallisrallia vastaan",
-    "link": "https://www.france24.com/en/france-march-against-national-rally-in-orleans",
-    "source": "France 24",
-    "pub": "2026-10-24 13:30"
-  },
-  {
-    "headline": "Paris: Last-minute change to the protest route",
-    "headline_fi": "Pariisi: Viime hetken muutos mielenosoitusreitille",
-    "link": "https://www.france24.com/en/paris-last-minute-change-to-the-protest-route",
-    "source": "France 24",
-    "pub": "2026-10-24 13:29"
   },
   {
     "headline": "Germany news: Merz calls for unity at CSU party conference",
@@ -267,42 +302,35 @@
   },
   {
     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
-    "headline_fi": "Starlink connection restored at high speed in Ukraine, defense minister says",
+    "headline_fi": "Starlink-yhteys palautui suurella nopeudella Ukrainassa, puolustusministeri sanoo",
     "link": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-24 13:09"
   },
   {
     "headline": "Latest news bulletin | October 24th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 24th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |24.10.2026 – keskipäivä",
     "link": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-24 13:00"
   },
   {
     "headline": "Ukraine restores 'stable' connection to Musk's Starlink, Kyiv says",
-    "headline_fi": "Ukraine restores 'stable' connection to Musk's Starlink, Kyiv says",
+    "headline_fi": "Ukraina palauttaa \"vakaan\" yhteyden Muskin Starlinkiin, Kiova sanoo",
     "link": "https://www.euronews.com/2026/10/24/ukraine-restores-stable-connection-to-musks-starlink-kyiv-says",
     "source": "Euronews",
     "pub": "2026-10-24 12:58"
   },
   {
-    "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
-    "headline_fi": "Ukraine says Starlink and Starshield connection 'stable' again",
-    "link": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again",
-    "source": "France 24",
-    "pub": "2026-10-24 12:48"
-  },
-  {
     "headline": "France on edge as fresh nationwide protests begin amid last-minute restrictions",
-    "headline_fi": "France on edge as fresh nationwide protests begin amid last-minute restrictions",
+    "headline_fi": "Ranska on kärjessä, kun uudet valtakunnalliset mielenosoitukset alkavat viime hetken rajoitusten keskellä",
     "link": "https://www.euronews.com/2026/10/24/fresh-protests-set-to-sweep-france-as-last-minute-restrictions-fuel-tensions",
     "source": "Euronews",
     "pub": "2026-10-24 10:51"
   },
   {
     "headline": "Video shows extensive damage inside France's historic Limoges Town Hall",
-    "headline_fi": "Video shows extensive damage inside France's historic Limoges Town Hall",
+    "headline_fi": "Videolla näkyy laajoja vaurioita Ranskan historiallisessa Limogesin kaupungintalossa",
     "link": "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall",
     "source": "Euronews",
     "pub": "2026-10-24 10:43"
@@ -329,18 +357,18 @@
     "pub": "2026-10-24 10:21"
   },
   {
-    "headline": "Protests against cost of living expected in Italy under heavy security",
-    "headline_fi": "Protests against cost of living expected in Italy under heavy security",
-    "link": "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security",
-    "source": "France 24",
-    "pub": "2026-10-24 10:08"
-  },
-  {
-    "headline": "Live: Fresh protests hit France amid heightened security",
-    "headline_fi": "Live: Fresh protests hit France amid heightened security",
-    "link": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-rdf",
+    "headline": "France: Clashes break out as protests go nationwide",
+    "headline_fi": "France: Clashes break out as protests go nationwide",
+    "link": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 09:34"
+  },
+  {
+    "headline": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+    "headline_fi": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+    "link": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-24 08:29"
   },
   {
     "headline": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
@@ -572,20 +600,6 @@
     "link": "https://www.politico.eu/article/ukraine-russia-exchange-270-prisoners-war-zelenskyy-putin-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-23 16:31"
-  },
-  {
-    "headline": "Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
-    "headline_fi": "Ukraina iskee venäläisiä datakeskuksia Moskovan tekoälykyvylle",
-    "link": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
-    "source": "Euronews",
-    "pub": "2026-10-23 16:07"
-  },
-  {
-    "headline": "Japan-Russia ties erode as journalist sits in Moscow jail",
-    "headline_fi": "Japanin ja Venäjän suhteet rapautuvat toimittajan istuessa Moskovan vankilassa",
-    "link": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-23 15:42"
   },
   {
     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
