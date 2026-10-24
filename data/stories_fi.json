@@ -1,5 +1,40 @@
 [
   {
+    "headline": "'The marches went well' – French government on demonstrations a week after looting and violence",
+    "headline_fi": "\"Marssit menivät hyvin\" – Ranskan hallitus mielenosoituksissa viikko ryöstelyn ja väkivallan jälkeen",
+    "link": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
+    "source": "France 24",
+    "pub": "2026-10-25 00:01"
+  },
+  {
+    "headline": "Young protesters clash with police on Rome streets",
+    "headline_fi": "Nuoret mielenosoittajat ottivat yhteen poliisin kanssa Rooman kaduilla",
+    "link": "https://www.euronews.com/video/2026/10/24/young-protesters-clash-with-police-on-rome-streets",
+    "source": "Euronews",
+    "pub": "2026-10-24 23:51"
+  },
+  {
+    "headline": "Protests sweep across Europe from France to Albania, Italy, Spain and Portugal.",
+    "headline_fi": "Mielenosoitukset pyyhkäisevät ympäri Eurooppaa Ranskasta Albaniaan, Italiaan, Espanjaan ja Portugaliin.",
+    "link": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal",
+    "source": "Euronews",
+    "pub": "2026-10-24 23:46"
+  },
+  {
+    "headline": "Brussels shops boarded up amid fears of repeat of last week's looting",
+    "headline_fi": "Brysselin kaupat nousivat laudalle, koska pelättiin viime viikon ryöstelyn toistumisesta",
+    "link": "https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting",
+    "source": "Euronews",
+    "pub": "2026-10-24 22:44"
+  },
+  {
+    "headline": "Ukraine: Starlink satellite speeds restored to normal",
+    "headline_fi": "Ukraina: Starlink-satelliittien nopeudet palautettiin normaaliksi",
+    "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-24 22:33"
+  },
+  {
     "headline": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
     "headline_fi": "Euronews paikan päällä, kun sadat tuhannet saapuvat Pariisin kaduille",
     "link": "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris",
@@ -133,8 +168,8 @@
     "pub": "2026-10-24 17:09"
   },
   {
-    "headline": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
-    "headline_fi": "Israelin joukot syrjäyttävät 1 200 palestiinalaista Hebronissa sotilaita vastaan ​​suunnatun hyökkäyksen jälkeen",
+    "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+    "headline_fi": "Israelin joukot syrjäyttävät 2 000 palestiinalaista Hebronissa sotilaita vastaan ​​tehdyn tappavan hyökkäyksen jälkeen",
     "link": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
     "source": "France 24",
     "pub": "2026-10-24 16:50"
@@ -210,8 +245,8 @@
     "pub": "2026-10-24 15:06"
   },
   {
-    "headline": "Clashes erupt between police and protesters in Paris with teargas and water cannons deployed",
-    "headline_fi": "Pariisissa syttyy yhteenottoja poliisin ja mielenosoittajien välillä kyynelkaasun ja vesitykkien ollessa käytössä",
+    "headline": "Clashes between French police and protesters after largely peaceful demonstrations that drew thousands",
+    "headline_fi": "Ranskan poliisin ja mielenosoittajien väliset yhteenotot pääosin rauhanomaisten mielenosoitusten jälkeen, joihin osallistui tuhansia",
     "link": "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators",
     "source": "Euronews",
     "pub": "2026-10-24 14:55"
@@ -250,13 +285,6 @@
     "link": "https://www.france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron",
     "source": "France 24",
     "pub": "2026-10-24 14:41"
-  },
-  {
-    "headline": "Trump administration sues to block possible Democratic win in Alaska Senate race",
-    "headline_fi": "Trumpin hallinto haastaa oikeuteen estääkseen demokraattien mahdollisen voiton Alaskan senaatin kilpailussa",
-    "link": "https://www.france24.com/en/americas/20261024-trump-administration-sues-to-block-possible-democratic-win-in-alaska-senate-race",
-    "source": "France 24",
-    "pub": "2026-10-24 14:40"
   },
   {
     "headline": "Will Guinea-Bissau remain trapped in political chaos?",
@@ -337,35 +365,35 @@
   },
   {
     "headline": "Winter time or summer time? What the science says about the best option for health",
-    "headline_fi": "Winter time or summer time? What the science says about the best option for health",
+    "headline_fi": "Talviaika vai kesäaika?Mitä tiede sanoo parhaasta vaihtoehdosta terveydelle",
     "link": "https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health",
     "source": "Euronews",
     "pub": "2026-10-24 10:32"
   },
   {
     "headline": "Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA",
-    "headline_fi": "Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA",
+    "headline_fi": "Rubio kehottaa muutosta hakevia kuubalaisia ​​solmimaan \"erillisen kumppanuuden\" CIA:n kanssa",
     "link": "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia",
     "source": "Euronews",
     "pub": "2026-10-24 10:28"
   },
   {
     "headline": "Debt: Moody's spares France, \"a brief respite\", not a \"vote of confidence\"",
-    "headline_fi": "Debt: Moody's spares France, \"a brief respite\", not a \"vote of confidence\"",
+    "headline_fi": "Velka: Moody's säästää Ranskalta \"lyhyt hengähdystauko\", ei \"luottamusäänestys\"",
     "link": "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence",
     "source": "Euronews",
     "pub": "2026-10-24 10:21"
   },
   {
     "headline": "France: Clashes break out as protests go nationwide",
-    "headline_fi": "France: Clashes break out as protests go nationwide",
+    "headline_fi": "Ranska: Yhteenotot puhkeavat mielenosoituksissa valtakunnallisesti",
     "link": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 09:34"
   },
   {
     "headline": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
-    "headline_fi": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+    "headline_fi": "Miksi Venäjän pidätys japanilaisen toimittajan on viimeisin merkki maiden välisten suhteiden heikkenemisestä.",
     "link": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 08:29"
@@ -407,7 +435,7 @@
   },
   {
     "headline": "India news: Neha Bora refuses to sign peace bond, cites right to democratic dissent",
-    "headline_fi": "India news: Neha Bora refuses to sign peace bond, cites right to democratic dissent",
+    "headline_fi": "Intia-uutiset: Neha Bora kieltäytyy allekirjoittamasta rauhansopimusta, vetoaa oikeuteen demokraattiseen erimielisyyteen",
     "link": "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 07:56"
@@ -477,7 +505,7 @@
   },
   {
     "headline": "EU and China weigh next sectors for trade curbs",
-    "headline_fi": "EU and China weigh next sectors for trade curbs",
+    "headline_fi": "EU ja Kiina painavat seuraavat sektorit kaupan hillitsemiseksi",
     "link": "https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-23 22:41"
@@ -896,13 +924,6 @@
     "pub": "2026-10-16 17:23"
   },
   {
-    "headline": "The EU wants an AI revolution. But on whose terms?",
-    "headline_fi": "EU haluaa tekoälyvallankumouksen.Mutta kenen ehdoilla?",
-    "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 16:12"
-  },
-  {
     "headline": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
     "headline_fi": "Kuka oli Eva Mamlok?Berliinin aukio nimettiin uudelleen juutalaisen antifasistisen vastarintataistelijan mukaan",
     "link": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf",
@@ -1275,7 +1296,7 @@
   },
   {
     "headline": "Bundesliga, other top European leagues call for major FIFA reforms",
-    "headline_fi": "Bundesliga, other top European leagues call for major FIFA reforms",
+    "headline_fi": "Bundesliiga ja muut Euroopan huippusarjat vaativat suuria FIFA-uudistuksia",
     "link": "https://www.dw.com/en/bundesliga-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-25 16:52"
