@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Brazil elections: Voting extended after transport complaints",
+    "headline_fi": "Brasilian vaalit: Äänestystä jatkettiin liikennevalitusten jälkeen",
+    "link": "https://www.dw.com/en/brazil-elections-voting-extended-after-transport-complaints/live-79755630?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 23:28"
+  },
+  {
+    "headline": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
+    "headline_fi": "Serbian Vucic myönsi tappionsa historiallisissa ennenaikaisissa vaaleissa ennätysmäärällä",
+    "link": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+    "source": "France 24",
+    "pub": "2026-10-25 23:24"
+  },
+  {
+    "headline": "Serbia’s Vučić concedes defeat after tense parliamentary elections",
+    "headline_fi": "Serbian Vučić myönsi tappionsa kireiden parlamenttivaalien jälkeen",
+    "link": "https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-25 23:18"
+  },
+  {
+    "headline": "Serbia election: Vucic concedes defeat to student-led movement",
+    "headline_fi": "Serbian vaalit: Vucic myönsi tappionsa opiskelijoiden johtamalle liikkeelle",
+    "link": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 23:07"
+  },
+  {
+    "headline": "Student List wins Serbian election in political earthquake as Vučić concedes defeat",
+    "headline_fi": "Student List voitti Serbian vaalit poliittisessa maanjäristyksessä, kun Vučić myönsi tappionsa",
+    "link": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won",
+    "source": "Euronews",
+    "pub": "2026-10-25 22:51"
+  },
+  {
+    "headline": "Marine Le Pen launches presidential campaign in Orléans",
+    "headline_fi": "Marine Le Pen käynnistää presidentinvaalikampanjan Orléansissa",
+    "link": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
+    "source": "France 24",
+    "pub": "2026-10-25 21:45"
+  },
+  {
+    "headline": "Marine Le Pen launches presidential campaign with vow to restore 'rule of law'",
+    "headline_fi": "Marine Le Pen aloittaa presidentinvaalikampanjan lupaamalla palauttaa \"oikeusvaltion\"",
+    "link": "https://www.euronews.com/2026/10/25/marine-le-pen-launches-presidential-campaign-with-vow-to-restore-rule-of-law",
+    "source": "Euronews",
+    "pub": "2026-10-25 21:15"
+  },
+  {
+    "headline": "Le Pen’s ‘Renaissance’: 4th time lucky?",
+    "headline_fi": "Le Penin \"Renessanssi\": neljäs kerta onnekas?",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
+    "source": "France 24",
+    "pub": "2026-10-25 21:05"
+  },
+  {
+    "headline": "Lula's Legacy, Flavio's Future?",
+    "headline_fi": "Lulan perintö, Flavion tulevaisuus?",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261025-lula-s-legacy-flavio-s-future",
+    "source": "France 24",
+    "pub": "2026-10-25 21:00"
+  },
+  {
+    "headline": "Le Pen casts herself as protector of France as troubles swirl",
+    "headline_fi": "Le Pen asettuu Ranskan suojelijaksi ongelmien pyörteessä",
+    "link": "https://www.politico.eu/article/marine-le-pen-casts-herself-as-frances-protector-as-country-faces-mounting-troubles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-25 20:57"
+  },
+  {
     "headline": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
     "headline_fi": "Ranska: Le Pen pyrkii lisäämään levottomuutta presidentinvaalikampanjan avauksessa",
     "link": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
@@ -98,13 +168,6 @@
     "pub": "2026-10-25 16:17"
   },
   {
-    "headline": "Brazil election: Lula, Bolsonaro cast votes in final bout",
-    "headline_fi": "Brasilian vaalit: Lula, Bolsonaro äänestivät viimeisessä ottelussa",
-    "link": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 16:13"
-  },
-  {
     "headline": "Presidential runoff under way in Brazil",
     "headline_fi": "Brasiliassa on meneillään presidentinvaali",
     "link": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
@@ -161,8 +224,8 @@
     "pub": "2026-10-25 14:48"
   },
   {
-    "headline": "Voting under way across Brazil in tight presidential run-off between Lula and Flavio Bolsonaro",
-    "headline_fi": "Brasiliassa äänestetään tiukassa presidentinvaalikierroksessa Lulan ja Flavio Bolsonaron välillä",
+    "headline": "Brazil’s Supreme Court extends the voting hours in the runoff between Lula and Bolsonaro",
+    "headline_fi": "Brasilian korkein oikeus pidentää äänestysaikoja Lulan ja Bolsonaron välisessä jälkikierroksessa",
     "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
     "source": "France 24",
     "pub": "2026-10-25 14:46"
@@ -252,53 +315,11 @@
     "pub": "2026-10-25 12:52"
   },
   {
-    "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-    "headline_fi": "Serbian vaalit: Voiko opiskelijoiden johtama oppositio lopettaa Aleksandar Vučicin otteen vallasta?",
-    "link": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 12:42"
-  },
-  {
-    "headline": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-    "headline_fi": "Rasistisesta Pariisin ampumisesta epäilty siirrettiin psykiatriseen yksikköön, ja hänellä oli huumeita elimistössä",
-    "link": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
-    "source": "France 24",
-    "pub": "2026-10-25 12:36"
-  },
-  {
-    "headline": "France: Some clashes erupted at end of protests",
-    "headline_fi": "Ranska: Joitakin yhteenottoja puhkesi mielenosoitusten lopussa",
-    "link": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
-    "source": "France 24",
-    "pub": "2026-10-25 11:35"
-  },
-  {
-    "headline": "More than 400.000 protest across France",
-    "headline_fi": "Yli 400 000 mielenosoittajaa eri puolilla Ranskaa",
-    "link": "https://www.france24.com/en/more-than-400-000-protest-across-france",
-    "source": "France 24",
-    "pub": "2026-10-25 11:32"
-  },
-  {
     "headline": "Thousands march across Italy as protests bring isolated clashes with police",
     "headline_fi": "Tuhannet marssivat Italian halki, kun mielenosoitukset aiheuttavat yksittäisiä yhteenottoja poliisin kanssa",
     "link": "https://www.euronews.com/2026/10/25/thousands-march-across-italy-as-protests-bring-isolated-clashes-with-police",
     "source": "Euronews",
     "pub": "2026-10-25 11:32"
-  },
-  {
-    "headline": "France’s far right gathers as Le Pen prepares her presidential campaign",
-    "headline_fi": "Ranskan äärioikeisto kokoontuu, kun Le Pen valmistelee presidentinvaalikampanjaansa",
-    "link": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
-    "source": "France 24",
-    "pub": "2026-10-25 11:31"
-  },
-  {
-    "headline": "Hundreds of thousands march in France to protest against government",
-    "headline_fi": "Sadat tuhannet marssivat Ranskassa hallitusta vastaan",
-    "link": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
-    "source": "France 24",
-    "pub": "2026-10-25 11:29"
   },
   {
     "headline": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
@@ -308,9 +329,9 @@
     "pub": "2026-10-25 11:27"
   },
   {
-    "headline": "Prague honours Roma resistance fighters against Hitler",
+    "headline": "Prague honors Roma resistance fighters against Hitler",
     "headline_fi": "Praha kunnioittaa romanien vastarintataistelijoita Hitleriä vastaan",
-    "link": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 11:17"
   },
@@ -350,9 +371,9 @@
     "pub": "2026-10-25 09:24"
   },
   {
-    "headline": "Bulgaria holds presidential elections amid divisions over Ukraine war",
-    "headline_fi": "Bulgariassa järjestetään presidentinvaalit Ukrainan sodan erimielisyyksien keskellä",
-    "link": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
+    "headline": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+    "headline_fi": "Bulgariassa ennätyksellisen alhainen äänestysprosentti laukaisee 1. marraskuuta presidentinvaalien toisen kierroksen Ukrainan sodan erimielisyyksien värittämässä kyselyssä",
+    "link": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 09:19"
   },
@@ -372,7 +393,7 @@
   },
   {
     "headline": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
-    "headline_fi": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
+    "headline_fi": "Kultamarkkinat ja keskuspankit: Venäjä, Kazakstan myyvät kuten Puola, Kiina ostavat",
     "link": "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy",
     "source": "Euronews",
     "pub": "2026-10-25 08:58"
@@ -630,20 +651,6 @@
     "pub": "2026-10-24 05:00"
   },
   {
-    "headline": "What’s not on the ballot in Israel: Peace",
-    "headline_fi": "Mitä ei ole äänestetty Israelissa: Rauha",
-    "link": "https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-24 05:00"
-  },
-  {
-    "headline": "EU and China weigh next sectors for trade curbs",
-    "headline_fi": "EU ja Kiina painavat seuraavat sektorit kaupan hillitsemiseksi",
-    "link": "https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-23 22:41"
-  },
-  {
     "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
     "headline_fi": "Venäjän hyökkäykset Ukrainan pääkaupunkiin Kiovaan kiihtyvät.DW kysyi kentällä olevilta ihmisiltä, ​​millaista elämä on",
     "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
@@ -656,13 +663,6 @@
     "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-23 17:23"
-  },
-  {
-    "headline": "Ukraine and Russia each exchange 270 prisoners of war",
-    "headline_fi": "Ukraina ja Venäjä vaihtavat kumpikin 270 sotavankia",
-    "link": "https://www.politico.eu/article/ukraine-russia-exchange-270-prisoners-war-zelenskyy-putin-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-23 16:31"
   },
   {
     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
