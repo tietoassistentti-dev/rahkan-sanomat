@@ -1,10 +1,66 @@
 [
   {
+    "headline": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
+    "headline_fi": "Ranska: Le Pen pyrkii lisäämään levottomuutta presidentinvaalikampanjan avauksessa",
+    "link": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+    "source": "France 24",
+    "pub": "2026-10-25 19:12"
+  },
+  {
+    "headline": "Latest news bulletin | October 25th, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |25.10.2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-25 19:00"
+  },
+  {
+    "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+    "headline_fi": "María Corina Machado palasi Venezuelaan 10 kuukauden maanpaossa",
+    "link": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
+    "source": "Euronews",
+    "pub": "2026-10-25 18:54"
+  },
+  {
+    "headline": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
+    "headline_fi": "Tuhannet lampaat valtaavat Madridin kadut Transhumance Festivalille",
+    "link": "https://www.euronews.com/video/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival",
+    "source": "Euronews",
+    "pub": "2026-10-25 18:52"
+  },
+  {
+    "headline": "Off the Record: Yalta 2.0 spells bad news for Europe in desperate need of a plan",
+    "headline_fi": "Off the Record: Jalta 2.0 tuo huonoja uutisia Euroopalle, joka tarvitsee kipeästi suunnitelmaa",
+    "link": "https://www.euronews.com/2026/10/25/off-the-record-yalta-20-spells-bad-news-for-europe-in-desperate-need-of-a-plan",
+    "source": "Euronews",
+    "pub": "2026-10-25 18:39"
+  },
+  {
+    "headline": "France: 1.314 arrested during protests across the country",
+    "headline_fi": "Ranska: 1 314 pidätettyä mielenosoitusten aikana eri puolilla maata",
+    "link": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
+    "source": "France 24",
+    "pub": "2026-10-25 18:32"
+  },
+  {
     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
     "headline_fi": "Väliehdotus: Obama kampanjoi demokraattien puolesta, arvostelee Trumpia",
-    "link": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump",
+    "link": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
     "source": "France 24",
-    "pub": "2026-10-25 17:31"
+    "pub": "2026-10-25 18:25"
+  },
+  {
+    "headline": "Protein shakes for teenagers: Good or bad idea?",
+    "headline_fi": "Proteiinipirtelöt teini-ikäisille: hyvä vai huono idea?",
+    "link": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 18:12"
+  },
+  {
+    "headline": "Demonstrators wounded as police break up Lisbon and Porto housing protest camps",
+    "headline_fi": "Mielenosoittajat haavoittuivat poliisin hajottaessa Lissabonin ja Porton mielenosoittajia",
+    "link": "https://www.euronews.com/2026/10/25/demonstrators-wounded-as-police-break-up-lisbon-and-porto-housing-protest-camps",
+    "source": "Euronews",
+    "pub": "2026-10-25 17:52"
   },
   {
     "headline": "Russian strikes on Ukraine kill four and injure 28, authorities say",
@@ -14,8 +70,8 @@
     "pub": "2026-10-25 17:16"
   },
   {
-    "headline": "Live: French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
-    "headline_fi": "Suorana lähetyksenä: Ranskan äärioikeistojohtaja Le Pen pyrkii lisäämään levottomuutta presidentinvaalikampanjan avauksessa",
+    "headline": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
+    "headline_fi": "Ranskan äärioikeistojohtaja Le Pen pyrkii lisäämään levottomuutta presidentinvaalikampanjan avauksessa",
     "link": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
     "source": "France 24",
     "pub": "2026-10-25 17:01"
@@ -155,7 +211,7 @@
   },
   {
     "headline": "Israel orders West Bank crossings to close on election day following Hebron shooting",
-    "headline_fi": "Israel orders West Bank crossings to close on election day following Hebron shooting",
+    "headline_fi": "Israel käskee Länsirannan rajanylityspaikat sulkemaan vaalipäivänä Hebronin ampumisen jälkeen",
     "link": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
     "source": "Euronews",
     "pub": "2026-10-25 13:21"
@@ -169,21 +225,21 @@
   },
   {
     "headline": "At least 1,300 people arrested in mass weekend protests across France",
-    "headline_fi": "At least 1,300 people arrested in mass weekend protests across France",
+    "headline_fi": "Ainakin 1 300 ihmistä pidätettiin viikonlopun joukkomielenosoituksissa eri puolilla Ranskaa",
     "link": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
     "source": "France 24",
     "pub": "2026-10-25 13:02"
   },
   {
     "headline": "Latest news bulletin | October 25th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 25th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |25.10.2026 – keskipäivä",
     "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-25 13:00"
   },
   {
-    "headline": "Bulgaria votes for president in election dominated by Ukraine war and the economy",
-    "headline_fi": "Bulgaria votes for president in election dominated by Ukraine war and the economy",
+    "headline": "Bulgaria's Yotova narrowly leads Gyurov in first round of presidential election, according to exit polls",
+    "headline_fi": "Bulgarian Yotova johtaa niukasti Gyurovia presidentinvaalien ensimmäisellä kierroksella, poistuneiden mielipidemittausten mukaan",
     "link": "https://www.euronews.com/2026/10/25/bulgaria-votes-for-president-in-election-dominated-by-ukraine-war-and-the-economy",
     "source": "Euronews",
     "pub": "2026-10-25 12:59"
@@ -197,14 +253,14 @@
   },
   {
     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-    "headline_fi": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+    "headline_fi": "Serbian vaalit: Voiko opiskelijoiden johtama oppositio lopettaa Aleksandar Vučicin otteen vallasta?",
     "link": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 12:42"
   },
   {
     "headline": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-    "headline_fi": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
+    "headline_fi": "Rasistisesta Pariisin ampumisesta epäilty siirrettiin psykiatriseen yksikköön, ja hänellä oli huumeita elimistössä",
     "link": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
     "source": "France 24",
     "pub": "2026-10-25 12:36"
@@ -260,7 +316,7 @@
   },
   {
     "headline": "Audi's first US production plant: carmaker strikes deal with Trump",
-    "headline_fi": "Audi's first US production plant: carmaker strikes deal with Trump",
+    "headline_fi": "Audin ensimmäinen tuotantolaitos Yhdysvalloissa: autonvalmistajat solmivat sopimuksen Trumpin kanssa",
     "link": "https://www.euronews.com/2026/10/25/audis-first-us-production-plant-carmaker-strikes-deal-with-trump",
     "source": "Euronews",
     "pub": "2026-10-25 11:15"
@@ -274,7 +330,7 @@
   },
   {
     "headline": "More than 1,300 arrests across France as protesters clashed with police",
-    "headline_fi": "More than 1,300 arrests across France as protesters clashed with police",
+    "headline_fi": "Yli 1 300 pidätystä eri puolilla Ranskaa, kun mielenosoittajat ottivat yhteen poliisin kanssa",
     "link": "https://www.euronews.com/2026/10/25/almost-1000-arrests-across-france-as-protesters-clashed-with-police",
     "source": "Euronews",
     "pub": "2026-10-25 10:35"
@@ -288,7 +344,7 @@
   },
   {
     "headline": "Serbia goes to polls to choose between Vučić and student movement",
-    "headline_fi": "Serbia goes to polls to choose between Vučić and student movement",
+    "headline_fi": "Serbia äänestää Vučićin ja opiskelijaliikkeen välillä",
     "link": "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement",
     "source": "Euronews",
     "pub": "2026-10-25 09:24"
@@ -301,13 +357,6 @@
     "pub": "2026-10-25 09:19"
   },
   {
-    "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-    "headline_fi": "Serbiassa järjestetään parlamenttivaalit, kun populistijohtaja Vučić kohtaa opiskelijaliikkeen",
-    "link": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement",
-    "source": "France 24",
-    "pub": "2026-10-25 09:14"
-  },
-  {
     "headline": "Graveyard tourism: Why Europe’s cemeteries are on the must-visit list for Halloween",
     "headline_fi": "Hautausmaamatkailu: Miksi Euroopan hautausmaat ovat Halloweenin pakollisten käyntien listalla",
     "link": "https://www.euronews.com/2026/10/25/graveyard-tourism-why-europes-cemeteries-are-on-the-must-visit-list-for-halloween",
@@ -316,7 +365,7 @@
   },
   {
     "headline": "Latest news bulletin | October 25th, 2026 – Morning",
-    "headline_fi": "Latest news bulletin | October 25th, 2026 – Morning",
+    "headline_fi": "Uusin uutistiedote |25. lokakuuta 2026 – Aamu",
     "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-morning",
     "source": "Euronews",
     "pub": "2026-10-25 09:00"
@@ -327,13 +376,6 @@
     "link": "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy",
     "source": "Euronews",
     "pub": "2026-10-25 08:58"
-  },
-  {
-    "headline": "What to know as Brazilians choose between Lula and Flavio Bolsonaro in tense presidential runoff",
-    "headline_fi": "What to know as Brazilians choose between Lula and Flavio Bolsonaro in tense presidential runoff",
-    "link": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff",
-    "source": "France 24",
-    "pub": "2026-10-25 08:05"
   },
   {
     "headline": "Security Sunday: Bringen Frankreichs Proteste Marine Le Pen an die Macht? – mit Martina Meister",
@@ -355,13 +397,6 @@
     "link": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 02:49"
-  },
-  {
-    "headline": "Government says protests across France 'went well' despite nearly 1,000 arrests",
-    "headline_fi": "Government says protests across France 'went well' despite nearly 1,000 arrests",
-    "link": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
-    "source": "France 24",
-    "pub": "2026-10-25 00:01"
   },
   {
     "headline": "Young protesters clash with police on Rome streets",
@@ -397,13 +432,6 @@
     "link": "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris",
     "source": "Euronews",
     "pub": "2026-10-24 21:51"
-  },
-  {
-    "headline": "France: Watching the Post-Riot Protests",
-    "headline_fi": "Ranska: mellakan jälkeisten mielenosoitusten katselu",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
-    "source": "France 24",
-    "pub": "2026-10-24 21:42"
   },
   {
     "headline": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
@@ -504,13 +532,6 @@
     "pub": "2026-10-24 14:41"
   },
   {
-    "headline": "Will Guinea-Bissau remain trapped in political chaos?",
-    "headline_fi": "Pysyykö Guinea-Bissau poliittisen kaaoksen loukussa?",
-    "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 14:36"
-  },
-  {
     "headline": "Tensions mount in France as thousands rally against Marine Le Pen’s National rally",
     "headline_fi": "Jännitteet lisääntyvät Ranskassa, kun tuhannet kokoontuvat Marine Le Penin kansallista mielenosoitusta vastaan",
     "link": "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france",
@@ -595,34 +616,6 @@
     "pub": "2026-10-24 10:21"
   },
   {
-    "headline": "Booking an electric flight in Europe is only 10 years away, says influential Dutch researcher",
-    "headline_fi": "Sähkölennon varaaminen Euroopassa on vain 10 vuoden päässä, sanoo vaikutusvaltainen hollantilainen tutkija",
-    "link": "https://www.euronews.com/2026/10/24/booking-an-electric-flight-in-europe-is-only-10-years-away-says-influential-dutch-research",
-    "source": "Euronews",
-    "pub": "2026-10-24 08:02"
-  },
-  {
-    "headline": "Grocery prices across Europe: Where is food most expensive and why?",
-    "headline_fi": "Päivittäistavarahinnat kaikkialla Euroopassa: Missä ruoka on kalleinta ja miksi?",
-    "link": "https://www.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why",
-    "source": "Euronews",
-    "pub": "2026-10-24 08:00"
-  },
-  {
-    "headline": "Latest news bulletin | October 24th, 2026 – Morning",
-    "headline_fi": "Uusin uutistiedote |24. lokakuuta 2026 – Aamu",
-    "link": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-10-24 08:00"
-  },
-  {
-    "headline": "Sun, sand and snorkelling: A week in the Maldives on two stunning resort islands",
-    "headline_fi": "Aurinkoa, hiekkaa ja snorklausta: Viikko Malediiveilla kahdella upealla lomakeskuksen saarella",
-    "link": "https://www.euronews.com/2026/10/24/sun-sand-and-snorkelling-a-week-in-the-maldives-on-two-stunning-resort-islands",
-    "source": "Euronews",
-    "pub": "2026-10-24 08:00"
-  },
-  {
     "headline": "Ein Spaziergang mit Martin Blessing",
     "headline_fi": "Kävely Martin Blessingin kanssa",
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-martin-blessing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -642,20 +635,6 @@
     "link": "https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-24 05:00"
-  },
-  {
-    "headline": "Princess and prizewinners champion hope against 'darker times' at Princess of Asturias Awards",
-    "headline_fi": "Prinsessa ja palkinnon voittaja toivoo \"pimeämpiä aikoja\" vastaan ​​Princess of Asturias Awardsissa",
-    "link": "https://www.euronews.com/2026/10/23/princess-and-prizewinners-champion-hope-against-darker-times-at-princess-of-asturias-award",
-    "source": "Euronews",
-    "pub": "2026-10-24 00:20"
-  },
-  {
-    "headline": "Jihadists reportedly urge attacks during protests in Portugal and Spain",
-    "headline_fi": "Jihadistien kerrotaan vaativan hyökkäyksiä mielenosoitusten aikana Portugalissa ja Espanjassa",
-    "link": "https://www.euronews.com/2026/10/23/jihadists-reportedly-urge-attacks-during-protests-in-portugal-and-spain",
-    "source": "Euronews",
-    "pub": "2026-10-23 22:55"
   },
   {
     "headline": "EU and China weigh next sectors for trade curbs",
