@@ -1,5 +1,488 @@
 [
   {
+    "headline": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
+    "headline_fi": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
+    "link": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
+    "source": "France 24",
+    "pub": "2026-10-26 19:11"
+  },
+  {
+    "headline": "Zelenskyy calls out monthlong wait for Hegseth to sign off on Patriot missiles",
+    "headline_fi": "Zelenskyy calls out monthlong wait for Hegseth to sign off on Patriot missiles",
+    "link": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
+    "source": "Euronews",
+    "pub": "2026-10-26 19:07"
+  },
+  {
+    "headline": "Leaders across Americas react to Brazil President Lula's re-election",
+    "headline_fi": "Leaders across Americas react to Brazil President Lula's re-election",
+    "link": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election",
+    "source": "France 24",
+    "pub": "2026-10-26 19:05"
+  },
+  {
+    "headline": "Latest news bulletin | October 26th, 2026 – Evening",
+    "headline_fi": "Latest news bulletin | October 26th, 2026 – Evening",
+    "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-26 19:00"
+  },
+  {
+    "headline": "German police probe cruise ship captain after Bremerhaven collision",
+    "headline_fi": "German police probe cruise ship captain after Bremerhaven collision",
+    "link": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-26 19:00"
+  },
+  {
+    "headline": "Israeli candidate Eisenkot pledges to unite country as Netanyahu deems him 'soft' on Iran",
+    "headline_fi": "Israeli candidate Eisenkot pledges to unite country as Netanyahu deems him 'soft' on Iran",
+    "link": "https://www.france24.com/en/middle-east/20261026-israeli-candidate-eisenkot-pledges-to-unite-israelis-as-netanyahu-deems-him-soft-on-iran",
+    "source": "France 24",
+    "pub": "2026-10-26 18:58"
+  },
+  {
+    "headline": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
+    "headline_fi": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
+    "link": "https://www.france24.com/en/lula-accustomed-to-negotiating-tough-bargains-campaign-promises-collide-with-right-wing-congress",
+    "source": "France 24",
+    "pub": "2026-10-26 18:54"
+  },
+  {
+    "headline": "Israel election: unable to vote from abroad, expats have to fly home",
+    "headline_fi": "Israel election: unable to vote from abroad, expats have to fly home",
+    "link": "https://www.france24.com/en/israel-election-unable-to-vote-from-abroad-expats-have-to-fly-home",
+    "source": "France 24",
+    "pub": "2026-10-26 18:47"
+  },
+  {
+    "headline": "UK: Oxford Street pedestrianisation begins in central London",
+    "headline_fi": "UK: Oxford Street pedestrianisation begins in central London",
+    "link": "https://www.euronews.com/video/2026/10/26/uk-oxford-street-pedestrianisation-begins-in-central-london",
+    "source": "Euronews",
+    "pub": "2026-10-26 18:29"
+  },
+  {
+    "headline": "Macklemore holds charity stadium shows to raise funds for Palestine",
+    "headline_fi": "Macklemore holds charity stadium shows to raise funds for Palestine",
+    "link": "https://www.france24.com/en/tv-shows/arts24/20261026-macklemore-holds-charity-stadium-shows-to-raise-funds-for-palestine",
+    "source": "France 24",
+    "pub": "2026-10-26 18:26"
+  },
+  {
+    "headline": "Exclusive: EU to give Frontex new powers to deport migrants from outside Europe",
+    "headline_fi": "Exclusive: EU to give Frontex new powers to deport migrants from outside Europe",
+    "link": "https://www.euronews.com/2026/10/26/exclusive-eu-to-give-frontex-new-powers-to-deport-migrants-from-outside-europe",
+    "source": "Euronews",
+    "pub": "2026-10-26 18:25"
+  },
+  {
+    "headline": "Europe is living in a new ‘era of darkness,’ Finland’s Stubb warns",
+    "headline_fi": "Europe is living in a new ‘era of darkness,’ Finland’s Stubb warns",
+    "link": "https://www.politico.eu/article/europe-new-era-of-darkness-finland-alexander-stubb-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-26 18:16"
+  },
+  {
+    "headline": "France protests: Macron rules out state of emergency – for now",
+    "headline_fi": "France protests: Macron rules out state of emergency – for now",
+    "link": "https://www.france24.com/en/video/20261026-france-protests-macron-rules-out-state-of-emergency-%E2%80%93-for-now",
+    "source": "France 24",
+    "pub": "2026-10-26 18:16"
+  },
+  {
+    "headline": "Lula's re-election brings hope for the Amazon as deforestation drops to record low",
+    "headline_fi": "Lula's re-election brings hope for the Amazon as deforestation drops to record low",
+    "link": "https://www.france24.com/en/tv-shows/down-to-earth/20261026-lula-s-re-election-brings-hope-for-the-amazon-as-deforestation-drops-to-record-low",
+    "source": "France 24",
+    "pub": "2026-10-26 18:12"
+  },
+  {
+    "headline": "EU set to miss 2030 marine protection targets, auditors warn",
+    "headline_fi": "EU set to miss 2030 marine protection targets, auditors warn",
+    "link": "https://www.euronews.com/2026/10/26/eu-set-to-miss-2030-marine-protection-targets-auditors-warn",
+    "source": "Euronews",
+    "pub": "2026-10-26 18:00"
+  },
+  {
+    "headline": "Swedish government blocks ChatGPT and Claude. Here’s why",
+    "headline_fi": "Swedish government blocks ChatGPT and Claude. Here’s why",
+    "link": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why",
+    "source": "Euronews",
+    "pub": "2026-10-26 17:18"
+  },
+  {
+    "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+    "headline_fi": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+    "link": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-26 17:16"
+  },
+  {
+    "headline": "Jordan arrests three following deadly terror attack on church",
+    "headline_fi": "Jordan arrests three following deadly terror attack on church",
+    "link": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
+    "source": "France 24",
+    "pub": "2026-10-26 17:12"
+  },
+  {
+    "headline": "Cyprus signs $1.8bn deal to develop first gas field, with exports to Europe via Egypt",
+    "headline_fi": "Cyprus signs $1.8bn deal to develop first gas field, with exports to Europe via Egypt",
+    "link": "https://www.euronews.com/2026/10/26/cyprus-signs-18bn-deal-to-develop-first-gas-field-with-exports-to-europe-via-egypt",
+    "source": "Euronews",
+    "pub": "2026-10-26 17:11"
+  },
+  {
+    "headline": "Brazil's Lula reelected president in runoff vote: A look back at his career",
+    "headline_fi": "Brazil's Lula reelected president in runoff vote: A look back at his career",
+    "link": "https://www.france24.com/en/brazil-s-lula-reelected-president-in-runoff-vote-a-look-back-at-his-career",
+    "source": "France 24",
+    "pub": "2026-10-26 17:11"
+  },
+  {
+    "headline": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+    "headline_fi": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+    "link": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-26 17:08"
+  },
+  {
+    "headline": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting?",
+    "headline_fi": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting?",
+    "link": "https://www.euronews.com/2026/10/26/from-the-mecca-defence-pact-to-tehran-talks-is-the-middle-easts-security-landscape-shiftin",
+    "source": "Euronews",
+    "pub": "2026-10-26 17:07"
+  },
+  {
+    "headline": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat",
+    "headline_fi": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat",
+    "link": "https://www.euronews.com/2026/10/26/hybrid-weapon-of-war-why-climate-disinformation-could-be-a-growing-public-health-threat",
+    "source": "Euronews",
+    "pub": "2026-10-26 17:00"
+  },
+  {
+    "headline": "Why Ukraine may be involved in Mali's conflict",
+    "headline_fi": "Why Ukraine may be involved in Mali's conflict",
+    "link": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-26 16:58"
+  },
+  {
+    "headline": "'Pure garbage': Elon Musk’s AI-generated 'The Odyssey' clip ridiculed online",
+    "headline_fi": "'Pure garbage': Elon Musk’s AI-generated 'The Odyssey' clip ridiculed online",
+    "link": "https://www.euronews.com/2026/10/26/pure-garbage-elon-musks-ai-generated-the-odyssey-clip-ridiculed-online",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:52"
+  },
+  {
+    "headline": "US Midterms 2026: A history of gerrymandering",
+    "headline_fi": "US Midterms 2026: A history of gerrymandering",
+    "link": "https://www.france24.com/en/us-midterms-2026-a-history-of-gerrymandering",
+    "source": "France 24",
+    "pub": "2026-10-26 16:48"
+  },
+  {
+    "headline": "Serbia’s student victory raises hopes of an EU reset",
+    "headline_fi": "Serbia’s student victory raises hopes of an EU reset",
+    "link": "https://www.euronews.com/2026/10/26/serbias-student-victory-raises-hopes-of-an-eu-reset",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:42"
+  },
+  {
+    "headline": "Macron promises 'concrete measures' in response to French students' demands",
+    "headline_fi": "Macron promises 'concrete measures' in response to French students' demands",
+    "link": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands",
+    "source": "France 24",
+    "pub": "2026-10-26 16:39"
+  },
+  {
+    "headline": "US midterms: Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+    "headline_fi": "US midterms: Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+    "link": "https://www.france24.com/en/us-midterms-obama-blasts-trump-s-chaos-and-cruelty-while-campaigning-for-democrats",
+    "source": "France 24",
+    "pub": "2026-10-26 16:28"
+  },
+  {
+    "headline": "'Yes Bibi or No Bibi': Netanyahu's political future overshadows Israel's election",
+    "headline_fi": "'Yes Bibi or No Bibi': Netanyahu's political future overshadows Israel's election",
+    "link": "https://www.euronews.com/2026/10/26/yes-bibi-or-no-bibi-netanyahus-political-future-overshadows-israels-election",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:23"
+  },
+  {
+    "headline": "Lula’s comeback puts brakes on Latin America’s rightward surge",
+    "headline_fi": "Lula’s comeback puts brakes on Latin America’s rightward surge",
+    "link": "https://www.euronews.com/2026/10/26/lulas-comeback-puts-brakes-on-latin-americas-rightward-surge",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:21"
+  },
+  {
+    "headline": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
+    "headline_fi": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
+    "link": "https://www.france24.com/en/tens-of-thousands-of-israelis-living-abroad-expected-to-fly-in-for-pivotal-vote",
+    "source": "France 24",
+    "pub": "2026-10-26 16:20"
+  },
+  {
+    "headline": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
+    "headline_fi": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
+    "link": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
+    "source": "France 24",
+    "pub": "2026-10-26 16:12"
+  },
+  {
+    "headline": "Temu falls into line as EU backs its action plan after €200m fine",
+    "headline_fi": "Temu falls into line as EU backs its action plan after €200m fine",
+    "link": "https://www.euronews.com/2026/10/26/temu-falls-into-line-as-eu-backs-its-action-plan-after-200m-fine",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:11"
+  },
+  {
+    "headline": "The architectural heritage of Greece's Kea island: Vibrant colours, stone houses and watermills",
+    "headline_fi": "The architectural heritage of Greece's Kea island: Vibrant colours, stone houses and watermills",
+    "link": "https://www.euronews.com/2026/10/26/the-architectural-heritage-of-greeces-kea-island-vibrant-colours-stone-houses-and-watermil",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:03"
+  },
+  {
+    "headline": "Olive trees irrigated with treated wastewater, a pilot project to combat drought",
+    "headline_fi": "Olive trees irrigated with treated wastewater, a pilot project to combat drought",
+    "link": "https://www.euronews.com/2026/10/26/olive-trees-irrigated-with-treated-wastewater-a-pilot-project-to-combat-drought",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:00"
+  },
+  {
+    "headline": "How a Belgian founder built a tech company and a waffle brand in Macao",
+    "headline_fi": "How a Belgian founder built a tech company and a waffle brand in Macao",
+    "link": "https://www.euronews.com/2026/10/26/how-a-belgian-founder-built-a-tech-company-and-a-waffle-brand-in-macao",
+    "source": "Euronews",
+    "pub": "2026-10-26 16:00"
+  },
+  {
+    "headline": "Ukraine: Russian strikes hit Odesa and Zaporizhzhia, injuring four",
+    "headline_fi": "Ukraine: Russian strikes hit Odesa and Zaporizhzhia, injuring four",
+    "link": "https://www.euronews.com/video/2026/10/26/ukraine-russian-strikes-hit-odesa-and-zaporizhzhia-injuring-four",
+    "source": "Euronews",
+    "pub": "2026-10-26 15:55"
+  },
+  {
+    "headline": "Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions",
+    "headline_fi": "Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions",
+    "link": "https://www.france24.com/en/bolsonaro-s-refusal-to-concede-underscores-serious-challenges-to-brazil-s-democratic-institutions",
+    "source": "France 24",
+    "pub": "2026-10-26 15:53"
+  },
+  {
+    "headline": "Will Netanyahu's security promise win him this election?",
+    "headline_fi": "Will Netanyahu's security promise win him this election?",
+    "link": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
+    "source": "France 24",
+    "pub": "2026-10-26 15:52"
+  },
+  {
+    "headline": "Macron vows 'strong measures' to combat protests that rocked France",
+    "headline_fi": "Macron vows 'strong measures' to combat protests that rocked France",
+    "link": "https://www.dw.com/en/macron-vows-strong-measures-to-combat-protests-that-rocked-france/a-79764224?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-26 15:52"
+  },
+  {
+    "headline": "German business confidence rises in October despite global economic risks",
+    "headline_fi": "German business confidence rises in October despite global economic risks",
+    "link": "https://www.euronews.com/2026/10/26/german-business-confidence-rises-in-october-despite-global-economic-risks",
+    "source": "Euronews",
+    "pub": "2026-10-26 15:41"
+  },
+  {
+    "headline": "Lula wins Brazil election but faces uphill battle to govern",
+    "headline_fi": "Lula wins Brazil election but faces uphill battle to govern",
+    "link": "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
+    "source": "France 24",
+    "pub": "2026-10-26 15:38"
+  },
+  {
+    "headline": "Germany's Merz heads to Asia as security issues loom large",
+    "headline_fi": "Germany's Merz heads to Asia as security issues loom large",
+    "link": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-26 15:32"
+  },
+  {
+    "headline": "Claude bypassed paywall to access US election data without being asked, days before midterms",
+    "headline_fi": "Claude bypassed paywall to access US election data without being asked, days before midterms",
+    "link": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
+    "source": "Euronews",
+    "pub": "2026-10-26 15:29"
+  },
+  {
+    "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+    "headline_fi": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+    "link": "https://www.france24.com/en/video/20261026-belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election",
+    "source": "France 24",
+    "pub": "2026-10-26 15:19"
+  },
+  {
+    "headline": "New business projects decline despite rising foreign investment, UN says at World Investment Forum in Doha",
+    "headline_fi": "New business projects decline despite rising foreign investment, UN says at World Investment Forum in Doha",
+    "link": "https://www.euronews.com/2026/10/26/new-business-projects-decline-despite-rising-foreign-investment-un-says-at-world-investmen",
+    "source": "Euronews",
+    "pub": "2026-10-26 15:10"
+  },
+  {
+    "headline": "Algeria approves troop deployment to Niger: what is their mission?",
+    "headline_fi": "Algeria approves troop deployment to Niger: what is their mission?",
+    "link": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+    "source": "Euronews",
+    "pub": "2026-10-26 15:09"
+  },
+  {
+    "headline": "Steinmeier in China: A major state visit in uncertain times",
+    "headline_fi": "Steinmeier in China: A major state visit in uncertain times",
+    "link": "https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-26 15:09"
+  },
+  {
+    "headline": "Live: French education ministers unveil plans to ease student protest crisis",
+    "headline_fi": "Live: French education ministers unveil plans to ease student protest crisis",
+    "link": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
+    "source": "France 24",
+    "pub": "2026-10-26 14:47"
+  },
+  {
+    "headline": "Israel braces for national elections seen as a referendum on Netanyahu",
+    "headline_fi": "Israel braces for national elections seen as a referendum on Netanyahu",
+    "link": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
+    "source": "France 24",
+    "pub": "2026-10-26 14:35"
+  },
+  {
+    "headline": "Macron vows ‘concrete’ measures to address student demands after unrest",
+    "headline_fi": "Macron vows ‘concrete’ measures to address student demands after unrest",
+    "link": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
+    "source": "France 24",
+    "pub": "2026-10-26 14:25"
+  },
+  {
+    "headline": "Yeast or famine: Australian convicted murderer loses bid to eat Vegemite in prison",
+    "headline_fi": "Yeast or famine: Australian convicted murderer loses bid to eat Vegemite in prison",
+    "link": "https://www.euronews.com/2026/10/26/yeast-or-famine-australian-convicted-murderer-loses-bid-to-eat-vegemite-in-prison",
+    "source": "Euronews",
+    "pub": "2026-10-26 14:11"
+  },
+  {
+    "headline": "‘Disturbing and pathetic’: German politicians slam Audi CEO’s appearance at Trump rally",
+    "headline_fi": "‘Disturbing and pathetic’: German politicians slam Audi CEO’s appearance at Trump rally",
+    "link": "https://www.politico.eu/article/donald-trump-midterms-germany-gernot-dollner-unions-audi-ceo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-26 14:02"
+  },
+  {
+    "headline": "Japanese company to compensate users hit by cyberattack",
+    "headline_fi": "Japanese company to compensate users hit by cyberattack",
+    "link": "https://www.euronews.com/2026/10/26/japanese-company-to-compensate-users-hit-by-cyberattack",
+    "source": "Euronews",
+    "pub": "2026-10-26 13:52"
+  },
+  {
+    "headline": "Zelenskyy's planned Brussels visit for peace talks cancelled",
+    "headline_fi": "Zelenskyy's planned Brussels visit for peace talks cancelled",
+    "link": "https://www.euronews.com/2026/10/26/zelenskyys-brussels-peace-talks-in-doubt-after-us-changes-plans",
+    "source": "Euronews",
+    "pub": "2026-10-26 13:42"
+  },
+  {
+    "headline": "Galp and Moeve fail to agree merger of refining and distribution operations",
+    "headline_fi": "Galp and Moeve fail to agree merger of refining and distribution operations",
+    "link": "https://www.euronews.com/2026/10/26/galp-and-moeve-fail-to-agree-merger-of-refining-and-distribution-operations",
+    "source": "Euronews",
+    "pub": "2026-10-26 13:28"
+  },
+  {
+    "headline": "Debate: Vučić voted out: A fresh start for Serbia?",
+    "headline_fi": "Debate: Vučić voted out: A fresh start for Serbia?",
+    "link": "https://www.eurotopics.net/en/366173/vui-voted-out-a-fresh-start-for-serbia?pk_campaign=rss-en&pk_kwd=2026-10-26",
+    "source": "Eurotopics",
+    "pub": "2026-10-26 13:16"
+  },
+  {
+    "headline": "Debate: Czech Republic: attack on public media",
+    "headline_fi": "Debate: Czech Republic: attack on public media",
+    "link": "https://www.eurotopics.net/en/366174/czech-republic-attack-on-public-media?pk_campaign=rss-en&pk_kwd=2026-10-26",
+    "source": "Eurotopics",
+    "pub": "2026-10-26 13:16"
+  },
+  {
+    "headline": "Debate: Elections in Israel: can Netanyahu hold on to power?",
+    "headline_fi": "Debate: Elections in Israel: can Netanyahu hold on to power?",
+    "link": "https://www.eurotopics.net/en/366097/elections-in-israel-can-netanyahu-hold-on-to-power?pk_campaign=rss-en&pk_kwd=2026-10-26",
+    "source": "Eurotopics",
+    "pub": "2026-10-26 13:16"
+  },
+  {
+    "headline": "Opposition overtakes PM on the right | Sergei Medvedev - Russia",
+    "headline_fi": "Opposition overtakes PM on the right | Sergei Medvedev - Russia",
+    "link": "https://www.eurotopics.net/en/366097/elections-in-israel-can-netanyahu-hold-on-to-power?zitat=366124&pk_campaign=rss-en&pk_kwd=2026-10-26#zitat366124",
+    "source": "Eurotopics",
+    "pub": "2026-10-26 13:16"
+  },
+  {
+    "headline": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
+    "headline_fi": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
+    "link": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
+    "source": "Euronews",
+    "pub": "2026-10-26 13:11"
+  },
+  {
+    "headline": "Why Israel’s wartime election isn’t just about the battle with Iran and Hamas",
+    "headline_fi": "Why Israel’s wartime election isn’t just about the battle with Iran and Hamas",
+    "link": "https://www.euronews.com/2026/10/26/why-israels-wartime-election-isnt-just-about-the-battle-with-iran-and-hamas",
+    "source": "Euronews",
+    "pub": "2026-10-26 13:01"
+  },
+  {
+    "headline": "Latest news bulletin | October 26th, 2026 – Midday",
+    "headline_fi": "Latest news bulletin | October 26th, 2026 – Midday",
+    "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-10-26 13:00"
+  },
+  {
+    "headline": "Be nice, not nasty: Nobel laureate Geoffrey Hinton on why AI needs humans at its heart",
+    "headline_fi": "Be nice, not nasty: Nobel laureate Geoffrey Hinton on why AI needs humans at its heart",
+    "link": "https://www.euronews.com/video/2026/10/26/be-nice-not-nasty-nobel-laureate-geoffrey-hinton-on-why-ai-needs-humans-at-its-heart",
+    "source": "Euronews",
+    "pub": "2026-10-26 12:59"
+  },
+  {
+    "headline": "Revolut to launch platform for investing in private tech companies",
+    "headline_fi": "Revolut to launch platform for investing in private tech companies",
+    "link": "https://www.euronews.com/2026/10/26/revolut-to-launch-platform-for-investing-in-private-tech-companies",
+    "source": "Euronews",
+    "pub": "2026-10-26 12:50"
+  },
+  {
+    "headline": "One in three young adults use AI chatbots for drug and alcohol information, study finds",
+    "headline_fi": "One in three young adults use AI chatbots for drug and alcohol information, study finds",
+    "link": "https://www.euronews.com/2026/10/26/one-in-three-young-adults-use-ai-chatbots-for-drug-and-alcohol-information-study-finds",
+    "source": "Euronews",
+    "pub": "2026-10-26 12:28"
+  },
+  {
+    "headline": "Oil plunges more than 6% from near wartime highs as diplomacy over Iran seemingly gathers pace",
+    "headline_fi": "Oil plunges more than 6% from near wartime highs as diplomacy over Iran seemingly gathers pace",
+    "link": "https://www.euronews.com/2026/10/26/oil-plunges-more-than-6-from-near-wartime-highs-as-diplomacy-over-iran-seemingly-gathers",
+    "source": "Euronews",
+    "pub": "2026-10-26 12:18"
+  },
+  {
+    "headline": "2.92-metre monster fish: German angler lands giant catfish from Polish reservoir",
+    "headline_fi": "2.92-metre monster fish: German angler lands giant catfish from Polish reservoir",
+    "link": "https://www.euronews.com/2026/10/26/292-metre-monster-fish-german-angler-lands-giant-catfish-from-polish-reservoir",
+    "source": "Euronews",
+    "pub": "2026-10-26 12:15"
+  },
+  {
     "headline": "Burnham wants UK back in EU within his lifetime",
     "headline_fi": "Burnham wants UK back in EU within his lifetime",
     "link": "https://www.politico.eu/article/burnham-wants-uk-back-in-eu-within-his-lifetime/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -14,39 +497,11 @@
     "pub": "2026-10-26 12:12"
   },
   {
-    "headline": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
-    "headline_fi": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
-    "link": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
-    "source": "France 24",
-    "pub": "2026-10-26 12:10"
-  },
-  {
     "headline": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
     "headline_fi": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
     "link": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-26 12:00"
-  },
-  {
-    "headline": "'Serbia is free': Belgrade erupts in celebration after Vucic's defeat",
-    "headline_fi": "'Serbia is free': Belgrade erupts in celebration after Vucic's defeat",
-    "link": "https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat",
-    "source": "France 24",
-    "pub": "2026-10-26 11:55"
-  },
-  {
-    "headline": "Brazil: What challenges await Lula in his fourth term as president?",
-    "headline_fi": "Brazil: What challenges await Lula in his fourth term as president?",
-    "link": "https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president",
-    "source": "France 24",
-    "pub": "2026-10-26 11:46"
-  },
-  {
-    "headline": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
-    "headline_fi": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
-    "link": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
-    "source": "France 24",
-    "pub": "2026-10-26 11:41"
   },
   {
     "headline": "Why are Elvis Presley rightsholders suing AI company Anthropic?",
@@ -63,20 +518,6 @@
     "pub": "2026-10-26 11:33"
   },
   {
-    "headline": "Brazil's Lula seals re-election in surprise win",
-    "headline_fi": "Brazil's Lula seals re-election in surprise win",
-    "link": "https://www.france24.com/en/brazil-s-lula-seals-re-election-in-surprise-win",
-    "source": "France 24",
-    "pub": "2026-10-26 11:33"
-  },
-  {
-    "headline": "‘Congratulations!’: World leaders hail Lula’s election victory in Brazil",
-    "headline_fi": "‘Congratulations!’: World leaders hail Lula’s election victory in Brazil",
-    "link": "https://www.france24.com/en/americas/20261026-congratulations-world-leaders-hail-lula-s-election-victory-in-brazil",
-    "source": "France 24",
-    "pub": "2026-10-26 11:31"
-  },
-  {
     "headline": "EU hails Serbia’s political upheaval after student group ends Vučić’s rule",
     "headline_fi": "EU hails Serbia’s political upheaval after student group ends Vučić’s rule",
     "link": "https://www.euronews.com/2026/10/26/eu-hails-serbias-political-upheaval-after-student-group-ends-vucics-rule",
@@ -91,9 +532,9 @@
     "pub": "2026-10-26 11:15"
   },
   {
-    "headline": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
-    "headline_fi": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
-    "link": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf",
+    "headline": "Venezuelan opposition leader Machado returns from exile",
+    "headline_fi": "Venezuelan opposition leader Machado returns from exile",
+    "link": "https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-26 11:08"
   },
@@ -103,13 +544,6 @@
     "link": "https://www.euronews.com/2026/10/26/ukrainian-drone-strike-on-voronezh-kills-two-as-kyiv-and-moscow-prepare-to-restart-talks",
     "source": "Euronews",
     "pub": "2026-10-26 11:00"
-  },
-  {
-    "headline": "Lula's 'extraordinary victory' faces growing middle class, deeply-entrenched bolsonarismo & Big Tech",
-    "headline_fi": "Lula's 'extraordinary victory' faces growing middle class, deeply-entrenched bolsonarismo & Big Tech",
-    "link": "https://www.france24.com/en/lula-s-extraordinary-victory-faces-growing-middle-class-deeply-entrenched-bolsonarismo-big-tech",
-    "source": "France 24",
-    "pub": "2026-10-26 10:41"
   },
   {
     "headline": "US: Nicki Minaj endorses Trump at Michigan Republican rally",
@@ -154,74 +588,11 @@
     "pub": "2026-10-26 10:13"
   },
   {
-    "headline": "EU-Inc: is the EU’s startup booster losing steam? Take our poll.",
-    "headline_fi": "EU-Inc: is the EU’s startup booster losing steam? Take our poll.",
-    "link": "https://www.euronews.com/2026/10/26/eu-inc-is-the-eus-startup-booster-losing-steam-take-our-poll",
-    "source": "Euronews",
-    "pub": "2026-10-26 10:07"
-  },
-  {
-    "headline": "Sexy wicker and an Agatha Christie exhibition: The best things to do, hear, see or watch in Europe this week",
-    "headline_fi": "Sexy wicker and an Agatha Christie exhibition: The best things to do, hear, see or watch in Europe this week",
-    "link": "https://www.euronews.com/2026/10/26/sexy-wicker-and-an-agatha-christie-exhibition-the-best-things-to-do-hear-see-or-watch-in-e",
-    "source": "Euronews",
-    "pub": "2026-10-26 09:51"
-  },
-  {
-    "headline": "Brazil: Thousands flood streets to celebrate Lula's election victory",
-    "headline_fi": "Brazil: Thousands flood streets to celebrate Lula's election victory",
-    "link": "https://www.euronews.com/video/2026/10/26/brazil-thousands-flood-streets-to-celebrate-lulas-election-victory",
-    "source": "Euronews",
-    "pub": "2026-10-26 09:47"
-  },
-  {
-    "headline": "Paris welcomes first NFL game with a party a day after protests",
-    "headline_fi": "Paris welcomes first NFL game with a party a day after protests",
-    "link": "https://www.france24.com/en/sport/20261026-paris-welcomes-first-nfl-game-with-a-party-a-day-after-protests",
-    "source": "France 24",
-    "pub": "2026-10-26 09:41"
-  },
-  {
-    "headline": "Serbia’s strongman toppled by student-backed movement",
-    "headline_fi": "Serbia’s strongman toppled by student-backed movement",
-    "link": "https://www.euronews.com/2026/10/26/serbias-strongman-toppled-by-student-backed-movement",
-    "source": "Euronews",
-    "pub": "2026-10-26 09:28"
-  },
-  {
     "headline": "India news: Remark on Modi's father stirs political row",
     "headline_fi": "India news: Remark on Modi's father stirs political row",
     "link": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-26 09:17"
-  },
-  {
-    "headline": "Caught in the act: Italy and Africa join forces against art trafficking",
-    "headline_fi": "Caught in the act: Italy and Africa join forces against art trafficking",
-    "link": "https://www.euronews.com/2026/10/26/caught-in-the-act-italy-and-africa-join-forces-against-art-trafficking",
-    "source": "Euronews",
-    "pub": "2026-10-26 09:16"
-  },
-  {
-    "headline": "Discovering Almaty: Mountain mornings, street art and market flavours",
-    "headline_fi": "Discovering Almaty: Mountain mornings, street art and market flavours",
-    "link": "https://www.euronews.com/2026/10/26/discovering-almaty-mountain-mornings-street-art-and-market-flavours",
-    "source": "Euronews",
-    "pub": "2026-10-26 09:08"
-  },
-  {
-    "headline": "‘It’s improved my life’: Solar kits provide essential power in refugee camps and war zones",
-    "headline_fi": "‘It’s improved my life’: Solar kits provide essential power in refugee camps and war zones",
-    "link": "https://www.euronews.com/2026/10/26/its-improved-my-life-solar-kits-provide-essential-power-in-refugee-camps-and-war-zones",
-    "source": "Euronews",
-    "pub": "2026-10-26 09:02"
-  },
-  {
-    "headline": "Europe Today: Serbia’s students topple Vučić as Israel braces for crucial election",
-    "headline_fi": "Europe Today: Serbia’s students topple Vučić as Israel braces for crucial election",
-    "link": "https://www.euronews.com/2026/10/26/europe-today-serbias-students-topple-vucic-as-israel-braces-for-crucial-election",
-    "source": "Euronews",
-    "pub": "2026-10-26 09:01"
   },
   {
     "headline": "Trump on Norway: ‘Shithouse country’",
@@ -231,144 +602,11 @@
     "pub": "2026-10-26 08:45"
   },
   {
-    "headline": "Political earthquake in Serbia: The end of the Vucic Era and the rise of the student list",
-    "headline_fi": "Political earthquake in Serbia: The end of the Vucic Era and the rise of the student list",
-    "link": "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list",
-    "source": "Euronews",
-    "pub": "2026-10-26 08:29"
-  },
-  {
-    "headline": "GPHG 2026: The 'Oscars of watchmaking' scraps gender categories for ‘a breath of fresh air’",
-    "headline_fi": "GPHG 2026: The 'Oscars of watchmaking' scraps gender categories for ‘a breath of fresh air’",
-    "link": "https://www.euronews.com/2026/10/26/gphg-2026-the-oscars-of-watchmaking-scraps-gender-categories-for-a-breath-of-fresh-air",
-    "source": "Euronews",
-    "pub": "2026-10-26 08:18"
-  },
-  {
-    "headline": "'Having money is not enough': Why a job no longer guarantees access to housing in Spain",
-    "headline_fi": "'Having money is not enough': Why a job no longer guarantees access to housing in Spain",
-    "link": "https://www.euronews.com/2026/10/26/having-money-is-not-enough-why-a-job-no-longer-guarantees-decent-housing-in-spain",
-    "source": "Euronews",
-    "pub": "2026-10-26 08:00"
-  },
-  {
-    "headline": "Latest news bulletin | October 26th, 2026 – Morning",
-    "headline_fi": "Latest news bulletin | October 26th, 2026 – Morning",
-    "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-10-26 08:00"
-  },
-  {
     "headline": "It’s complicated: The status of EU-Canada relations",
     "headline_fi": "It’s complicated: The status of EU-Canada relations",
     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/its-complicated-the-status-of-eu-canada-relations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-26 07:05"
-  },
-  {
-    "headline": "Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race",
-    "headline_fi": "Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race",
-    "link": "https://www.france24.com/en/sport/20261026-kane-primed-to-pip-yamal-mbappe-to-ballon-d-or-glory",
-    "source": "France 24",
-    "pub": "2026-10-26 06:38"
-  },
-  {
-    "headline": "Putins Schattenflotte: Warum greift Deutschland nicht durch?",
-    "headline_fi": "Putins Schattenflotte: Warum greift Deutschland nicht durch?",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/putins-schattenflotte-warum-greift-deutschland-nicht-durch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-26 06:15"
-  },
-  {
-    "headline": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
-    "headline_fi": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
-    "link": "https://www.euronews.com/2026/10/26/brazils-lula-clinches-election-victory-as-bolsonaro-rejects-results",
-    "source": "Euronews",
-    "pub": "2026-10-26 06:10"
-  },
-  {
-    "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-    "headline_fi": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-    "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-26 05:45"
-  },
-  {
-    "headline": "4 reasons Andy Burnham’s MPs are feeling more cheerful — and the pitfalls ahead",
-    "headline_fi": "4 reasons Andy Burnham’s MPs are feeling more cheerful — and the pitfalls ahead",
-    "link": "https://www.politico.eu/article/4-reasons-andy-burnham-mps-feeling-more-cheerful-plus-pitfalls-ahead/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-26 05:00"
-  },
-  {
-    "headline": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
-    "headline_fi": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
-    "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-    "source": "France 24",
-    "pub": "2026-10-26 04:01"
-  },
-  {
-    "headline": "What challenges await Brazil's Lula in his fourth term as president?",
-    "headline_fi": "What challenges await Brazil's Lula in his fourth term as president?",
-    "link": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
-    "source": "France 24",
-    "pub": "2026-10-26 02:52"
-  },
-  {
-    "headline": "Brazil's Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
-    "headline_fi": "Brazil's Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
-    "link": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
-    "source": "France 24",
-    "pub": "2026-10-26 02:23"
-  },
-  {
-    "headline": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
-    "headline_fi": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
-    "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-    "source": "France 24",
-    "pub": "2026-10-26 02:12"
-  },
-  {
-    "headline": "Report: IDF chief pushes back on Netanyahu's order",
-    "headline_fi": "Report: IDF chief pushes back on Netanyahu's order",
-    "link": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
-    "source": "France 24",
-    "pub": "2026-10-26 01:24"
-  },
-  {
-    "headline": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
-    "headline_fi": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
-    "link": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat",
-    "source": "Euronews",
-    "pub": "2026-10-26 00:12"
-  },
-  {
-    "headline": "Songs of praise: An emotional Greek-German musical collaboration at Berlin Cathedral",
-    "headline_fi": "Songs of praise: An emotional Greek-German musical collaboration at Berlin Cathedral",
-    "link": "https://www.euronews.com/2026/10/25/songs-of-praise-an-emotional-greek-german-musical-collaboration-at-berlin-cathedral",
-    "source": "Euronews",
-    "pub": "2026-10-26 00:01"
-  },
-  {
-    "headline": "Ukraine's Zelenskyy confirms trilateral talks with Russia and US to take place in November",
-    "headline_fi": "Ukraine's Zelenskyy confirms trilateral talks with Russia and US to take place in November",
-    "link": "https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november",
-    "source": "Euronews",
-    "pub": "2026-10-25 23:26"
-  },
-  {
-    "headline": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
-    "headline_fi": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
-    "link": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
-    "source": "France 24",
-    "pub": "2026-10-25 23:24"
-  },
-  {
-    "headline": "Serbia’s Vučić concedes defeat after tense parliamentary elections",
-    "headline_fi": "Serbia’s Vučić concedes defeat after tense parliamentary elections",
-    "link": "https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-25 23:18"
   },
   {
     "headline": "Serbia election: Vucic concedes defeat to student-led movement",
@@ -378,102 +616,11 @@
     "pub": "2026-10-25 23:07"
   },
   {
-    "headline": "Student List wins Serbian election in political earthquake as Vučić concedes defeat",
-    "headline_fi": "Student List wins Serbian election in political earthquake as Vučić concedes defeat",
-    "link": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won",
-    "source": "Euronews",
-    "pub": "2026-10-25 22:51"
-  },
-  {
-    "headline": "Marine Le Pen launches presidential campaign in Orléans",
-    "headline_fi": "Marine Le Pen launches presidential campaign in Orléans",
-    "link": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
-    "source": "France 24",
-    "pub": "2026-10-25 21:45"
-  },
-  {
-    "headline": "Marine Le Pen launches presidential campaign with vow to restore 'rule of law'",
-    "headline_fi": "Marine Le Pen launches presidential campaign with vow to restore 'rule of law'",
-    "link": "https://www.euronews.com/2026/10/25/marine-le-pen-launches-presidential-campaign-with-vow-to-restore-rule-of-law",
-    "source": "Euronews",
-    "pub": "2026-10-25 21:15"
-  },
-  {
-    "headline": "Le Pen’s ‘Renaissance’: 4th time lucky?",
-    "headline_fi": "Le Pen’s ‘Renaissance’: 4th time lucky?",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
-    "source": "France 24",
-    "pub": "2026-10-25 21:05"
-  },
-  {
-    "headline": "Lula's Legacy, Flavio's Future?",
-    "headline_fi": "Lula's Legacy, Flavio's Future?",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261025-lula-s-legacy-flavio-s-future",
-    "source": "France 24",
-    "pub": "2026-10-25 21:00"
-  },
-  {
-    "headline": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
-    "headline_fi": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
-    "link": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
-    "source": "France 24",
-    "pub": "2026-10-25 19:12"
-  },
-  {
-    "headline": "Latest news bulletin | October 25th, 2026 – Evening",
-    "headline_fi": "Latest news bulletin | October 25th, 2026 – Evening",
-    "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-10-25 19:00"
-  },
-  {
-    "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-    "headline_fi": "María Corina Machado back in Venezuela after 10 months in exile",
-    "link": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
-    "source": "Euronews",
-    "pub": "2026-10-25 18:54"
-  },
-  {
-    "headline": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
-    "headline_fi": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
-    "link": "https://www.euronews.com/video/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival",
-    "source": "Euronews",
-    "pub": "2026-10-25 18:52"
-  },
-  {
-    "headline": "Off the Record: Yalta 2.0 spells bad news for Europe in desperate need of a plan",
-    "headline_fi": "Off the Record: Yalta 2.0 spells bad news for Europe in desperate need of a plan",
-    "link": "https://www.euronews.com/2026/10/25/off-the-record-yalta-20-spells-bad-news-for-europe-in-desperate-need-of-a-plan",
-    "source": "Euronews",
-    "pub": "2026-10-25 18:39"
-  },
-  {
     "headline": "Protein shakes for teenagers: Good or bad idea?",
     "headline_fi": "Protein shakes for teenagers: Good or bad idea?",
     "link": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 18:12"
-  },
-  {
-    "headline": "Demonstrators wounded as police break up Lisbon and Porto housing protest camps",
-    "headline_fi": "Demonstrators wounded as police break up Lisbon and Porto housing protest camps",
-    "link": "https://www.euronews.com/2026/10/25/demonstrators-wounded-as-police-break-up-lisbon-and-porto-housing-protest-camps",
-    "source": "Euronews",
-    "pub": "2026-10-25 17:52"
-  },
-  {
-    "headline": "Russian strikes on Ukraine kill four and injure 28, authorities say",
-    "headline_fi": "Russian strikes on Ukraine kill four and injure 28, authorities say",
-    "link": "https://www.euronews.com/2026/10/25/russian-strikes-on-ukraine-kill-four-and-injure-28-authorities-say",
-    "source": "Euronews",
-    "pub": "2026-10-25 17:16"
-  },
-  {
-    "headline": "Suspected Trappes gunman moved to police psychiatric unit",
-    "headline_fi": "Suspected Trappes gunman moved to police psychiatric unit",
-    "link": "https://www.euronews.com/2026/10/25/suspected-trappes-gunman-moved-to-police-psychiatric-unit",
-    "source": "Euronews",
-    "pub": "2026-10-25 16:24"
   },
   {
     "headline": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
@@ -511,53 +658,11 @@
     "pub": "2026-10-25 14:05"
   },
   {
-    "headline": "Israel orders West Bank crossings to close on election day following Hebron shooting",
-    "headline_fi": "Israel orders West Bank crossings to close on election day following Hebron shooting",
-    "link": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
-    "source": "Euronews",
-    "pub": "2026-10-25 13:21"
-  },
-  {
     "headline": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
     "headline_fi": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
     "link": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 13:16"
-  },
-  {
-    "headline": "Latest news bulletin | October 25th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 25th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-25 13:00"
-  },
-  {
-    "headline": "Bulgaria's Yotova narrowly leads Gyurov in first round of presidential election, according to exit polls",
-    "headline_fi": "Bulgaria's Yotova narrowly leads Gyurov in first round of presidential election, according to exit polls",
-    "link": "https://www.euronews.com/2026/10/25/bulgaria-votes-for-president-in-election-dominated-by-ukraine-war-and-the-economy",
-    "source": "Euronews",
-    "pub": "2026-10-25 12:59"
-  },
-  {
-    "headline": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-    "headline_fi": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-    "link": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 12:52"
-  },
-  {
-    "headline": "Thousands march across Italy as protests bring isolated clashes with police",
-    "headline_fi": "Thousands march across Italy as protests bring isolated clashes with police",
-    "link": "https://www.euronews.com/2026/10/25/thousands-march-across-italy-as-protests-bring-isolated-clashes-with-police",
-    "source": "Euronews",
-    "pub": "2026-10-25 11:32"
-  },
-  {
-    "headline": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-    "headline_fi": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-    "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 11:27"
   },
   {
     "headline": "Prague honors Roma resistance fighters against Hitler",
@@ -567,46 +672,11 @@
     "pub": "2026-10-25 11:17"
   },
   {
-    "headline": "Audi's first US production plant: carmaker strikes deal with Trump",
-    "headline_fi": "Audi's first US production plant: carmaker strikes deal with Trump",
-    "link": "https://www.euronews.com/2026/10/25/audis-first-us-production-plant-carmaker-strikes-deal-with-trump",
-    "source": "Euronews",
-    "pub": "2026-10-25 11:15"
-  },
-  {
-    "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-    "headline_fi": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-    "link": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 11:13"
-  },
-  {
-    "headline": "More than 1,300 arrests across France as protesters clashed with police",
-    "headline_fi": "More than 1,300 arrests across France as protesters clashed with police",
-    "link": "https://www.euronews.com/2026/10/25/almost-1000-arrests-across-france-as-protesters-clashed-with-police",
-    "source": "Euronews",
-    "pub": "2026-10-25 10:35"
-  },
-  {
-    "headline": "128 arrested after night of unrest and looting in Barcelona",
-    "headline_fi": "128 arrested after night of unrest and looting in Barcelona",
-    "link": "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona",
-    "source": "Euronews",
-    "pub": "2026-10-25 10:31"
-  },
-  {
     "headline": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
     "headline_fi": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
     "link": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 09:19"
-  },
-  {
-    "headline": "Trump announces Audi will build $4 billion factory in US",
-    "headline_fi": "Trump announces Audi will build $4 billion factory in US",
-    "link": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 06:44"
   },
   {
     "headline": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
@@ -642,48 +712,6 @@
     "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-23 14:43"
-  },
-  {
-    "headline": "Debate: Elections in Israel: can Netanyahu hold on to power?",
-    "headline_fi": "Debate: Elections in Israel: can Netanyahu hold on to power?",
-    "link": "https://www.eurotopics.net/en/366097/elections-in-israel-can-netanyahu-hold-on-to-power?pk_campaign=rss-en&pk_kwd=2026-10-23",
-    "source": "Eurotopics",
-    "pub": "2026-10-23 13:15"
-  },
-  {
-    "headline": "Debate: Websites worldwide compromised by PHP security flaws",
-    "headline_fi": "Debate: Websites worldwide compromised by PHP security flaws",
-    "link": "https://www.eurotopics.net/en/366098/websites-worldwide-compromised-by-php-security-flaws?pk_campaign=rss-en&pk_kwd=2026-10-23",
-    "source": "Eurotopics",
-    "pub": "2026-10-23 13:15"
-  },
-  {
-    "headline": "Debate: Witkoff meets Putin: the upshot?",
-    "headline_fi": "Debate: Witkoff meets Putin: the upshot?",
-    "link": "https://www.eurotopics.net/en/366022/witkoff-meets-putin-the-upshot?pk_campaign=rss-en&pk_kwd=2026-10-23",
-    "source": "Eurotopics",
-    "pub": "2026-10-23 13:15"
-  },
-  {
-    "headline": "Russia's victory by no means certain | Aamulehti - Finland",
-    "headline_fi": "Russia's victory by no means certain | Aamulehti - Finland",
-    "link": "https://www.eurotopics.net/en/366022/witkoff-meets-putin-the-upshot?zitat=366050&pk_campaign=rss-en&pk_kwd=2026-10-23#zitat366050",
-    "source": "Eurotopics",
-    "pub": "2026-10-23 13:15"
-  },
-  {
-    "headline": "Diabolical old men | Carina Cockrell-Ferre - Russia",
-    "headline_fi": "Diabolical old men | Carina Cockrell-Ferre - Russia",
-    "link": "https://www.eurotopics.net/en/366022/witkoff-meets-putin-the-upshot?zitat=366084&pk_campaign=rss-en&pk_kwd=2026-10-23#zitat366084",
-    "source": "Eurotopics",
-    "pub": "2026-10-23 13:15"
-  },
-  {
-    "headline": "Debate: Big chill between Turkey and Azerbaijan",
-    "headline_fi": "Debate: Big chill between Turkey and Azerbaijan",
-    "link": "https://www.eurotopics.net/en/366100/big-chill-between-turkey-and-azerbaijan?pk_campaign=rss-en&pk_kwd=2026-10-23",
-    "source": "Eurotopics",
-    "pub": "2026-10-23 13:15"
   },
   {
     "headline": "Germany sit out FIFA Under-15 World Cup as Russia return",
@@ -866,20 +894,6 @@
     "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 17:49"
-  },
-  {
-    "headline": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-    "headline_fi": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-    "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-17 14:34"
-  },
-  {
-    "headline": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-    "headline_fi": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-    "link": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-17 11:02"
   },
   {
     "headline": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
