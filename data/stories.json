@@ -1,10 +1,52 @@
 [
   {
-    "headline": "Brazil elections: Votes being tallied after polls close",
-    "headline_fi": "Brazil elections: Votes being tallied after polls close",
-    "link": "https://www.dw.com/en/brazil-elections-votes-being-tallied-after-polls-close/live-79755630?maca=en-rss-en-all-1573-rdf",
+    "headline": "Putins Schattenflotte: Warum greift Deutschland nicht durch?",
+    "headline_fi": "Putins Schattenflotte: Warum greift Deutschland nicht durch?",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/putins-schattenflotte-warum-greift-deutschland-nicht-durch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-26 06:15"
+  },
+  {
+    "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+    "headline_fi": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+    "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
-    "pub": "2026-10-26 01:45"
+    "pub": "2026-10-26 05:45"
+  },
+  {
+    "headline": "4 reasons Andy Burnham’s MPs are feeling more cheerful — and the pitfalls ahead",
+    "headline_fi": "4 reasons Andy Burnham’s MPs are feeling more cheerful — and the pitfalls ahead",
+    "link": "https://www.politico.eu/article/4-reasons-andy-burnham-mps-feeling-more-cheerful-plus-pitfalls-ahead/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-26 05:00"
+  },
+  {
+    "headline": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
+    "headline_fi": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
+    "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+    "source": "France 24",
+    "pub": "2026-10-26 04:01"
+  },
+  {
+    "headline": "What challenges await Brazil's Lula in his fourth term as president?",
+    "headline_fi": "What challenges await Brazil's Lula in his fourth term as president?",
+    "link": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
+    "source": "France 24",
+    "pub": "2026-10-26 02:52"
+  },
+  {
+    "headline": "Brazil's Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
+    "headline_fi": "Brazil's Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
+    "link": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
+    "source": "France 24",
+    "pub": "2026-10-26 02:23"
+  },
+  {
+    "headline": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
+    "headline_fi": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
+    "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+    "source": "France 24",
+    "pub": "2026-10-26 02:12"
   },
   {
     "headline": "Report: IDF chief pushes back on Netanyahu's order",
@@ -96,6 +138,13 @@
     "link": "https://www.politico.eu/article/marine-le-pen-casts-herself-as-frances-protector-as-country-faces-mounting-troubles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-25 20:57"
+  },
+  {
+    "headline": "France: The sickest man of Europe",
+    "headline_fi": "France: The sickest man of Europe",
+    "link": "https://www.politico.eu/article/france-the-sickest-man-of-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-25 20:45"
   },
   {
     "headline": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
@@ -252,13 +301,6 @@
     "pub": "2026-10-25 14:48"
   },
   {
-    "headline": "Lula is on the verge of victory over Bolsonaro with more than 80% of the votes counted in Brazil",
-    "headline_fi": "Lula is on the verge of victory over Bolsonaro with more than 80% of the votes counted in Brazil",
-    "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-    "source": "France 24",
-    "pub": "2026-10-25 14:46"
-  },
-  {
     "headline": "France: Hundreds arrested after nationwide protests",
     "headline_fi": "France: Hundreds arrested after nationwide protests",
     "link": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
@@ -271,34 +313,6 @@
     "link": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff",
     "source": "France 24",
     "pub": "2026-10-25 13:40"
-  },
-  {
-    "headline": "Far-right leader Le Pen says visible policing keeps protests smooth",
-    "headline_fi": "Far-right leader Le Pen says visible policing keeps protests smooth",
-    "link": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
-    "source": "France 24",
-    "pub": "2026-10-25 13:39"
-  },
-  {
-    "headline": "Israel: Demonstrators rally against government ahead of election",
-    "headline_fi": "Israel: Demonstrators rally against government ahead of election",
-    "link": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-    "source": "France 24",
-    "pub": "2026-10-25 13:38"
-  },
-  {
-    "headline": "Obama hits campaign trail for democrats",
-    "headline_fi": "Obama hits campaign trail for democrats",
-    "link": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats",
-    "source": "France 24",
-    "pub": "2026-10-25 13:36"
-  },
-  {
-    "headline": "West Bank: Families forcibly displaced in Hebron",
-    "headline_fi": "West Bank: Families forcibly displaced in Hebron",
-    "link": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
-    "source": "France 24",
-    "pub": "2026-10-25 13:35"
   },
   {
     "headline": "Israel orders West Bank crossings to close on election day following Hebron shooting",
@@ -418,13 +432,6 @@
     "link": "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy",
     "source": "Euronews",
     "pub": "2026-10-25 08:58"
-  },
-  {
-    "headline": "Security Sunday: Bringen Frankreichs Proteste Marine Le Pen an die Macht? – mit Martina Meister",
-    "headline_fi": "Security Sunday: Bringen Frankreichs Proteste Marine Le Pen an die Macht? – mit Martina Meister",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-bringen-frankreichs-proteste-marine-le-pen-an-die-macht-mit-martina-meister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-25 07:48"
   },
   {
     "headline": "Trump announces Audi will build $4 billion factory in US",
@@ -567,13 +574,6 @@
     "pub": "2026-10-24 14:55"
   },
   {
-    "headline": "Tensions flare up across France as marches come to an end",
-    "headline_fi": "Tensions flare up across France as marches come to an end",
-    "link": "https://www.politico.eu/article/france-police-deploy-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-24 14:41"
-  },
-  {
     "headline": "Tensions mount in France as thousands rally against Marine Le Pen’s National rally",
     "headline_fi": "Tensions mount in France as thousands rally against Marine Le Pen’s National rally",
     "link": "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france",
@@ -602,13 +602,6 @@
     "pub": "2026-10-24 13:33"
   },
   {
-    "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
-    "headline_fi": "Starlink connection restored at high speed in Ukraine, defense minister says",
-    "link": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-24 13:09"
-  },
-  {
     "headline": "Latest news bulletin | October 24th, 2026 – Midday",
     "headline_fi": "Latest news bulletin | October 24th, 2026 – Midday",
     "link": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday",
@@ -635,20 +628,6 @@
     "link": "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall",
     "source": "Euronews",
     "pub": "2026-10-24 10:43"
-  },
-  {
-    "headline": "Ein Spaziergang mit Martin Blessing",
-    "headline_fi": "Ein Spaziergang mit Martin Blessing",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-martin-blessing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-24 06:00"
-  },
-  {
-    "headline": "Inside the cyber flaw scramble that brought the AI threat to life",
-    "headline_fi": "Inside the cyber flaw scramble that brought the AI threat to life",
-    "link": "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-24 05:00"
   },
   {
     "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
@@ -1286,12 +1265,5 @@
     "link": "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-28 12:26"
-  },
-  {
-    "headline": "Backlash over data centers tests Europe's AI ambitions",
-    "headline_fi": "Backlash over data centers tests Europe's AI ambitions",
-    "link": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-26 21:08"
   }
 ]
