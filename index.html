@@ -68,23 +68,26 @@ button {
 }
 
 .lang-btn {
-  background: var(--panel);
+  background: linear-gradient(180deg, rgba(17, 24, 39, 0.95), rgba(11, 19, 30, 0.95));
   color: var(--text);
   border: 1px solid var(--border);
   padding: 6px 12px;
   border-radius: 6px;
   font-size: 13px;
+  box-shadow: 0 0 0 rgba(56, 189, 248, 0), inset 0 0 0 rgba(56, 189, 248, 0);
+  transition: all 0.25s ease;
 }
 .lang-btn.active {
-  background: var(--accent);
+  background: linear-gradient(180deg, var(--accent), #7dd3fc);
   color: #000;
   border-color: var(--accent);
-  box-shadow: 0 0 15px var(--accent-glow);
+  box-shadow: 0 0 18px var(--accent-glow), inset 0 0 12px rgba(255,255,255,0.3);
   font-weight: 600;
 }
 .lang-btn:hover:not(.active) {
-  background: var(--panel-hover);
-  border-color: #475569;
+  background: linear-gradient(180deg, rgba(19, 36, 58, 0.96), rgba(11, 19, 30, 0.96));
+  border-color: rgba(56, 189, 248, 0.5);
+  box-shadow: 0 0 12px rgba(56, 189, 248, 0.12);
 }
 
 .logout-btn {
@@ -94,26 +97,30 @@ button {
   padding: 6px 12px;
   border-radius: 6px;
   font-size: 13px;
+  box-shadow: 0 0 0 rgba(248, 113, 113, 0);
+  transition: all 0.25s ease;
 }
 .logout-btn:hover {
   background: rgba(248, 113, 113, 0.1);
+  box-shadow: 0 0 12px rgba(248, 113, 113, 0.12);
 }
 
 .search-bar {
   width: 100%;
   padding: 10px 14px;
-  background: var(--panel);
+  background: linear-gradient(180deg, rgba(12, 24, 39, 0.96), rgba(9, 17, 28, 0.96));
   border: 1px solid var(--border);
   border-radius: 8px;
   color: var(--text);
   font-size: 14px;
   font-family: 'Inter', sans-serif;
   outline: none;
-  transition: border-color 0.2s;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+  box-shadow: 0 0 0 rgba(56, 189, 248, 0);
 }
 .search-bar:focus {
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-glow);
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.12), 0 0 18px rgba(56, 189, 248, 0.18);
 }
 
 #stories {
@@ -123,16 +130,17 @@ button {
 }
 
 .story { 
-  background: var(--panel); 
+  background: linear-gradient(180deg, rgba(12, 24, 39, 0.94), rgba(8, 17, 28, 0.94));
   border: 1px solid var(--border); 
   border-radius: 10px; 
   padding: 16px; 
   transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 0 0 rgba(56, 189, 248, 0);
 }
 .story:hover {
   transform: translateY(-2px);
-  border-color: #334155;
-  box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+  border-color: rgba(56, 189, 248, 0.5);
+  box-shadow: 0 10px 30px -10px rgba(56, 189, 248, 0.18), 0 0 18px rgba(56, 189, 248, 0.08);
 }
 .story h2 { font-size: 16px; font-weight: 600; margin-bottom: 6px; line-height: 1.4; }
 .story h2 a { color: var(--text); text-decoration: none; transition: color 0.15s; }
