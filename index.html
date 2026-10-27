@@ -23,9 +23,9 @@
 * { box-sizing:border-box; margin:0; padding:0; }
 body {
   background:
-    radial-gradient(circle at top, rgba(56, 189, 248, 0.18), transparent 28%),
-    radial-gradient(circle at bottom, rgba(14, 116, 144, 0.14), transparent 32%),
-    linear-gradient(180deg, #010a12 0%, #020f1c 40%, #010a12 100%);
+    radial-gradient(circle at top, rgba(56, 189, 248, 0.12), transparent 26%),
+    radial-gradient(circle at bottom, rgba(14, 116, 144, 0.1), transparent 28%),
+    linear-gradient(180deg, #01080f 0%, #010d18 38%, #01080f 100%);
   color:var(--text);
   font-family:'Inter', sans-serif;
   line-height:1.6;
@@ -66,7 +66,7 @@ header.compact {
   margin-bottom: 10px;
 }
 header.compact .header-top {
-  opacity: 0.96;
+  opacity: 0.98;
 }
 header.compact h1 {
   font-size: 20px;
@@ -75,6 +75,10 @@ header.compact h1 {
 header.compact .controls,
 header.compact .search-bar {
   display: none;
+}
+header.compact + #stories {
+  filter: saturate(0.5) brightness(0.35);
+  opacity: 0.18;
 }
 h1 {
   font-size: 26px;
@@ -163,6 +167,9 @@ button {
   display: flex;
   flex-direction: column;
   gap: 14px;
+  filter: saturate(0.9) brightness(0.85);
+  opacity: 0.82;
+  transition: filter 0.2s ease, opacity 0.2s ease;
 }
 
 .story { 
