@@ -1,5 +1,47 @@
 [
   {
+    "headline": "US seeks new charges against former FBI chief James Comey",
+    "headline_fi": "Yhdysvallat hakee uusia syytteitä entiselle FBI:n johtajalle James Comeylle",
+    "link": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-27 03:39"
+  },
+  {
+    "headline": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
+    "headline_fi": "Flavio Bolsonaro lupasi johtaa oppositiota Brasilian tuomioistuimen määrättyä matkustuskiellon",
+    "link": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+    "source": "France 24",
+    "pub": "2026-10-27 01:56"
+  },
+  {
+    "headline": "Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown",
+    "headline_fi": "Harry Kane lopetti Englannin 25 vuotta kestäneen Ballon d'Or -kuivuuden, Putellas voitti kolmannen kruunun",
+    "link": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
+    "source": "France 24",
+    "pub": "2026-10-27 01:45"
+  },
+  {
+    "headline": "Europe's top NATO powers pledge greater defence role, reaffirm US alliance",
+    "headline_fi": "Euroopan suurimmat Nato-vallat lupaavat suurempaa puolustusroolia, vahvistavat Yhdysvaltain liittouman",
+    "link": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance",
+    "source": "France 24",
+    "pub": "2026-10-27 01:33"
+  },
+  {
+    "headline": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
+    "headline_fi": "Mekkasopimuksen valtiot neuvottelevat Iranin kanssa Lähi-idän sodan uusimisen estämiseksi",
+    "link": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
+    "source": "France 24",
+    "pub": "2026-10-27 01:24"
+  },
+  {
+    "headline": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
+    "headline_fi": "Englannin ja Bayern Münchenin hyökkääjä Harry Kane voitti Ballon d'Orin",
+    "link": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-27 01:06"
+  },
+  {
     "headline": "France: crowds fill Marseille's Old Port in anti-racism protest",
     "headline_fi": "Ranska: väkijoukot täyttävät Marseillen vanhan sataman rasismin vastaisena mielenosoituksena",
     "link": "https://www.euronews.com/video/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest",
@@ -7,11 +49,25 @@
     "pub": "2026-10-27 00:20"
   },
   {
+    "headline": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+    "headline_fi": "Mielenosoitukset Euroopassa: Faktantarkistavat virusvideot väitteiden keskellä \"kaaos\"",
+    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+    "source": "France 24",
+    "pub": "2026-10-27 00:18"
+  },
+  {
     "headline": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
     "headline_fi": "Jordan sanoo, että sen armeija iski \"militanttien piilopaikkoja\" Syyriassa tappavan kirkkohyökkäyksen jälkeen",
     "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-27 00:15"
+  },
+  {
+    "headline": "Anthropic's IPO filing shows soaring sales and steep losses",
+    "headline_fi": "Anthropicin IPO-hakemus osoittaa huimaa myyntiä ja jyrkkiä tappioita",
+    "link": "https://www.france24.com/en/tv-shows/business/20261026-anthropic-s-ipo-filing-shows-soaring-sales-and-steep-losses",
+    "source": "France 24",
+    "pub": "2026-10-27 00:01"
   },
   {
     "headline": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
@@ -274,119 +330,84 @@
   },
   {
     "headline": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting?",
-    "headline_fi": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting?",
+    "headline_fi": "Mekan puolustussopimuksesta Teheranin neuvotteluihin: Onko Lähi-idän turvallisuusmaisema muuttumassa?",
     "link": "https://www.euronews.com/2026/10/26/from-the-mecca-defence-pact-to-tehran-talks-is-the-middle-easts-security-landscape-shiftin",
     "source": "Euronews",
     "pub": "2026-10-26 17:07"
   },
   {
     "headline": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat",
-    "headline_fi": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat",
+    "headline_fi": "\"Sodan hybridiase\": Miksi ilmaston disinformaatio voi olla kasvava kansanterveysuhka",
     "link": "https://www.euronews.com/2026/10/26/hybrid-weapon-of-war-why-climate-disinformation-could-be-a-growing-public-health-threat",
     "source": "Euronews",
     "pub": "2026-10-26 17:00"
   },
   {
     "headline": "Why Ukraine may be involved in Mali's conflict",
-    "headline_fi": "Why Ukraine may be involved in Mali's conflict",
+    "headline_fi": "Miksi Ukraina voi olla mukana Malin konfliktissa",
     "link": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-26 16:58"
   },
   {
     "headline": "'Pure garbage': Elon Musk’s AI-generated 'The Odyssey' clip ridiculed online",
-    "headline_fi": "'Pure garbage': Elon Musk’s AI-generated 'The Odyssey' clip ridiculed online",
+    "headline_fi": "\"Puhasta roskaa\": Elon Muskin tekoälyn luoma \"The Odyssey\" -klippi pilkattiin verkossa",
     "link": "https://www.euronews.com/2026/10/26/pure-garbage-elon-musks-ai-generated-the-odyssey-clip-ridiculed-online",
     "source": "Euronews",
     "pub": "2026-10-26 16:52"
   },
   {
-    "headline": "US Midterms 2026: A history of gerrymandering",
-    "headline_fi": "US Midterms 2026: A history of gerrymandering",
-    "link": "https://www.france24.com/en/us-midterms-2026-a-history-of-gerrymandering",
-    "source": "France 24",
-    "pub": "2026-10-26 16:48"
-  },
-  {
     "headline": "Serbia’s student victory raises hopes of an EU reset",
-    "headline_fi": "Serbia’s student victory raises hopes of an EU reset",
+    "headline_fi": "Serbian opiskelijavoitto herättää toiveita EU:n nollautumisesta",
     "link": "https://www.euronews.com/2026/10/26/serbias-student-victory-raises-hopes-of-an-eu-reset",
     "source": "Euronews",
     "pub": "2026-10-26 16:42"
   },
   {
-    "headline": "Macron promises 'concrete measures' in response to French students' demands",
-    "headline_fi": "Macron promises 'concrete measures' in response to French students' demands",
-    "link": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands",
-    "source": "France 24",
-    "pub": "2026-10-26 16:39"
-  },
-  {
-    "headline": "US midterms: Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-    "headline_fi": "US midterms: Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-    "link": "https://www.france24.com/en/us-midterms-obama-blasts-trump-s-chaos-and-cruelty-while-campaigning-for-democrats",
-    "source": "France 24",
-    "pub": "2026-10-26 16:28"
-  },
-  {
     "headline": "'Yes Bibi or No Bibi': Netanyahu's political future overshadows Israel's election",
-    "headline_fi": "'Yes Bibi or No Bibi': Netanyahu's political future overshadows Israel's election",
+    "headline_fi": "\"Kyllä Bibi tai Ei Bibi\": Netanjahun poliittinen tulevaisuus varjostaa Israelin vaalit",
     "link": "https://www.euronews.com/2026/10/26/yes-bibi-or-no-bibi-netanyahus-political-future-overshadows-israels-election",
     "source": "Euronews",
     "pub": "2026-10-26 16:23"
   },
   {
     "headline": "Lula’s comeback puts brakes on Latin America’s rightward surge",
-    "headline_fi": "Lula’s comeback puts brakes on Latin America’s rightward surge",
+    "headline_fi": "Lulan paluu jarruttaa Latinalaisen Amerikan oikeaa nousua",
     "link": "https://www.euronews.com/2026/10/26/lulas-comeback-puts-brakes-on-latin-americas-rightward-surge",
     "source": "Euronews",
     "pub": "2026-10-26 16:21"
   },
   {
-    "headline": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
-    "headline_fi": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
-    "link": "https://www.france24.com/en/tens-of-thousands-of-israelis-living-abroad-expected-to-fly-in-for-pivotal-vote",
-    "source": "France 24",
-    "pub": "2026-10-26 16:20"
-  },
-  {
-    "headline": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
-    "headline_fi": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
-    "link": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
-    "source": "France 24",
-    "pub": "2026-10-26 16:12"
-  },
-  {
     "headline": "Temu falls into line as EU backs its action plan after €200m fine",
-    "headline_fi": "Temu falls into line as EU backs its action plan after €200m fine",
+    "headline_fi": "Temu kaatuu, kun EU tukee toimintasuunnitelmaansa 200 miljoonan euron sakon jälkeen",
     "link": "https://www.euronews.com/2026/10/26/temu-falls-into-line-as-eu-backs-its-action-plan-after-200m-fine",
     "source": "Euronews",
     "pub": "2026-10-26 16:11"
   },
   {
     "headline": "The architectural heritage of Greece's Kea island: Vibrant colours, stone houses and watermills",
-    "headline_fi": "The architectural heritage of Greece's Kea island: Vibrant colours, stone houses and watermills",
+    "headline_fi": "Kreikan Kea-saaren arkkitehtoninen perintö: eloisia värejä, kivitaloja ja vesimyllyjä",
     "link": "https://www.euronews.com/2026/10/26/the-architectural-heritage-of-greeces-kea-island-vibrant-colours-stone-houses-and-watermil",
     "source": "Euronews",
     "pub": "2026-10-26 16:03"
   },
   {
     "headline": "Olive trees irrigated with treated wastewater, a pilot project to combat drought",
-    "headline_fi": "Olive trees irrigated with treated wastewater, a pilot project to combat drought",
+    "headline_fi": "Käsitellyllä jätevedellä kasteltu oliivipuu, pilottiprojekti kuivuuden torjumiseksi",
     "link": "https://www.euronews.com/2026/10/26/olive-trees-irrigated-with-treated-wastewater-a-pilot-project-to-combat-drought",
     "source": "Euronews",
     "pub": "2026-10-26 16:00"
   },
   {
     "headline": "How a Belgian founder built a tech company and a waffle brand in Macao",
-    "headline_fi": "How a Belgian founder built a tech company and a waffle brand in Macao",
+    "headline_fi": "Kuinka belgialainen perustaja rakensi teknologiayrityksen ja vohvelibrändin Macaoon",
     "link": "https://www.euronews.com/2026/10/26/how-a-belgian-founder-built-a-tech-company-and-a-waffle-brand-in-macao",
     "source": "Euronews",
     "pub": "2026-10-26 16:00"
   },
   {
     "headline": "Ukraine: Russian strikes hit Odesa and Zaporizhzhia, injuring four",
-    "headline_fi": "Ukraine: Russian strikes hit Odesa and Zaporizhzhia, injuring four",
+    "headline_fi": "Ukraina: Venäjän iskut osuivat Odesaan ja Zaporizhzhiaan ja loukkaantuivat neljä",
     "link": "https://www.euronews.com/video/2026/10/26/ukraine-russian-strikes-hit-odesa-and-zaporizhzhia-injuring-four",
     "source": "Euronews",
     "pub": "2026-10-26 15:55"
@@ -635,13 +656,6 @@
     "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 15:20"
-  },
-  {
-    "headline": "Israel to close all West Bank land crossings on election day",
-    "headline_fi": "Israel sulkee kaikki Länsirannan rajanylityspaikat vaalipäivänä",
-    "link": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 15:09"
   },
   {
     "headline": "France: Hundreds arrested after nationwide protests",
