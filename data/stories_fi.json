@@ -1,5 +1,12 @@
 [
   {
+    "headline": "Bibi's moment of truth: Israel votes in first general election since October 7",
+    "headline_fi": "Bibin totuuden hetki: Israel äänestää ensimmäisissä parlamenttivaaleissa sitten 7. lokakuuta",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
+    "source": "France 24",
+    "pub": "2026-10-27 23:26"
+  },
+  {
     "headline": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
     "headline_fi": "Israelin vaalit: Netanjahun vastainen blokki edessä, mutta ei enemmistöä",
     "link": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf",
@@ -274,14 +281,14 @@
   },
   {
     "headline": "As China's Communist Party holds plenum, Xi's anti-corruption drive continues",
-    "headline_fi": "As China's Communist Party holds plenum, Xi's anti-corruption drive continues",
+    "headline_fi": "Kiinan kommunistisen puolueen täysistunnossa Xin korruption vastainen pyrkimys jatkuu",
     "link": "https://www.france24.com/en/tv-shows/perspective/20261027-as-china-s-communist-party-holds-plenum-xi-s-anti-corruption-drive-continues",
     "source": "France 24",
     "pub": "2026-10-27 16:16"
   },
   {
     "headline": "France's Senate takes on the 'rioters pay' bill after protests",
-    "headline_fi": "France's Senate takes on the 'rioters pay' bill after protests",
+    "headline_fi": "Ranskan senaatti ottaa vastaan ​​\"mellakot maksavat\" laskun mielenosoitusten jälkeen",
     "link": "https://www.france24.com/en/video/20261027-france-s-senate-takes-on-the-rioters-pay-bill-after-protests",
     "source": "France 24",
     "pub": "2026-10-27 16:13"
@@ -295,7 +302,7 @@
   },
   {
     "headline": "EIB to sign framework deal with Canada on critical raw materials",
-    "headline_fi": "EIB to sign framework deal with Canada on critical raw materials",
+    "headline_fi": "EIP allekirjoittaa puitesopimuksen Kanadan kanssa kriittisistä raaka-aineista",
     "link": "https://www.politico.eu/article/eib-european-investment-bank-sign-framework-deal-canada-critical-raw-materials/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-27 16:00"
@@ -330,7 +337,7 @@
   },
   {
     "headline": "Will elections in Israel change its Iran approach?",
-    "headline_fi": "Will elections in Israel change its Iran approach?",
+    "headline_fi": "Muuttavatko Israelin vaalit Iranin lähestymistapaa?",
     "link": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-27 15:31"
@@ -371,13 +378,6 @@
     "pub": "2026-10-27 14:50"
   },
   {
-    "headline": "Israeli PM casts his ballot as voters voice opposition to Netanyahu outside polling stations",
-    "headline_fi": "Israelin pääministeri äänestää äänestäjien vastustaessa Netanjahua äänestyspaikkojen ulkopuolella",
-    "link": "https://www.france24.com/en/israeli-pm-casts-his-ballot-as-voters-voice-opposition-to-netanyahu-outside-polling-stations",
-    "source": "France 24",
-    "pub": "2026-10-27 14:42"
-  },
-  {
     "headline": "TikTok parent company founder tops China's rich list amid AI boom",
     "headline_fi": "TikTokin emoyhtiön perustaja on Kiinan rikkaiden listan kärjessä AI-buumin keskellä",
     "link": "https://www.euronews.com/2026/10/27/tiktok-parent-company-founder-tops-chinas-rich-list-amid-ai-boom",
@@ -414,105 +414,105 @@
   },
   {
     "headline": "To the moon and beyond: Astronauts Chris Hadfield and Victor Glover on why the 'New Space race matters",
-    "headline_fi": "To the moon and beyond: Astronauts Chris Hadfield and Victor Glover on why the 'New Space race matters",
+    "headline_fi": "Kuuhun ja sen jälkeen: Astronautit Chris Hadfield ja Victor Glover kertovat, miksi uudella avaruuskilpailulla on merkitystä",
     "link": "https://www.euronews.com/video/2026/10/27/to-the-moon-and-beyond-astronauts-chris-hadfield-and-victor-glover-on-why-the-new-space-ra",
     "source": "Euronews",
     "pub": "2026-10-27 13:59"
   },
   {
     "headline": "French MPs will vote on Sánchez-style amnesty plan for undocumented workers",
-    "headline_fi": "French MPs will vote on Sánchez-style amnesty plan for undocumented workers",
+    "headline_fi": "Ranskan kansanedustajat äänestävät Sánchez-tyylistä armahdussuunnitelmaa laittomille työntekijöille",
     "link": "https://www.politico.eu/article/france-vote-amnesty-plan-undocumented-workers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-27 13:46"
   },
   {
     "headline": "Knives, knuckledusters and a ‘Gucci robbery’: police discover chats linked to Milan riots",
-    "headline_fi": "Knives, knuckledusters and a ‘Gucci robbery’: police discover chats linked to Milan riots",
+    "headline_fi": "Veitset, rystyssienet ja \"Gucci-ryöstö\": poliisi löytää keskusteluita, jotka liittyvät Milanon mellakoihin",
     "link": "https://www.euronews.com/2026/10/27/knives-knuckledusters-and-a-gucci-robbery-police-discover-chats-linked-to-milan-riots",
     "source": "Euronews",
     "pub": "2026-10-27 13:30"
   },
   {
     "headline": "Europe's most haunted hotels you can book a stay in this Halloween",
-    "headline_fi": "Europe's most haunted hotels you can book a stay in this Halloween",
+    "headline_fi": "Euroopan ahdistetuimmissa hotelleissa voit varata yöpymisen tänä Halloweenina",
     "link": "https://www.euronews.com/2026/10/27/the-most-haunted-hotels-in-europe-you-can-book-a-stay-in-this-halloween",
     "source": "Euronews",
     "pub": "2026-10-27 13:28"
   },
   {
     "headline": "Why should Big Tech know what you’re working on? Scale AI accused of spying on AI trainers",
-    "headline_fi": "Why should Big Tech know what you’re working on? Scale AI accused of spying on AI trainers",
+    "headline_fi": "Miksi Big Techin pitäisi tietää, mitä työskentelet?Scale AI:ta syytetään tekoälykouluttajien vakoilusta",
     "link": "https://www.euronews.com/2026/10/27/why-should-big-tech-know-what-youre-working-on-scale-ai-accused-of-spying-on-ai-trainers",
     "source": "Euronews",
     "pub": "2026-10-27 13:19"
   },
   {
     "headline": "Debate: Elections in Israel: will the balance of power shift?",
-    "headline_fi": "Debate: Elections in Israel: will the balance of power shift?",
+    "headline_fi": "Keskustelu: Vaalit Israelissa: muuttuuko voimatasapaino?",
     "link": "https://www.eurotopics.net/en/366097/elections-in-israel-will-the-balance-of-power-shift?pk_campaign=rss-en&pk_kwd=2026-10-27",
     "source": "Eurotopics",
     "pub": "2026-10-27 13:16"
   },
   {
     "headline": "A powerful desire for political participation | The Spectator - United Kingdom",
-    "headline_fi": "A powerful desire for political participation | The Spectator - United Kingdom",
+    "headline_fi": "Voimakas halu poliittiseen osallistumiseen |The Spectator - Iso-Britannia",
     "link": "https://www.eurotopics.net/en/366097/elections-in-israel-will-the-balance-of-power-shift?zitat=366209&pk_campaign=rss-en&pk_kwd=2026-10-27#zitat366209",
     "source": "Eurotopics",
     "pub": "2026-10-27 13:16"
   },
   {
     "headline": "Debate: Vučić voted out: a fresh start for Serbia?",
-    "headline_fi": "Debate: Vučić voted out: a fresh start for Serbia?",
+    "headline_fi": "Keskustelu: Vučić äänesti pois: uusi alku Serbialle?",
     "link": "https://www.eurotopics.net/en/366173/vui-voted-out-a-fresh-start-for-serbia?pk_campaign=rss-en&pk_kwd=2026-10-27",
     "source": "Eurotopics",
     "pub": "2026-10-27 13:16"
   },
   {
     "headline": "Cooler relations with Moscow but no break | Echo - Russia",
-    "headline_fi": "Cooler relations with Moscow but no break | Echo - Russia",
+    "headline_fi": "Suhteet Moskovaan viileämmät, mutta ei katkeamista |Echo - Venäjä",
     "link": "https://www.eurotopics.net/en/366173/vui-voted-out-a-fresh-start-for-serbia?zitat=366186&pk_campaign=rss-en&pk_kwd=2026-10-27#zitat366186",
     "source": "Eurotopics",
     "pub": "2026-10-27 13:16"
   },
   {
     "headline": "Debate: Lula's re-election: what does it mean for the world?",
-    "headline_fi": "Debate: Lula's re-election: what does it mean for the world?",
+    "headline_fi": "Keskustelu: Lulan uudelleenvalinta: mitä se merkitsee maailmalle?",
     "link": "https://www.eurotopics.net/en/366175/lula-s-re-election-what-does-it-mean-for-the-world?pk_campaign=rss-en&pk_kwd=2026-10-27",
     "source": "Eurotopics",
     "pub": "2026-10-27 13:16"
   },
   {
     "headline": "Debate: Will Trump nominate Orbán as UN Secretary-General?",
-    "headline_fi": "Debate: Will Trump nominate Orbán as UN Secretary-General?",
+    "headline_fi": "Keskustelu: Aikooko Trump nimittää Orbánin YK:n pääsihteeriksi?",
     "link": "https://www.eurotopics.net/en/366247/will-trump-nominate-orban-as-un-secretary-general?pk_campaign=rss-en&pk_kwd=2026-10-27",
     "source": "Eurotopics",
     "pub": "2026-10-27 13:16"
   },
   {
     "headline": "Potiential turning point in Hungarian politics | Törökgáborelemez - Hungary",
-    "headline_fi": "Potiential turning point in Hungarian politics | Törökgáborelemez - Hungary",
+    "headline_fi": "Mahdollinen käännekohta Unkarin politiikassa |Törökgáborelemez - Unkari",
     "link": "https://www.eurotopics.net/en/366247/will-trump-nominate-orban-as-un-secretary-general?zitat=366226&pk_campaign=rss-en&pk_kwd=2026-10-27#zitat366226",
     "source": "Eurotopics",
     "pub": "2026-10-27 13:16"
   },
   {
     "headline": "Finnish and Norwegian leaders call Putin, urge restart of peace talks",
-    "headline_fi": "Finnish and Norwegian leaders call Putin, urge restart of peace talks",
+    "headline_fi": "Suomen ja Norjan johtajat soittavat Putinille ja vaativat rauhanneuvottelujen uudelleen aloittamista",
     "link": "https://www.euronews.com/2026/10/27/finnish-and-norwegian-leaders-call-putin-urge-restart-of-peace-talks",
     "source": "Euronews",
     "pub": "2026-10-27 13:14"
   },
   {
     "headline": "Latest news bulletin | October 27th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 27th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |27.10.2026 – keskipäivä",
     "link": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-27 13:00"
   },
   {
     "headline": "Ukraine improves jet-powered drone interception rates, but Starlink disruptions threaten progress",
-    "headline_fi": "Ukraine improves jet-powered drone interception rates, but Starlink disruptions threaten progress",
+    "headline_fi": "Ukraina parantaa suihkukäyttöisten droonien sieppausastetta, mutta Starlink-häiriöt uhkaavat edistystä",
     "link": "https://www.euronews.com/2026/10/27/ukraine-improves-jet-powered-drone-interception-rates-but-starlink-disruptions-threaten-pr",
     "source": "Euronews",
     "pub": "2026-10-27 12:49"
