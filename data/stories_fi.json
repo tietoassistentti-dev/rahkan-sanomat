@@ -1,10 +1,45 @@
 [
   {
+    "headline": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
+    "headline_fi": "Israelin vaalit: Netanjahun vastainen blokki edessä, mutta ei enemmistöä",
+    "link": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-27 22:21"
+  },
+  {
+    "headline": "🔴Live: Israeli exit polls show narrow edge for opposition but no clear majority against Netanyahu",
+    "headline_fi": "🔴Live: Israelin irtautumiskyselyt osoittavat kapeaa vastusta oppositiolle, mutta ei selkeää enemmistöä Netanjahua vastaan",
+    "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+    "source": "France 24",
+    "pub": "2026-10-27 22:16"
+  },
+  {
+    "headline": "Exit polls suggest no clear victor in Israeli election",
+    "headline_fi": "Poistuneiden mielipidemittausten mukaan Israelin vaaleissa ei ole selkeää voittajaa",
+    "link": "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election",
+    "source": "Euronews",
+    "pub": "2026-10-27 22:10"
+  },
+  {
+    "headline": "Quebec’s separatist leader threatens to play spoiler at Carney’s EU summit",
+    "headline_fi": "Quebecin separatistijohtaja uhkaa spoilerina Carneyn EU-huippukokouksessa",
+    "link": "https://www.politico.eu/article/quebecs-separatist-leader-threatens-to-play-spoiler-to-carneys-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-27 21:57"
+  },
+  {
     "headline": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
     "headline_fi": "Netanjahun hallitus on hyökännyt Israelin oikeusjärjestelmään, korkeimpaan oikeuteen ja demokraattisiin instituutioihin",
     "link": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
     "source": "France 24",
     "pub": "2026-10-27 21:44"
+  },
+  {
+    "headline": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
+    "headline_fi": "Flavio Bolsonaro pakeni Brasiliasta Yhdysvaltoihin tutkimuksen aikana",
+    "link": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-27 21:34"
   },
   {
     "headline": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
@@ -63,13 +98,6 @@
     "pub": "2026-10-27 19:58"
   },
   {
-    "headline": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
-    "headline_fi": "Flavio Bolsonaro pakeni Brasiliasta Yhdysvaltoihin tutkimuksen aikana",
-    "link": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-27 19:55"
-  },
-  {
     "headline": "EU proposes giving Frontex border agency new major powers",
     "headline_fi": "EU ehdottaa, että Frontexin rajavirastolle annetaan uusia suurvaltuuksia",
     "link": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf",
@@ -119,8 +147,8 @@
     "pub": "2026-10-27 18:52"
   },
   {
-    "headline": "Defeated Brazilian candidate Flavio Bolsonaro flees to US despite cancelled passports",
-    "headline_fi": "Voitettu brasilialainen ehdokas Flavio Bolsonaro pakenee Yhdysvaltoihin peruutetuista passeista huolimatta",
+    "headline": "Brazil's defeated candidate Flavio Bolsonaro heads to US despite cancelled passports",
+    "headline_fi": "Brasilian voittajaehdokas Flavio Bolsonaro suuntaa Yhdysvaltoihin passien peruuntumisesta huolimatta",
     "link": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
     "source": "France 24",
     "pub": "2026-10-27 18:33"
@@ -141,112 +169,105 @@
   },
   {
     "headline": "USA: Could a Democrat win a statewide election in Texas?",
-    "headline_fi": "USA: Could a Democrat win a statewide election in Texas?",
+    "headline_fi": "USA: Voisiko demokraatti voittaa osavaltionlaajuiset vaalit Texasissa?",
     "link": "https://www.france24.com/en/video/20261027-usa-could-a-democrat-win-a-statewide-election-in-texas",
     "source": "France 24",
     "pub": "2026-10-27 17:47"
   },
   {
     "headline": "Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo",
-    "headline_fi": "Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo",
+    "headline_fi": "Afrikan ebola-epidemia on yli 10 000 tapausta, pääasiassa Kongon demokraattisessa tasavallassa",
     "link": "https://www.france24.com/en/africa/20261027-africa-ebola-outbreak-tops-10-000-cases-mainly-dr-congo",
     "source": "France 24",
     "pub": "2026-10-27 17:45"
   },
   {
     "headline": "🔴Live: Netanyahu's party asks to extend Israeli election hours amid record turnout",
-    "headline_fi": "🔴Live: Netanyahu's party asks to extend Israeli election hours amid record turnout",
+    "headline_fi": "🔴Live: Netanjahun puolue pyytää Israelin vaaliaikojen pidentämistä äänestysennätysten keskellä",
     "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
     "source": "France 24",
     "pub": "2026-10-27 17:39"
   },
   {
     "headline": "Two men charged over RAF Fairford air base incident, with one accused of assisting foreign intelligence",
-    "headline_fi": "Two men charged over RAF Fairford air base incident, with one accused of assisting foreign intelligence",
+    "headline_fi": "Kahta miestä syytetään RAF Fairfordin lentotukikohdan välikohtauksesta, ja yhtä syytetään ulkomaisen tiedustelupalvelun avustamisesta",
     "link": "https://www.euronews.com/2026/10/27/two-men-charged-over-raf-fairford-air-base-incident-with-one-accused-of-assisting-foreign-",
     "source": "Euronews",
     "pub": "2026-10-27 17:26"
   },
   {
     "headline": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
-    "headline_fi": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
+    "headline_fi": "Myanmar: Heikentääkö Yhdysvallat EU:n diplomaattista saartoa?",
     "link": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-27 17:16"
   },
   {
     "headline": "Norwegian media sue Meta over plans to use their journalism for AI",
-    "headline_fi": "Norwegian media sue Meta over plans to use their journalism for AI",
+    "headline_fi": "Norjalainen media haastaa Metan oikeuteen suunnitelmista käyttää heidän journalismiaan tekoälyyn",
     "link": "https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai",
     "source": "Euronews",
     "pub": "2026-10-27 17:13"
   },
   {
     "headline": "Israel votes in decisive election: What happens after polls close?",
-    "headline_fi": "Israel votes in decisive election: What happens after polls close?",
+    "headline_fi": "Israel äänestää ratkaisevissa vaaleissa: mitä tapahtuu vaalien sulkemisen jälkeen?",
     "link": "https://www.france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close",
     "source": "France 24",
     "pub": "2026-10-27 16:55"
   },
   {
     "headline": "Canadian dance-punk legend Peaches reaches the ripe age of 60",
-    "headline_fi": "Canadian dance-punk legend Peaches reaches the ripe age of 60",
+    "headline_fi": "Kanadalainen dance-punk-legenda Peaches saavuttaa 60 vuoden iän",
     "link": "https://www.france24.com/en/tv-shows/arts24/20261027-canadian-dance-punk-legend-peaches-reaches-the-ripe-age-of-60",
     "source": "France 24",
     "pub": "2026-10-27 16:50"
   },
   {
     "headline": "‘Mosquito toilets’: How scientists are using mosquito poop to detect viruses",
-    "headline_fi": "‘Mosquito toilets’: How scientists are using mosquito poop to detect viruses",
+    "headline_fi": "\"Hyönteiskäymälät\": Kuinka tiedemiehet käyttävät hyttysten kakkaa virusten havaitsemiseen",
     "link": "https://www.euronews.com/2026/10/27/mosquito-toilets-how-scientists-are-using-mosquito-poop-to-detect-viruses",
     "source": "Euronews",
     "pub": "2026-10-27 16:49"
   },
   {
     "headline": "Turnout high as Israeli voters deliver verdict on Netanyahu",
-    "headline_fi": "Turnout high as Israeli voters deliver verdict on Netanyahu",
+    "headline_fi": "Äänestysprosentti korkea, kun israelilaiset äänestäjät antavat tuomion Netanyahusta",
     "link": "https://www.france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu",
     "source": "France 24",
     "pub": "2026-10-27 16:45"
   },
   {
     "headline": "Neil Young sues Donald Trump's political committee for copyright infringement - again",
-    "headline_fi": "Neil Young sues Donald Trump's political committee for copyright infringement - again",
+    "headline_fi": "Neil Young haastaa Donald Trumpin poliittisen komitean oikeuteen tekijänoikeusrikkomuksesta - jälleen",
     "link": "https://www.euronews.com/2026/10/27/neil-young-sues-donald-trumps-political-committee-for-copyright-infringement-again",
     "source": "Euronews",
     "pub": "2026-10-27 16:42"
   },
   {
     "headline": "'Unacceptable violation': Syria condemns Jordan airstrikes",
-    "headline_fi": "'Unacceptable violation': Syria condemns Jordan airstrikes",
+    "headline_fi": "\"Syytön rikkomus\": Syyria tuomitsee Jordanian ilmaiskut",
     "link": "https://www.euronews.com/2026/10/27/unacceptable-violation-syria-condemns-jordan-airstrikes",
     "source": "Euronews",
     "pub": "2026-10-27 16:42"
   },
   {
     "headline": "Israel: Netanyahu supporters gather as PM votes",
-    "headline_fi": "Israel: Netanyahu supporters gather as PM votes",
+    "headline_fi": "Israel: Netanjahun kannattajat kokoontuvat pääministerin äänestyksessä",
     "link": "https://www.france24.com/en/israel-netanyahu-supporters-gather-as-pm-votes",
     "source": "France 24",
     "pub": "2026-10-27 16:37"
   },
   {
-    "headline": "Turnout at Israel's election has reached a record high at the halfway stage",
-    "headline_fi": "Turnout at Israel's election has reached a record high at the halfway stage",
-    "link": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-27 16:35"
-  },
-  {
     "headline": "EU prepares for a grim future with new climate-proofing law",
-    "headline_fi": "EU prepares for a grim future with new climate-proofing law",
+    "headline_fi": "EU valmistautuu synkkääseen tulevaisuuteen uudella ilmastonkestolain avulla",
     "link": "https://www.politico.eu/article/eu-prepare-future-new-climate-proofing-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-27 16:30"
   },
   {
     "headline": "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms",
-    "headline_fi": "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms",
+    "headline_fi": "Mitä odottaa Fediltä, ​​kun Warsh painaa kuumaa inflaatiota, öljyä ja Yhdysvaltain keskipitkän aikavälin tavoitteita",
     "link": "https://www.euronews.com/2026/10/27/what-to-expect-from-the-fed-as-warsh-weighs-hot-inflation-oil-and-us-midterms",
     "source": "Euronews",
     "pub": "2026-10-27 16:23"
@@ -364,25 +385,11 @@
     "pub": "2026-10-27 14:40"
   },
   {
-    "headline": "England's Kane wins Ballon d'Or, Putellas claims women's award",
-    "headline_fi": "Englannin Kane voittaa Ballon d'Orin, Putellas puolestaan ​​naisten palkinnon",
-    "link": "https://www.france24.com/en/england-s-kane-wins-ballon-d-or-putellas-claims-women-s-award",
-    "source": "France 24",
-    "pub": "2026-10-27 14:37"
-  },
-  {
     "headline": "Dutch chip firm Besi's shares jump as Applied Materials moves to double stake",
     "headline_fi": "Hollantilainen siruyhtiö Besin osakkeet hyppäävät Applied Materialsin siirtyessä kaksinkertaiseen panokseen",
     "link": "https://www.euronews.com/2026/10/27/dutch-chip-firm-besis-shares-jump-as-applied-materials-moves-to-double-stake",
     "source": "Euronews",
     "pub": "2026-10-27 14:36"
-  },
-  {
-    "headline": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
-    "headline_fi": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
-    "link": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
-    "source": "France 24",
-    "pub": "2026-10-27 14:34"
   },
   {
     "headline": "French government mulled blocking social networks and mobile internet amid protests",
@@ -518,13 +525,6 @@
     "pub": "2026-10-27 12:23"
   },
   {
-    "headline": "Leaders of Finland and Norway hold direct talks with Putin",
-    "headline_fi": "Leaders of Finland and Norway hold direct talks with Putin",
-    "link": "https://www.politico.eu/article/leader-finland-alexander-stubb-and-norway-jonas-gahr-store-talk-to-russia-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-27 11:59"
-  },
-  {
     "headline": "From Baku’s waterfront to the Greater Caucasus: a new winter destination within reach",
     "headline_fi": "From Baku’s waterfront to the Greater Caucasus: a new winter destination within reach",
     "link": "https://www.euronews.com/2026/10/27/from-bakus-waterfront-to-the-greater-caucasus-a-new-winter-destination-within-reach",
@@ -586,13 +586,6 @@
     "link": "https://www.euronews.com/2026/10/27/rogue-ai-cyberattacks-and-weapons-the-risks-anthropic-is-warning-investors-about-ahead-of-",
     "source": "Euronews",
     "pub": "2026-10-27 10:52"
-  },
-  {
-    "headline": "Merz courts Asian investors as he insists Europe remains a safe bet",
-    "headline_fi": "Merz courts Asian investors as he insists Europe remains a safe bet",
-    "link": "https://www.euronews.com/2026/10/27/merz-courts-asian-investors-as-he-insists-europe-remains-a-safe-bet",
-    "source": "Euronews",
-    "pub": "2026-10-27 10:17"
   },
   {
     "headline": "Police in northern Germany search for suspects after car ramming overnight injures several",
