@@ -1,5 +1,131 @@
 [
   {
+    "headline": "What will it take for Europe’s automotive transition to succeed?",
+    "headline_fi": "What will it take for Europe’s automotive transition to succeed?",
+    "link": "https://www.politico.eu/sponsored-content/what-will-it-take-for-europes-automotive-transition-to-succeed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 01:00"
+  },
+  {
+    "headline": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+    "headline_fi": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+    "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-29 00:26"
+  },
+  {
+    "headline": "EU natural gas prices top €100 for first time since 2022",
+    "headline_fi": "EU natural gas prices top €100 for first time since 2022",
+    "link": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
+    "source": "France 24",
+    "pub": "2026-10-29 00:02"
+  },
+  {
+    "headline": "Russia woos African leaders at Moscow summit",
+    "headline_fi": "Russia woos African leaders at Moscow summit",
+    "link": "https://www.france24.com/en/russia-woos-african-leaders-at-moscow-summit",
+    "source": "France 24",
+    "pub": "2026-10-28 23:27"
+  },
+  {
+    "headline": "Historic gains for Arab-majority parties in Israeli election",
+    "headline_fi": "Historic gains for Arab-majority parties in Israeli election",
+    "link": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
+    "source": "France 24",
+    "pub": "2026-10-28 22:32"
+  },
+  {
+    "headline": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92",
+    "headline_fi": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92",
+    "link": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+    "source": "France 24",
+    "pub": "2026-10-28 22:22"
+  },
+  {
+    "headline": "Belgium's finance and tax agency hit by cyberattack",
+    "headline_fi": "Belgium's finance and tax agency hit by cyberattack",
+    "link": "https://www.euronews.com/2026/10/28/belgiums-finance-and-tax-agency-hit-by-cyberattack",
+    "source": "Euronews",
+    "pub": "2026-10-28 22:11"
+  },
+  {
+    "headline": "Bolsonaro's escape to the US: How it happened",
+    "headline_fi": "Bolsonaro's escape to the US: How it happened",
+    "link": "https://www.france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened",
+    "source": "France 24",
+    "pub": "2026-10-28 22:06"
+  },
+  {
+    "headline": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+    "headline_fi": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
+    "source": "France 24",
+    "pub": "2026-10-28 21:57"
+  },
+  {
+    "headline": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+    "headline_fi": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+    "link": "https://www.france24.com/en/amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
+    "source": "France 24",
+    "pub": "2026-10-28 21:54"
+  },
+  {
+    "headline": "Bolsonaro flees Brazil for US after election defeat",
+    "headline_fi": "Bolsonaro flees Brazil for US after election defeat",
+    "link": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
+    "source": "France 24",
+    "pub": "2026-10-28 21:44"
+  },
+  {
+    "headline": "What Trump can learn from Lula and Netanyahu",
+    "headline_fi": "What Trump can learn from Lula and Netanyahu",
+    "link": "https://www.politico.com/news/magazine/2026/10/28/trump-lessons-lula-netanyahu-column-01138909?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-28 21:38"
+  },
+  {
+    "headline": "Which way will Israel break? Netanyahu still in it after election night surprises",
+    "headline_fi": "Which way will Israel break? Netanyahu still in it after election night surprises",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises",
+    "source": "France 24",
+    "pub": "2026-10-28 21:34"
+  },
+  {
+    "headline": "Spain high-speed train crash kills 68, injures over 100",
+    "headline_fi": "Spain high-speed train crash kills 68, injures over 100",
+    "link": "https://www.france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
+    "source": "France 24",
+    "pub": "2026-10-28 21:32"
+  },
+  {
+    "headline": "'Israeli electorate has moved rightward: Many underestimated extent of fracture in Israeli society'",
+    "headline_fi": "'Israeli electorate has moved rightward: Many underestimated extent of fracture in Israeli society'",
+    "link": "https://www.france24.com/en/israeli-electorate-has-moved-rightward-many-underestimated-extent-of-fracture-in-israeli-society",
+    "source": "France 24",
+    "pub": "2026-10-28 21:12"
+  },
+  {
+    "headline": "How do the US midterms work, and why are they so important for Trump's presidency?",
+    "headline_fi": "How do the US midterms work, and why are they so important for Trump's presidency?",
+    "link": "https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-28 21:02"
+  },
+  {
+    "headline": "Fed holds rates days before US midterms as two officials push for another hike",
+    "headline_fi": "Fed holds rates days before US midterms as two officials push for another hike",
+    "link": "https://www.euronews.com/2026/10/28/fed-holds-rates-days-before-us-midterms-as-two-officials-push-for-another-hike",
+    "source": "Euronews",
+    "pub": "2026-10-28 21:01"
+  },
+  {
+    "headline": "UEFA reschedules Europa League match amid planned French general strike",
+    "headline_fi": "UEFA reschedules Europa League match amid planned French general strike",
+    "link": "https://www.euronews.com/2026/10/28/uefa-reschedules-europa-league-match-amid-planned-french-general-strike",
+    "source": "Euronews",
+    "pub": "2026-10-28 20:42"
+  },
+  {
     "headline": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
     "headline_fi": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
     "link": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
@@ -154,20 +280,6 @@
     "pub": "2026-10-28 17:49"
   },
   {
-    "headline": "At least 64 dead in Spain’s high-speed train crash",
-    "headline_fi": "At least 64 dead in Spain’s high-speed train crash",
-    "link": "https://www.france24.com/en/video/20261028-at-least-64-dead-in-spain-s-high-speed-train-crash",
-    "source": "France 24",
-    "pub": "2026-10-28 17:37"
-  },
-  {
-    "headline": "Israeli election: Lebanon expects little change in Israeli policy",
-    "headline_fi": "Israeli election: Lebanon expects little change in Israeli policy",
-    "link": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy",
-    "source": "France 24",
-    "pub": "2026-10-28 17:36"
-  },
-  {
     "headline": "European gas price crosses €100 for first time since 2022 as EU warns of new crisis",
     "headline_fi": "European gas price crosses €100 for first time since 2022 as EU warns of new crisis",
     "link": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis",
@@ -182,46 +294,11 @@
     "pub": "2026-10-28 17:18"
   },
   {
-    "headline": "'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'",
-    "headline_fi": "'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'",
-    "link": "https://www.france24.com/en/video/20261028-israeli-president-trying-to-form-unity-govt-they-will-not-need-arab-parties-nor-orthodox-parties",
-    "source": "France 24",
-    "pub": "2026-10-28 17:11"
-  },
-  {
-    "headline": "Top tips for a safe Halloween online",
-    "headline_fi": "Top tips for a safe Halloween online",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261028-top-tips-for-a-safe-halloween-online",
-    "source": "France 24",
-    "pub": "2026-10-28 17:01"
-  },
-  {
     "headline": "EU and Canada explore LNG deal as Europe grapples with gas crisis",
     "headline_fi": "EU and Canada explore LNG deal as Europe grapples with gas crisis",
     "link": "https://www.euronews.com/2026/10/28/eu-and-canada-explore-lng-deal-as-europe-grapples-with-gas-crisis",
     "source": "Euronews",
     "pub": "2026-10-28 16:57"
-  },
-  {
-    "headline": "REPLAY: Spanish Transport Minister gives press conference on train crash",
-    "headline_fi": "REPLAY: Spanish Transport Minister gives press conference on train crash",
-    "link": "https://www.france24.com/en/video/20261028-replay-spanish-transport-minister-gives-press-conference-on-train-crash",
-    "source": "France 24",
-    "pub": "2026-10-28 16:43"
-  },
-  {
-    "headline": "Spain: Dozens killed after one high-speed train slams into another",
-    "headline_fi": "Spain: Dozens killed after one high-speed train slams into another",
-    "link": "https://www.france24.com/en/video/20261028-spain-dozens-killed-after-one-high-speed-train-slams-into-another",
-    "source": "France 24",
-    "pub": "2026-10-28 16:34"
-  },
-  {
-    "headline": "Spain: At least 64 dead in high-speed train crash",
-    "headline_fi": "Spain: At least 64 dead in high-speed train crash",
-    "link": "https://www.france24.com/en/video/20261028-spain-at-least-64-dead-in-high-speed-train-crash",
-    "source": "France 24",
-    "pub": "2026-10-28 16:33"
   },
   {
     "headline": "Is Iran headed to war or peace after Mecca alliance meeting?",
@@ -250,13 +327,6 @@
     "link": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 15:43"
-  },
-  {
-    "headline": "West Bank: settlers using drones to monitor Palestinians",
-    "headline_fi": "West Bank: settlers using drones to monitor Palestinians",
-    "link": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
-    "source": "France 24",
-    "pub": "2026-10-28 15:39"
   },
   {
     "headline": "Healey targets Brits’ energy costs, raids banks in first budget",
@@ -308,32 +378,11 @@
     "pub": "2026-10-28 15:11"
   },
   {
-    "headline": "🔴 Death toll from train collision in central Spain rises to 64, regional government says",
-    "headline_fi": "🔴 Death toll from train collision in central Spain rises to 64, regional government says",
-    "link": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
-    "source": "France 24",
-    "pub": "2026-10-28 15:11"
-  },
-  {
     "headline": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
     "headline_fi": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
     "link": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 14:55"
-  },
-  {
-    "headline": "'No clear winner' from Israeli election, expert says",
-    "headline_fi": "'No clear winner' from Israeli election, expert says",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261028-no-clear-winner-from-israeli-election-expert-says",
-    "source": "France 24",
-    "pub": "2026-10-28 14:49"
-  },
-  {
-    "headline": "Berlin startet KI-Überwachung am Kottbusser Tor",
-    "headline_fi": "Berlin startet KI-Überwachung am Kottbusser Tor",
-    "link": "https://www.politico.eu/article/berlin-startet-ki-ueberwachung-am-kottbusser-tor/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-28 14:47"
   },
   {
     "headline": "EU begins talks on tougher safeguards for newcomers, with Montenegro first in line",
@@ -343,24 +392,10 @@
     "pub": "2026-10-28 14:46"
   },
   {
-    "headline": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
-    "headline_fi": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
-    "link": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day",
-    "source": "France 24",
-    "pub": "2026-10-28 14:42"
-  },
-  {
     "headline": "Evacuation or forced deportation: where will trapped citizens of Russia-occupied Oleshky go?",
     "headline_fi": "Evacuation or forced deportation: where will trapped citizens of Russia-occupied Oleshky go?",
     "link": "https://www.euronews.com/2026/10/28/evacuation-or-forced-deportation-where-will-trapped-citizens-of-russia-occupied-oleshky-go",
     "source": "Euronews",
-    "pub": "2026-10-28 14:20"
-  },
-  {
-    "headline": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
-    "headline_fi": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics",
-    "source": "France 24",
     "pub": "2026-10-28 14:20"
   },
   {
@@ -369,13 +404,6 @@
     "link": "https://www.euronews.com/2026/10/28/checking-luggage-with-ryanair-airline-announces-earlier-baggage-drop-deadline",
     "source": "Euronews",
     "pub": "2026-10-28 14:12"
-  },
-  {
-    "headline": "Zelenskyy defends leaders of Finland and Norway over Putin talks",
-    "headline_fi": "Zelenskyy defends leaders of Finland and Norway over Putin talks",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-defend-finland-norway-alexander-stubb-jonas-gahr-store-vladimir-putin-russia-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-28 13:51"
   },
   {
     "headline": "Social media on trial again: Meta and Snap face jury over alleged harm to teens",
@@ -525,39 +553,11 @@
     "pub": "2026-10-28 10:54"
   },
   {
-    "headline": "Ex-Israel government spokesperson: 'Extraordinary comeback' by Netanyahu",
-    "headline_fi": "Ex-Israel government spokesperson: 'Extraordinary comeback' by Netanyahu",
-    "link": "https://www.euronews.com/2026/10/28/ex-israel-government-spokesperson-extraordinary-comeback-by-netanyahu",
-    "source": "Euronews",
-    "pub": "2026-10-28 10:49"
-  },
-  {
     "headline": "Serbian police shoot dead assailant at Israeli Embassy",
     "headline_fi": "Serbian police shoot dead assailant at Israeli Embassy",
     "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 10:48"
-  },
-  {
-    "headline": "Brazil: Lula celebrates 81st birthday after re-election victory",
-    "headline_fi": "Brazil: Lula celebrates 81st birthday after re-election victory",
-    "link": "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory",
-    "source": "Euronews",
-    "pub": "2026-10-28 10:30"
-  },
-  {
-    "headline": "'Nail-biting' midterms may deliver Democratic wins across the US, says top Democratic strategist",
-    "headline_fi": "'Nail-biting' midterms may deliver Democratic wins across the US, says top Democratic strategist",
-    "link": "https://www.euronews.com/video/2026/10/28/nail-biting-midterms-may-deliver-democratic-wins-across-the-us-says-top-democratic-strateg",
-    "source": "Euronews",
-    "pub": "2026-10-28 10:17"
-  },
-  {
-    "headline": "Serbian elections winner 'clearly seek better relations' with the EU, says expert",
-    "headline_fi": "Serbian elections winner 'clearly seek better relations' with the EU, says expert",
-    "link": "https://www.euronews.com/video/2026/10/28/serbian-elections-winner-clearly-seek-better-relations-with-the-eu-says-expert",
-    "source": "Euronews",
-    "pub": "2026-10-28 10:05"
   },
   {
     "headline": "Experts urge 'global health emergency' as climate harms accelerate",
@@ -572,13 +572,6 @@
     "link": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 01:16"
-  },
-  {
-    "headline": "Flavio Bolsonaro flees Brazil for US amid investigation",
-    "headline_fi": "Flavio Bolsonaro flees Brazil for US amid investigation",
-    "link": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 00:18"
   },
   {
     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker",
