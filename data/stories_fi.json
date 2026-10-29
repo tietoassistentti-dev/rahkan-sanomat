@@ -1,10 +1,87 @@
 [
   {
+    "headline": "The great EU-Canada lovefest",
+    "headline_fi": "Suuri EU:n ja Kanadan rakkausfestivaali",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-great-eu-canada-lovefest/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 07:05"
+  },
+  {
+    "headline": "North Korea fires around 10 ballistic missiles into sea",
+    "headline_fi": "Pohjois-Korea ampui mereen noin 10 ballistista ohjusta",
+    "link": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-29 06:57"
+  },
+  {
+    "headline": "Europe’s oil bill: EU pays €10bn more per month than in 2025",
+    "headline_fi": "Euroopan öljylasku: EU maksaa 10 miljardia euroa enemmän kuukaudessa kuin vuonna 2025",
+    "link": "https://www.euronews.com/2026/10/29/europes-oil-bill-eu-pays-10bn-more-per-month-than-in-2025",
+    "source": "Euronews",
+    "pub": "2026-10-29 06:30"
+  },
+  {
+    "headline": "Sánchez pledges tough line on possible safety failures after Toledo train crash",
+    "headline_fi": "Sánchez lupasi tiukan linjan mahdollisille turvallisuushäiriöille Toledon junaturman jälkeen",
+    "link": "https://www.euronews.com/2026/10/29/sanchez-pledges-tough-line-on-possible-safety-failures-after-toledo-train-crash",
+    "source": "Euronews",
+    "pub": "2026-10-29 06:11"
+  },
+  {
+    "headline": "In the Middle East, the next front line is the narrative",
+    "headline_fi": "Lähi-idässä seuraava etulinja on kerronta",
+    "link": "https://www.politico.eu/sponsored-content/in-the-middle-east-the-next-front-line-is-the-narrative/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 06:00"
+  },
+  {
+    "headline": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
+    "headline_fi": "Yhdysvallat: Department of Homeland Securityn tietovuoto paljastaa tietoja yli 40 000 työntekijästä",
+    "link": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-29 05:21"
+  },
+  {
+    "headline": "EU and Canada eye now-or-never window to Trump-proof their ties",
+    "headline_fi": "EU ja Kanada katselevat nyt tai ei koskaan -ikkunaa Trumpin suhteiden vahvistamiseksi",
+    "link": "https://www.politico.eu/article/eu-and-canada-eye-golden-window-to-trump-proof-their-ties/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 05:00"
+  },
+  {
+    "headline": "Mark Carney isn’t the climate hero Europeans think",
+    "headline_fi": "Mark Carney ei ole eurooppalaisten mielestä ilmastosankari",
+    "link": "https://www.politico.eu/article/mark-carney-canada-climate-change-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 04:00"
+  },
+  {
+    "headline": "Canada and EU drop associate membership plan in bid to deepen ties",
+    "headline_fi": "Kanada ja EU luopuvat liittymissuunnitelmasta syventääkseen suhteita",
+    "link": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
+    "source": "France 24",
+    "pub": "2026-10-29 02:56"
+  },
+  {
+    "headline": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+    "headline_fi": "Espanja: Madrid suree junaturman uhreja pelastajien työskennellessä läpi yön",
+    "link": "https://www.euronews.com/video/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night",
+    "source": "Euronews",
+    "pub": "2026-10-29 01:10"
+  },
+  {
     "headline": "What will it take for Europe’s automotive transition to succeed?",
     "headline_fi": "Mitä tarvitaan, jotta Euroopan autoteollisuuden siirtyminen onnistuisi?",
     "link": "https://www.politico.eu/sponsored-content/what-will-it-take-for-europes-automotive-transition-to-succeed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-29 01:00"
+  },
+  {
+    "headline": "Spain rail crash came after train ordered to go in error: minister",
+    "headline_fi": "Espanjan junaturma sattui sen jälkeen, kun juna käski mennä erehdyksessä: ministeri",
+    "link": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+    "source": "France 24",
+    "pub": "2026-10-29 00:30"
   },
   {
     "headline": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
@@ -14,11 +91,32 @@
     "pub": "2026-10-29 00:26"
   },
   {
+    "headline": "Flavio Bolsonaro claims he is Brazil's true leader after fleeing to US",
+    "headline_fi": "Flavio Bolsonaro väittää olevansa Brasilian todellinen johtaja paenessaan Yhdysvaltoihin",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
+    "source": "France 24",
+    "pub": "2026-10-29 00:15"
+  },
+  {
+    "headline": "Flavio Bolsonaro claims he is Brazil's true leader after fleeing to US",
+    "headline_fi": "Flavio Bolsonaro väittää olevansa Brasilian todellinen johtaja paenessaan Yhdysvaltoihin",
+    "link": "https://www.france24.com/en/flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
+    "source": "France 24",
+    "pub": "2026-10-29 00:13"
+  },
+  {
     "headline": "EU natural gas prices top €100 for first time since 2022",
     "headline_fi": "EU:n maakaasun hinta ylittää 100 euroa ensimmäistä kertaa sitten vuoden 2022",
     "link": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
     "source": "France 24",
     "pub": "2026-10-29 00:02"
+  },
+  {
+    "headline": "Ukraine peace talks: 5 things to know about the chances of a deal",
+    "headline_fi": "Ukrainan rauhanneuvottelut: 5 asiaa, jotka sinun tulee tietää sopimuksen mahdollisuudesta",
+    "link": "https://www.politico.eu/article/ukraine-peace-talks-5-things-to-know-about-the-chances-of-a-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-28 23:48"
   },
   {
     "headline": "Russia woos African leaders at Moscow summit",
@@ -33,6 +131,13 @@
     "link": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
     "source": "France 24",
     "pub": "2026-10-28 22:32"
+  },
+  {
+    "headline": "EU lawmakers slam new border force powers to surveil social media",
+    "headline_fi": "EU:n lainsäätäjät antavat uusia rajajoukkoja valvomaan sosiaalista mediaa",
+    "link": "https://www.politico.eu/article/eu-lawmakers-slam-new-border-force-powers-to-surveil-social-media-frontex/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-28 22:24"
   },
   {
     "headline": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92",
@@ -75,13 +180,6 @@
     "link": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
     "source": "France 24",
     "pub": "2026-10-28 21:44"
-  },
-  {
-    "headline": "What Trump can learn from Lula and Netanyahu",
-    "headline_fi": "Mitä Trump voi oppia Lulalta ja Netanjahulta",
-    "link": "https://www.politico.com/news/magazine/2026/10/28/trump-lessons-lula-netanyahu-column-01138909?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-28 21:38"
   },
   {
     "headline": "Which way will Israel break? Netanyahu still in it after election night surprises",
@@ -131,13 +229,6 @@
     "link": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
     "source": "France 24",
     "pub": "2026-10-28 20:13"
-  },
-  {
-    "headline": "Burnham’s budget blasts British baked beans",
-    "headline_fi": "Burnhamin budjetti räjäyttää brittiläiset uunipavut",
-    "link": "https://www.politico.eu/article/andy-burnham-budget-british-baked-beans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-28 19:54"
   },
   {
     "headline": "Evacuation from Oleshky: How are preparations going?",
@@ -217,25 +308,11 @@
     "pub": "2026-10-28 18:30"
   },
   {
-    "headline": "Defeated Brazilian presidential candidate Flavio Bolsonaro lands in Miami",
-    "headline_fi": "Voitettu Brasilian presidenttiehdokas Flavio Bolsonaro laskeutuu Miamiin",
-    "link": "https://www.france24.com/en/video/20261028-defeated-brazilian-presidential-candidate-flavio-bolsonaro-lands-in-miami",
-    "source": "France 24",
-    "pub": "2026-10-28 18:28"
-  },
-  {
     "headline": "EU approves €319 million in state aid to Austrian 'first of a kind' next generation semiconductor factory",
     "headline_fi": "EU hyväksyy 319 miljoonan euron valtiontuen itävaltalaiselle \"ensimmäiselle\" seuraavan sukupolven puolijohdetehtaalle",
     "link": "https://www.euronews.com/2026/10/28/eu-approves-319-million-in-state-aid-to-austrian-first-of-a-kind-next-generation-semicondu",
     "source": "Euronews",
     "pub": "2026-10-28 18:06"
-  },
-  {
-    "headline": "Arab parties ‘have woken up’: Israel's uncertain election may deliver surprise kingmakers",
-    "headline_fi": "Arabipuolueet ovat \"heränneet\": Israelin epävarmat vaalit voivat yllättää kuninkaiden tekijöitä",
-    "link": "https://www.france24.com/en/middle-east/20261028-arab-parties-have-woken-up-israel-uncertain-election-may-deliver-surprise-kingmakers",
-    "source": "France 24",
-    "pub": "2026-10-28 18:04"
   },
   {
     "headline": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
@@ -252,25 +329,11 @@
     "pub": "2026-10-28 17:58"
   },
   {
-    "headline": "John Malkovich and Sam Rockwell head to Chile in new political CIA thriller",
-    "headline_fi": "John Malkovich ja Sam Rockwell suuntaavat Chileen uudessa poliittisessa CIA-trillerissä",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20261028-john-malkovich-and-sam-rockwell-head-to-chile-in-new-political-cia-thriller",
-    "source": "France 24",
-    "pub": "2026-10-28 17:55"
-  },
-  {
     "headline": "Spain: Rescuers search mangled train wreckage near Toledo",
     "headline_fi": "Espanja: Pelastajat etsivät tuhoutuneita junan hylkyjä Toledon läheltä",
     "link": "https://www.euronews.com/video/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo",
     "source": "Euronews",
     "pub": "2026-10-28 17:54"
-  },
-  {
-    "headline": "2026 Midterms - People Power: Bringing Out the Black Vote",
-    "headline_fi": "2026 Välikausi – Ihmisten valta: Mustan äänestyksen tuominen esiin",
-    "link": "https://www.france24.com/en/video/20261028-2026-midterms-people-power-bringing-out-the-black-vote",
-    "source": "France 24",
-    "pub": "2026-10-28 17:53"
   },
   {
     "headline": "Ukraine's Zelenskyy irked by US-Russia-China summit",
@@ -281,42 +344,35 @@
   },
   {
     "headline": "European gas price crosses €100 for first time since 2022 as EU warns of new crisis",
-    "headline_fi": "European gas price crosses €100 for first time since 2022 as EU warns of new crisis",
+    "headline_fi": "Kaasun hinta Euroopassa ylittää 100 euroa ensimmäistä kertaa sitten vuoden 2022, kun EU varoittaa uudesta kriisistä",
     "link": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis",
     "source": "Euronews",
     "pub": "2026-10-28 17:33"
   },
   {
-    "headline": "UK vows defense spending boost by 2030 but dodges hard questions",
-    "headline_fi": "UK vows defense spending boost by 2030 but dodges hard questions",
-    "link": "https://www.politico.eu/article/uk-vows-defense-spending-boost-by-2030-but-dodges-hard-questions-john-healey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-28 17:18"
-  },
-  {
     "headline": "EU and Canada explore LNG deal as Europe grapples with gas crisis",
-    "headline_fi": "EU and Canada explore LNG deal as Europe grapples with gas crisis",
+    "headline_fi": "EU ja Kanada tutkivat LNG-sopimusta, kun Eurooppa kamppailee kaasukriisin kanssa",
     "link": "https://www.euronews.com/2026/10/28/eu-and-canada-explore-lng-deal-as-europe-grapples-with-gas-crisis",
     "source": "Euronews",
     "pub": "2026-10-28 16:57"
   },
   {
     "headline": "Is Iran headed to war or peace after Mecca alliance meeting?",
-    "headline_fi": "Is Iran headed to war or peace after Mecca alliance meeting?",
+    "headline_fi": "Onko Iran matkalla sotaan vai rauhaan Mekan liiton kokouksen jälkeen?",
     "link": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 16:20"
   },
   {
     "headline": "Germany and Japan strengthen economic ties as global tensions rise",
-    "headline_fi": "Germany and Japan strengthen economic ties as global tensions rise",
+    "headline_fi": "Saksa ja Japani vahvistavat taloussuhteita maailmanlaajuisten jännitteiden kasvaessa",
     "link": "https://www.euronews.com/2026/10/28/germany-and-japan-strengthen-economic-ties-as-global-tensions-rise",
     "source": "Euronews",
     "pub": "2026-10-28 16:16"
   },
   {
     "headline": "South Korea fines Google, Apple for pushing app developers onto their payment systems",
-    "headline_fi": "South Korea fines Google, Apple for pushing app developers onto their payment systems",
+    "headline_fi": "Etelä-Korea sakottelee Googlea ja Applea sovelluskehittäjien työntämisestä maksujärjestelmiinsä",
     "link": "https://www.euronews.com/2026/10/28/south-korea-fines-google-apple-for-pushing-app-developers-onto-their-payment-systems",
     "source": "Euronews",
     "pub": "2026-10-28 16:07"
@@ -327,20 +383,6 @@
     "link": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 15:43"
-  },
-  {
-    "headline": "Healey targets Brits’ energy costs, raids banks in first budget",
-    "headline_fi": "Healey targets Brits’ energy costs, raids banks in first budget",
-    "link": "https://www.politico.eu/article/healey-targets-brits-energy-costs-raids-banks-in-first-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-28 15:37"
-  },
-  {
-    "headline": "Weidels Wandel",
-    "headline_fi": "Weidels Wandel",
-    "link": "https://www.politico.eu/podcast/inside-afd/inside-afd-podcast-weidels-wandel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-28 15:29"
   },
   {
     "headline": "Trump rolls back methane rules for US oil and gas industry",
@@ -532,46 +574,11 @@
     "pub": "2026-10-28 11:48"
   },
   {
-    "headline": "'Dead Poets Society' sells out eight consecutive months at Teatro da Trindade",
-    "headline_fi": "'Dead Poets Society' sells out eight consecutive months at Teatro da Trindade",
-    "link": "https://www.euronews.com/2026/10/28/dead-poets-society-sells-out-eight-consecutive-months-at-teatro-da-trindade",
-    "source": "Euronews",
-    "pub": "2026-10-28 11:26"
-  },
-  {
-    "headline": "Mao meme comments won't 'cause serious economic problems' for Mbappé, says expert",
-    "headline_fi": "Mao meme comments won't 'cause serious economic problems' for Mbappé, says expert",
-    "link": "https://www.euronews.com/video/2026/10/28/maos-meme-comments-wont-cause-serious-economic-problems-for-mbappe-says-expert",
-    "source": "Euronews",
-    "pub": "2026-10-28 10:57"
-  },
-  {
-    "headline": "French Senate backs bill making protesters pay up to €10,000 for unrest damage",
-    "headline_fi": "French Senate backs bill making protesters pay up to €10,000 for unrest damage",
-    "link": "https://www.euronews.com/2026/10/28/french-senate-backs-bill-making-protesters-pay-up-to-10000-for-unrest-damage",
-    "source": "Euronews",
-    "pub": "2026-10-28 10:54"
-  },
-  {
     "headline": "Serbian police shoot dead assailant at Israeli Embassy",
     "headline_fi": "Serbian police shoot dead assailant at Israeli Embassy",
     "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 10:48"
-  },
-  {
-    "headline": "Experts urge 'global health emergency' as climate harms accelerate",
-    "headline_fi": "Asiantuntijat vaativat \"maailmanlaajuista terveyshätätilaa\", kun ilmastohaitat kiihtyvät",
-    "link": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 02:05"
-  },
-  {
-    "headline": "Egypt orders closure of independent news site Mada Masr",
-    "headline_fi": "Egypti määrää riippumattoman uutissivuston Mada Masrin sulkemisen",
-    "link": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 01:16"
   },
   {
     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker",
@@ -1160,26 +1167,5 @@
     "link": "https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-30 09:49"
-  },
-  {
-    "headline": "South Park satirist pushes for accountability in Cornell gang-rape lawsuit",
-    "headline_fi": "South Parkin satiiri vaatii vastuullisuutta Cornellin joukkoraiskausoikeudenkäynnissä",
-    "link": "https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-29 17:20"
-  },
-  {
-    "headline": "Global trade weathers Iran, Ukraine and Trump's tariffs",
-    "headline_fi": "Globaali kauppa kestää Iranin, Ukrainan ja Trumpin tullit",
-    "link": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-29 13:35"
-  },
-  {
-    "headline": "Spain grows fruit and vegetables for Europe, but it's running out of water",
-    "headline_fi": "Espanja kasvattaa hedelmiä ja vihanneksia Eurooppaan, mutta vesi on loppumassa",
-    "link": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-29 12:51"
   }
 ]
