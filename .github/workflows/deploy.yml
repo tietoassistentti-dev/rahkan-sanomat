@@ -2,7 +2,7 @@ name: Fetch, Translate and Deploy
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour
+    - cron: '23 * * * *' # Every hour
   workflow_dispatch: {}
   push:
     branches: [ main ]
