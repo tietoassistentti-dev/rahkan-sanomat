@@ -80,6 +80,32 @@ h1 span {
   display: flex;
   gap: 8px;
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.view-toggle {
+  display: inline-flex;
+  gap: 6px;
+  background: rgba(8, 17, 28, 0.7);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 4px;
+}
+
+.view-toggle button {
+  background: transparent;
+  color: var(--text);
+  border: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.view-toggle button.active {
+  background: rgba(56, 189, 248, 0.18);
+  color: var(--accent);
+  box-shadow: inset 0 0 0 1px rgba(56, 189, 248, 0.25);
 }
 
 button {
@@ -213,6 +239,10 @@ if (!localStorage.getItem('rs_auth')) {
         <button id="btn-en" class="lang-btn" onclick="setLang('en')">EN</button>
         <button id="btn-fi" class="lang-btn" onclick="setLang('fi')">FI</button>
       </div>
+      <div class="view-toggle" aria-label="Article view mode">
+        <button id="view-translate" class="active" onclick="setLinkMode('translate')">Translate</button>
+        <button id="view-original" onclick="setLinkMode('original')">Original</button>
+      </div>
       <button class="logout-btn" onclick="logout()">Sign Out</button>
     </div>
   </div>
@@ -250,6 +280,7 @@ if (forcedLang && validLangs.includes(forcedLang)) {
 }
 
 let currentLang = (forcedLang && validLangs.includes(forcedLang)) ? forcedLang : (localStorage.getItem('rs_lang') || 'fi');
+let linkMode = localStorage.getItem('rs_link_mode') || 'translate';
 
 function setLang(l) {
   currentLang = l;
@@ -259,10 +290,20 @@ function setLang(l) {
   render();
 }
 
+function setLinkMode(mode) {
+  linkMode = mode;
+  localStorage.setItem('rs_link_mode', mode);
+  document.getElementById('view-translate').classList.toggle('active', mode === 'translate');
+  document.getElementById('view-original').classList.toggle('active', mode === 'original');
+  render();
+}
+
 function render() {
   // Sync button states on render
   document.getElementById('btn-en').classList.toggle('active', currentLang === 'en');
   document.getElementById('btn-fi').classList.toggle('active', currentLang === 'fi');
+  document.getElementById('view-translate').classList.toggle('active', linkMode === 'translate');
+  document.getElementById('view-original').classList.toggle('active', linkMode === 'original');
 
   let stories = currentLang === 'fi' ? STORIES_FI : STORIES_EN;
   const query = document.getElementById('search-input').value.toLowerCase().trim();
@@ -283,7 +324,22 @@ function render() {
 
   box.innerHTML = stories.map(s => {
     const headline = currentLang === 'fi' && s.headline_fi ? s.headline_fi : s.headline;
-    const link = s.link || '#';
+    const link = (() => {
+      const rawLink = s.link || '#';
+      if (linkMode === 'original') {
+        return rawLink;
+      }
+      const targetLang = currentLang === 'fi' ? 'fi' : 'en';
+      try {
+        const translateUrl = new URL('https://translate.google.com/translate');
+        translateUrl.searchParams.set('sl', 'auto');
+        translateUrl.searchParams.set('tl', targetLang);
+        translateUrl.searchParams.set('u', rawLink);
+        return translateUrl.toString();
+      } catch (e) {
+        return rawLink;
+      }
+    })();
     const source = s.source || 'Source';
     const pub = s.pub || 'Recent';
     return `
