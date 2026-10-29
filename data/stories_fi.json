@@ -1,14 +1,357 @@
 [
   {
-    "headline": "USA: Barack Obama slams Donald Trump in final midterm push",
-    "headline_fi": "USA: Barack Obama paheksuu Donald Trumpia viimeisessä puolivälissä",
-    "link": "https://www.france24.com/en/video/20261029-usa-barack-obama-slams-donald-trump-in-final-midterm-push",
+    "headline": "Ireland becomes refuge for anti-Trump Americans",
+    "headline_fi": "Irlannista tulee Trumpin vastaisten amerikkalaisten turvapaikka",
+    "link": "https://www.france24.com/en/tv-shows/reporters/20261029-ireland-becomes-refuge-for-anti-trump-americans",
     "source": "France 24",
-    "pub": "2026-10-29 14:28"
+    "pub": "2026-10-29 19:08"
+  },
+  {
+    "headline": "Death toll from Spain train crash rises to 74 as royals visit victims",
+    "headline_fi": "Espanjan junaturman kuolonuhrien määrä nousee 74:ään, kun kuninkaalliset vierailevat uhrien luona",
+    "link": "https://www.euronews.com/2026/10/29/death-toll-from-spain-train-crash-rises-to-74-as-royals-visit-victims",
+    "source": "Euronews",
+    "pub": "2026-10-29 19:01"
+  },
+  {
+    "headline": "Latest news bulletin | October 29th, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |29.10.2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-29 19:00"
+  },
+  {
+    "headline": "Major strikes planned across Italy on Friday against cost of living and military spending",
+    "headline_fi": "Italiassa suunnitellaan perjantaina suuria iskuja elinkustannuksiin ja sotilasmenoihin",
+    "link": "https://www.euronews.com/2026/10/29/major-strikes-planned-across-italy-on-friday-against-cost-of-living-and-military-spending",
+    "source": "Euronews",
+    "pub": "2026-10-29 18:47"
+  },
+  {
+    "headline": "Deadly train crash puts Sánchez on the ropes a month before elections",
+    "headline_fi": "Kuolettava junaonnettomuus saa Sánchezin köysille kuukautta ennen vaaleja",
+    "link": "https://www.euronews.com/2026/10/29/deadly-train-crash-puts-sanchez-on-the-ropes-a-month-before-elections",
+    "source": "Euronews",
+    "pub": "2026-10-29 18:44"
+  },
+  {
+    "headline": "EU countries push back against Brussels plan to tax gas more than electricity",
+    "headline_fi": "EU-maat vastustavat Brysselin suunnitelmaa verottaa kaasua enemmän kuin sähköä",
+    "link": "https://www.euronews.com/2026/10/29/eu-countries-push-back-against-brussels-plan-to-tax-gas-more-than-electricity",
+    "source": "Euronews",
+    "pub": "2026-10-29 18:35"
+  },
+  {
+    "headline": "India increases growth forecast for fiscal year",
+    "headline_fi": "Intia nosti tilikauden kasvuennustetta",
+    "link": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-29 18:30"
+  },
+  {
+    "headline": "Ian McEwan speculates on 'What We Can Know' in the 22nd century",
+    "headline_fi": "Ian McEwan spekuloi \"Mitä voimme tietää\" 2100-luvulla",
+    "link": "https://www.france24.com/en/tv-shows/arts24/20261029-ian-mcewan-speculates-on-what-we-can-know-in-the-22nd-century",
+    "source": "France 24",
+    "pub": "2026-10-29 18:29"
+  },
+  {
+    "headline": "German serial rapist sentenced to 12 years as police investigate 44 more cases",
+    "headline_fi": "Saksalainen sarjaraiskaaja tuomittiin 12 vuodeksi vankeuteen, kun poliisi tutkii 44 muuta tapausta",
+    "link": "https://www.euronews.com/2026/10/29/german-serial-rapist-sentenced-to-12-years-as-police-investigate-44-more-cases",
+    "source": "Euronews",
+    "pub": "2026-10-29 18:19"
+  },
+  {
+    "headline": "Flavio Bolsonaro’s great escape: Is this the beginning of the end for ‘Bolsonarism’?",
+    "headline_fi": "Flavio Bolsonaron suuri pako: Onko tämä \"bolsonarismin\" lopun alku?",
+    "link": "https://www.france24.com/en/americas/20261029-flavio-bolsonaro-s-great-escape-is-this-the-beginning-of-the-end-for-bolsonarism",
+    "source": "France 24",
+    "pub": "2026-10-29 18:19"
+  },
+  {
+    "headline": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
+    "headline_fi": "Avustusoperaatio saapuu Ukrainan Oleshkiin paikallisen tulitauon jatkuessa kolmatta päivää",
+    "link": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
+    "source": "France 24",
+    "pub": "2026-10-29 18:19"
+  },
+  {
+    "headline": "China leaders demand more loyalty and more initiative",
+    "headline_fi": "Kiinan johtajat vaativat enemmän uskollisuutta ja aloitteellisuutta",
+    "link": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-29 18:16"
+  },
+  {
+    "headline": "Netenyahu's Likud party alleges interference and fraud in Israel's election",
+    "headline_fi": "Netenyahun Likud-puolue väittää puuttumisesta ja petoksesta Israelin vaaleihin",
+    "link": "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election",
+    "source": "Euronews",
+    "pub": "2026-10-29 18:13"
+  },
+  {
+    "headline": "A tale of two economies: How America's cost-of-living crisis is shaping US midterm elections",
+    "headline_fi": "Tarina kahdesta taloudesta: kuinka Amerikan elinkustannuskriisi muokkaa Yhdysvaltain välivaaleja",
+    "link": "https://www.france24.com/en/tv-shows/people-profit/20261029-a-tale-of-two-economies-how-america-s-cost-of-living-crisis-is-shaping-us-midterm-elections",
+    "source": "France 24",
+    "pub": "2026-10-29 18:13"
+  },
+  {
+    "headline": "Palestinian President Abbas signals readiness for talks with Israel, seeks Cyprus mediation",
+    "headline_fi": "Palestiinan presidentti Abbas ilmoittaa olevansa valmis neuvotteluihin Israelin kanssa, hakee Kyproksen sovittelua",
+    "link": "https://www.euronews.com/2026/10/29/palestinian-president-abbas-signals-readiness-for-talks-with-israel-seeks-cyprus-mediation",
+    "source": "Euronews",
+    "pub": "2026-10-29 18:09"
+  },
+  {
+    "headline": "Spain's King Felipe VI and Queen Letizia visit injured in train crash at Toledo hospital",
+    "headline_fi": "Espanjan kuningas Felipe VI ja kuningatar Letizia vierailivat loukkaantuneena juna-onnettomuudessa Toledon sairaalassa",
+    "link": "https://www.france24.com/en/video/20261029-spain-s-king-felipe-vi-and-queen-letizia-visit-injured-in-train-crash-at-toledo-hospital",
+    "source": "France 24",
+    "pub": "2026-10-29 17:38"
+  },
+  {
+    "headline": "Ireland opens arms to Americans fleeing US President Donald Trump",
+    "headline_fi": "Irlanti avasi aseet amerikkalaisille, jotka pakenevat Yhdysvaltain presidenttiä Donald Trumpia",
+    "link": "https://www.france24.com/en/video/20261029-ireland-opens-arms-to-americans-fleeing-us-president-donald-trump",
+    "source": "France 24",
+    "pub": "2026-10-29 17:31"
+  },
+  {
+    "headline": "Pentagon shake-up continues: US fires top army general in latest ouster",
+    "headline_fi": "Pentagonin järkytys jatkuu: Yhdysvallat erotti armeijan ylimmän kenraalin viimeisimmän syrjäyttämisen aikana",
+    "link": "https://www.france24.com/en/video/20261029-pentagon-shake-up-continues-us-fires-top-army-general-in-latest-ouster",
+    "source": "France 24",
+    "pub": "2026-10-29 17:30"
+  },
+  {
+    "headline": "Food safety in India: A challenge for the world's most populous country",
+    "headline_fi": "Elintarviketurvallisuus Intiassa: Haaste maailman väkirikkaimmalle maalle",
+    "link": "https://www.france24.com/en/tv-shows/focus/20261029-food-safety-in-india-a-challenge-for-the-world-s-most-populous-country",
+    "source": "France 24",
+    "pub": "2026-10-29 17:15"
+  },
+  {
+    "headline": "Europeans still worry about climate change – but are losing faith in EU green policies",
+    "headline_fi": "Eurooppalaiset ovat edelleen huolissaan ilmastonmuutoksesta, mutta he ovat menettämässä uskonsa EU:n vihreään politiikkaan",
+    "link": "https://www.euronews.com/2026/10/29/europeans-still-worry-about-climate-change-but-are-losing-faith-in-eu-green-policies",
+    "source": "Euronews",
+    "pub": "2026-10-29 17:07"
+  },
+  {
+    "headline": "US Midterms: Donald Trump and Barack Obama make closing pitches",
+    "headline_fi": "US Midterms: Donald Trump and Barack Obama make closing pitches",
+    "link": "https://www.france24.com/en/video/20261029-us-midterms-donald-trump-and-barack-obama-make-closing-pitches",
+    "source": "France 24",
+    "pub": "2026-10-29 16:57"
+  },
+  {
+    "headline": "Brussels hopes unspent defence loans may help plug Ukraine’s budget hole",
+    "headline_fi": "Brussels hopes unspent defence loans may help plug Ukraine’s budget hole",
+    "link": "https://www.euronews.com/2026/10/29/brussels-hopes-unspent-defence-loans-may-help-plug-ukraines-budget-hole",
+    "source": "Euronews",
+    "pub": "2026-10-29 16:57"
+  },
+  {
+    "headline": "Spain reckons with second deadly train crash of the year ahead of national election",
+    "headline_fi": "Spain reckons with second deadly train crash of the year ahead of national election",
+    "link": "https://www.france24.com/en/video/20261029-spain-reckons-with-second-deadly-train-crash-of-the-year-ahead-of-national-election",
+    "source": "France 24",
+    "pub": "2026-10-29 16:50"
+  },
+  {
+    "headline": "Trump and Obama trade barbs in closing week of US midterm election",
+    "headline_fi": "Trump and Obama trade barbs in closing week of US midterm election",
+    "link": "https://www.france24.com/en/video/20261029-trump-and-obama-trade-barbs-in-closing-week-of-us-midterm-election",
+    "source": "France 24",
+    "pub": "2026-10-29 16:48"
+  },
+  {
+    "headline": "Minimum wage increase could come early as France braces for protests",
+    "headline_fi": "Minimum wage increase could come early as France braces for protests",
+    "link": "https://www.france24.com/en/video/20261029-minimum-wage-increase-could-come-early-as-france-braces-for-protests",
+    "source": "France 24",
+    "pub": "2026-10-29 16:47"
+  },
+  {
+    "headline": "Mistral releases latest AI model for download, giving companies more control over their cybersecurity",
+    "headline_fi": "Mistral releases latest AI model for download, giving companies more control over their cybersecurity",
+    "link": "https://www.euronews.com/2026/10/29/mistral-releases-latest-ai-model-for-download-giving-companies-more-control-over-their-cyb",
+    "source": "Euronews",
+    "pub": "2026-10-29 16:45"
+  },
+  {
+    "headline": "Why is Donald Trump avoiding the Epstein case at all costs?",
+    "headline_fi": "Why is Donald Trump avoiding the Epstein case at all costs?",
+    "link": "https://www.france24.com/en/video/20261029-why-is-donald-trump-avoiding-the-epstein-case-at-all-costs",
+    "source": "France 24",
+    "pub": "2026-10-29 16:37"
+  },
+  {
+    "headline": "Paris becomes an open-air museum",
+    "headline_fi": "Paris becomes an open-air museum",
+    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261029-paris-becomes-an-open-air-museum",
+    "source": "France 24",
+    "pub": "2026-10-29 16:23"
+  },
+  {
+    "headline": "‘I’m not a candidate for anything’: What Lagarde told Euronews before quitting the ECB",
+    "headline_fi": "‘I’m not a candidate for anything’: What Lagarde told Euronews before quitting the ECB",
+    "link": "https://www.euronews.com/2026/10/29/im-not-a-candidate-for-anything-what-lagarde-told-euronews-before-quitting-the-ecb",
+    "source": "Euronews",
+    "pub": "2026-10-29 16:21"
+  },
+  {
+    "headline": "Former Spanish employment minister died in train crash",
+    "headline_fi": "Former Spanish employment minister died in train crash",
+    "link": "https://www.politico.eu/article/former-spanish-minister-fatima-banez-died-train-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 16:12"
+  },
+  {
+    "headline": "Albania: opposition MPs disrupt parliament with smoke flares",
+    "headline_fi": "Albania: opposition MPs disrupt parliament with smoke flares",
+    "link": "https://www.euronews.com/video/2026/10/29/albania-opposition-mps-disrupt-parliament-with-smoke-flares",
+    "source": "Euronews",
+    "pub": "2026-10-29 16:08"
+  },
+  {
+    "headline": "Russian strike on busy train platform kills at least 14 in Dnipro",
+    "headline_fi": "Russian strike on busy train platform kills at least 14 in Dnipro",
+    "link": "https://www.politico.eu/article/russia-attacks-ukrainian-civilians-in-several-regions-killing-dozens-within-few-hours/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 16:04"
+  },
+  {
+    "headline": "After the victory: The foreign policy and governing challenges facing Serbia’s student movement",
+    "headline_fi": "After the victory: The foreign policy and governing challenges facing Serbia’s student movement",
+    "link": "https://www.euronews.com/2026/10/29/after-the-victory-the-foreign-policy-and-governing-challenges-facing-serbias-student-movem",
+    "source": "Euronews",
+    "pub": "2026-10-29 15:46"
+  },
+  {
+    "headline": "Rembrandt's masterpieces become tattoos in the Netherlands",
+    "headline_fi": "Rembrandt's masterpieces become tattoos in the Netherlands",
+    "link": "https://www.euronews.com/video/2026/10/29/rembrandts-masterpieces-become-tattoos-in-the-netherlands",
+    "source": "Euronews",
+    "pub": "2026-10-29 15:37"
+  },
+  {
+    "headline": "Putin seeks to expand ties with African countries at Russia-Africa summit",
+    "headline_fi": "Putin seeks to expand ties with African countries at Russia-Africa summit",
+    "link": "https://www.france24.com/en/video/20261029-putin-seeks-to-expand-ties-with-african-countries-at-russia-africa-summit",
+    "source": "France 24",
+    "pub": "2026-10-29 15:32"
+  },
+  {
+    "headline": "JD Vance contacts senior Iranian official in bid to revive peace talks",
+    "headline_fi": "JD Vance contacts senior Iranian official in bid to revive peace talks",
+    "link": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks",
+    "source": "Euronews",
+    "pub": "2026-10-29 15:32"
+  },
+  {
+    "headline": "NATO allies fear Trump will delay Patriot missiles for Ukraine until after US midterms",
+    "headline_fi": "NATO allies fear Trump will delay Patriot missiles for Ukraine until after US midterms",
+    "link": "https://www.euronews.com/2026/10/29/nato-allies-fear-trump-will-delay-patriot-missiles-for-ukraine-until-after-us-midterms",
+    "source": "Euronews",
+    "pub": "2026-10-29 15:30"
+  },
+  {
+    "headline": "DRC: C64 opposition coalition meets in Rome, calls for inclusive dialogue",
+    "headline_fi": "DRC: C64 opposition coalition meets in Rome, calls for inclusive dialogue",
+    "link": "https://www.france24.com/en/video/20261029-drc-c64-opposition-coalition-meets-in-rome-calls-for-inclusive-dialogue",
+    "source": "France 24",
+    "pub": "2026-10-29 15:28"
+  },
+  {
+    "headline": "Can EU and India work together to secure Indo-Pacific?",
+    "headline_fi": "Can EU and India work together to secure Indo-Pacific?",
+    "link": "https://www.dw.com/en/can-eu-and-india-work-together-to-secure-indo-pacific/a-79796195?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-29 15:26"
+  },
+  {
+    "headline": "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target",
+    "headline_fi": "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target",
+    "link": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe",
+    "source": "Euronews",
+    "pub": "2026-10-29 15:24"
+  },
+  {
+    "headline": "EU will nationale Social-Media-Verbote stoppen",
+    "headline_fi": "EU will nationale Social-Media-Verbote stoppen",
+    "link": "https://www.politico.eu/article/eu-will-nationale-social-media-verbote-stoppen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 15:23"
+  },
+  {
+    "headline": "France: Trappes racist shooting suspect transferred to French court",
+    "headline_fi": "France: Trappes racist shooting suspect transferred to French court",
+    "link": "https://www.france24.com/en/video/20261029-france-trappes-racist-shooting-suspect-transferred-to-french-court",
+    "source": "France 24",
+    "pub": "2026-10-29 15:22"
+  },
+  {
+    "headline": "Europe’s own ICE? Inside Brussels plans to triple Frontex and expand deportation powers",
+    "headline_fi": "Europe’s own ICE? Inside Brussels plans to triple Frontex and expand deportation powers",
+    "link": "https://www.euronews.com/2026/10/29/europes-own-ice-inside-brussels-plans-to-triple-frontex-and-expand-deportation-powers",
+    "source": "Euronews",
+    "pub": "2026-10-29 15:12"
+  },
+  {
+    "headline": "'Very disturbing details': Trappes shooting suspect admits targeting victims by race, religion",
+    "headline_fi": "'Very disturbing details': Trappes shooting suspect admits targeting victims by race, religion",
+    "link": "https://www.france24.com/en/video/20261029-very-disturbing-details-trappes-shooting-suspect-admits-targeting-victims-by-race-religion",
+    "source": "France 24",
+    "pub": "2026-10-29 15:10"
+  },
+  {
+    "headline": "Spain begins three days of mourning after train crash kills 69",
+    "headline_fi": "Spain begins three days of mourning after train crash kills 69",
+    "link": "https://www.france24.com/en/video/20261029-spain-begins-three-days-of-mourning-after-train-crash-kills-69",
+    "source": "France 24",
+    "pub": "2026-10-29 15:01"
+  },
+  {
+    "headline": "Israelis await final election results as difficult choices lie ahead",
+    "headline_fi": "Israelis await final election results as difficult choices lie ahead",
+    "link": "https://www.france24.com/en/video/20261029-israelis-await-final-election-results-as-difficult-choices-lie-ahead",
+    "source": "France 24",
+    "pub": "2026-10-29 14:59"
+  },
+  {
+    "headline": "Volkswagen logs Q3 operating loss of €5.86 billion on Porsche writedown",
+    "headline_fi": "Volkswagen logs Q3 operating loss of €5.86 billion on Porsche writedown",
+    "link": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-29 14:54"
+  },
+  {
+    "headline": "US vs China: As the world splits into AI blocs, where does Europe stand?",
+    "headline_fi": "US vs China: As the world splits into AI blocs, where does Europe stand?",
+    "link": "https://www.euronews.com/2026/10/29/us-vs-china-as-the-world-splits-into-ai-blocs-where-does-europe-stand",
+    "source": "Euronews",
+    "pub": "2026-10-29 14:51"
+  },
+  {
+    "headline": "EU lawmakers press Beijing to rein in exports during Beijing visit",
+    "headline_fi": "EU lawmakers press Beijing to rein in exports during Beijing visit",
+    "link": "https://www.euronews.com/2026/10/29/eu-lawmakers-press-beijing-to-rein-in-exports-during-beijing-visit",
+    "source": "Euronews",
+    "pub": "2026-10-29 14:38"
+  },
+  {
+    "headline": "EU tells capitals to halt their national social media bans for a year",
+    "headline_fi": "EU tells capitals to halt their national social media bans for a year",
+    "link": "https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-29 14:29"
   },
   {
     "headline": "Nothing beats a Jet2… charter? Low-cost airline unveils business class-only plane",
-    "headline_fi": "Mikään ei voita Jet2:n peruskirjaa?Halpalentoyhtiö julkisti vain bisnesluokan lentokoneen",
+    "headline_fi": "Nothing beats a Jet2… charter? Low-cost airline unveils business class-only plane",
     "link": "https://www.euronews.com/2026/10/29/nothing-beats-a-jet2-charter-low-cost-airline-unveils-business-class-only-plane",
     "source": "Euronews",
     "pub": "2026-10-29 14:15"
@@ -21,23 +364,16 @@
     "pub": "2026-10-29 14:01"
   },
   {
-    "headline": "At least 13 killed, several injured in Russian drone strike on Ukrainian railway station",
-    "headline_fi": "Ainakin 13 kuoli ja useita loukkaantui Venäjän drone-iskussa Ukrainan rautatieasemalle",
+    "headline": "Russian drone attack on Ukrainian railway station kills at least 14 people",
+    "headline_fi": "Russian drone attack on Ukrainian railway station kills at least 14 people",
     "link": "https://www.euronews.com/2026/10/29/at-least-13-killed-several-injured-in-russian-drone-strike-on-ukrainian-railway-station",
     "source": "Euronews",
     "pub": "2026-10-29 13:57"
   },
   {
-    "headline": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
-    "headline_fi": "Ainakin 13 ihmistä kuoli \"hirvittävässä\" venäläisten lennokki-iskussa Ukrainan rautatieasemalla",
-    "link": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
-    "source": "France 24",
-    "pub": "2026-10-29 13:36"
-  },
-  {
-    "headline": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station",
-    "headline_fi": "Ukraina: 13 kuoli venäläisen lennokki-iskussa tungosta Dnipron rautatieasemalle",
-    "link": "https://www.dw.com/en/ukraine-13-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf",
+    "headline": "Ukraine: 14 killed in Russian drone strike on crowded Dnipro train station",
+    "headline_fi": "Ukraine: 14 killed in Russian drone strike on crowded Dnipro train station",
+    "link": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-29 13:33"
   },
@@ -105,6 +441,13 @@
     "pub": "2026-10-29 13:20"
   },
   {
+    "headline": "Ex-US Ambassador to NATO: Trump fears midterm defeat",
+    "headline_fi": "Ex-US Ambassador to NATO: Trump fears midterm defeat",
+    "link": "https://www.euronews.com/video/2026/10/29/ex-us-ambassador-to-nato-trump-fears-mideterm-defeat",
+    "source": "Euronews",
+    "pub": "2026-10-29 13:17"
+  },
+  {
     "headline": "Belgium’s deputy PM wants to use ‘trade bazooka’ on US over pharma threats",
     "headline_fi": "Belgian varapääministeri haluaa käyttää \"kauppabazookaa\" Yhdysvaltoihin lääkeuhkien takia",
     "link": "https://www.politico.eu/article/belgiums-deputy-pm-frank-vandenbroucke-wants-to-use-trade-bazooka-on-us-over-pharma-threats/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -119,109 +462,11 @@
     "pub": "2026-10-29 13:00"
   },
   {
-    "headline": "REPLAY: French anti-terrorism prosecutor gives press conference on racist attack",
-    "headline_fi": "REPLAY: Ranskan terrorismin vastainen syyttäjä pitää lehdistötilaisuuden rasistisesta hyökkäyksestä",
-    "link": "https://www.france24.com/en/video/20261029-replay-french-anti-terrorism-prosecutor-gives-press-conference-on-racist-attack",
-    "source": "France 24",
-    "pub": "2026-10-29 12:56"
-  },
-  {
-    "headline": "France reclaims title as Europe's champion of tax and social charges",
-    "headline_fi": "Ranska nousi takaisin Euroopan mestariksi vero- ja sosiaalimaksuissa",
-    "link": "https://www.france24.com/en/tv-shows/business/20261029-france-reclaims-title-as-europe-s-champion-of-tax-and-social-charges",
-    "source": "France 24",
-    "pub": "2026-10-29 12:54"
-  },
-  {
-    "headline": "'There's clearly a marketplace for Russian in Africa - but it's not about institution building'",
-    "headline_fi": "\"Venäjällä on selvästi markkinapaikka Afrikassa - mutta kyse ei ole instituutioiden rakentamisesta\"",
-    "link": "https://www.france24.com/en/video/20261029-there-s-clearly-a-marketplace-for-russian-in-africa-but-it-s-not-about-institution-building",
-    "source": "France 24",
-    "pub": "2026-10-29 12:43"
-  },
-  {
-    "headline": "Somalia: Lower house of parliament passes bill on sexual violence",
-    "headline_fi": "Somalia: Parlamentin alahuone hyväksyi lain seksuaalisesta väkivallasta",
-    "link": "https://www.france24.com/en/video/20261029-somalia-lower-house-of-parliament-passes-bill-on-sexual-violence",
-    "source": "France 24",
-    "pub": "2026-10-29 12:42"
-  },
-  {
-    "headline": "🔴 Suspect in deadly shooting near Paris admits racist intent, French anti-terrorism prosecutor says",
-    "headline_fi": "🔴 Pariisin lähellä tapahtuneesta ampumisesta epäilty myönsi rasistisen tarkoituksensa, Ranskan terrorismin vastainen syyttäjä sanoo",
-    "link": "https://www.france24.com/en/france/20261029-live-french-anti-terrorism-prosecutor-to-give-press-conference-on-racist-paris-shooting",
-    "source": "France 24",
-    "pub": "2026-10-29 12:41"
-  },
-  {
-    "headline": "Spain train crash death toll rises to 69, emergency crews continue operations",
-    "headline_fi": "Espanjan junaturman kuolonuhrien määrä nousi 69:ään, pelastushenkilöstö jatkaa toimintaansa",
-    "link": "https://www.france24.com/en/video/20261029-spain-train-crash-death-toll-rises-to-69-emergency-crews-continue-operations",
-    "source": "France 24",
-    "pub": "2026-10-29 12:40"
-  },
-  {
-    "headline": "Israel’s election committee urges probe into alleged Qatari interference",
-    "headline_fi": "Israelin vaalikomitea kehottaa tutkimaan väitettyä Qatarin sekaantumista",
-    "link": "https://www.france24.com/en/video/20261029-israel-s-election-committee-urges-probe-into-alleged-qatari-interference",
-    "source": "France 24",
-    "pub": "2026-10-29 12:38"
-  },
-  {
-    "headline": "Germany news: Volkswagen posts 3rd quarter losses of nearly €6 billion amid competition from China",
-    "headline_fi": "Saksan uutiset: Volkswagenin kolmannen vuosineljänneksen tappiot olivat lähes 6 miljardia euroa Kiinan kilpailussa",
-    "link": "https://www.dw.com/en/germany-news-volkswagen-posts-3rd-quarter-losses-of-nearly-€6-billion-amid-competition-from-china/live-79792915?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany news: Chancellor Friedrich Merz accuses North Korea of threatening Europe's freedom",
+    "headline_fi": "Germany news: Chancellor Friedrich Merz accuses North Korea of threatening Europe's freedom",
+    "link": "https://www.dw.com/en/germany-news-chancellor-friedrich-merz-accuses-north-korea-of-threatening-europe-s-freedom/live-79792915?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-29 12:37"
-  },
-  {
-    "headline": "From election defeat to Miami: What to know about Brazil's Bolsonaro's dramatic departure to the US",
-    "headline_fi": "Vaalitappiosta Miamiin: Mitä tietää Brasilian Bolsonaron dramaattisesta lähdöstä Yhdysvaltoihin",
-    "link": "https://www.france24.com/en/video/20261029-from-election-defeat-to-miami-what-to-know-about-brazil-s-bolsonaro-s-dramatic-departure-to-the-us",
-    "source": "France 24",
-    "pub": "2026-10-29 12:33"
-  },
-  {
-    "headline": "Trappes residents reel from deadly racist attack that killed one",
-    "headline_fi": "Ansojen asukkaat koettelevat tappavan rasistisen hyökkäyksen, joka tappoi yhden",
-    "link": "https://www.france24.com/en/video/20261029-trappes-residents-reel-from-deadly-racist-attack-that-killed-one",
-    "source": "France 24",
-    "pub": "2026-10-29 12:29"
-  },
-  {
-    "headline": "Hong Kong leader apologises and housing minister resigns after fire investigation exposes failures",
-    "headline_fi": "Hongkongin johtaja pahoittelee ja asuntoministeri eroaa, kun palotutkinta paljastaa epäonnistumiset",
-    "link": "https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures",
-    "source": "France 24",
-    "pub": "2026-10-29 12:29"
-  },
-  {
-    "headline": "After years under fire, a rare quiet settles over Ukrainian city as truce holds",
-    "headline_fi": "Vuosien tulipalon jälkeen Ukrainan kaupungin ylle asettuu harvinainen hiljaisuus aselevon vallitessa",
-    "link": "https://www.france24.com/en/video/20261029-after-years-under-fire-a-rare-quiet-settles-over-ukrainian-city-as-truce-holds",
-    "source": "France 24",
-    "pub": "2026-10-29 12:26"
-  },
-  {
-    "headline": "ECB President Christine Lagarde to step down next February, months before her mandate ends",
-    "headline_fi": "EKP:n johtaja Christine Lagarde eroaa tehtävästään ensi helmikuussa, kuukausia ennen toimikautensa päättymistä",
-    "link": "https://www.euronews.com/2026/10/29/ecb-president-christine-lagarde-to-step-down-in-february-months-before-her-term-ends",
-    "source": "Euronews",
-    "pub": "2026-10-29 12:25"
-  },
-  {
-    "headline": "US cruise ship halts world voyage over fuel costs, 200 passengers stranded in Cambodia",
-    "headline_fi": "Yhdysvaltain risteilyalus keskeytti maailmanmatkan polttoainekustannusten vuoksi, 200 matkustajaa juuttunut Kambodžassa",
-    "link": "https://www.france24.com/en/video/20261029-us-cruise-ship-halts-world-voyage-over-fuel-costs-200-passengers-stranded-in-cambodia",
-    "source": "France 24",
-    "pub": "2026-10-29 12:25"
-  },
-  {
-    "headline": "Christine Lagarde to step down as ECB president in February",
-    "headline_fi": "Christine Lagarde jättää EKP:n pääjohtajan tehtävät helmikuussa",
-    "link": "https://www.politico.eu/article/ecb-president-lagarde-to-step-down-in-february/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-29 12:17"
   },
   {
     "headline": "In Pompeii, a woman's wardrobe resurfaces with beauty items and jewels",
@@ -229,20 +474,6 @@
     "link": "https://www.euronews.com/2026/10/29/in-pompeii-a-womans-wardrobe-resurfaces-with-beauty-items-and-jewels",
     "source": "Euronews",
     "pub": "2026-10-29 12:08"
-  },
-  {
-    "headline": "Quebec premier boycotts Mark Carney’s EU summit",
-    "headline_fi": "Quebecin pääministeri boikotoi Mark Carneyn EU-huippukokousta",
-    "link": "https://www.politico.eu/article/quebec-premier-paul-st-pierre-plamondon-boycotts-mark-carney-eu-canada-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-29 11:59"
-  },
-  {
-    "headline": "Suspect in Paris shooting to be placed in pre-trial detention, anti-terrorism prosecutor says",
-    "headline_fi": "Pariisin ampumisesta epäilty määrätään tutkintavankeuteen, sanoo terrorismin vastainen syyttäjä",
-    "link": "https://www.france24.com/en/france/20261029-live-french-anti-terrorism-prosecutor-to-give-press-conference-on-racist-paris-shooting",
-    "source": "France 24",
-    "pub": "2026-10-29 11:48"
   },
   {
     "headline": "What worker guarantees do unions and lawmakers demand to unblock EU Inc?",
@@ -264,20 +495,6 @@
     "link": "https://www.euronews.com/video/2026/10/29/putin-calls-elon-musk-a-genius-as-russia-builds-its-own-starlink-rival",
     "source": "Euronews",
     "pub": "2026-10-29 10:34"
-  },
-  {
-    "headline": "Budget 2026: We answer your questions",
-    "headline_fi": "Budjetti 2026: Vastaamme kysymyksiisi",
-    "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/budget-2026-we-answer-your-questions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-29 10:26"
-  },
-  {
-    "headline": "UK social media ban likely to require photo ID checks",
-    "headline_fi": "Yhdistyneen kuningaskunnan sosiaalisen median kielto edellyttää todennäköisesti kuvallisen henkilöllisyystodistuksen tarkistamista",
-    "link": "https://www.politico.eu/article/uk-social-media-ban-likely-to-require-photo-id-checks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-29 10:14"
   },
   {
     "headline": "Albania adopts measures to impose fines up to €5,500 on people at protests that become violent",
@@ -329,16 +546,16 @@
     "pub": "2026-10-29 09:22"
   },
   {
-    "headline": "India news: 'Cockroaches' back Gandhi's rally against election chief",
-    "headline_fi": "Intia-uutiset: \"Torakat\" tukevat Gandhin mielenosoitusta vaalijohtajaa vastaan",
-    "link": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
+    "headline": "Spain train crash: PM Sanchez calls for investigation as 3 days of mourning begins",
+    "headline_fi": "Espanjan junaonnettomuus: Pääministeri Sanchez vaatii tutkintaa, koska kolmen päivän suru alkaa",
+    "link": "https://www.dw.com/en/spain-train-crash-pm-sanchez-calls-for-investigation-as-3-days-of-mourning-begins/a-79792085?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-29 09:22"
   },
   {
-    "headline": "Spain train crash: PM Sanchez calls for investigation as 3 days of mourning begins",
-    "headline_fi": "Espanjan junaonnettomuus: Pääministeri Sanchez vaatii tutkintaa, koska kolmen päivän suru alkaa",
-    "link": "https://www.dw.com/en/spain-train-crash-pm-sanchez-calls-for-investigation-as-3-days-of-mourning-begins/a-79792085?maca=en-rss-en-all-1573-rdf",
+    "headline": "India news: 'Cockroaches' back Gandhi's rally against election chief",
+    "headline_fi": "Intia-uutiset: \"Torakat\" tukevat Gandhin mielenosoitusta vaalijohtajaa vastaan",
+    "link": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-29 09:22"
   },
@@ -371,95 +588,11 @@
     "pub": "2026-10-29 08:36"
   },
   {
-    "headline": "What is Canada’s climate track record as it seeks 'ever closer' ties with Europe?",
-    "headline_fi": "Mikä on Kanadan ilmastohistoria sen pyrkiessä \"yhtä lähempiin\" siteisiin Eurooppaan?",
-    "link": "https://www.euronews.com/2026/10/29/what-is-canadas-climate-track-record-as-it-seeks-to-become-eu-associate-member",
-    "source": "Euronews",
-    "pub": "2026-10-29 08:32"
-  },
-  {
-    "headline": "'Desolation, despair': Spain begins three days of mourning after deadly train crash",
-    "headline_fi": "'Desolation, despair': Spain begins three days of mourning after deadly train crash",
-    "link": "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash",
-    "source": "France 24",
-    "pub": "2026-10-29 08:25"
-  },
-  {
-    "headline": "'It's just cold and silent': Ragnar Jónasson and Yrsa Sigurðardóttir on the rise of Icelandic Noir",
-    "headline_fi": "\"On vain kylmää ja hiljaista\": Ragnar Jónasson ja Yrsa Sigurðardóttir Icelandic Noirin nousussa",
-    "link": "https://www.euronews.com/2026/10/29/its-just-cold-and-silent-ragnar-jonasson-and-yrsa-sigurdardottir-on-the-rise-of-icelandic-",
-    "source": "Euronews",
-    "pub": "2026-10-29 08:16"
-  },
-  {
-    "headline": "Wildfire smoke exposure during pregnancy linked to higher autism risk in children",
-    "headline_fi": "Altistuminen savulle raskauden aikana liittyy korkeampaan autismiriskiin lapsilla",
-    "link": "https://www.euronews.com/2026/10/29/wildfire-smoke-exposure-during-pregnancy-linked-to-higher-autism-risk-in-children",
-    "source": "Euronews",
-    "pub": "2026-10-29 08:12"
-  },
-  {
-    "headline": "League Cup: Liverpool edge Chelsea in penalty shootout",
-    "headline_fi": "League Cup: Liverpool edge Chelsea in penalty shootout",
-    "link": "https://www.france24.com/en/tv-shows/sports/20261029-league-cup-liverpool-edges-chelsea-in-penalty-shoot-out",
-    "source": "France 24",
-    "pub": "2026-10-29 08:08"
-  },
-  {
-    "headline": "EU's push to reduce reliance on China could come at a price",
-    "headline_fi": "EU:n pyrkimyksillä vähentää riippuvuutta Kiinasta voi olla hintansa",
-    "link": "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price",
-    "source": "Euronews",
-    "pub": "2026-10-29 08:00"
-  },
-  {
-    "headline": "Latest news bulletin | October 29th, 2026 – Morning",
-    "headline_fi": "Uusin uutistiedote |29. lokakuuta 2026 – Aamu",
-    "link": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-10-29 08:00"
-  },
-  {
-    "headline": "Bolsonaro claims he is Brazil's true leader after fleeing to US",
-    "headline_fi": "Bolsonaro väittää olevansa Brasilian todellinen johtaja paenessaan Yhdysvaltoihin",
-    "link": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us",
-    "source": "Euronews",
-    "pub": "2026-10-29 07:09"
-  },
-  {
-    "headline": "The great EU-Canada lovefest",
-    "headline_fi": "Suuri EU:n ja Kanadan rakkausfestivaali",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-great-eu-canada-lovefest/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-29 07:05"
-  },
-  {
     "headline": "North Korea fires around 10 ballistic missiles into sea",
     "headline_fi": "Pohjois-Korea ampui mereen noin 10 ballistista ohjusta",
     "link": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-29 06:57"
-  },
-  {
-    "headline": "Europe’s oil bill: EU pays €10bn more per month than in 2025",
-    "headline_fi": "Euroopan öljylasku: EU maksaa 10 miljardia euroa enemmän kuukaudessa kuin vuonna 2025",
-    "link": "https://www.euronews.com/2026/10/29/europes-oil-bill-eu-pays-10bn-more-per-month-than-in-2025",
-    "source": "Euronews",
-    "pub": "2026-10-29 06:30"
-  },
-  {
-    "headline": "Sánchez pledges tough line on possible safety failures after Toledo train crash",
-    "headline_fi": "Sánchez lupasi tiukan linjan mahdollisille turvallisuushäiriöille Toledon junaturman jälkeen",
-    "link": "https://www.euronews.com/2026/10/29/sanchez-pledges-tough-line-on-possible-safety-failures-after-toledo-train-crash",
-    "source": "Euronews",
-    "pub": "2026-10-29 06:11"
-  },
-  {
-    "headline": "In the Middle East, the next front line is the narrative",
-    "headline_fi": "Lähi-idässä seuraava etulinja on kerronta",
-    "link": "https://www.politico.eu/sponsored-content/in-the-middle-east-the-next-front-line-is-the-narrative/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-29 06:00"
   },
   {
     "headline": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
@@ -469,25 +602,11 @@
     "pub": "2026-10-29 05:21"
   },
   {
-    "headline": "Spain: Madrid mourns train crash victims as rescuers work through the night",
-    "headline_fi": "Espanja: Madrid suree junaturman uhreja pelastajien työskennellessä läpi yön",
-    "link": "https://www.euronews.com/video/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night",
-    "source": "Euronews",
-    "pub": "2026-10-29 01:10"
-  },
-  {
     "headline": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
     "headline_fi": "Flavio Bolsonaro laskeutuu Yhdysvaltoihin ja julistautuu Brasilian \"johtajaksi\".",
     "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-29 00:26"
-  },
-  {
-    "headline": "Belgium's finance and tax agency hit by cyberattack",
-    "headline_fi": "Belgian rahoitus- ja verovirasto joutui kyberhyökkäyksen kohteeksi",
-    "link": "https://www.euronews.com/2026/10/28/belgiums-finance-and-tax-agency-hit-by-cyberattack",
-    "source": "Euronews",
-    "pub": "2026-10-28 22:11"
   },
   {
     "headline": "US midterms: What you need to know",
@@ -497,109 +616,11 @@
     "pub": "2026-10-28 21:02"
   },
   {
-    "headline": "Fed holds rates days before US midterms as two officials push for another hike",
-    "headline_fi": "Fed pitää korkotasolla päiviä ennen Yhdysvaltain välikausia, kun kaksi virkamiestä vaatii uutta korotusta",
-    "link": "https://www.euronews.com/2026/10/28/fed-holds-rates-days-before-us-midterms-as-two-officials-push-for-another-hike",
-    "source": "Euronews",
-    "pub": "2026-10-28 21:01"
-  },
-  {
-    "headline": "UEFA reschedules Europa League match amid planned French general strike",
-    "headline_fi": "UEFA siirsi Eurooppa-liigan ottelun uudelleen suunniteltuun Ranskan yleislakkoon",
-    "link": "https://www.euronews.com/2026/10/28/uefa-reschedules-europa-league-match-amid-planned-french-general-strike",
-    "source": "Euronews",
-    "pub": "2026-10-28 20:42"
-  },
-  {
     "headline": "Evacuation from Oleshky: How are preparations going?",
     "headline_fi": "Evakuointi Oleshkysta: Miten valmistelut sujuvat?",
     "link": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 19:04"
-  },
-  {
-    "headline": "Latest news bulletin | October 28th, 2026 – Evening",
-    "headline_fi": "Uusin uutistiedote |28.10.2026 – ilta",
-    "link": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-10-28 19:00"
-  },
-  {
-    "headline": "‘Inexplicable’ order by control centre investigated after Spain train crash",
-    "headline_fi": "Valvontakeskuksen \"selittämätön\" tilaus tutkittiin Espanjan junaturman jälkeen",
-    "link": "https://www.euronews.com/2026/10/28/inexplicable-order-by-control-centre-investigated-after-spain-train-crash",
-    "source": "Euronews",
-    "pub": "2026-10-28 18:53"
-  },
-  {
-    "headline": "Poland chosen to host €227m Patriot missile maintenance centre",
-    "headline_fi": "Puola päätti isännöidä 227 miljoonan euron Patriot-ohjusten huoltokeskusta",
-    "link": "https://www.euronews.com/2026/10/28/poland-chosen-to-host-227m-patriot-missile-maintenance-centre",
-    "source": "Euronews",
-    "pub": "2026-10-28 18:51"
-  },
-  {
-    "headline": "60.000 runners, two million spectators, one city: New York gets ready for marathon day",
-    "headline_fi": "60 000 juoksijaa, kaksi miljoonaa katsojaa, yksi kaupunki: New York valmistautuu maratonpäivään",
-    "link": "https://www.euronews.com/2026/10/28/60000-runners-two-million-spectators-one-city-new-york-gets-ready-for-marathon-day",
-    "source": "Euronews",
-    "pub": "2026-10-28 18:48"
-  },
-  {
-    "headline": "From Baku’s old city to mud volcanoes: discovering Azerbaijan’s wonders",
-    "headline_fi": "Bakun vanhasta kaupungista mutatulivuoreihin: Azerbaidžanin ihmeiden löytäminen",
-    "link": "https://www.euronews.com/2026/10/28/from-bakus-old-city-to-mud-volcanoes-discovering-azerbaijans-wonders",
-    "source": "Euronews",
-    "pub": "2026-10-28 18:40"
-  },
-  {
-    "headline": "One year on, families seek justice after election violence",
-    "headline_fi": "Vuoden kuluttua perheet etsivät oikeutta vaaliväkivallan jälkeen",
-    "link": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 18:30"
-  },
-  {
-    "headline": "EU approves €319 million in state aid to Austrian 'first of a kind' next generation semiconductor factory",
-    "headline_fi": "EU hyväksyy 319 miljoonan euron valtiontuen itävaltalaiselle \"ensimmäiselle\" seuraavan sukupolven puolijohdetehtaalle",
-    "link": "https://www.euronews.com/2026/10/28/eu-approves-319-million-in-state-aid-to-austrian-first-of-a-kind-next-generation-semicondu",
-    "source": "Euronews",
-    "pub": "2026-10-28 18:06"
-  },
-  {
-    "headline": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
-    "headline_fi": "Mitä uusi Israelin hallitus merkitsisi arabinaapureille?Samaa odotetaan lisää, ja joitain pieniä positiivisia ennusteita.",
-    "link": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 18:03"
-  },
-  {
-    "headline": "Nord Stream pipeline won't reopen after the war, Brussels tells the US and Russia",
-    "headline_fi": "Nord Stream -putki ei avaudu uudelleen sodan jälkeen, Bryssel kertoo Yhdysvalloille ja Venäjälle",
-    "link": "https://www.euronews.com/2026/10/28/nord-stream-pipeline-wont-reopen-after-the-war-brussels-tells-the-us-and-russia",
-    "source": "Euronews",
-    "pub": "2026-10-28 17:58"
-  },
-  {
-    "headline": "Spain: Rescuers search mangled train wreckage near Toledo",
-    "headline_fi": "Espanja: Pelastajat etsivät tuhoutuneita junan hylkyjä Toledon läheltä",
-    "link": "https://www.euronews.com/video/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo",
-    "source": "Euronews",
-    "pub": "2026-10-28 17:54"
-  },
-  {
-    "headline": "Ukraine's Zelenskyy irked by US-Russia-China summit",
-    "headline_fi": "Ukrainan Zelenskyy järkyttynyt Yhdysvaltain, Venäjän ja Kiinan huippukokouksesta",
-    "link": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 17:49"
-  },
-  {
-    "headline": "Is Iran headed to war or peace after Mecca alliance meeting?",
-    "headline_fi": "Onko Iran matkalla sotaan vai rauhaan Mekan liiton kokouksen jälkeen?",
-    "link": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 16:20"
   },
   {
     "headline": "Gen Z protests in Germany: Is France-style violence looming?",
@@ -831,13 +852,6 @@
     "link": "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-21 08:00"
-  },
-  {
-    "headline": "New EU plan for Arctic warily eyes influence of Russia, US",
-    "headline_fi": "EU:n uusi arktisen alueen suunnitelma katselee varovaisesti Venäjän ja Yhdysvaltojen vaikutusta",
-    "link": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-20 19:44"
   },
   {
     "headline": "Germany news: Hackers release AfD party emails",
