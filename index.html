@@ -29,18 +29,17 @@ body {
   color:var(--text);
   font-family:'Inter', sans-serif;
   line-height:1.6;
-  padding-top: 160px;
   padding-bottom: 60px;
 }
-.wrap { max-width:900px; margin:0 auto; padding:0 16px 24px; }
+.wrap { max-width:900px; margin:0 auto; padding:24px 16px; }
 
 header { 
-  position: fixed;
-  top: 12px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 20;
-  width: min(900px, calc(100% - 32px));
+  position: static;
+  top: auto;
+  left: auto;
+  transform: none;
+  z-index: auto;
+  width: 100%;
   border:1px solid rgba(56, 189, 248, 0.32);
   border-radius: 14px;
   padding: 18px 16px 20px;
@@ -62,36 +61,6 @@ header {
   width: 100%;
   text-align: center;
   transition: opacity 0.2s ease, transform 0.2s ease;
-}
-header.compact {
-  padding: 10px 14px;
-  border-radius: 10px;
-}
-header.compact .header-top {
-  opacity: 0.98;
-}
-header.compact h1 {
-  font-size: 20px;
-  letter-spacing: -0.04em;
-}
-header.compact .controls,
-header.compact .search-bar {
-  opacity: 0;
-  transform: translateY(-4px);
-  pointer-events: none;
-  max-height: 0;
-  margin: 0;
-  padding-top: 0;
-  padding-bottom: 0;
-  overflow: hidden;
-  border-width: 0;
-}
-header .controls,
-header .search-bar {
-  opacity: 1;
-  transform: translateY(0);
-  max-height: 80px;
-  transition: opacity 0.2s ease, transform 0.2s ease, max-height 0.2s ease, margin 0.2s ease, padding 0.2s ease;
 }
 h1 {
   font-size: 26px;
@@ -350,18 +319,6 @@ async function loadStories() {
 }
 
 loadStories();
-
-let lastScrollY = 0;
-const header = document.querySelector('header');
-
-function updateHeaderState() {
-  const currentScroll = window.scrollY || window.pageYOffset;
-  header.classList.toggle('compact', currentScroll > 24);
-  lastScrollY = currentScroll;
-}
-
-window.addEventListener('scroll', updateHeaderState, { passive: true });
-updateHeaderState();
 </script>
 </body>
 </html>
