@@ -241,7 +241,15 @@ function logout() {
   window.location.href = './login.html';
 }
 
-let currentLang = localStorage.getItem('rs_lang') || 'fi';
+const urlParams = new URLSearchParams(window.location.search);
+const forcedLang = urlParams.get('lang');
+const validLangs = ['en', 'fi'];
+
+if (forcedLang && validLangs.includes(forcedLang)) {
+  localStorage.setItem('rs_lang', forcedLang);
+}
+
+let currentLang = (forcedLang && validLangs.includes(forcedLang)) ? forcedLang : (localStorage.getItem('rs_lang') || 'fi');
 
 function setLang(l) {
   currentLang = l;
