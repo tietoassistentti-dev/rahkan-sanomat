@@ -1,5 +1,12 @@
 [
   {
+    "headline": "A train wreck: Can Sánchez survive Spain’s latest crisis?",
+    "headline_fi": "Juna-hylky: selviytyykö Sánchez Espanjan uusimmasta kriisistä?",
+    "link": "https://www.euronews.com/2026/10/29/a-train-wreck-can-sanchez-survive-spains-latest-crisis",
+    "source": "Euronews",
+    "pub": "2026-10-29 09:22"
+  },
+  {
     "headline": "India news: 'Cockroaches' back Gandhi's rally against election chief",
     "headline_fi": "Intia-uutiset: \"Torakat\" tukevat Gandhin mielenosoitusta vaalijohtajaa vastaan",
     "link": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
@@ -505,14 +512,14 @@
   },
   {
     "headline": "Europe needs more oil refineries to weather energy shocks, EU warns",
-    "headline_fi": "Europe needs more oil refineries to weather energy shocks, EU warns",
+    "headline_fi": "EU varoittaa, että Eurooppa tarvitsee lisää öljynjalostamoita selviytyäkseen energiahäiriöistä",
     "link": "https://www.euronews.com/2026/10/28/europe-needs-more-oil-refineries-to-weather-energy-shocks-eu-warns",
     "source": "Euronews",
     "pub": "2026-10-28 15:11"
   },
   {
     "headline": "EU begins talks on tougher safeguards for newcomers, with Montenegro first in line",
-    "headline_fi": "EU begins talks on tougher safeguards for newcomers, with Montenegro first in line",
+    "headline_fi": "EU aloittaa neuvottelut uusien tulokkaiden turvatoimien tiukentamisesta Montenegron ollessa ensimmäinen",
     "link": "https://www.euronews.com/2026/10/28/eu-begins-talks-on-tougher-safeguards-for-newcomers-with-montenegro-first-in-line",
     "source": "Euronews",
     "pub": "2026-10-28 14:46"
@@ -523,13 +530,6 @@
     "link": "https://www.euronews.com/2026/10/28/evacuation-or-forced-deportation-where-will-trapped-citizens-of-russia-occupied-oleshky-go",
     "source": "Euronews",
     "pub": "2026-10-28 14:20"
-  },
-  {
-    "headline": "Checking luggage with Ryanair? Airline announces earlier baggage drop deadline",
-    "headline_fi": "Tarkistatko matkatavarat Ryanairin kanssa?Lentoyhtiö ilmoittaa aikaisemman matkatavaroiden luovutusajan",
-    "link": "https://www.euronews.com/2026/10/28/checking-luggage-with-ryanair-airline-announces-earlier-baggage-drop-deadline",
-    "source": "Euronews",
-    "pub": "2026-10-28 14:12"
   },
   {
     "headline": "Debate: Israel after the election: who will form a government?",
@@ -589,35 +589,35 @@
   },
   {
     "headline": "Can we regrow damaged seagrass meadows?",
-    "headline_fi": "Can we regrow damaged seagrass meadows?",
+    "headline_fi": "Voimmeko kasvattaa vaurioituneita meriheinäniityjä uudelleen?",
     "link": "https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 12:51"
   },
   {
     "headline": "EU's 'Made in Europe' push unnerves global auto suppliers",
-    "headline_fi": "EU's 'Made in Europe' push unnerves global auto suppliers",
+    "headline_fi": "EU:n \"Made in Europe\" -työntö ahdistaa maailmanlaajuisia autotoimittajia",
     "link": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 12:24"
   },
   {
     "headline": "Germany news: Parties debate who should succeed President Steinmeier, with several women under discussion",
-    "headline_fi": "Germany news: Parties debate who should succeed President Steinmeier, with several women under discussion",
+    "headline_fi": "Saksan uutiset: Puolueet keskustelevat presidentti Steinmeierin seuraajasta, useiden naisten kanssa keskustellaan",
     "link": "https://www.dw.com/en/germany-news-parties-debate-who-should-succeed-president-steinmeier-with-several-women-under-discussion/live-79783779?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 12:20"
   },
   {
     "headline": "Russia in Africa: What is Putin hoping to achieve?",
-    "headline_fi": "Russia in Africa: What is Putin hoping to achieve?",
+    "headline_fi": "Venäjä Afrikassa: Mitä Putin toivoo saavuttavansa?",
     "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 11:48"
   },
   {
     "headline": "Serbian police shoot dead assailant at Israeli Embassy",
-    "headline_fi": "Serbian police shoot dead assailant at Israeli Embassy",
+    "headline_fi": "Serbian poliisi ampui hyökkääjän Israelin suurlähetystöön",
     "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 10:48"
