@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+    "headline_fi": "Noin 320 000 mielenosoittajaa osallistuu pääosin rauhanomaisiin mielenosoituksiin eri puolilla Ranskaa",
+    "link": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+    "source": "France 24",
+    "pub": "2026-10-31 23:34"
+  },
+  {
+    "headline": "Poland crisis: Donald Tusk strikes defiant tone vowing ‘no compromise’ on rule of law after Tribunal clash",
+    "headline_fi": "Puolan kriisi: Donald Tusk puhui uhmakkaasti ja lupasi \"ei kompromisseja\" oikeusvaltioperiaatteesta tuomioistuimen yhteenotossa",
+    "link": "https://www.euronews.com/2026/10/31/poland-crisis-donald-tusk-strikes-defiant-tone-vowing-no-compromise-on-rule-of-law-after-t",
+    "source": "Euronews",
+    "pub": "2026-10-31 22:14"
+  },
+  {
+    "headline": "'Gen Z' demonstrations across Germany demand more education funding",
+    "headline_fi": "Z-sukupolven mielenosoitukset kaikkialla Saksassa vaativat lisää koulutusrahoitusta",
+    "link": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
+    "source": "France 24",
+    "pub": "2026-10-31 22:07"
+  },
+  {
+    "headline": "Serbia after Vucic: The winners are losing patience",
+    "headline_fi": "Serbia Vučicin jälkeen: Voittajat ovat menettämässä kärsivällisyyttä",
+    "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-31 21:49"
+  },
+  {
     "headline": "Berlin student protests: youth demands meet extremist mobilisation",
     "headline_fi": "Berliinin opiskelijaprotestoi: nuorten vaatimukset kohtaavat ääriliikkeiden mobilisaatiota",
     "link": "https://www.euronews.com/2026/10/31/berlin-student-protests-youth-demands-meet-extremist-mobilisation",
@@ -203,8 +231,8 @@
     "pub": "2026-10-31 11:40"
   },
   {
-    "headline": "Youth Olympics open in Senegal as the first Olympic event in Africa",
-    "headline_fi": "Nuorten olympialaiset avataan Senegalissa ensimmäisenä olympiatapahtumana Afrikassa",
+    "headline": "Senegal kicks off Africa's first ever Olympics with Youth Games",
+    "headline_fi": "Senegal aloittaa Afrikan ensimmäiset olympialaiset Youth Gamesilla",
     "link": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
     "source": "France 24",
     "pub": "2026-10-31 11:37"
@@ -329,8 +357,8 @@
     "pub": "2026-10-31 08:00"
   },
   {
-    "headline": "Live: Interior ministry says some 320,000 people protest across France as unrest flares",
-    "headline_fi": "Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+    "headline": "Interior minister says protests across France went well despite clashes with police",
+    "headline_fi": "Sisäministerin mukaan mielenosoitukset sujuivat eri puolilla Ranskaa hyvin huolimatta yhteenotoista poliisin kanssa",
     "link": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
     "source": "France 24",
     "pub": "2026-10-31 07:53"
@@ -344,7 +372,7 @@
   },
   {
     "headline": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
-    "headline_fi": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
+    "headline_fi": "Intia-uutiset: Amit Shah haastaa Rahul Gandhin keskustelemaan äänivarkauksista parlamentissa",
     "link": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-31 07:06"
@@ -379,31 +407,17 @@
   },
   {
     "headline": "Poland: Protesters, police clash amid top court standoff",
-    "headline_fi": "Poland: Protesters, police clash amid top court standoff",
+    "headline_fi": "Puola: Mielenosoittajat ja poliisi ottivat yhteen korkeimman oikeuden vastakkainasettelun keskellä",
     "link": "https://www.dw.com/en/poland-protesters-police-clash-amid-top-court-standoff/a-79813882?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-31 01:22"
   },
   {
     "headline": "Trump admin approves potential Patriot missiles sale to Ukraine",
-    "headline_fi": "Trump admin approves potential Patriot missiles sale to Ukraine",
+    "headline_fi": "Trumpin hallinto hyväksyy mahdollisen Patriot-ohjusten myynnin Ukrainalle",
     "link": "https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine",
     "source": "France 24",
     "pub": "2026-10-31 01:19"
-  },
-  {
-    "headline": "First Youth Olympic Games in Africa",
-    "headline_fi": "Ensimmäiset nuorten olympialaiset Afrikassa",
-    "link": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
-    "source": "France 24",
-    "pub": "2026-10-30 23:48"
-  },
-  {
-    "headline": "Residents leave Russian-occupied Oleshky in evacuation operation",
-    "headline_fi": "Asukkaat lähtevät Venäjän miehittämästä Oleshkysta evakuointioperaatioon",
-    "link": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
-    "source": "France 24",
-    "pub": "2026-10-30 23:46"
   },
   {
     "headline": "8 things we learned at the EU-Canada summit",
@@ -421,7 +435,7 @@
   },
   {
     "headline": "Polish president cuts short trip to Senegal amid court 'coup d'état' claims",
-    "headline_fi": "Polish president cuts short trip to Senegal amid court 'coup d'état' claims",
+    "headline_fi": "Puolan presidentti katkaisi matkansa Senegaliin tuomioistuimen vallankaappaussyytteiden vuoksi",
     "link": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations",
     "source": "Euronews",
     "pub": "2026-10-30 22:43"
@@ -435,7 +449,7 @@
   },
   {
     "headline": "French economy 'at a standstill' as budget uncertainty swirls",
-    "headline_fi": "French economy 'at a standstill' as budget uncertainty swirls",
+    "headline_fi": "Ranskan talous \"pysähdyksissä\" budjettiepävarmuuden pyörteessä",
     "link": "https://www.euronews.com/2026/10/30/french-economy-at-a-standstill-adds-to-budget-uncertainty",
     "source": "Euronews",
     "pub": "2026-10-30 19:55"
@@ -595,64 +609,57 @@
     "pub": "2026-10-30 15:19"
   },
   {
-    "headline": "Nature recovery is falling behind. Can COP17 get global action back on track?",
-    "headline_fi": "Luonnon palautuminen jää jälkeen.Voiko COP17 saada maailmanlaajuiset toimet takaisin raiteilleen?",
-    "link": "https://www.euronews.com/2026/10/30/nature-recovery-is-falling-behind-can-cop17-get-global-action-back-on-track",
-    "source": "Euronews",
-    "pub": "2026-10-30 14:57"
-  },
-  {
     "headline": "Germany takes cautious approach on Israeli election results",
-    "headline_fi": "Germany takes cautious approach on Israeli election results",
+    "headline_fi": "Saksa suhtautuu varovaisesti Israelin vaalitulokseen",
     "link": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 13:26"
   },
   {
     "headline": "IIHF ordered to allow Russia back into world championships",
-    "headline_fi": "IIHF ordered to allow Russia back into world championships",
+    "headline_fi": "IIHF määräsi Venäjän takaisin MM-kisoihin",
     "link": "https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 12:57"
   },
   {
     "headline": "Debate: Israeli election: stalemate in the Knesset?",
-    "headline_fi": "Debate: Israeli election: stalemate in the Knesset?",
+    "headline_fi": "Keskustelu: Israelin vaalit: umpikuja Knessetissä?",
     "link": "https://www.eurotopics.net/en/366322/israeli-election-stalemate-in-the-knesset?pk_campaign=rss-en&pk_kwd=2026-10-30",
     "source": "Eurotopics",
     "pub": "2026-10-30 12:44"
   },
   {
     "headline": "Intimidation tactics worked | Echo - Russia",
-    "headline_fi": "Intimidation tactics worked | Echo - Russia",
+    "headline_fi": "Pelottelutaktiikka toimi |Echo - Venäjä",
     "link": "https://www.eurotopics.net/en/366322/israeli-election-stalemate-in-the-knesset?zitat=366420&pk_campaign=rss-en&pk_kwd=2026-10-30#zitat366420",
     "source": "Eurotopics",
     "pub": "2026-10-30 12:44"
   },
   {
     "headline": "Debate: US midterms: a debacle for Trump?",
-    "headline_fi": "Debate: US midterms: a debacle for Trump?",
+    "headline_fi": "Keskustelu: Yhdysvaltain välikausi: romahdus Trumpille?",
     "link": "https://www.eurotopics.net/en/366401/us-midterms-a-debacle-for-trump?pk_campaign=rss-en&pk_kwd=2026-10-30",
     "source": "Eurotopics",
     "pub": "2026-10-30 12:44"
   },
   {
     "headline": "Factor in resistance within the party | Konfront - Hungary",
-    "headline_fi": "Factor in resistance within the party | Konfront - Hungary",
+    "headline_fi": "Puolueen sisäinen vastustustekijä |Konfront - Unkari",
     "link": "https://www.eurotopics.net/en/366401/us-midterms-a-debacle-for-trump?zitat=366463&pk_campaign=rss-en&pk_kwd=2026-10-30#zitat366463",
     "source": "Eurotopics",
     "pub": "2026-10-30 12:44"
   },
   {
     "headline": "America's heartland feels betrayed | Revista 22 - Romania",
-    "headline_fi": "America's heartland feels betrayed | Revista 22 - Romania",
+    "headline_fi": "Amerikan sydänmaa tuntee olevansa petetty |Revista 22 - Romania",
     "link": "https://www.eurotopics.net/en/366401/us-midterms-a-debacle-for-trump?zitat=366426&pk_campaign=rss-en&pk_kwd=2026-10-30#zitat366426",
     "source": "Eurotopics",
     "pub": "2026-10-30 12:44"
   },
   {
     "headline": "Debate: Brazil: Bolsonaro flees to the US",
-    "headline_fi": "Debate: Brazil: Bolsonaro flees to the US",
+    "headline_fi": "Keskustelu: Brasilia: Bolsonaro pakenee Yhdysvaltoihin",
     "link": "https://www.eurotopics.net/en/366467/brazil-bolsonaro-flees-to-the-us?pk_campaign=rss-en&pk_kwd=2026-10-30",
     "source": "Eurotopics",
     "pub": "2026-10-30 12:44"
@@ -687,7 +694,7 @@
   },
   {
     "headline": "Russia shadow fleet sanctions: Can the EU act without US?",
-    "headline_fi": "Russia shadow fleet sanctions: Can the EU act without US?",
+    "headline_fi": "Venäjän laivaston varjopakotteet: Voiko EU toimia ilman Yhdysvaltoja?",
     "link": "https://www.dw.com/en/russia-shadow-fleet-sanctions-can-the-eu-act-without-us/a-79787035?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-29 14:01"
