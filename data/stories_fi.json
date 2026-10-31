@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Poland: Protesters clash with police over sacked court chief",
+    "headline_fi": "Puola: Mielenosoittajat ottivat yhteen poliisin kanssa oikeuspäällikön erottamisesta",
+    "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-31 01:22"
+  },
+  {
+    "headline": "First Youth Olympic Games in Africa",
+    "headline_fi": "Ensimmäiset nuorten olympialaiset Afrikassa",
+    "link": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
+    "source": "France 24",
+    "pub": "2026-10-30 23:48"
+  },
+  {
+    "headline": "Residents leave Russian-occupied Oleshky in evacuation operation",
+    "headline_fi": "Asukkaat lähtevät Venäjän miehittämästä Oleshkysta evakuointioperaatioon",
+    "link": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
+    "source": "France 24",
+    "pub": "2026-10-30 23:46"
+  },
+  {
+    "headline": "8 things we learned at the EU-Canada summit",
+    "headline_fi": "8 asiaa, jotka opimme EU:n ja Kanadan huippukokouksessa",
+    "link": "https://www.politico.eu/article/8-things-we-learned-eu-canada-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-30 23:43"
+  },
+  {
     "headline": "Tusk-Nawrocki battle escalates as chief judge is ousted from Poland’s top court",
     "headline_fi": "Tusk-Nawrocki-taistelu kärjistyy, kun ylituomari syrjäytetään Puolan korkeimmasta tuomioistuimesta",
     "link": "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -7,9 +35,9 @@
     "pub": "2026-10-30 23:12"
   },
   {
-    "headline": "Mark Carney: Canada has 'learned we are overdependent on the US'",
-    "headline_fi": "Mark Carney: Kanada on \"oppinut, että olemme yliriippuvaisia ​​Yhdysvalloista\"",
-    "link": "https://www.dw.com/en/mark-carney-canada-has-learned-we-are-overdependent-on-the-us/a-79811469?maca=en-rss-en-all-1573-rdf",
+    "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+    "headline_fi": "Kanadan pääministeri Mark Carney keskustelee DW:n haastattelussa keskusteluista EU:n kanssa, liiallisesta riippuvuudesta Yhdysvalloista ja Donald Trumpin toiminnasta.",
+    "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 22:55"
   },
@@ -56,9 +84,9 @@
     "pub": "2026-10-30 20:01"
   },
   {
-    "headline": "French economy \"at a standstill\" adds to France's budget crisis risk",
-    "headline_fi": "Ranskan talous \"pysähdyksissä\" lisää Ranskan budjettikriisin riskiä",
-    "link": "https://www.euronews.com/2026/10/30/french-economy-at-a-standstill-adds-to-frances-budget-crisis-risk",
+    "headline": "French economy \"at a standstill\" adds to budget uncertainty",
+    "headline_fi": "Ranskan talous \"pysähdyksissä\" lisää budjettien epävarmuutta",
+    "link": "https://www.euronews.com/2026/10/30/french-economy-at-a-standstill-adds-to-budget-uncertainty",
     "source": "Euronews",
     "pub": "2026-10-30 19:55"
   },
@@ -224,8 +252,8 @@
     "pub": "2026-10-30 17:34"
   },
   {
-    "headline": "Italy on high alert as thousands take the streets in nationwide strike",
-    "headline_fi": "Italia on korkeassa valmiustilassa, kun tuhannet lähtevät kaduille valtakunnalliseen lakkoon",
+    "headline": "Protesters clash with police near Colosseum as Italy stages nationwide strike",
+    "headline_fi": "Mielenosoittajat ottivat yhteen poliisin kanssa lähellä Colosseumia Italian järjestäessä valtakunnallisen lakon",
     "link": "https://www.euronews.com/2026/10/30/italy-on-high-alert-as-thousands-take-the-streets-in-nationwide-strike",
     "source": "Euronews",
     "pub": "2026-10-30 17:26"
@@ -274,105 +302,91 @@
   },
   {
     "headline": "The Rutte way or the Carney method? Scaramucci says Europe’s Trump strategy is off the Mark",
-    "headline_fi": "The Rutte way or the Carney method? Scaramucci says Europe’s Trump strategy is off the Mark",
+    "headline_fi": "Rutten tapa vai Carneyn menetelmä?Scaramucci sanoo, että Euroopan Trump-strategia on poissa rajoista",
     "link": "https://www.politico.eu/article/mark-rutte-mark-carney-donald-trump-anthony-scaramucci-white-house-strategy-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-30 16:32"
   },
   {
     "headline": "Nvidia CEO sees Kazakhstan as potential AI hub for Europe",
-    "headline_fi": "Nvidia CEO sees Kazakhstan as potential AI hub for Europe",
+    "headline_fi": "Nvidian toimitusjohtaja näkee Kazakstanin mahdollisena tekoälykeskuksena Euroopalle",
     "link": "https://www.euronews.com/2026/10/30/nvidia-ceo-sees-kazakhstan-as-potential-ai-hub-for-europe",
     "source": "Euronews",
     "pub": "2026-10-30 16:29"
   },
   {
     "headline": "Black Sea shipping under growing threats as drones hit container ships",
-    "headline_fi": "Black Sea shipping under growing threats as drones hit container ships",
+    "headline_fi": "Mustanmeren merenkulku on kasvavissa uhissa, kun droonit osuivat konttialuksiin",
     "link": "https://www.france24.com/en/black-sea-shipping-under-growing-threats-as-drones-hit-container-ships",
     "source": "France 24",
     "pub": "2026-10-30 16:27"
   },
   {
     "headline": "'The Phantom of the Opera' haunts French cinemas again",
-    "headline_fi": "'The Phantom of the Opera' haunts French cinemas again",
+    "headline_fi": "\"Oopperan kummitus\" kummittelee jälleen ranskalaisissa elokuvateattereissa",
     "link": "https://www.france24.com/en/tv-shows/arts24/20261030-the-phantom-of-the-opera-haunts-french-cinemas-again",
     "source": "France 24",
     "pub": "2026-10-30 16:24"
   },
   {
     "headline": "Spanish transport minister faces calls to quit after deadly train crash",
-    "headline_fi": "Spanish transport minister faces calls to quit after deadly train crash",
+    "headline_fi": "Espanjan liikenneministeri joutuu eroamaan kuolettavan junaturman jälkeen",
     "link": "https://www.france24.com/en/video/20261030-spanish-transport-minister-faces-calls-to-quit-after-deadly-train-crash",
     "source": "France 24",
     "pub": "2026-10-30 16:21"
   },
   {
-    "headline": "Third weekend of protests looms as tensions persist across France",
-    "headline_fi": "Third weekend of protests looms as tensions persist across France",
-    "link": "https://www.france24.com/en/video/20261030-third-weekend-of-protests-looms-as-tensions-persist-across-france",
-    "source": "France 24",
-    "pub": "2026-10-30 16:10"
-  },
-  {
     "headline": "Seoul fears being sidelined as US reaches out to North Korea",
-    "headline_fi": "Seoul fears being sidelined as US reaches out to North Korea",
+    "headline_fi": "Soul pelkää joutuvansa sivuun, kun Yhdysvallat tavoittaa Pohjois-Korean",
     "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 16:08"
   },
   {
-    "headline": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
-    "headline_fi": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
-    "link": "https://www.france24.com/en/who-is-kevin-t-the-main-suspect-behind-the-racist-trappes-attack",
-    "source": "France 24",
-    "pub": "2026-10-30 16:06"
-  },
-  {
     "headline": "From derelict food market to futuristic Centre of Excellence: inside a Cyprus success story",
-    "headline_fi": "From derelict food market to futuristic Centre of Excellence: inside a Cyprus success story",
+    "headline_fi": "Hylätyistä ruokamarkkinoista futuristiseen huippuyksikköön: Kyproksen menestystarinassa",
     "link": "https://www.euronews.com/2026/10/30/from-derelict-food-market-to-futuristic-centre-of-excellence-inside-a-cyprus-success-story",
     "source": "Euronews",
     "pub": "2026-10-30 16:00"
   },
   {
     "headline": "Bollywood and the underworld — together in the spotlight?",
-    "headline_fi": "Bollywood and the underworld — together in the spotlight?",
+    "headline_fi": "Bollywood ja alamaailma – yhdessä valokeilassa?",
     "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 16:00"
   },
   {
     "headline": "Pope Leo XIV has voted in US midterm elections, Vatican says",
-    "headline_fi": "Pope Leo XIV has voted in US midterm elections, Vatican says",
+    "headline_fi": "Vatikaanin mukaan paavi Leo XIV on äänestänyt Yhdysvaltain välivaaleissa",
     "link": "https://www.euronews.com/2026/10/30/pope-leo-xiv-has-voted-in-us-midterm-elections-vatican-says",
     "source": "Euronews",
     "pub": "2026-10-30 15:59"
   },
   {
     "headline": "Islamic states prosecutors call for global enforcement coalition",
-    "headline_fi": "Islamic states prosecutors call for global enforcement coalition",
+    "headline_fi": "Islamilaisten valtioiden syyttäjät vaativat maailmanlaajuista täytäntöönpanoliittoa",
     "link": "https://www.euronews.com/2026/10/30/islamic-states-prosecutors-call-for-global-enforcement-coalition",
     "source": "Euronews",
     "pub": "2026-10-30 15:56"
   },
   {
     "headline": "Russian citizen faces spying charges in Poland after photographing railways",
-    "headline_fi": "Russian citizen faces spying charges in Poland after photographing railways",
+    "headline_fi": "Venäjän kansalaista syytetään vakoilusta Puolassa sen jälkeen, kun hän on kuvannut rautateitä",
     "link": "https://www.politico.eu/article/russian-citizen-detained-in-poland-over-espionage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-30 15:35"
   },
   {
     "headline": "Italy: Thousands protest rising living costs and defence spending in general strike",
-    "headline_fi": "Italy: Thousands protest rising living costs and defence spending in general strike",
+    "headline_fi": "Italia: Tuhannet protestoivat elinkustannusten ja puolustusmenojen nousua vastaan ​​yleislakossa",
     "link": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
     "source": "Euronews",
     "pub": "2026-10-30 15:26"
   },
   {
     "headline": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
-    "headline_fi": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
+    "headline_fi": "Bayern Münchenin Kenia-ystävyysottelu korostaa Afrikan kasvavaa vetovoimaa globaalissa urheilussa",
     "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 15:19"
@@ -607,13 +621,6 @@
     "link": "https://www.dw.com/en/india-news-space-agency-to-boost-gps-alternative-with-new-satellite/live-79803564?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 08:59"
-  },
-  {
-    "headline": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
-    "headline_fi": "Israelin vaalit: Netanjahu, pääkilpailija ei saavuttanut enemmistöä, kun kaikki äänet on laskettu",
-    "link": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-30 08:17"
   },
   {
     "headline": "'Star Trek' star Patrick Stewart dies age 86",
