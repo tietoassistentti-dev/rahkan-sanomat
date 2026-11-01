@@ -1,5 +1,54 @@
 [
   {
+    "headline": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
+    "headline_fi": "EU:n komissio: Puolan parlamentilla on oikeus nimittää perustuslakituomioistuimen tuomareita",
+    "link": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
+    "source": "Euronews",
+    "pub": "2026-11-01 08:04"
+  },
+  {
+    "headline": "Latest news bulletin | November 1st, 2026 – Morning",
+    "headline_fi": "Uusin uutistiedote |1. marraskuuta 2026 – aamu",
+    "link": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-11-01 08:00"
+  },
+  {
+    "headline": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+    "headline_fi": "Intia-uutiset: Oppositio järjestää suuren mielenosoituksen Delhissä äänestäjien listan tarkistuksista",
+    "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-01 07:56"
+  },
+  {
+    "headline": "Security Sunday: Wie real ist die Kriegsgefahr? – mit General Alexander Sollfrank",
+    "headline_fi": "Turvallisuussunnuntai: Kuinka todellinen sodan uhka on?– kenraali Alexander Sollfrankin kanssa",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-wie-real-ist-die-kriegsgefahr-mit-general-alexander-sollfrank/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-01 07:00"
+  },
+  {
+    "headline": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
+    "headline_fi": "Trump myönsi viisumin NYC:ssä tapetun ghanalaisen pojan Mamdanin äidille",
+    "link": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-01 05:12"
+  },
+  {
+    "headline": "FBI says North Korea behind $6 billion Binance crypto theft",
+    "headline_fi": "FBI:n mukaan Pohjois-Korea on 6 miljardin dollarin Binancen kryptovarkauden takana",
+    "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-01 03:53"
+  },
+  {
+    "headline": "Testimonies from Oleshky",
+    "headline_fi": "Todistuksia Oleshkylta",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261031-testimonies-from-oleshky",
+    "source": "France 24",
+    "pub": "2026-11-01 01:54"
+  },
+  {
     "headline": "Some 320,000 demonstrators take part in largely peaceful protests across France",
     "headline_fi": "Noin 320 000 mielenosoittajaa osallistuu pääosin rauhanomaisiin mielenosoituksiin eri puolilla Ranskaa",
     "link": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
@@ -84,9 +133,9 @@
     "pub": "2026-10-31 18:41"
   },
   {
-    "headline": "Gen Z protests sweep cities across Germany",
-    "headline_fi": "Z-sukupolven mielenosoitukset pyyhkäisevät kaupunkeja ympäri Saksaa",
-    "link": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany's Gen Z protests disrupted by violence on Saturday",
+    "headline_fi": "Saksan Z-sukupolven mielenosoitukset keskeyttivät väkivaltaisuudet lauantaina",
+    "link": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-31 18:00"
   },
@@ -413,20 +462,6 @@
     "pub": "2026-10-31 01:22"
   },
   {
-    "headline": "Trump admin approves potential Patriot missiles sale to Ukraine",
-    "headline_fi": "Trumpin hallinto hyväksyy mahdollisen Patriot-ohjusten myynnin Ukrainalle",
-    "link": "https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine",
-    "source": "France 24",
-    "pub": "2026-10-31 01:19"
-  },
-  {
-    "headline": "8 things we learned at the EU-Canada summit",
-    "headline_fi": "8 asiaa, jotka opimme EU:n ja Kanadan huippukokouksessa",
-    "link": "https://www.politico.eu/article/8-things-we-learned-eu-canada-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-30 23:43"
-  },
-  {
     "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
     "headline_fi": "Kanadan pääministeri Mark Carney keskustelee DW:n haastattelussa keskusteluista EU:n kanssa, liiallisesta riippuvuudesta Yhdysvalloista ja Donald Trumpin toiminnasta.",
     "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
@@ -518,13 +553,6 @@
     "pub": "2026-10-30 17:54"
   },
   {
-    "headline": "Binance crypto exchange suspends trades over North Korea-linked hack",
-    "headline_fi": "Binancen kryptopörssi keskeyttää kaupat Pohjois-Koreaan liittyvän hakkeroinnin vuoksi",
-    "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-30 17:37"
-  },
-  {
     "headline": "Protesters clash with police near Colosseum as Italy stages nationwide strike",
     "headline_fi": "Mielenosoittajat ottivat yhteen poliisin kanssa lähellä Colosseumia Italian järjestäessä valtakunnallisen lakon",
     "link": "https://www.euronews.com/2026/10/30/italy-on-high-alert-as-thousands-take-the-streets-in-nationwide-strike",
@@ -567,39 +595,11 @@
     "pub": "2026-10-30 16:29"
   },
   {
-    "headline": "Seoul fears being sidelined as US reaches out to North Korea",
-    "headline_fi": "Soul pelkää joutuvansa sivuun, kun Yhdysvallat tavoittaa Pohjois-Korean",
-    "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-30 16:08"
-  },
-  {
     "headline": "From derelict food market to futuristic Centre of Excellence: inside a Cyprus success story",
     "headline_fi": "Hylätyistä ruokamarkkinoista futuristiseen huippuyksikköön: Kyproksen menestystarinassa",
     "link": "https://www.euronews.com/2026/10/30/from-derelict-food-market-to-futuristic-centre-of-excellence-inside-a-cyprus-success-story",
     "source": "Euronews",
     "pub": "2026-10-30 16:00"
-  },
-  {
-    "headline": "Pope Leo XIV has voted in US midterm elections, Vatican says",
-    "headline_fi": "Vatikaanin mukaan paavi Leo XIV on äänestänyt Yhdysvaltain välivaaleissa",
-    "link": "https://www.euronews.com/2026/10/30/pope-leo-xiv-has-voted-in-us-midterm-elections-vatican-says",
-    "source": "Euronews",
-    "pub": "2026-10-30 15:59"
-  },
-  {
-    "headline": "Islamic states prosecutors call for global enforcement coalition",
-    "headline_fi": "Islamilaisten valtioiden syyttäjät vaativat maailmanlaajuista täytäntöönpanoliittoa",
-    "link": "https://www.euronews.com/2026/10/30/islamic-states-prosecutors-call-for-global-enforcement-coalition",
-    "source": "Euronews",
-    "pub": "2026-10-30 15:56"
-  },
-  {
-    "headline": "Italy: Thousands protest rising living costs and defence spending in general strike",
-    "headline_fi": "Italia: Tuhannet protestoivat elinkustannusten ja puolustusmenojen nousua vastaan ​​yleislakossa",
-    "link": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
-    "source": "Euronews",
-    "pub": "2026-10-30 15:26"
   },
   {
     "headline": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
@@ -1209,33 +1209,5 @@
     "link": "https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 13:34"
-  },
-  {
-    "headline": "\"NAZA\": Israeli military issues statement on film",
-    "headline_fi": "\"NAZA\": Israelin armeijan lausunto elokuvasta",
-    "link": "https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 18:55"
-  },
-  {
-    "headline": "Germany's Franz Reindl elected new IIHF president",
-    "headline_fi": "Saksan Franz Reindl valittiin uudeksi IIHF:n puheenjohtajaksi",
-    "link": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 17:29"
-  },
-  {
-    "headline": "Climate leaders called for solar energy for 'everyone, everywhere' by 2030, but with three years to go, is that goal attainable?",
-    "headline_fi": "Ilmastojohtajat vaativat aurinkoenergiaa \"kaikille, kaikkialle\" vuoteen 2030 mennessä, mutta onko tämä tavoite saavutettavissa kolmen vuoden kuluttua?",
-    "link": "https://www.dw.com/en/climate-leaders-called-for-solar-energy-for-everyone-everywhere-by-2030-but-with-three-years-to-go-is-that-goal-attainable/a-79517056?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 16:48"
-  },
-  {
-    "headline": "Turkey: Stock market scandal hits half a million investors",
-    "headline_fi": "Turkki: Osakemarkkinaskandaali iskee puoli miljoonaa sijoittajaa",
-    "link": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 07:32"
   }
 ]
