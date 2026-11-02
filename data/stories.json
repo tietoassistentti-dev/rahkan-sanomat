@@ -1,5 +1,40 @@
 [
   {
+    "headline": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+    "headline_fi": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+    "link": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+    "source": "France 24",
+    "pub": "2026-11-02 03:20"
+  },
+  {
+    "headline": "German police investigating after needles found in Halloween candy",
+    "headline_fi": "German police investigating after needles found in Halloween candy",
+    "link": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-02 03:16"
+  },
+  {
+    "headline": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+    "headline_fi": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+    "link": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+    "source": "France 24",
+    "pub": "2026-11-02 02:49"
+  },
+  {
+    "headline": "Iran warns renewed war with US could outlast previous conflict",
+    "headline_fi": "Iran warns renewed war with US could outlast previous conflict",
+    "link": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+    "source": "France 24",
+    "pub": "2026-11-02 02:23"
+  },
+  {
+    "headline": "Nine killed as business jet crashes into South Florida neighbourhood",
+    "headline_fi": "Nine killed as business jet crashes into South Florida neighbourhood",
+    "link": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+    "source": "France 24",
+    "pub": "2026-11-02 01:45"
+  },
+  {
     "headline": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
     "headline_fi": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
     "link": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
@@ -63,11 +98,25 @@
     "pub": "2026-11-01 19:00"
   },
   {
+    "headline": "Allies fear Trump will target NATO in case of midterm loss",
+    "headline_fi": "Allies fear Trump will target NATO in case of midterm loss",
+    "link": "https://www.politico.eu/article/allies-fear-donald-trump-could-target-nato-after-midterm-loss/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-01 19:00"
+  },
+  {
     "headline": "Heidi Klum's 2026 Halloween party costume: a giant bloody replica of her own hand",
     "headline_fi": "Heidi Klum's 2026 Halloween party costume: a giant bloody replica of her own hand",
     "link": "https://www.euronews.com/2026/11/01/heidi-klums-2026-halloween-party-costume-a-giant-bloody-replica-of-her-own-hand",
     "source": "Euronews",
     "pub": "2026-11-01 18:05"
+  },
+  {
+    "headline": "EU and Canada’s 6-month test of commitment",
+    "headline_fi": "EU and Canada’s 6-month test of commitment",
+    "link": "https://www.politico.eu/article/canada-eu-partnership-6-month-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-01 18:00"
   },
   {
     "headline": "France reports largely peaceful protests",
@@ -126,9 +175,9 @@
     "pub": "2026-11-01 16:31"
   },
   {
-    "headline": "Ukraine news: Oleshky ceasefire ends as Russian attacks leave tens of thousands without power",
-    "headline_fi": "Ukraine news: Oleshky ceasefire ends as Russian attacks leave tens of thousands without power",
-    "link": "https://www.dw.com/en/ukraine-news-oleshky-ceasefire-ends-as-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
+    "headline": "Ukraine: Six-day localized ceasefire in Oleshky comes to end",
+    "headline_fi": "Ukraine: Six-day localized ceasefire in Oleshky comes to end",
+    "link": "https://www.dw.com/en/ukraine-six-day-localized-ceasefire-in-oleshky-comes-to-end/live-79815409?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-01 16:13"
   },
@@ -273,39 +322,18 @@
     "pub": "2026-11-01 11:49"
   },
   {
-    "headline": "US Midterms: Affordability at heart of Michigan race",
-    "headline_fi": "US Midterms: Affordability at heart of Michigan race",
-    "link": "https://www.france24.com/en/us-midterms-affordability-at-heart-of-michigan-race",
-    "source": "France 24",
-    "pub": "2026-11-01 11:39"
-  },
-  {
-    "headline": "Youth-led rallies sweep Europe",
-    "headline_fi": "Youth-led rallies sweep Europe",
-    "link": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
-    "source": "France 24",
-    "pub": "2026-11-01 11:38"
-  },
-  {
-    "headline": "How social media are central to protests",
-    "headline_fi": "How social media are central to protests",
-    "link": "https://www.france24.com/en/how-social-media-are-central-to-protests",
-    "source": "France 24",
-    "pub": "2026-11-01 11:36"
-  },
-  {
-    "headline": "Hundreds of thousands protest in France for \"Act III\"",
-    "headline_fi": "Hundreds of thousands protest in France for \"Act III\"",
-    "link": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
-    "source": "France 24",
-    "pub": "2026-11-01 11:35"
-  },
-  {
     "headline": "How Merz’s five-day Asia trip ended up being mostly about Europe",
     "headline_fi": "How Merz’s five-day Asia trip ended up being mostly about Europe",
     "link": "https://www.politico.eu/article/friedrich-merz-asia-trip-europe-security-cooperation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-01 11:07"
+  },
+  {
+    "headline": "Robert F. Kennedy Jr.’s food fight is coming to Brussels",
+    "headline_fi": "Robert F. Kennedy Jr.’s food fight is coming to Brussels",
+    "link": "https://www.politico.eu/article/robert-f-kennedy-jr-food-fight-coming-to-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-01 11:00"
   },
   {
     "headline": "Kärcher CEO warns Europe faces 'perfect storm' as he calls for economic reforms",
@@ -357,13 +385,6 @@
     "pub": "2026-11-01 09:13"
   },
   {
-    "headline": "Bulgaria exit polls: Incumbent Yotova predicted to win",
-    "headline_fi": "Bulgaria exit polls: Incumbent Yotova predicted to win",
-    "link": "https://www.dw.com/en/bulgaria-exit-polls-incumbent-yotova-predicted-to-win/a-79820449?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-01 09:00"
-  },
-  {
     "headline": "Hooray for Houdini: Budapest celebrates 100th anniversary of escape artist's death",
     "headline_fi": "Hooray for Houdini: Budapest celebrates 100th anniversary of escape artist's death",
     "link": "https://www.euronews.com/2026/11/01/hooray-for-houdini-budapest-celebrates-100th-anniversary-of-escape-artists-death",
@@ -390,6 +411,13 @@
     "link": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
     "source": "Euronews",
     "pub": "2026-11-01 08:00"
+  },
+  {
+    "headline": "Britain and Germany’s defense cooperation plans face tough choices",
+    "headline_fi": "Britain and Germany’s defense cooperation plans face tough choices",
+    "link": "https://www.politico.eu/article/britain-and-germany-defense-cooperation-plans-face-tough-choices/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-01 07:00"
   },
   {
     "headline": "Security Sunday: Wie real ist die Kriegsgefahr? – mit General Alexander Sollfrank",
@@ -455,13 +483,6 @@
     "pub": "2026-10-31 19:00"
   },
   {
-    "headline": "Putin’s potential G20 comeback risks normalizing Russian war crimes, says Kallas",
-    "headline_fi": "Putin’s potential G20 comeback risks normalizing Russian war crimes, says Kallas",
-    "link": "https://www.politico.eu/article/kaja-kallas-vladimir-putin-g20-return-risks-normalizing-russian-war-crimes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-31 18:41"
-  },
-  {
     "headline": "Germany's Gen Z protests disrupted by violence on Saturday",
     "headline_fi": "Germany's Gen Z protests disrupted by violence on Saturday",
     "link": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-rdf",
@@ -483,25 +504,11 @@
     "pub": "2026-10-31 17:19"
   },
   {
-    "headline": "Merz ‘surprised’ by Asian pushback to ‘Made in Europe’ plan for car industry",
-    "headline_fi": "Merz ‘surprised’ by Asian pushback to ‘Made in Europe’ plan for car industry",
-    "link": "https://www.politico.eu/article/friedrich-merz-surprised-by-asian-pushback-over-made-in-europe-car-industry/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-31 16:19"
-  },
-  {
     "headline": "'Northern women and esotericism': Life after death explored at Finnish National Gallery",
     "headline_fi": "'Northern women and esotericism': Life after death explored at Finnish National Gallery",
     "link": "https://www.euronews.com/2026/10/31/northern-women-and-esotericism-life-after-death-explored-at-finnish-national-gallery",
     "source": "Euronews",
     "pub": "2026-10-31 15:10"
-  },
-  {
-    "headline": "Burnham ‘open’ to formal apology for Britain’s slave trade",
-    "headline_fi": "Burnham ‘open’ to formal apology for Britain’s slave trade",
-    "link": "https://www.politico.eu/article/andy-burnham-open-to-formal-apology-for-britain-slave-trade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-31 14:55"
   },
   {
     "headline": "Evacuees from Russian-occupied Oleshky arrive in Ukraine amid localised truce between Kyiv and Moscow",
@@ -523,13 +530,6 @@
     "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-31 13:00"
-  },
-  {
-    "headline": "Zelenskyy urges US to speed up Patriot deliveries",
-    "headline_fi": "Zelenskyy urges US to speed up Patriot deliveries",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-urges-us-speed-up-patriot-deliveries/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-31 12:41"
   },
   {
     "headline": "Poland political crisis: Constitutional court in chaos as Nawrocki accuses government of staging power grab",
