@@ -1,24 +1,381 @@
 [
   {
-    "headline": "Americans to vote in US midterms: Trump's Republicans scramble to stop Democratic wave",
-    "headline_fi": "Amerikkalaiset äänestävät Yhdysvaltojen puolivälissä: Trumpin republikaanit kamppailevat pysäyttääkseen demokraattisen aallon",
-    "link": "https://www.france24.com/en/video/20261103-americans-to-vote-in-us-midterms-trump-s-republicans-scramble-to-stop-democratic-wave",
-    "source": "France 24",
-    "pub": "2026-11-03 12:56"
+    "headline": "Trump says US will end military aid to Israel as Americans vote in midterms",
+    "headline_fi": "Trump sanoo, että Yhdysvallat lopettaa sotilaallisen avun Israelille, kun amerikkalaiset äänestävät puolivälissä",
+    "link": "https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms",
+    "source": "Euronews",
+    "pub": "2026-11-03 20:10"
   },
   {
-    "headline": "'Hopefully we make history': El-Sayed fires up Michigan Democrats on eve of crucial US Senate race",
-    "headline_fi": "\"Toivottavasti teemme historiaa\": El-Sayed sytyttää Michiganin demokraatit Yhdysvaltain senaatin ratkaisevan kilpailun aattona",
-    "link": "https://www.france24.com/en/video/20261103-hopefully-we-make-history-el-sayed-fires-up-michigan-democrats-on-eve-of-crucial-us-senate-race",
-    "source": "France 24",
-    "pub": "2026-11-03 12:53"
+    "headline": "UK's King Charles III decries 'monstrous injustice' of slave trade",
+    "headline_fi": "Ison-Britannian kuningas Kaarle III tuomitsee orjakaupan \"hirviömäisen epäoikeudenmukaisuuden\".",
+    "link": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 20:08"
   },
   {
-    "headline": "Cheese theft becomes rife among Europe's gangsters",
-    "headline_fi": "Juustovarkaudet yleistyvät Euroopan gangsterien keskuudessa",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261103-cheese-theft-becomes-rife-among-europe-s-gangsters",
-    "source": "France 24",
-    "pub": "2026-11-03 12:53"
+    "headline": "La bola negra becomes Spain's third highest-grossing film ever",
+    "headline_fi": "La bola negra on Espanjan kaikkien aikojen kolmanneksi eniten tuottanut elokuva",
+    "link": "https://www.euronews.com/2026/11/03/la-bola-negra-becomes-spains-third-highest-grossing-film-ever",
+    "source": "Euronews",
+    "pub": "2026-11-03 20:06"
+  },
+  {
+    "headline": "Portugal signs TAP sale contract with Lufthansa, pledging to keep airline Portuguese",
+    "headline_fi": "Portugali allekirjoitti TAP-myyntisopimuksen Lufthansan kanssa ja lupasi pitää lentoyhtiön Portuguese",
+    "link": "https://www.euronews.com/2026/11/03/portugal-signs-tap-sale-contract-with-lufthansa-pledging-to-keep-airline-portuguese",
+    "source": "Euronews",
+    "pub": "2026-11-03 20:04"
+  },
+  {
+    "headline": "What happened near Kyiv as viral allegations sparked unrest outside National Guard building",
+    "headline_fi": "Se, mitä tapahtui Kiovan lähellä virussyytösten seurauksena, aiheutti levottomuutta kansalliskaartin rakennuksen ulkopuolella",
+    "link": "https://www.euronews.com/2026/11/03/what-happened-near-kyiv-as-viral-allegations-sparked-unrest-outside-national-guard-buildin",
+    "source": "Euronews",
+    "pub": "2026-11-03 19:24"
+  },
+  {
+    "headline": "Georgia PM offers no way out of EU accession deadlock in Euronews interview",
+    "headline_fi": "Georgian pääministeri ei tarjoa Euronewsin haastattelussa ulospääsyä EU-jäsenyyden umpikujasta",
+    "link": "https://www.euronews.com/2026/11/03/georgia-pm-offers-no-way-out-of-eu-accession-deadlock-in-euronews-interview",
+    "source": "Euronews",
+    "pub": "2026-11-03 19:14"
+  },
+  {
+    "headline": "Trump says Europe gave Greenland to US as ‘greatest gift’ ever",
+    "headline_fi": "Trump sanoo, että Eurooppa antoi Grönlannin Yhdysvalloille \"suurin lahjana\" koskaan",
+    "link": "https://www.politico.eu/article/greenland-greatest-gift-ever-donald-trump-us-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-03 19:10"
+  },
+  {
+    "headline": "Latest news bulletin | November 3rd, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |3.11.2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-11-03 19:00"
+  },
+  {
+    "headline": "Tents return to Lisbon square after Portugal protest victory",
+    "headline_fi": "Teltat palaavat Lissabonin aukiolle Portugalin protestin voiton jälkeen",
+    "link": "https://www.euronews.com/video/2026/11/03/tents-return-to-lisbon-square-after-portugal-protest-victory",
+    "source": "Euronews",
+    "pub": "2026-11-03 18:47"
+  },
+  {
+    "headline": "Edouard Philippe dos au mur",
+    "headline_fi": "Edouard Philippe selkä seinää vasten",
+    "link": "https://www.politico.eu/podcast/playbook-paris-podcast/edouard-philippe-dos-au-mur/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-03 18:16"
+  },
+  {
+    "headline": "Hoax bomb threats target four European flights as scares spread across the continent",
+    "headline_fi": "Huijauspommiuhkaukset kohdistuvat neljään Euroopan lentoon, kun pelot leviävät koko mantereelle",
+    "link": "https://www.euronews.com/2026/11/03/bomb-threats-target-four-european-flights-as-scares-spread-across-the-continent",
+    "source": "Euronews",
+    "pub": "2026-11-03 17:45"
+  },
+  {
+    "headline": "Italy-Albania migration deal could be extended beyond 2029, Rama says",
+    "headline_fi": "Italian ja Albanian siirtolaissopimusta voitaisiin jatkaa vuoden 2029 jälkeen, Rama sanoo",
+    "link": "https://www.euronews.com/2026/11/03/italy-albania-migration-deal-could-be-extended-beyond-2028-rama-says",
+    "source": "Euronews",
+    "pub": "2026-11-03 17:42"
+  },
+  {
+    "headline": "Americans head to the polls for US midterm elections",
+    "headline_fi": "Amerikkalaiset lähtevät äänestämään Yhdysvaltain välivaaleissa",
+    "link": "https://www.euronews.com/video/2026/11/03/americans-head-to-the-polls-for-us-midterm-elections",
+    "source": "Euronews",
+    "pub": "2026-11-03 17:25"
+  },
+  {
+    "headline": "The Zangezur Corridor: Regional peace and global connectivity",
+    "headline_fi": "Zangezurin käytävä: Alueellinen rauha ja globaalit yhteydet",
+    "link": "https://www.euronews.com/2026/11/03/the-zangezur-corridor-regional-peace-and-global-connectivity",
+    "source": "Euronews",
+    "pub": "2026-11-03 17:24"
+  },
+  {
+    "headline": "A licence to create: Inspired carpets and religious brushstrokes shine at Baku Art Weekend",
+    "headline_fi": "Lupa luoda: Inspiroidut matot ja uskonnolliset siveltimenvedot loistavat Baku Art Weekendissä",
+    "link": "https://www.euronews.com/2026/11/03/a-licence-to-create-inspired-carpets-and-religious-brushstrokes-shine-at-baku-art-weekend",
+    "source": "Euronews",
+    "pub": "2026-11-03 17:23"
+  },
+  {
+    "headline": "South Korea and Turkey sign financing pact as Seoul seeks role in planned nuclear power plant",
+    "headline_fi": "Etelä-Korea ja Turkki allekirjoittavat rahoitussopimuksen, kun Soul hakee roolia suunnitellussa ydinvoimalassa",
+    "link": "https://www.euronews.com/2026/11/03/south-korea-and-turkey-sign-financing-pact-as-seoul-seeks-role-in-planned-nuclear-power-pl",
+    "source": "Euronews",
+    "pub": "2026-11-03 17:21"
+  },
+  {
+    "headline": "UK likely to face AI-powered cyberattacks on critical infrastructure by 2028, cyber chief warns",
+    "headline_fi": "Kyberpäällikkö varoittaa, että Iso-Britannia joutuu todennäköisesti kohtaamaan tekoälyllä toimivia kyberhyökkäyksiä kriittiseen infrastruktuuriin vuoteen 2028 mennessä",
+    "link": "https://www.euronews.com/2026/11/03/uk-likely-to-face-ai-powered-cyberattacks-on-critical-infrastructure-by-2028-cyber-chief-w",
+    "source": "Euronews",
+    "pub": "2026-11-03 17:20"
+  },
+  {
+    "headline": "Why South Africa's local elections matter",
+    "headline_fi": "Miksi Etelä-Afrikan paikallisvaaleilla on merkitystä",
+    "link": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 17:06"
+  },
+  {
+    "headline": "Ukraine war: Merz doubts Russia is serious about a truce",
+    "headline_fi": "Ukrainan sota: Merz epäilee Venäjän olevan tosissaan aseleposta",
+    "link": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 17:04"
+  },
+  {
+    "headline": "Germany’s Merz warns Europe needs seat at the table as Trump renews Ukraine talks",
+    "headline_fi": "Saksan Merz varoittaa, että Eurooppa tarvitsee paikan pöytään Trumpin uudistaessa Ukrainan neuvotteluja",
+    "link": "https://www.politico.eu/article/germany-friedrich-merz-europe-ukraine-peace-deal-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-03 16:48"
+  },
+  {
+    "headline": "Moldova suspects state actor behind major cyberattack, PM tells Euronews",
+    "headline_fi": "Moldova suspects state actor behind major cyberattack, PM tells Euronews",
+    "link": "https://www.euronews.com/2026/11/03/moldova-suspects-state-actor-behind-major-cyberattack-pm-tells-euronews",
+    "source": "Euronews",
+    "pub": "2026-11-03 16:48"
+  },
+  {
+    "headline": "How Berlin's Arab queers are building their community",
+    "headline_fi": "How Berlin's Arab queers are building their community",
+    "link": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 16:37"
+  },
+  {
+    "headline": "The 5 most brutal political moggings of 2026",
+    "headline_fi": "The 5 most brutal political moggings of 2026",
+    "link": "https://www.politico.eu/article/the-5-most-brutal-political-moggings-of-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-03 16:34"
+  },
+  {
+    "headline": "Cyprus: From ties with Russia to a strategic alignment with the US",
+    "headline_fi": "Cyprus: From ties with Russia to a strategic alignment with the US",
+    "link": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 16:28"
+  },
+  {
+    "headline": "Armenia to apply for EU membership in 2027 or 2028 ‘realistic’, PM tells Euronews",
+    "headline_fi": "Armenia to apply for EU membership in 2027 or 2028 ‘realistic’, PM tells Euronews",
+    "link": "https://www.euronews.com/2026/11/03/armenia-to-apply-for-eu-membership-in-2027-or-2028-realistic-pm-tells-euronews",
+    "source": "Euronews",
+    "pub": "2026-11-03 16:26"
+  },
+  {
+    "headline": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+    "headline_fi": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+    "link": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 16:26"
+  },
+  {
+    "headline": "Multiple flights to European airports targeted by bomb threats",
+    "headline_fi": "Multiple flights to European airports targeted by bomb threats",
+    "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 16:18"
+  },
+  {
+    "headline": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
+    "headline_fi": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
+    "link": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 16:18"
+  },
+  {
+    "headline": "Moscow in talks to arrange Trump, Xi and Putin meeting, Kremlin says",
+    "headline_fi": "Moscow in talks to arrange Trump, Xi and Putin meeting, Kremlin says",
+    "link": "https://www.politico.eu/article/moscow-is-helping-arrange-us-russia-china-meeting-spokesperson-peskov-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-03 16:01"
+  },
+  {
+    "headline": "Earth Now | What does it take to tackle air pollution?",
+    "headline_fi": "Earth Now | What does it take to tackle air pollution?",
+    "link": "https://www.euronews.com/2026/11/03/what-does-it-take-to-tackle-air-pollution",
+    "source": "Euronews",
+    "pub": "2026-11-03 16:00"
+  },
+  {
+    "headline": "Serbia's new leaders unlikely to recognise Kosovo, Albania's Rama warns",
+    "headline_fi": "Serbia's new leaders unlikely to recognise Kosovo, Albania's Rama warns",
+    "link": "https://www.euronews.com/2026/11/03/serbias-new-leaders-unlikely-to-recognise-kosovo-albanias-rama-warns",
+    "source": "Euronews",
+    "pub": "2026-11-03 16:00"
+  },
+  {
+    "headline": "Philippe Jaenada wins 2026 Prix Goncourt for novel 'L'Inconnue du quai de Javel'",
+    "headline_fi": "Philippe Jaenada wins 2026 Prix Goncourt for novel 'L'Inconnue du quai de Javel'",
+    "link": "https://www.euronews.com/2026/11/03/philippe-jaenada-wins-2026-prix-goncourt-for-novel-linconnue-du-quai-de-javel",
+    "source": "Euronews",
+    "pub": "2026-11-03 15:35"
+  },
+  {
+    "headline": "Qatar sees 'hope' for US-Iran deal despite fresh US strikes as mediators exchange proposals in real time",
+    "headline_fi": "Qatar sees 'hope' for US-Iran deal despite fresh US strikes as mediators exchange proposals in real time",
+    "link": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-",
+    "source": "Euronews",
+    "pub": "2026-11-03 15:26"
+  },
+  {
+    "headline": "Anthropic swings back to operating loss as $895 billion compute bill looms over IPO",
+    "headline_fi": "Anthropic swings back to operating loss as $895 billion compute bill looms over IPO",
+    "link": "https://www.euronews.com/2026/11/03/anthropic-swings-back-to-operating-loss-as-895-billion-compute-bill-looms-over-ipo",
+    "source": "Euronews",
+    "pub": "2026-11-03 15:24"
+  },
+  {
+    "headline": "All 69 victims of last week's train crash in central Spain identified, authorities say",
+    "headline_fi": "All 69 victims of last week's train crash in central Spain identified, authorities say",
+    "link": "https://www.euronews.com/2026/11/03/all-69-victims-of-last-weeks-train-crash-in-central-spain-identified-authorities-say",
+    "source": "Euronews",
+    "pub": "2026-11-03 15:07"
+  },
+  {
+    "headline": "InnoWeek 2026 showcases advances in robotics, aviation and clean energy",
+    "headline_fi": "InnoWeek 2026 showcases advances in robotics, aviation and clean energy",
+    "link": "https://www.euronews.com/2026/11/03/innoweek-2026-showcases-advances-in-robotics-aviation-and-clean-energy",
+    "source": "Euronews",
+    "pub": "2026-11-03 15:00"
+  },
+  {
+    "headline": "Can US midterm election really change Trump's Iran policy?",
+    "headline_fi": "Can US midterm election really change Trump's Iran policy?",
+    "link": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 14:55"
+  },
+  {
+    "headline": "Turkey's justice minister says 'criminal network' behind billion-dollar fund scandal",
+    "headline_fi": "Turkey's justice minister says 'criminal network' behind billion-dollar fund scandal",
+    "link": "https://www.euronews.com/2026/11/03/turkeys-justice-minister-says-criminal-network-behind-billion-dollar-fund-scandal",
+    "source": "Euronews",
+    "pub": "2026-11-03 14:26"
+  },
+  {
+    "headline": "French elections could derail EU enlargement, Croatian PM tells Euronews",
+    "headline_fi": "French elections could derail EU enlargement, Croatian PM tells Euronews",
+    "link": "https://www.euronews.com/2026/11/03/french-elections-could-derail-eu-enlargement-croatian-pm-tells-euronews",
+    "source": "Euronews",
+    "pub": "2026-11-03 14:20"
+  },
+  {
+    "headline": "EU to host Ukraine reconstruction talks with US and UK",
+    "headline_fi": "EU to host Ukraine reconstruction talks with US and UK",
+    "link": "https://www.politico.eu/article/eu-to-host-ukraine-reconstruction-talks-with-us-and-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-03 14:07"
+  },
+  {
+    "headline": "Students block high schools in France to press for reform ahead of general strike",
+    "headline_fi": "Students block high schools in France to press for reform ahead of general strike",
+    "link": "https://www.euronews.com/2026/11/03/students-block-high-schools-in-france-to-press-for-reform-ahead-of-general-strike",
+    "source": "Euronews",
+    "pub": "2026-11-03 13:55"
+  },
+  {
+    "headline": "Football: Spanish player dies on after cardiac arrest on the pitch",
+    "headline_fi": "Football: Spanish player dies on after cardiac arrest on the pitch",
+    "link": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 13:52"
+  },
+  {
+    "headline": "Asian Cup postponed due to Middle East conflict",
+    "headline_fi": "Asian Cup postponed due to Middle East conflict",
+    "link": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-03 13:32"
+  },
+  {
+    "headline": "Ukraine rejects permanent curbs on farm exports after joining EU, PM tells Euronews",
+    "headline_fi": "Ukraine rejects permanent curbs on farm exports after joining EU, PM tells Euronews",
+    "link": "https://www.euronews.com/2026/11/03/ukraine-rejects-permanent-curbs-on-farm-exports-after-joining-eu-pm-tells-euronews",
+    "source": "Euronews",
+    "pub": "2026-11-03 13:16"
+  },
+  {
+    "headline": "Debate: US midterms: will Trump lose control of Congress?",
+    "headline_fi": "Debate: US midterms: will Trump lose control of Congress?",
+    "link": "https://www.eurotopics.net/en/366401/us-midterms-will-trump-lose-control-of-congress?pk_campaign=rss-en&pk_kwd=2026-11-03",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Election will not end the division | Göteborgs-Posten - Sweden",
+    "headline_fi": "Election will not end the division | Göteborgs-Posten - Sweden",
+    "link": "https://www.eurotopics.net/en/366401/us-midterms-will-trump-lose-control-of-congress?zitat=366591&pk_campaign=rss-en&pk_kwd=2026-11-03#zitat366591",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Testing Trumpism | Liberal - Greece",
+    "headline_fi": "Testing Trumpism | Liberal - Greece",
+    "link": "https://www.eurotopics.net/en/366401/us-midterms-will-trump-lose-control-of-congress?zitat=366576&pk_campaign=rss-en&pk_kwd=2026-11-03#zitat366576",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Debate: Cyberattacks on supermarkets: how should Europe respond?",
+    "headline_fi": "Debate: Cyberattacks on supermarkets: how should Europe respond?",
+    "link": "https://www.eurotopics.net/en/366612/cyberattacks-on-supermarkets-how-should-europe-respond?pk_campaign=rss-en&pk_kwd=2026-11-03",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Debate: Poland: dispute over constitutional court escalates",
+    "headline_fi": "Debate: Poland: dispute over constitutional court escalates",
+    "link": "https://www.eurotopics.net/en/366539/poland-dispute-over-constitutional-court-escalates?pk_campaign=rss-en&pk_kwd=2026-11-03",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Irreconcilable political camps | TVNet - Latvia",
+    "headline_fi": "Irreconcilable political camps | TVNet - Latvia",
+    "link": "https://www.eurotopics.net/en/366539/poland-dispute-over-constitutional-court-escalates?zitat=366570&pk_campaign=rss-en&pk_kwd=2026-11-03#zitat366570",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "A warning for France | France Inter - France",
+    "headline_fi": "A warning for France | France Inter - France",
+    "link": "https://www.eurotopics.net/en/366539/poland-dispute-over-constitutional-court-escalates?zitat=366564&pk_campaign=rss-en&pk_kwd=2026-11-03#zitat366564",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Debate: COP17: progress on species conservation?",
+    "headline_fi": "Debate: COP17: progress on species conservation?",
+    "link": "https://www.eurotopics.net/en/366613/cop17-progress-on-species-conservation?pk_campaign=rss-en&pk_kwd=2026-11-03",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Swiss duty to protect biodiversity | Le Temps - Switzerland",
+    "headline_fi": "Swiss duty to protect biodiversity | Le Temps - Switzerland",
+    "link": "https://www.eurotopics.net/en/366613/cop17-progress-on-species-conservation?zitat=366487&pk_campaign=rss-en&pk_kwd=2026-11-03#zitat366487",
+    "source": "Eurotopics",
+    "pub": "2026-11-03 13:14"
+  },
+  {
+    "headline": "Latest news bulletin | November 3rd, 2026 – Midday",
+    "headline_fi": "Latest news bulletin | November 3rd, 2026 – Midday",
+    "link": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-11-03 13:00"
   },
   {
     "headline": "Portugal housing protesters hail court win, but ruling limits tents to one activist",
@@ -28,20 +385,6 @@
     "pub": "2026-11-03 12:51"
   },
   {
-    "headline": "Californians vote on billionaire tax to replace federal cuts in healthcare funding",
-    "headline_fi": "Kalifornialaiset äänestävät miljardööriverosta, joka korvaa liittovaltion terveydenhuollon rahoituksen leikkaukset",
-    "link": "https://www.france24.com/en/video/20261103-californians-vote-on-billionaire-tax-to-replace-federal-cuts-in-healthcare-funding",
-    "source": "France 24",
-    "pub": "2026-11-03 12:49"
-  },
-  {
-    "headline": "Unclear what comes next as US strikes Iranian island in the Strait of Hormuz",
-    "headline_fi": "On epäselvää, mitä tapahtuu seuraavaksi, kun Yhdysvallat iskee Iranin saarelle Hormuzin salmessa",
-    "link": "https://www.france24.com/en/video/20261103-unclear-what-comes-next-as-us-strikes-iranian-island-in-the-strait-of-hormuz",
-    "source": "France 24",
-    "pub": "2026-11-03 12:47"
-  },
-  {
     "headline": "Asian Cup in Saudi Arabia postponed to December over regional security",
     "headline_fi": "Asian Cup Saudi-Arabiassa siirrettiin joulukuulle alueellisen turvallisuuden vuoksi",
     "link": "https://www.euronews.com/2026/11/03/asian-cup-in-saudi-arabia-postponed-to-december-over-regional-security",
@@ -49,16 +392,9 @@
     "pub": "2026-11-03 12:43"
   },
   {
-    "headline": "Midterms: Trump uses final appeal to talk about troubled Reflecting Pool",
-    "headline_fi": "Väliehdot: Trump käyttää viimeistä vetoomusta puhuakseen levottomasta Reflecting Poolista",
-    "link": "https://www.france24.com/en/video/20261103-midterms-trump-uses-final-appeal-to-talk-about-troubled-reflecting-pool",
-    "source": "France 24",
-    "pub": "2026-11-03 12:29"
-  },
-  {
-    "headline": "How AI giants could raise the cost of borrowing in Europe",
-    "headline_fi": "Kuinka tekoälyjättiläiset voisivat nostaa lainakustannuksia Euroopassa",
-    "link": "https://www.dw.com/en/how-ai-giants-could-raise-the-cost-of-borrowing-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf",
+    "headline": "Could the AI boom make borrowing more expensive in Europe?",
+    "headline_fi": "Could the AI boom make borrowing more expensive in Europe?",
+    "link": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 12:27"
   },
@@ -84,9 +420,9 @@
     "pub": "2026-11-03 12:19"
   },
   {
-    "headline": "US voters head to polls for midterm elections set to define remainder of Trump's term",
-    "headline_fi": "Yhdysvaltain äänestäjät ovat menossa vaaleihin välivaaleissa, joissa määritellään Trumpin jäljellä oleva aika",
-    "link": "https://www.dw.com/en/us-voters-head-to-polls-for-midterm-elections-set-to-define-remainder-of-trump-s-term/live-79829440?maca=en-rss-en-all-1573-rdf",
+    "headline": "US midterms: Americans vote in elections seen as referendum on Trump",
+    "headline_fi": "US midterms: Americans vote in elections seen as referendum on Trump",
+    "link": "https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 12:16"
   },
@@ -95,13 +431,6 @@
     "headline_fi": "Mihin Euroopan maihin on kohdistunut supermarketien jääkaapin kybertapahtumia?",
     "link": "https://www.euronews.com/2026/11/03/which-countries-in-europe-have-been-hit-by-supermarket-fridge-cyber-incidents",
     "source": "Euronews",
-    "pub": "2026-11-03 12:13"
-  },
-  {
-    "headline": "Despite attacks, Saudi Aramco posts 34% rise in net profits in latest quarter",
-    "headline_fi": "Hyökkäyksistä huolimatta Saudi Aramcon nettovoitto kasvoi viimeisellä neljänneksellä 34 prosenttia",
-    "link": "https://www.france24.com/en/tv-shows/business/20261103-despite-attacks-saudi-aramco-posts-34-rise-in-net-profits-in-latest-quarter",
-    "source": "France 24",
     "pub": "2026-11-03 12:13"
   },
   {
@@ -119,13 +448,6 @@
     "pub": "2026-11-03 12:05"
   },
   {
-    "headline": "Oxfam's Destroy and Rebuild Index: 'Wealthy minority of investors benefit from both sides of crisis'",
-    "headline_fi": "Oxfamin Destroy and Rebuild -indeksi: \"Rikkakas vähemmistö sijoittajista hyötyy kriisin molemmista puolista\"",
-    "link": "https://www.france24.com/en/oxfam-s-destroy-and-rebuild-index-wealthy-minority-of-investors-benefit-from-both-sides-of-crisis",
-    "source": "France 24",
-    "pub": "2026-11-03 11:52"
-  },
-  {
     "headline": "US midterm elections results 2026: Live updates in maps and charts",
     "headline_fi": "Yhdysvaltain välivaalien tulokset 2026: Live-päivitykset kartoissa ja kaavioissa",
     "link": "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts",
@@ -133,32 +455,11 @@
     "pub": "2026-11-03 11:51"
   },
   {
-    "headline": "Hungary is not blocking Ukraine's EU accession talks, Kyiv's ambassador insists",
-    "headline_fi": "Unkari ei estä Ukrainan EU-jäsenyysneuvotteluja, Kiovan suurlähettiläs korostaa",
-    "link": "https://www.euronews.com/2026/11/03/hungary-is-not-blocking-ukraines-eu-accession-talks-kyivs-ambassador-insists",
+    "headline": "Spanish police investigate death of Tenerife striker after collision with goalkeeper",
+    "headline_fi": "Spanish police investigate death of Tenerife striker after collision with goalkeeper",
+    "link": "https://www.euronews.com/2026/11/03/spanish-footballer-jesus-de-miguel-dies-after-collision-with-goalkeeper-club-says",
     "source": "Euronews",
-    "pub": "2026-11-03 11:18"
-  },
-  {
-    "headline": "Child dies in New York’s first measles-linked death in over 30 years",
-    "headline_fi": "Child dies in New York’s first measles-linked death in over 30 years",
-    "link": "https://www.euronews.com/2026/11/03/child-dies-in-new-yorks-first-measles-linked-death-in-over-30-years",
-    "source": "Euronews",
-    "pub": "2026-11-03 11:18"
-  },
-  {
-    "headline": "Israeli opposition unites behind Eisenkot as Netanyahu says voters chose him for PM",
-    "headline_fi": "Israeli opposition unites behind Eisenkot as Netanyahu says voters chose him for PM",
-    "link": "https://www.france24.com/en/middle-east/20261103-israeli-opposition-unites-behind-eisenkot-netanyahu-voters-chose-him-pm",
-    "source": "France 24",
-    "pub": "2026-11-03 11:03"
-  },
-  {
-    "headline": "Russia pounds Ukraine with 289 drones and 17 ballistic missiles in overnight strikes, Zelenskyy says",
-    "headline_fi": "Russia pounds Ukraine with 289 drones and 17 ballistic missiles in overnight strikes, Zelenskyy says",
-    "link": "https://www.euronews.com/2026/11/03/russia-pounds-ukraine-with-289-drones-and-17-ballistic-missiles-in-overnight-strikes-zelen",
-    "source": "Euronews",
-    "pub": "2026-11-03 11:03"
+    "pub": "2026-11-03 11:30"
   },
   {
     "headline": "Eurozone countries to nominate Lagarde replacement by Nov. 6",
@@ -175,53 +476,11 @@
     "pub": "2026-11-03 10:21"
   },
   {
-    "headline": "'Gridlock will be the word of the day' if Democrats win the midterms, says Republican strategist Matt Klink",
-    "headline_fi": "'Gridlock will be the word of the day' if Democrats win the midterms, says Republican strategist Matt Klink",
-    "link": "https://www.euronews.com/video/2026/11/03/gridlock-will-be-the-word-of-the-day-if-democrats-win-the-midterms-says-republican-strateg",
-    "source": "Euronews",
-    "pub": "2026-11-03 10:19"
-  },
-  {
-    "headline": "US midterm election: How it works, why it's important and races to watch",
-    "headline_fi": "US midterm election: How it works, why it's important and races to watch",
-    "link": "https://www.dw.com/en/us-midterm-election-how-it-works-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-rdf",
+    "headline": "US midterm election: Why it's important and races to watch",
+    "headline_fi": "US midterm election: Why it's important and races to watch",
+    "link": "https://www.dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 10:05"
-  },
-  {
-    "headline": "How can the EU support 50 million Europeans who can’t heat their homes?",
-    "headline_fi": "How can the EU support 50 million Europeans who can’t heat their homes?",
-    "link": "https://www.euronews.com/2026/11/03/how-can-the-eu-support-50-million-europeans-who-cant-heat-their-homes",
-    "source": "Euronews",
-    "pub": "2026-11-03 10:00"
-  },
-  {
-    "headline": "Rhodes floods: Cars swept away after torrential rain in Greece",
-    "headline_fi": "Rhodes floods: Cars swept away after torrential rain in Greece",
-    "link": "https://www.euronews.com/video/2026/11/03/rhodes-floods-cars-swept-away-after-torrential-rain-in-greece",
-    "source": "Euronews",
-    "pub": "2026-11-03 09:49"
-  },
-  {
-    "headline": "Police dismantle housing cost protest camp in central Madrid, city authorities say",
-    "headline_fi": "Police dismantle housing cost protest camp in central Madrid, city authorities say",
-    "link": "https://www.euronews.com/2026/11/03/police-dismantle-affordable-housing-protest-camp-in-madrid-city-authorities-say",
-    "source": "Euronews",
-    "pub": "2026-11-03 09:43"
-  },
-  {
-    "headline": "Saudi Aramco profits jump 35% despite attacks on oil facilities",
-    "headline_fi": "Saudi Aramco profits jump 35% despite attacks on oil facilities",
-    "link": "https://www.euronews.com/2026/11/03/saudi-aramco-profits-jump-35-despite-attacks-on-oil-facilities",
-    "source": "Euronews",
-    "pub": "2026-11-03 09:11"
-  },
-  {
-    "headline": "Europe Today: Euronews Enlargement Summit kicks off in Brussels as US midterms test Trump",
-    "headline_fi": "Europe Today: Euronews Enlargement Summit kicks off in Brussels as US midterms test Trump",
-    "link": "https://www.euronews.com/2026/11/03/europe-today-euronews-enlargement-summit-kicks-off-in-brussels-as-us-midterms-test-trump",
-    "source": "Euronews",
-    "pub": "2026-11-03 09:01"
   },
   {
     "headline": "Germany news: Ukraine in focus at Berlin Security Conference",
@@ -231,158 +490,11 @@
     "pub": "2026-11-03 09:00"
   },
   {
-    "headline": "North Korea slams FBI claims it was behind €5bn Binance hack and test fires missiles",
-    "headline_fi": "North Korea slams FBI claims it was behind €5bn Binance hack and test fires missiles",
-    "link": "https://www.euronews.com/2026/11/03/north-korea-slams-fbi-claims-it-was-behind-5bn-binance-hack-and-test-fires-missiles",
-    "source": "Euronews",
-    "pub": "2026-11-03 08:53"
-  },
-  {
-    "headline": "Why are supermarket freezers being hacked across Europe and could AI make it worse?",
-    "headline_fi": "Why are supermarket freezers being hacked across Europe and could AI make it worse?",
-    "link": "https://www.euronews.com/2026/11/03/why-are-supermarket-freezers-being-hacked-across-europe-and-could-ai-make-it-worse",
-    "source": "Euronews",
-    "pub": "2026-11-03 08:30"
-  },
-  {
-    "headline": "Apple earnings beat expectations, but rising chip costs worry investors",
-    "headline_fi": "Apple earnings beat expectations, but rising chip costs worry investors",
-    "link": "https://www.euronews.com/2026/11/03/apple-earnings-beat-expectations-but-rising-chip-costs-worry-investors",
-    "source": "Euronews",
-    "pub": "2026-11-03 08:16"
-  },
-  {
-    "headline": "Thousands of troops from Europe to rehearse post-war Ukraine deployment in Poland",
-    "headline_fi": "Thousands of troops from Europe to rehearse post-war Ukraine deployment in Poland",
-    "link": "https://www.euronews.com/2026/11/03/thousands-of-troops-from-europe-to-rehearse-post-war-ukraine-deployment-in-poland",
-    "source": "Euronews",
-    "pub": "2026-11-03 08:16"
-  },
-  {
     "headline": "India news: Cyclone Murasu wreaks havoc after landfall",
     "headline_fi": "India news: Cyclone Murasu wreaks havoc after landfall",
     "link": "https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 08:12"
-  },
-  {
-    "headline": "‘The forest is an act of love’: Italy’s truffle hunters step in to save drought-hit harvests",
-    "headline_fi": "‘The forest is an act of love’: Italy’s truffle hunters step in to save drought-hit harvests",
-    "link": "https://www.euronews.com/2026/11/03/the-forest-is-an-act-of-love-italys-truffle-hunters-step-in-to-save-drought-hit-harvests",
-    "source": "Euronews",
-    "pub": "2026-11-03 08:02"
-  },
-  {
-    "headline": "Latest news bulletin | November 3rd, 2026 – Morning",
-    "headline_fi": "Latest news bulletin | November 3rd, 2026 – Morning",
-    "link": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-11-03 08:00"
-  },
-  {
-    "headline": "EU enlargement at a turning point as leaders gather for Euronews summit",
-    "headline_fi": "EU enlargement at a turning point as leaders gather for Euronews summit",
-    "link": "https://www.euronews.com/2026/11/03/eu-enlargement-at-a-turning-point-as-leaders-gather-for-euronews-summit",
-    "source": "Euronews",
-    "pub": "2026-11-03 08:00"
-  },
-  {
-    "headline": "US midterms live: First polling stations open in eastern state of Vermont",
-    "headline_fi": "US midterms live: First polling stations open in eastern state of Vermont",
-    "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-    "source": "France 24",
-    "pub": "2026-11-03 07:45"
-  },
-  {
-    "headline": "Poland’s court fight boils over",
-    "headline_fi": "Poland’s court fight boils over",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/polands-court-fight-boils-over/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-03 07:05"
-  },
-  {
-    "headline": "CPJ: 'Attacks on journalists almost always precede attacks on other rights to broader population'",
-    "headline_fi": "CPJ: 'Attacks on journalists almost always precede attacks on other rights to broader population'",
-    "link": "https://www.france24.com/en/video/20261103-cpj-attacks-on-journalists-almost-always-precede-attacks-on-other-rights-to-broader-population",
-    "source": "France 24",
-    "pub": "2026-11-03 07:02"
-  },
-  {
-    "headline": "Spain introduces paid menopause sick leave from December 2026",
-    "headline_fi": "Spain introduces paid menopause sick leave from December 2026",
-    "link": "https://www.euronews.com/2026/11/03/spain-introduces-paid-menopause-sick-leave-from-december-2026",
-    "source": "Euronews",
-    "pub": "2026-11-03 07:00"
-  },
-  {
-    "headline": "Bärbel Bas legt nach",
-    "headline_fi": "Bärbel Bas legt nach",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/barbel-bas-legt-nach/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-03 06:30"
-  },
-  {
-    "headline": "US strikes Iran's Qeshm Island ahead of midterm elections",
-    "headline_fi": "US strikes Iran's Qeshm Island ahead of midterm elections",
-    "link": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections",
-    "source": "Euronews",
-    "pub": "2026-11-03 06:27"
-  },
-  {
-    "headline": "Why financial empowerment is the UK’s next great economic opportunity",
-    "headline_fi": "Why financial empowerment is the UK’s next great economic opportunity",
-    "link": "https://www.politico.eu/sponsored-content/why-financial-empowerment-is-the-uks-next-great-economic-opportunity/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-03 06:00"
-  },
-  {
-    "headline": "Crisis over top court shapes Poland’s battle lines before 2027 election",
-    "headline_fi": "Crisis over top court shapes Poland’s battle lines before 2027 election",
-    "link": "https://www.politico.eu/article/crisis-over-top-court-shapes-polands-battle-lines-before-2027-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-03 05:00"
-  },
-  {
-    "headline": "Why Europe shouldn’t celebrate a Democratic midterm victory",
-    "headline_fi": "Why Europe shouldn’t celebrate a Democratic midterm victory",
-    "link": "https://www.politico.eu/article/why-europe-shouldnt-celebrate-democratic-us-midterm-victory/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-03 05:00"
-  },
-  {
-    "headline": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
-    "headline_fi": "Yhdysvallat iskee Iranin Qeshm-saarelle, kun Trump viestii neuvottelujen edistymisestä",
-    "link": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
-    "source": "France 24",
-    "pub": "2026-11-03 04:28"
-  },
-  {
-    "headline": "European force to hold first Ukraine support exercise in Poland",
-    "headline_fi": "Eurooppalaiset joukot pitävät ensimmäisen Ukrainan tukiharjoituksen Puolassa",
-    "link": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland",
-    "source": "France 24",
-    "pub": "2026-11-03 03:43"
-  },
-  {
-    "headline": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
-    "headline_fi": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
-    "link": "https://www.france24.com/en/europe/20261103-europe-s-gen-z-protesters-unite-over-living-costs-housing-and-uncertainty-of-getting-jobs",
-    "source": "France 24",
-    "pub": "2026-11-03 03:21"
-  },
-  {
-    "headline": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
-    "headline_fi": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
-    "link": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
-    "source": "France 24",
-    "pub": "2026-11-03 03:18"
-  },
-  {
-    "headline": "North Korea rejects US allegations over $6 billion Binance crypto heist",
-    "headline_fi": "Pohjois-Korea kiistää Yhdysvaltain syytökset yli 6 miljardin dollarin Binancen kryptovarastuksesta",
-    "link": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
-    "source": "France 24",
-    "pub": "2026-11-03 01:49"
   },
   {
     "headline": "US: Trump labels Democrats 'dangerous' ahead of midterms",
@@ -399,144 +511,11 @@
     "pub": "2026-11-03 01:18"
   },
   {
-    "headline": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
-    "headline_fi": "Hätähälytykset hakkerointiin \"tarkoitettu heikentämään luottamusta hallitukseen\", asiantuntija sanoo",
-    "link": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
-    "source": "France 24",
-    "pub": "2026-11-03 00:30"
-  },
-  {
-    "headline": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
-    "headline_fi": "Hätähälytykset hakkerointiin \"tarkoitettu heikentämään luottamusta hallitukseen\", asiantuntija sanoo",
-    "link": "https://www.france24.com/en/emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
-    "source": "France 24",
-    "pub": "2026-11-03 00:28"
-  },
-  {
-    "headline": "Ukraine: At least 26 killed in Russian strikes on aid center",
-    "headline_fi": "Ukraina: Ainakin 26 kuoli Venäjän iskuissa avustuskeskukseen",
-    "link": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 23:59"
-  },
-  {
-    "headline": "US to drop South Africa, Rwanda from duty-free trade initiative",
-    "headline_fi": "Yhdysvallat luopuu Etelä-Afrikan ja Ruandan tullivapaakauppa-aloitteesta",
-    "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 23:40"
-  },
-  {
-    "headline": "Trump promised 'no more wars'. His foreign policy tells another story",
-    "headline_fi": "Trump lupasi \"ei enää sotia\".Hänen ulkopolitiikkansa kertoo toisen tarinan",
-    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
-    "source": "France 24",
-    "pub": "2026-11-02 23:34"
-  },
-  {
-    "headline": "Uganda withdraws troops from peacekeeping mission in Somalia",
-    "headline_fi": "Uganda withdraws troops from peacekeeping mission in Somalia",
-    "link": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
-    "source": "France 24",
-    "pub": "2026-11-02 23:24"
-  },
-  {
-    "headline": "British government sets out tougher rules for migrants looking to settle in the UK",
-    "headline_fi": "Britannian hallitus asettaa tiukempia sääntöjä siirtolaisille, jotka haluavat asettua Britanniaan",
-    "link": "https://www.euronews.com/2026/11/02/british-government-sets-out-tougher-rules-for-migrants-looking-to-settle-in-the-uk",
-    "source": "Euronews",
-    "pub": "2026-11-02 23:10"
-  },
-  {
-    "headline": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
-    "headline_fi": "The Long Hull: Karl Bushby pohtii sinnikkyyttä ja \"ihmiskunnan parasta\" 28-vuotisella kotimatkallaan",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261102-the-long-hull-karl-bushby-reflects-on-perseverance-best-of-humanity-on-his-28-year-journey-home",
-    "source": "France 24",
-    "pub": "2026-11-02 22:54"
-  },
-  {
-    "headline": "Streeting: Burnham is better than Blair at talking to the public",
-    "headline_fi": "Streeting: Burnham is better than Blair at talking to the public",
-    "link": "https://www.politico.eu/article/wes-streeting-andy-burnham-better-tony-blair-talk-public-brexit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-02 21:34"
-  },
-  {
-    "headline": "EU Commission to probe supermarket cyberattacks",
-    "headline_fi": "EU Commission to probe supermarket cyberattacks",
-    "link": "https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-02 21:20"
-  },
-  {
-    "headline": "Ukraine says hopes of 'progress toward peace' knocked by attack on aid distribution centre",
-    "headline_fi": "Ukraina sanoo, että avunjakelukeskukseen kohdistunut hyökkäys horjui toiveiden \"edistymisestä kohti rauhaa\".",
-    "link": "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-",
-    "source": "Euronews",
-    "pub": "2026-11-02 20:34"
-  },
-  {
-    "headline": "France: Petition to ban TV channel gets 500,000 signatures",
-    "headline_fi": "Ranska: Vetoomus tv-kanavan kieltämisestä keräsi 500 000 allekirjoitusta",
-    "link": "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 20:05"
-  },
-  {
-    "headline": "Inside Milipol Qatar, where drones and robots take on security and emergency response roles",
-    "headline_fi": "Milipol Qatarissa, jossa droonit ja robotit vastaavat turvallisuudesta ja hätätilanteissa",
-    "link": "https://www.euronews.com/2026/11/02/inside-milipol-qatar-where-drones-and-robots-take-on-security-and-emergency-response-roles",
-    "source": "Euronews",
-    "pub": "2026-11-02 19:00"
-  },
-  {
-    "headline": "Latest news bulletin | November 2nd, 2026 – Evening",
-    "headline_fi": "Uusin uutistiedote |2.11.2026 – ilta",
-    "link": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-11-02 19:00"
-  },
-  {
-    "headline": "Watch: Unseen images of drone sinking Greek tanker off Bulgarian coast",
-    "headline_fi": "Katso: Ennennäkemättömiä kuvia droonista uppoavasta kreikkalaisesta tankkerista Bulgarian rannikolla",
-    "link": "https://www.euronews.com/2026/11/02/watch-unseen-images-of-drone-sinking-greek-tanker-off-bulgarian-coast",
-    "source": "Euronews",
-    "pub": "2026-11-02 18:54"
-  },
-  {
-    "headline": "Supermarket hacks across Europe: why are fridges connected to the internet?",
-    "headline_fi": "Supermarketit ympäri Eurooppaa: miksi jääkaapit on yhdistetty Internetiin?",
-    "link": "https://www.euronews.com/2026/11/02/why-are-supermarket-fridges-connected-to-the-internet",
-    "source": "Euronews",
-    "pub": "2026-11-02 18:31"
-  },
-  {
-    "headline": "Ukraine’s ‘Stargate’ drone carries wounded troops from frontline",
-    "headline_fi": "Ukrainan \"Stargate\" -droni kuljettaa haavoittuneita joukkoja etulinjasta",
-    "link": "https://www.euronews.com/video/2026/11/02/ukraines-stargate-drone-carries-wounded-troops-from-frontline",
-    "source": "Euronews",
-    "pub": "2026-11-02 18:26"
-  },
-  {
-    "headline": "What might Trump have planned for Iran following the midterm election?",
-    "headline_fi": "What might Trump have planned for Iran following the midterm election?",
-    "link": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 17:41"
-  },
-  {
     "headline": "Ice hockey officials considering options after CAS order to reinstate Russia",
     "headline_fi": "Ice hockey officials considering options after CAS order to reinstate Russia",
     "link": "https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-02 17:34"
-  },
-  {
-    "headline": "European supermarkets targeted in second reported cyberattack",
-    "headline_fi": "European supermarkets targeted in second reported cyberattack",
-    "link": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 16:31"
   },
   {
     "headline": "LA communities kick out Big Oil",
@@ -546,13 +525,6 @@
     "pub": "2026-11-02 16:21"
   },
   {
-    "headline": "Germany's chancellor called for Korean unity. Does Seoul want that?",
-    "headline_fi": "Germany's chancellor called for Korean unity. Does Seoul want that?",
-    "link": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 14:51"
-  },
-  {
     "headline": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
     "headline_fi": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
     "link": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf",
@@ -560,74 +532,11 @@
     "pub": "2026-11-02 14:31"
   },
   {
-    "headline": "Uganda begins withdrawing troops from Somalia after two decades",
-    "headline_fi": "Uganda begins withdrawing troops from Somalia after two decades",
-    "link": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 14:19"
-  },
-  {
     "headline": "How Iliana Yotova won the presidential election in Bulgaria",
     "headline_fi": "How Iliana Yotova won the presidential election in Bulgaria",
     "link": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-02 14:15"
-  },
-  {
-    "headline": "Debate: Poland: dispute over constitutional court escalates",
-    "headline_fi": "Keskustelu: Puola: kiista perustuslakituomioistuimesta kärjistyy",
-    "link": "https://www.eurotopics.net/en/366539/poland-dispute-over-constitutional-court-escalates?pk_campaign=rss-en&pk_kwd=2026-11-02",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
-  },
-  {
-    "headline": "Government betraying its own ideals | Rzeczpospolita - Poland",
-    "headline_fi": "Hallitus pettää omat ihanteensa |Rzeczpospolita - Puola",
-    "link": "https://www.eurotopics.net/en/366539/poland-dispute-over-constitutional-court-escalates?zitat=366479&pk_campaign=rss-en&pk_kwd=2026-11-02#zitat366479",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
-  },
-  {
-    "headline": "Debate: What to make of ongoing youth protests?",
-    "headline_fi": "Keskustelu: Mitä mieltä jatkuvista nuorisoprotesteista?",
-    "link": "https://www.eurotopics.net/en/366544/what-to-make-of-ongoing-youth-protests?pk_campaign=rss-en&pk_kwd=2026-11-02",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
-  },
-  {
-    "headline": "Debate: Iliana Iotova confirmed as president of Bulgaria",
-    "headline_fi": "Keskustelu: Iliana Iotova vahvistettiin Bulgarian presidentiksi",
-    "link": "https://www.eurotopics.net/en/366540/iliana-iotova-confirmed-as-president-of-bulgaria?pk_campaign=rss-en&pk_kwd=2026-11-02",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
-  },
-  {
-    "headline": "Pro-Russian policy wins the day | Corriere della Sera - Italy",
-    "headline_fi": "Venäjä-mielinen politiikka voittaa päivän |Corriere della Sera - Italia",
-    "link": "https://www.eurotopics.net/en/366540/iliana-iotova-confirmed-as-president-of-bulgaria?zitat=366511&pk_campaign=rss-en&pk_kwd=2026-11-02#zitat366511",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
-  },
-  {
-    "headline": "Debate: CAS allows Russia to compete in international ice hockey",
-    "headline_fi": "Keskustelu: CAS sallii Venäjän kilpailla kansainvälisessä jääkiekossa",
-    "link": "https://www.eurotopics.net/en/366542/cas-allows-russia-to-compete-in-international-ice-hockey?pk_campaign=rss-en&pk_kwd=2026-11-02",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
-  },
-  {
-    "headline": "Sport and war do not go hand in hand | Novinky.cz - Czech Republic",
-    "headline_fi": "Urheilu ja sota eivät kulje käsi kädessä |Novinky.cz - Tšekki",
-    "link": "https://www.eurotopics.net/en/366542/cas-allows-russia-to-compete-in-international-ice-hockey?zitat=366506&pk_campaign=rss-en&pk_kwd=2026-11-02#zitat366506",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
-  },
-  {
-    "headline": "Politics has the final say | Watson - Switzerland",
-    "headline_fi": "Politiikalla on viimeinen sana |Watson - Sveitsi",
-    "link": "https://www.eurotopics.net/en/366542/cas-allows-russia-to-compete-in-international-ice-hockey?zitat=366538&pk_campaign=rss-en&pk_kwd=2026-11-02#zitat366538",
-    "source": "Eurotopics",
-    "pub": "2026-11-02 13:17"
   },
   {
     "headline": "Merz says next German president 'must be a woman' — report",
@@ -908,20 +817,6 @@
     "link": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-22 22:18"
-  },
-  {
-    "headline": "Are the French police the most violent in the EU?",
-    "headline_fi": "Ovatko Ranskan poliisi EU:n väkivaltaisin?",
-    "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-22 19:01"
-  },
-  {
-    "headline": "Ukraine: Life near the front line in Sloviansk",
-    "headline_fi": "Ukraina: Elämää lähellä etulinjaa Slovianskissa",
-    "link": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-22 14:44"
   },
   {
     "headline": "Can Germany revive its economy before the far-right AfD gains ground?",
