@@ -1,5 +1,68 @@
 [
   {
+    "headline": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+    "headline_fi": "Ukraina: Venäjän iskut iskivät Kiovan alueelle ja vahingoittivat infrastruktuuria",
+    "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+    "source": "Euronews",
+    "pub": "2026-11-07 23:45"
+  },
+  {
+    "headline": "Ebola: Why is there still no vaccine?",
+    "headline_fi": "Ebola: Miksi rokotetta ei vieläkään ole?",
+    "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 23:03"
+  },
+  {
+    "headline": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+    "headline_fi": "\"Väkivaltainen taistelija ja soturi\": Trump tarjoaa lehdistösihteerin roolin UFC:n johtajalle Dana Whitelle",
+    "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+    "source": "France 24",
+    "pub": "2026-11-07 22:45"
+  },
+  {
+    "headline": "Israeli president tasks Gadi Eisenkot with forming government",
+    "headline_fi": "Israelin presidentti antaa Gadi Eisenkotille hallituksen muodostavan tehtävän",
+    "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 21:56"
+  },
+  {
+    "headline": "Trump offers White House press secretary role to Dana White",
+    "headline_fi": "Trump tarjoaa Valkoisen talon lehdistösihteerin tehtävän Dana Whitelle",
+    "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 21:46"
+  },
+  {
+    "headline": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+    "headline_fi": "🔴 Israelin presidentti valitsee Netanyahun kilpailijan Eisenkotin yrittämään muodostaa hallitusta",
+    "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+    "source": "France 24",
+    "pub": "2026-11-07 21:38"
+  },
+  {
+    "headline": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+    "headline_fi": "Israelin presidentti valitsee Netanyahun kilpailijan Eisenkotin yrittämään muodostaa hallitusta",
+    "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+    "source": "France 24",
+    "pub": "2026-11-07 21:37"
+  },
+  {
+    "headline": "France sees new round of Yellow Vest, student protests",
+    "headline_fi": "Ranskassa uusi keltainen liivi, opiskelijamielenosoitukset",
+    "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 21:28"
+  },
+  {
+    "headline": "Video shows people fleeing as gunman opens fire in Kraków, Poland",
+    "headline_fi": "Videolla ihmiset pakenevat, kun ampuja avaa tulen Krakovassa Puolassa",
+    "link": "https://www.euronews.com/video/2026/11/07/video-shows-people-fleeing-as-gunman-opens-fire-in-krakow-poland",
+    "source": "Euronews",
+    "pub": "2026-11-07 21:15"
+  },
+  {
     "headline": "Armenia's selective prosecution: A threat to EU relations?",
     "headline_fi": "Armenian valikoiva syytteeseenpano: uhka EU-suhteille?",
     "link": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
@@ -28,27 +91,6 @@
     "pub": "2026-11-07 19:00"
   },
   {
-    "headline": "Mélenchon presents party manifesto as social unrest continues across France",
-    "headline_fi": "Mélenchon esittelee puolueen manifestin sosiaalisten levottomuuksien jatkuessa kaikkialla Ranskassa",
-    "link": "https://www.euronews.com/2026/11/07/melenchon-presents-party-manifesto-as-social-unrest-continues-across-france",
-    "source": "Euronews",
-    "pub": "2026-11-07 18:04"
-  },
-  {
-    "headline": "At least 6 killed in shooting in Polish city of Krakow, police say",
-    "headline_fi": "Poliisin mukaan ainakin kuusi ihmistä kuoli ammuskelussa Puolan kaupungissa Krakovassa",
-    "link": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 17:38"
-  },
-  {
-    "headline": "Six people killed and 15 injured in shooting in Kraków, Polish authorities say",
-    "headline_fi": "Puolan viranomaisten mukaan kuusi ihmistä kuoli ja 15 loukkaantui ammuskelussa Krakovassa",
-    "link": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say",
-    "source": "Euronews",
-    "pub": "2026-11-07 17:37"
-  },
-  {
     "headline": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
     "headline_fi": "🔴 Ainakin viisi ihmistä kuoli ammuskelussa Krakovassa, Puolan poliisi kertoo ⤵️",
     "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
@@ -56,8 +98,8 @@
     "pub": "2026-11-07 17:26"
   },
   {
-    "headline": "At least six people killed in shooting in Polish city of Krakow, police say",
-    "headline_fi": "Poliisin mukaan ainakin kuusi ihmistä kuoli ammuskelussa Puolan kaupungissa Krakovassa",
+    "headline": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
+    "headline_fi": "Ainakin kuusi ihmistä Krakovassa tappaneella miehellä oli \"äärioikeistolaisia\" näkemyksiä Puolan hallituksen mukaan",
     "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
     "source": "France 24",
     "pub": "2026-11-07 17:23"
@@ -196,13 +238,6 @@
     "pub": "2026-11-07 12:44"
   },
   {
-    "headline": "France braces for new round of Yellow Vest, student protests",
-    "headline_fi": "Ranska valmistautuu uuteen keltaiseen liiviin, opiskelijoiden mielenosoituksiin",
-    "link": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 12:39"
-  },
-  {
     "headline": "Pope urges healthcare for all in Uruguay",
     "headline_fi": "Paavi vaatii terveydenhuoltoa kaikille Uruguayssa",
     "link": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
@@ -259,8 +294,8 @@
     "pub": "2026-11-07 10:30"
   },
   {
-    "headline": "Live: French student unions say 250,000 people took part in Saturday’s protests",
-    "headline_fi": "Suorana lähetyksenä: Ranskan ylioppilasliittojen mukaan 250 000 ihmistä osallistui lauantain mielenosoituksiin",
+    "headline": "French student unions say 250,000 people took part in Saturday’s protests",
+    "headline_fi": "Ranskan ylioppilasliittojen mukaan 250 000 ihmistä osallistui lauantain mielenosoituksiin",
     "link": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
     "source": "France 24",
     "pub": "2026-11-07 10:17"
@@ -273,15 +308,8 @@
     "pub": "2026-11-07 10:16"
   },
   {
-    "headline": "Russia hits Kyiv and surrounding region in massive overnight strike",
-    "headline_fi": "Venäjä iskee Kiovaan ja sitä ympäröivään alueeseen massiivisessa yön yli",
-    "link": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
-    "source": "France 24",
-    "pub": "2026-11-07 10:08"
-  },
-  {
     "headline": "When antibiotics stop working: Europe's growing superbug threat",
-    "headline_fi": "When antibiotics stop working: Europe's growing superbug threat",
+    "headline_fi": "Kun antibiootit lakkaavat toimimasta: Euroopan kasvava superbakteeriuhka",
     "link": "https://www.euronews.com/2026/11/07/when-antibiotics-stop-working-europes-growing-superbug-threat",
     "source": "Euronews",
     "pub": "2026-11-07 09:26"
@@ -295,7 +323,7 @@
   },
   {
     "headline": "Russian strikes on Kyiv region injure at least six and damage bridge and energy facilities",
-    "headline_fi": "Russian strikes on Kyiv region injure at least six and damage bridge and energy facilities",
+    "headline_fi": "Venäjän iskuissa Kiovan alueelle loukkaantui ainakin kuusi ja vahingoittuu silta- ja energialaitoksia",
     "link": "https://www.euronews.com/2026/11/07/russian-strikes-on-kyiv-injure-five-and-damage-bridge-and-energy-facilities",
     "source": "Euronews",
     "pub": "2026-11-07 09:06"
@@ -313,13 +341,6 @@
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-bodo-ramelow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-07 08:22"
-  },
-  {
-    "headline": "Paraguay places ousted president Peña under house arrest after bank collapse",
-    "headline_fi": "Paraguay places ousted president Peña under house arrest after bank collapse",
-    "link": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
-    "source": "France 24",
-    "pub": "2026-11-07 08:18"
   },
   {
     "headline": "Earn points, save cash: A basic guide to frequent-flyer programmes in Europe",
@@ -350,34 +371,6 @@
     "pub": "2026-11-07 07:59"
   },
   {
-    "headline": "US asks China to uphold Busan trade deal commitments",
-    "headline_fi": "Yhdysvallat pyytää Kiinaa pitämään kiinni Busanin kauppasopimuksen sitoumuksista",
-    "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 06:44"
-  },
-  {
-    "headline": "Cornell faculty declares 'no confidence' in university leadership",
-    "headline_fi": "Cornellin tiedekunta ilmoittaa \"epäluottamuksesta\" yliopiston johtoon",
-    "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 05:14"
-  },
-  {
-    "headline": "Giant pandas loaned by China make their public debut at US zoo",
-    "headline_fi": "Giant pandas loaned by China make their public debut at US zoo",
-    "link": "https://www.france24.com/en/americas/20261107-giant-pandas-loaned-by-china-make-public-debut-at-us-zoo",
-    "source": "France 24",
-    "pub": "2026-11-07 04:45"
-  },
-  {
-    "headline": "Paraguay: President Santiago Pena under house arrest over bank crisis",
-    "headline_fi": "Paraguay: Presidentti Santiago Pena kotiarestissa pankkikriisin vuoksi",
-    "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 01:23"
-  },
-  {
     "headline": "Polar vortex weakens weeks ahead of schedule, raising risk of cold spells",
     "headline_fi": "Napapyörre heikkenee viikkoja etuajassa, mikä lisää kylmäjaksojen riskiä",
     "link": "https://www.euronews.com/2026/11/06/polar-vortex-weakens-weeks-ahead-of-schedule-raising-risk-of-cold-spells",
@@ -404,13 +397,6 @@
     "link": "https://www.euronews.com/2026/11/06/starring-great-britain-how-set-jetting-is-helping-distribute-tourists-across-the-regions",
     "source": "Euronews",
     "pub": "2026-11-06 23:36"
-  },
-  {
-    "headline": "Kenyan cult leader sentenced to 200 years in prison",
-    "headline_fi": "Kenialainen kulttijohtaja tuomittiin 200 vuodeksi vankeuteen",
-    "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
-    "source": "France 24",
-    "pub": "2026-11-06 23:23"
   },
   {
     "headline": "Foreign buyers push Spanish home sales to record 16% amid record prices",
@@ -491,7 +477,7 @@
   },
   {
     "headline": "EU capitals urge Brussels to ‘swiftly’ sign electricity deal with UK",
-    "headline_fi": "EU capitals urge Brussels to ‘swiftly’ sign electricity deal with UK",
+    "headline_fi": "EU:n pääkaupungit vaativat Brysseliä \"nopeasti\" allekirjoittamaan sähkösopimuksen Britannian kanssa",
     "link": "https://www.politico.eu/article/eu-capitals-urge-brussels-to-swiftly-sign-electricity-deal-with-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-06 18:50"
@@ -567,27 +553,6 @@
     "pub": "2026-11-06 16:28"
   },
   {
-    "headline": "Belgian king refuses PM Bart De Wever's resignation and asks him to restart budget talks",
-    "headline_fi": "Belgian kuningas kieltäytyy pääministeri Bart De Weverin erosta ja pyytää häntä aloittamaan budjettineuvottelut uudelleen",
-    "link": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks",
-    "source": "Euronews",
-    "pub": "2026-11-06 16:17"
-  },
-  {
-    "headline": "Netherlands: Protesters storm Amsterdam data centre construction site",
-    "headline_fi": "Alankomaat: Mielenosoittajat hyökkäävät Amsterdamin datakeskuksen rakennustyömaalle",
-    "link": "https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site",
-    "source": "Euronews",
-    "pub": "2026-11-06 16:04"
-  },
-  {
-    "headline": "Baku's 7th World Forum on Intercultural Dialogue examines the role of culture in peace",
-    "headline_fi": "Bakun seitsemäs kulttuurienvälisen vuoropuhelun maailmanfoorumi tutkii kulttuurin roolia rauhassa",
-    "link": "https://www.euronews.com/2026/11/06/bakus-7th-world-forum-on-intercultural-dialogue-examines-the-role-of-culture-in-peace",
-    "source": "Euronews",
-    "pub": "2026-11-06 16:00"
-  },
-  {
     "headline": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
     "headline_fi": "Tšekkiläiset asevalmistajat kiinnittävät huomiota avaruuspuolustukseen pyrkiessään ylläpitämään Ukrainan vetämää asebuumia",
     "link": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-rdf",
@@ -603,42 +568,42 @@
   },
   {
     "headline": "Mélenchon squares up to Brussels in election manifesto",
-    "headline_fi": "Mélenchon squares up to Brussels in election manifesto",
+    "headline_fi": "Mélenchon asettuu vaaliohjelmassa Brysseliin",
     "link": "https://www.politico.eu/article/france-presidential-candidate-melenchon-previews-eu-confrontation-in-presidential-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-06 14:48"
   },
   {
     "headline": "Debate: Protests in Europe: how to tackle the unrest?",
-    "headline_fi": "Debate: Protests in Europe: how to tackle the unrest?",
+    "headline_fi": "Keskustelu: Mielenosoitukset Euroopassa: miten levottomuuksiin voidaan puuttua?",
     "link": "https://www.eurotopics.net/en/366841/protests-in-europe-how-to-tackle-the-unrest?pk_campaign=rss-en&pk_kwd=2026-11-06",
     "source": "Eurotopics",
     "pub": "2026-11-06 13:16"
   },
   {
     "headline": "Debate: Poland: dispute over constitutional court escalates",
-    "headline_fi": "Debate: Poland: dispute over constitutional court escalates",
+    "headline_fi": "Keskustelu: Puola: kiista perustuslakituomioistuimesta kärjistyy",
     "link": "https://www.eurotopics.net/en/366539/poland-dispute-over-constitutional-court-escalates?pk_campaign=rss-en&pk_kwd=2026-11-06",
     "source": "Eurotopics",
     "pub": "2026-11-06 13:16"
   },
   {
     "headline": "Debate: Supermarket cyberattacks set off alarm bells across Europe",
-    "headline_fi": "Debate: Supermarket cyberattacks set off alarm bells across Europe",
+    "headline_fi": "Keskustelu: Supermarkettien kyberhyökkäykset soittivat hälytyskelloja kaikkialla Euroopassa",
     "link": "https://www.eurotopics.net/en/366612/supermarket-cyberattacks-set-off-alarm-bells-across-europe?pk_campaign=rss-en&pk_kwd=2026-11-06",
     "source": "Eurotopics",
     "pub": "2026-11-06 13:16"
   },
   {
     "headline": "Debate: US midterms: the global impact?",
-    "headline_fi": "Debate: US midterms: the global impact?",
+    "headline_fi": "Keskustelu: USA:n väliehdot: globaali vaikutus?",
     "link": "https://www.eurotopics.net/en/366775/us-midterms-the-global-impact?pk_campaign=rss-en&pk_kwd=2026-11-06",
     "source": "Eurotopics",
     "pub": "2026-11-06 13:16"
   },
   {
     "headline": "No to war as a political weapon | Avvenire - Italy",
-    "headline_fi": "No to war as a political weapon | Avvenire - Italy",
+    "headline_fi": "Ei sodalle poliittisena aseena |Avvenire - Italia",
     "link": "https://www.eurotopics.net/en/366775/us-midterms-the-global-impact?zitat=366820&pk_campaign=rss-en&pk_kwd=2026-11-06#zitat366820",
     "source": "Eurotopics",
     "pub": "2026-11-06 13:16"
