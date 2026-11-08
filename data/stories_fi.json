@@ -1,5 +1,12 @@
 [
   {
+    "headline": "Gunmen kills six in Krakow, three more bodies found at his house",
+    "headline_fi": "Asemiehet tappavat kuusi Krakovassa, kolme muuta ruumista löydettiin hänen talostaan",
+    "link": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+    "source": "France 24",
+    "pub": "2026-11-08 00:47"
+  },
+  {
     "headline": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
     "headline_fi": "Ukraina: Venäjän iskut iskivät Kiovan alueelle ja vahingoittivat infrastruktuuria",
     "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
@@ -292,13 +299,6 @@
     "link": "https://www.euronews.com/2026/11/07/hackers-probed-europes-fridge-systems-weeks-before-cyberattacks-who-did-it-and-what-could-",
     "source": "Euronews",
     "pub": "2026-11-07 10:30"
-  },
-  {
-    "headline": "French student unions say 250,000 people took part in Saturday’s protests",
-    "headline_fi": "Ranskan ylioppilasliittojen mukaan 250 000 ihmistä osallistui lauantain mielenosoituksiin",
-    "link": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-    "source": "France 24",
-    "pub": "2026-11-07 10:17"
   },
   {
     "headline": "Amid protests, France's rising debt costs threaten stability",
@@ -610,14 +610,14 @@
   },
   {
     "headline": "Ukraine not a pawn in US domestic politics | Ukrajinska Prawda - Ukraine",
-    "headline_fi": "Ukraine not a pawn in US domestic politics | Ukrajinska Prawda - Ukraine",
+    "headline_fi": "Ukraina ei ole pelinappula Yhdysvaltain sisäpolitiikassa |Ukrajinska Prawda - Ukraina",
     "link": "https://www.eurotopics.net/en/366775/us-midterms-the-global-impact?zitat=366833&pk_campaign=rss-en&pk_kwd=2026-11-06#zitat366833",
     "source": "Eurotopics",
     "pub": "2026-11-06 13:16"
   },
   {
     "headline": "Arrests and investigations as Serbia begins postelection cleanup",
-    "headline_fi": "Arrests and investigations as Serbia begins postelection cleanup",
+    "headline_fi": "Pidätyksiä ja tutkimuksia Serbian aloittaessa vaalien jälkeisen siivouksen",
     "link": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 19:00"
@@ -631,14 +631,14 @@
   },
   {
     "headline": "Russia is back in world sport, but who is drug testing its athletes?",
-    "headline_fi": "Russia is back in world sport, but who is drug testing its athletes?",
+    "headline_fi": "Venäjä on palannut maailmanurheiluun, mutta kuka testaa urheilijoitaan?",
     "link": "https://www.dw.com/en/russia-is-back-in-world-sport-but-who-is-drug-testing-its-athletes/a-79862467?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 16:51"
   },
   {
     "headline": "Bomb threats disrupt several flights across Europe",
-    "headline_fi": "Bomb threats disrupt several flights across Europe",
+    "headline_fi": "Pommiuhkat häiritsevät useita lentoja eri puolilla Eurooppaa",
     "link": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 12:10"
@@ -673,21 +673,21 @@
   },
   {
     "headline": "Leading ice hockey nations, sponsors oppose Russia's return",
-    "headline_fi": "Leading ice hockey nations, sponsors oppose Russia's return",
+    "headline_fi": "Johtavat jääkiekkomaat, sponsorit vastustavat Venäjän paluuta",
     "link": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-04 15:27"
   },
   {
     "headline": "BMW reports lower Q3 earnings as China woes mount",
-    "headline_fi": "BMW reports lower Q3 earnings as China woes mount",
+    "headline_fi": "BMW raportoi kolmannen vuosineljänneksen tuloksensa heikkenevän Kiinan ongelmien kasvaessa",
     "link": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-04 12:25"
   },
   {
     "headline": "Germany's celebrated children's author Janosch has died",
-    "headline_fi": "Germany's celebrated children's author Janosch has died",
+    "headline_fi": "Saksalainen kuuluisa lastenkirjailija Janosch on kuollut",
     "link": "https://www.dw.com/en/germany-s-celebrated-children-s-author-janosch-has-died/a-79851600?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-04 12:16"
@@ -701,84 +701,84 @@
   },
   {
     "headline": "How Berlin's Arab queers are building their community",
-    "headline_fi": "How Berlin's Arab queers are building their community",
+    "headline_fi": "Kuinka Berliinin arabiqueerit rakentavat yhteisöään",
     "link": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 16:37"
   },
   {
     "headline": "Cyprus: From ties with Russia to a strategic alignment with the US",
-    "headline_fi": "Cyprus: From ties with Russia to a strategic alignment with the US",
+    "headline_fi": "Kypros: suhteista Venäjään strategiseen linjaukseen Yhdysvaltojen kanssa",
     "link": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 16:28"
   },
   {
     "headline": "Multiple flights to European airports targeted by bomb threats",
-    "headline_fi": "Multiple flights to European airports targeted by bomb threats",
+    "headline_fi": "Useita lentoja pommiuhkausten kohteena oleville Euroopan lentokentille",
     "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 16:18"
   },
   {
     "headline": "Football: Spanish player dies on after cardiac arrest on the pitch",
-    "headline_fi": "Football: Spanish player dies on after cardiac arrest on the pitch",
+    "headline_fi": "Jalkapallo: Espanjalainen pelaaja menehtyi sydänpysähdyksen jälkeen kentällä",
     "link": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 13:52"
   },
   {
     "headline": "Asian Cup postponed due to Middle East conflict",
-    "headline_fi": "Asian Cup postponed due to Middle East conflict",
+    "headline_fi": "Asian Cup lykättiin Lähi-idän konfliktin vuoksi",
     "link": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 13:32"
   },
   {
     "headline": "Could the AI boom make borrowing more expensive in Europe?",
-    "headline_fi": "Could the AI boom make borrowing more expensive in Europe?",
+    "headline_fi": "Voisiko tekoälybuumi tehdä lainaamisesta kalliimpaa Euroopassa?",
     "link": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 12:27"
   },
   {
     "headline": "Germany news: Ukraine in focus at Berlin Security Conference",
-    "headline_fi": "Germany news: Ukraine in focus at Berlin Security Conference",
+    "headline_fi": "Saksan uutiset: Ukraina keskittyy Berliinin turvallisuuskonferenssissa",
     "link": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 09:00"
   },
   {
     "headline": "Ice hockey officials considering options after CAS order to reinstate Russia",
-    "headline_fi": "Ice hockey officials considering options after CAS order to reinstate Russia",
+    "headline_fi": "Jääkiekkoviranomaiset harkitsevat vaihtoehtoja CAS:n määräyksen jälkeen palauttaa Venäjä",
     "link": "https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-02 17:34"
   },
   {
     "headline": "LA communities kick out Big Oil",
-    "headline_fi": "LA communities kick out Big Oil",
+    "headline_fi": "LA-yhteisöt potkivat Big Oilin pois",
     "link": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-02 16:21"
   },
   {
     "headline": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
-    "headline_fi": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+    "headline_fi": "Maailmanlaajuinen jalankulkija Karl Bushby palaa kotiin Iso-Britanniaan 28 vuoden vaelluksen jälkeen",
     "link": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-02 14:31"
   },
   {
     "headline": "How Iliana Yotova won the presidential election in Bulgaria",
-    "headline_fi": "How Iliana Yotova won the presidential election in Bulgaria",
+    "headline_fi": "Kuinka Iliana Yotova voitti presidentinvaalit Bulgariassa",
     "link": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-02 14:15"
   },
   {
     "headline": "Merz says next German president 'must be a woman' — report",
-    "headline_fi": "Merz says next German president 'must be a woman' — report",
+    "headline_fi": "Merzin mukaan seuraavan Saksan presidentin on oltava nainen",
     "link": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-02 09:36"
@@ -1111,26 +1111,5 @@
     "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-12 17:41"
-  },
-  {
-    "headline": "Author or artificial intelligence? Literature in crisis",
-    "headline_fi": "Tekijä vai tekoäly?Kirjallisuus kriisissä",
-    "link": "https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 18:04"
-  },
-  {
-    "headline": "Art for freedom: Maria Kalesnikava in Bonn",
-    "headline_fi": "Taidetta vapaudelle: Maria Kalesnikava Bonnissa",
-    "link": "https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 16:03"
-  },
-  {
-    "headline": "Finland, the world's happiest nation, faces a glum winter",
-    "headline_fi": "Suomea, maailman onnellisinta kansakuntaa, kohtaa synkkä talvi",
-    "link": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 11:12"
   }
 ]

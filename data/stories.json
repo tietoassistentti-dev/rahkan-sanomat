@@ -1,5 +1,12 @@
 [
   {
+    "headline": "Gunmen kills six in Krakow, three more bodies found at his house",
+    "headline_fi": "Gunmen kills six in Krakow, three more bodies found at his house",
+    "link": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+    "source": "France 24",
+    "pub": "2026-11-08 00:47"
+  },
+  {
     "headline": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
     "headline_fi": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
     "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
@@ -292,13 +299,6 @@
     "link": "https://www.euronews.com/2026/11/07/hackers-probed-europes-fridge-systems-weeks-before-cyberattacks-who-did-it-and-what-could-",
     "source": "Euronews",
     "pub": "2026-11-07 10:30"
-  },
-  {
-    "headline": "French student unions say 250,000 people took part in Saturday’s protests",
-    "headline_fi": "French student unions say 250,000 people took part in Saturday’s protests",
-    "link": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-    "source": "France 24",
-    "pub": "2026-11-07 10:17"
   },
   {
     "headline": "Amid protests, France's rising debt costs threaten stability",
@@ -1111,26 +1111,5 @@
     "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-12 17:41"
-  },
-  {
-    "headline": "Author or artificial intelligence? Literature in crisis",
-    "headline_fi": "Author or artificial intelligence? Literature in crisis",
-    "link": "https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 18:04"
-  },
-  {
-    "headline": "Art for freedom: Maria Kalesnikava in Bonn",
-    "headline_fi": "Art for freedom: Maria Kalesnikava in Bonn",
-    "link": "https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 16:03"
-  },
-  {
-    "headline": "Finland, the world's happiest nation, faces a glum winter",
-    "headline_fi": "Finland, the world's happiest nation, faces a glum winter",
-    "link": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 11:12"
   }
 ]
