@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Pope Leo XIV ends his visit to Uruguay with a tribute to women before departing to Argentina",
+    "headline_fi": "Paavi Leo XIV päättää vierailunsa Uruguayssa kunnioituksella naisille ennen lähtöä Argentiinaan",
+    "link": "https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti",
+    "source": "Euronews",
+    "pub": "2026-11-08 22:55"
+  },
+  {
+    "headline": "Iran: Trump says strikes unlikely if peace talks keep moving",
+    "headline_fi": "Iran: Trump pitää lakkoja epätodennäköisinä, jos rauhanneuvottelut jatkuvat",
+    "link": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-08 22:55"
+  },
+  {
+    "headline": "Dozens killed after migrant boat sinks off Senegal",
+    "headline_fi": "Kymmeniä kuoli sen jälkeen, kun siirtolaisvene upposi Senegalin edustalla",
+    "link": "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-08 21:12"
+  },
+  {
+    "headline": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
+    "headline_fi": "Liian täynnä auto syöksyi järveen Brasiliassa tappaen kymmenen, joista viisi lasta",
+    "link": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
+    "source": "Euronews",
+    "pub": "2026-11-08 19:52"
+  },
+  {
+    "headline": "South Africa elections: ANC marks its worst-ever performance",
+    "headline_fi": "Etelä-Afrikan vaalit: ANC on kaikkien aikojen huonoin tulos",
+    "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-08 19:35"
+  },
+  {
+    "headline": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
+    "headline_fi": "Erdoğan liittyy Aliyeviin Azerbaidžanin voittopäivänä Karabahissa",
+    "link": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
+    "source": "Euronews",
+    "pub": "2026-11-08 19:11"
+  },
+  {
     "headline": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
     "headline_fi": "Rosstatin hakkerointi: saatujen tietojen mukaan yli 390 000 venäläistä kuoli Ukrainan sodassa",
     "link": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
@@ -21,13 +63,6 @@
     "pub": "2026-11-08 18:57"
   },
   {
-    "headline": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
-    "headline_fi": "Viikko kuvissa: Yhdysvaltain keskikauden \"Blue Wave\", Ranskan mielenosoitukset ja Dakarin nuorisoolympialaiset",
-    "link": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
-    "source": "France 24",
-    "pub": "2026-11-08 18:21"
-  },
-  {
     "headline": "Watch: Spectacular double waterspout forms off Italy's Capri island",
     "headline_fi": "Katso: Italian Caprin saaren edustalle muodostuu upea kaksoisvesisuutin",
     "link": "https://www.euronews.com/video/2026/11/08/watch-spectacular-double-waterspout-forms-off-italys-capri-island",
@@ -35,8 +70,8 @@
     "pub": "2026-11-08 18:19"
   },
   {
-    "headline": "At least four dead, 88 injured as two trains collide south of Cairo",
-    "headline_fi": "Ainakin neljä kuoli ja 88 loukkaantui kahden junan törmäyksessä Kairon eteläpuolella",
+    "headline": "At least seven dead, more than 100 injured as two trains collide south of Cairo",
+    "headline_fi": "Ainakin seitsemän kuoli ja yli 100 loukkaantui kahden junan törmäyksessä Kairon eteläpuolella",
     "link": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo",
     "source": "Euronews",
     "pub": "2026-11-08 17:48"
@@ -70,13 +105,6 @@
     "pub": "2026-11-08 16:48"
   },
   {
-    "headline": "US voters reject AI data centres: could the backlash spread to France?",
-    "headline_fi": "Yhdysvaltain äänestäjät torjuvat tekoälyn datakeskukset: voisiko vastareaktio levitä Ranskaan?",
-    "link": "https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france",
-    "source": "France 24",
-    "pub": "2026-11-08 16:36"
-  },
-  {
     "headline": "Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot",
     "headline_fi": "Eurooppalaiset liittyvät Venäjän ja Ukrainan neuvotteluihin Abu Dhabissa, sanoo ranskalainen FM Barrot",
     "link": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot",
@@ -84,53 +112,11 @@
     "pub": "2026-11-08 16:22"
   },
   {
-    "headline": "Yemen's humanitarian crisis worsens",
-    "headline_fi": "Jemenin humanitaarinen kriisi pahenee",
-    "link": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
-    "source": "France 24",
-    "pub": "2026-11-08 16:22"
-  },
-  {
-    "headline": "Poland in shock after 6 killed in Krakow far-right shooting",
-    "headline_fi": "Puola shokissa kuuden ihmisen kuoltua Krakovan äärioikeiston ammuskelussa",
-    "link": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
-    "source": "France 24",
-    "pub": "2026-11-08 16:21"
-  },
-  {
-    "headline": "Mourning in Poland after mass shooting",
-    "headline_fi": "Suru Puolassa joukkoampumisen jälkeen",
-    "link": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
-    "source": "France 24",
-    "pub": "2026-11-08 16:18"
-  },
-  {
-    "headline": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
-    "headline_fi": "Eurooppa osallistuu Yhdysvaltojen välittämiin Ukrainan neuvotteluihin Abu Dhabissa, Ranskan FM kertoo",
-    "link": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-    "source": "France 24",
-    "pub": "2026-11-08 16:16"
-  },
-  {
-    "headline": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
-    "headline_fi": "Paavi Leo kehottaa miehiä kunnioittamaan vaimoja Latinalaisen Amerikan naisten murhakriisin keskellä",
-    "link": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
-    "source": "France 24",
-    "pub": "2026-11-08 16:15"
-  },
-  {
     "headline": "Europe will be represented in Abu Dhabi talks on Ukraine, French foreign minister says",
     "headline_fi": "Eurooppa on edustettuna Abu Dhabin Ukrainaa koskevissa neuvotteluissa, Ranskan ulkoministeri sanoo",
     "link": "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-08 16:03"
-  },
-  {
-    "headline": "At least 21 killed after migrant boat sinks off Senegal",
-    "headline_fi": "Ainakin 21 kuoli sen jälkeen, kun siirtolaisvene upposi Senegalin edustalla",
-    "link": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-08 15:48"
   },
   {
     "headline": "Iran: US strikes ship after Hormuz blockade breach",
@@ -141,87 +127,59 @@
   },
   {
     "headline": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
-    "headline_fi": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
+    "headline_fi": "Egypti avaa Tripolin suurlähetystön uudelleen 12 vuoden jälkeen ja on huolissaan Turkin ja Libyan merisopimuksesta",
     "link": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
     "source": "Euronews",
     "pub": "2026-11-08 14:50"
   },
   {
     "headline": "Condolences and solidarity: European and world leaders react to Krakow shooting.",
-    "headline_fi": "Condolences and solidarity: European and world leaders react to Krakow shooting.",
+    "headline_fi": "Osanotot ja solidaarisuus: Euroopan ja maailman johtajat reagoivat Krakovan ampumiseen.",
     "link": "https://www.euronews.com/2026/11/08/condolences-and-solidarity-european-and-world-leaders-react-to-krakow-shooting",
     "source": "Euronews",
     "pub": "2026-11-08 14:46"
   },
   {
     "headline": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
-    "headline_fi": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
+    "headline_fi": "Egypti ilmoittaa uudesta Välimeren kaasukentän löydöstä, jonka arvioidaan olevan 200 miljardia kuutiojalkaa",
     "link": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet",
     "source": "Euronews",
     "pub": "2026-11-08 14:23"
   },
   {
-    "headline": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
-    "headline_fi": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
-    "link": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
-    "source": "France 24",
-    "pub": "2026-11-08 13:53"
-  },
-  {
     "headline": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
-    "headline_fi": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
+    "headline_fi": "Yhdysvaltain joukot iskevät kaupalliseen alukseen Omaninlahdella miehistön jättäessä huomiotta toistuvia varoituksia",
     "link": "https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings",
     "source": "Euronews",
     "pub": "2026-11-08 13:41"
   },
   {
     "headline": "Russian strikes leave 600,000 in the dark in eastern Ukraine",
-    "headline_fi": "Russian strikes leave 600,000 in the dark in eastern Ukraine",
+    "headline_fi": "Venäjän iskujen seurauksena Itä-Ukrainassa on hämärän peitossa 600 000 ihmistä",
     "link": "https://www.politico.eu/article/russian-strikes-leave-600000-in-the-dark-in-eastern-ukraine-dnipropetrovsk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-08 13:09"
   },
   {
     "headline": "Latest news bulletin | November 8th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | November 8th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |8. marraskuuta 2026 – keskipäivä",
     "link": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-midday",
     "source": "Euronews",
     "pub": "2026-11-08 13:00"
   },
   {
     "headline": "Gaza: Rains add misery to humanitarian catastrophe",
-    "headline_fi": "Gaza: Rains add misery to humanitarian catastrophe",
+    "headline_fi": "Gaza: Sateet lisäävät kurjuutta humanitaariseen katastrofiin",
     "link": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-08 12:58"
   },
   {
-    "headline": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
-    "headline_fi": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
-    "link": "https://www.france24.com/en/tv-shows/sports/20261108-2026-dakar-youth-olympic-games-golden-double-for-senegal",
-    "source": "France 24",
-    "pub": "2026-11-08 12:56"
-  },
-  {
     "headline": "Canary Islands demand urgent government action amid surge in migrant arrivals",
-    "headline_fi": "Canary Islands demand urgent government action amid surge in migrant arrivals",
+    "headline_fi": "Kanariansaaret vaativat hallitukselta kiireellisiä toimia maahanmuuttajien lisääntyessä",
     "link": "https://www.euronews.com/2026/11/08/canary-islands-demand-urgent-government-action-amid-surge-in-migrant-arrivals",
     "source": "Euronews",
     "pub": "2026-11-08 12:46"
-  },
-  {
-    "headline": "Diwali: Over one billion people mark victory of light over darkness",
-    "headline_fi": "Diwali: Over one billion people mark victory of light over darkness",
-    "link": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
-    "source": "France 24",
-    "pub": "2026-11-08 12:46"
-  },
-  {
-    "headline": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
-    "headline_fi": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
-    "link": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
-    "source": "France 24",
-    "pub": "2026-11-08 12:42"
   },
   {
     "headline": "At least 21 dead after migrant boat capsizes off Senegal, authorities say",
@@ -231,39 +189,11 @@
     "pub": "2026-11-08 12:01"
   },
   {
-    "headline": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
-    "headline_fi": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
-    "link": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-    "source": "France 24",
-    "pub": "2026-11-08 11:47"
-  },
-  {
-    "headline": "Donald Trump wants UFC fighters as assistants",
-    "headline_fi": "Donald Trump haluaa UFC-taistelijoita avustajiksi",
-    "link": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
-    "source": "France 24",
-    "pub": "2026-11-08 11:44"
-  },
-  {
-    "headline": "Israel's Arab-led parties gain influence",
-    "headline_fi": "Israelin arabijohtoiset puolueet saavat vaikutusvaltaa",
-    "link": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
-    "source": "France 24",
-    "pub": "2026-11-08 11:43"
-  },
-  {
     "headline": "Poland begins two days of mourning over Krakow shooting",
     "headline_fi": "Puola aloittaa kahden päivän suruajan Krakovan ammuskelun vuoksi",
     "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-08 11:43"
-  },
-  {
-    "headline": "Gaza: Heavy rain inundates thousands of tents",
-    "headline_fi": "Gaza: Voimakas sade tulvii tuhansia telttoja",
-    "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
-    "source": "France 24",
-    "pub": "2026-11-08 11:42"
   },
   {
     "headline": "Grand Prix d’Horlogerie de Genève 2026:  Rexhep Rexhepi wins prestigious Aiguille d’Or Prize",
@@ -280,32 +210,11 @@
     "pub": "2026-11-08 11:30"
   },
   {
-    "headline": "Germany news: Friedrich Merz set to confirm presidential nominee",
-    "headline_fi": "Saksan uutiset: Friedrich Merz vahvistaa presidenttiehdokkaan",
-    "link": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-08 11:02"
-  },
-  {
-    "headline": "Poland launches terrorism probe into mass shooting in Krakow",
-    "headline_fi": "Poland launches terrorism probe into mass shooting in Krakow",
-    "link": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting",
-    "source": "France 24",
-    "pub": "2026-11-08 10:59"
-  },
-  {
     "headline": "Netanyahu rival Eisenkot to be tasked with forming new government following Israeli elections",
     "headline_fi": "Netanyahun kilpailija Eisenkot saa tehtäväkseen muodostaa uusi hallitus Israelin vaalien jälkeen",
     "link": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
     "source": "Euronews",
     "pub": "2026-11-08 10:51"
-  },
-  {
-    "headline": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
-    "headline_fi": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
-    "link": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
-    "source": "France 24",
-    "pub": "2026-11-08 10:11"
   },
   {
     "headline": "What we know about the Krakow shooting that left six people dead",
@@ -329,13 +238,6 @@
     "pub": "2026-11-08 09:53"
   },
   {
-    "headline": "Tenerife honour teammate Jesus De Miguel with tearful tribute",
-    "headline_fi": "Teneriffa kunnioittaa joukkuetoveriaan Jesus De Miguelia kyyneleisellä kunnianosoituksella",
-    "link": "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain",
-    "source": "France 24",
-    "pub": "2026-11-08 09:08"
-  },
-  {
     "headline": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!'",
     "headline_fi": "Trump tarjoaa UFC-pomolle Valkoisen talon lehdistösihteerin roolin: \"Dana, ota työpaikka!\"",
     "link": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
@@ -357,20 +259,6 @@
     "pub": "2026-11-08 08:00"
   },
   {
-    "headline": "New Zealand's knife-edge parliamentary election delivers no clear winner",
-    "headline_fi": "New Zealand's knife-edge parliamentary election delivers no clear winner",
-    "link": "https://www.france24.com/en/asia-pacific/20261108-new-zealand-election-produces-no-clear-winner-as-smaller-parties-make-record-gains",
-    "source": "France 24",
-    "pub": "2026-11-08 05:01"
-  },
-  {
-    "headline": "Gunman kills six in Krakow, three more bodies found at his house",
-    "headline_fi": "Asemies tappoi kuusi Krakovassa, kolme muuta ruumista löydettiin hänen talostaan",
-    "link": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
-    "source": "France 24",
-    "pub": "2026-11-08 00:47"
-  },
-  {
     "headline": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
     "headline_fi": "Ukraina: Venäjän iskut iskivät Kiovan alueelle ja vahingoittivat infrastruktuuria",
     "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
@@ -390,13 +278,6 @@
     "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-07 23:03"
-  },
-  {
-    "headline": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
-    "headline_fi": "\"Väkivaltainen taistelija ja soturi\": Trump tarjoaa lehdistösihteerin roolin UFC:n johtajalle Dana Whitelle",
-    "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-    "source": "France 24",
-    "pub": "2026-11-07 22:45"
   },
   {
     "headline": "Israeli president tasks Gadi Eisenkot with forming government",
@@ -434,13 +315,6 @@
     "pub": "2026-11-07 20:36"
   },
   {
-    "headline": "South Africa's ANC facing worst-ever performance in local elections",
-    "headline_fi": "Etelä-Afrikan ANC:tä uhkaa kaikkien aikojen huonoin menestys paikallisvaaleissa",
-    "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 20:07"
-  },
-  {
     "headline": "Latest news bulletin | November 7th, 2026 – Evening",
     "headline_fi": "Uusin uutistiedote |7.11.2026 – ilta",
     "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
@@ -449,7 +323,7 @@
   },
   {
     "headline": "Should AI companies pay for the journalism they use?",
-    "headline_fi": "Should AI companies pay for the journalism they use?",
+    "headline_fi": "Pitäisikö tekoälyyritysten maksaa käyttämästään journalismista?",
     "link": "https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-07 17:14"
@@ -560,27 +434,6 @@
     "pub": "2026-11-07 08:00"
   },
   {
-    "headline": "Latest news bulletin | November 7th, 2026 – Morning",
-    "headline_fi": "Uusin uutistiedote |7. marraskuuta 2026 – Aamu",
-    "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-11-07 08:00"
-  },
-  {
-    "headline": "'We have proven ourselves': UAE vows to remain reliable energy supplier to Europe",
-    "headline_fi": "\"Olemme todistaneet itsemme\": Yhdistyneet arabiemiirikunnat lupaavat pysyä luotettavana energiantoimittajana Euroopalle",
-    "link": "https://www.euronews.com/2026/11/07/we-have-proven-ourselves-uae-vows-to-remain-reliable-energy-supplier-to-europe",
-    "source": "Euronews",
-    "pub": "2026-11-07 08:00"
-  },
-  {
-    "headline": "Are Europeans saving enough for retirement? Here is how much more they need to put aside",
-    "headline_fi": "Säästävätkö eurooppalaiset tarpeeksi eläkettä varten?Tässä on kuinka paljon enemmän heidän on jätettävä syrjään",
-    "link": "https://www.euronews.com/2026/11/07/are-europeans-saving-enough-for-retirement-here-is-how-much-more-they-need-to-put-aside",
-    "source": "Euronews",
-    "pub": "2026-11-07 07:59"
-  },
-  {
     "headline": "Ilse Aigner tipped by party allies as next German president",
     "headline_fi": "Puolueliittolaiset ehdottivat Ilse Aigneriä seuraavaksi Saksan presidentiksi",
     "link": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf",
@@ -596,7 +449,7 @@
   },
   {
     "headline": "NATO faces €7B shortfall on military aid pledge to Ukraine",
-    "headline_fi": "NATO faces €7B shortfall on military aid pledge to Ukraine",
+    "headline_fi": "Nato uhkaa 7 miljardin euron vajetta Ukrainalle antamassaan sotilaallisessa avussa",
     "link": "https://www.politico.eu/article/nato-faces-7b-euro-shortfall-military-aid-pledge-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-06 19:20"
@@ -985,13 +838,6 @@
     "link": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 12:24"
-  },
-  {
-    "headline": "Russia in Africa: What is Putin hoping to achieve?",
-    "headline_fi": "Venäjä Afrikassa: Mitä Putin toivoo saavuttavansa?",
-    "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-28 11:48"
   },
   {
     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker",
