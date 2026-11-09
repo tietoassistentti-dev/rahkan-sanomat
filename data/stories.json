@@ -1,5 +1,26 @@
 [
   {
+    "headline": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
+    "headline_fi": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
+    "link": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
+    "source": "Euronews",
+    "pub": "2026-11-09 00:18"
+  },
+  {
+    "headline": "Pope Leo in Latin America: Papal Politics and Peru",
+    "headline_fi": "Pope Leo in Latin America: Papal Politics and Peru",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261108-pope-leo-in-latin-america-papal-politics-and-peru",
+    "source": "France 24",
+    "pub": "2026-11-08 23:16"
+  },
+  {
+    "headline": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
+    "headline_fi": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
+    "link": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
+    "source": "France 24",
+    "pub": "2026-11-08 23:10"
+  },
+  {
     "headline": "Pope Leo XIV ends his visit to Uruguay with a tribute to women before departing to Argentina",
     "headline_fi": "Pope Leo XIV ends his visit to Uruguay with a tribute to women before departing to Argentina",
     "link": "https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti",
@@ -14,9 +35,23 @@
     "pub": "2026-11-08 22:55"
   },
   {
-    "headline": "Dozens killed after migrant boat sinks off Senegal",
-    "headline_fi": "Dozens killed after migrant boat sinks off Senegal",
-    "link": "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+    "headline": "Pope Leo in Latin America: Papal Politics and Peru",
+    "headline_fi": "Pope Leo in Latin America: Papal Politics and Peru",
+    "link": "https://www.france24.com/en/pope-leo-in-latin-america-papal-politics-and-peru",
+    "source": "France 24",
+    "pub": "2026-11-08 22:51"
+  },
+  {
+    "headline": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
+    "headline_fi": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
+    "link": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
+    "source": "France 24",
+    "pub": "2026-11-08 22:40"
+  },
+  {
+    "headline": "Many killed after migrant boat sinks off Senegal",
+    "headline_fi": "Many killed after migrant boat sinks off Senegal",
+    "link": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-08 21:12"
   },
@@ -56,11 +91,32 @@
     "pub": "2026-11-08 19:00"
   },
   {
+    "headline": "Ukraine: Russian strikes leave hundreds of thousands without power",
+    "headline_fi": "Ukraine: Russian strikes leave hundreds of thousands without power",
+    "link": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+    "source": "France 24",
+    "pub": "2026-11-08 18:59"
+  },
+  {
+    "headline": "Gadi Eisenkot receives mandate to form government",
+    "headline_fi": "Gadi Eisenkot receives mandate to form government",
+    "link": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+    "source": "France 24",
+    "pub": "2026-11-08 18:58"
+  },
+  {
     "headline": "Wirecard fugitive claimed he toppled Sebastian Kurz in messages to Russian spy",
     "headline_fi": "Wirecard fugitive claimed he toppled Sebastian Kurz in messages to Russian spy",
     "link": "https://www.politico.eu/article/wirecard-fugitive-jan-marsalek-claimed-he-toppled-sebastian-kurz-in-messages-to-russian-spy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-08 18:57"
+  },
+  {
+    "headline": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+    "headline_fi": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+    "link": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+    "source": "France 24",
+    "pub": "2026-11-08 18:21"
   },
   {
     "headline": "Watch: Spectacular double waterspout forms off Italy's Capri island",
@@ -105,11 +161,53 @@
     "pub": "2026-11-08 16:48"
   },
   {
+    "headline": "US voters reject AI data centres: could the backlash spread to France?",
+    "headline_fi": "US voters reject AI data centres: could the backlash spread to France?",
+    "link": "https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france",
+    "source": "France 24",
+    "pub": "2026-11-08 16:36"
+  },
+  {
     "headline": "Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot",
     "headline_fi": "Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot",
     "link": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot",
     "source": "Euronews",
     "pub": "2026-11-08 16:22"
+  },
+  {
+    "headline": "Yemen's humanitarian crisis worsens",
+    "headline_fi": "Yemen's humanitarian crisis worsens",
+    "link": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
+    "source": "France 24",
+    "pub": "2026-11-08 16:22"
+  },
+  {
+    "headline": "Poland in shock after 6 killed in Krakow far-right shooting",
+    "headline_fi": "Poland in shock after 6 killed in Krakow far-right shooting",
+    "link": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+    "source": "France 24",
+    "pub": "2026-11-08 16:21"
+  },
+  {
+    "headline": "Mourning in Poland after mass shooting",
+    "headline_fi": "Mourning in Poland after mass shooting",
+    "link": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
+    "source": "France 24",
+    "pub": "2026-11-08 16:18"
+  },
+  {
+    "headline": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+    "headline_fi": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+    "link": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+    "source": "France 24",
+    "pub": "2026-11-08 16:16"
+  },
+  {
+    "headline": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+    "headline_fi": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+    "link": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
+    "source": "France 24",
+    "pub": "2026-11-08 16:15"
   },
   {
     "headline": "Europe will be represented in Abu Dhabi talks on Ukraine, French foreign minister says",
@@ -147,6 +245,13 @@
     "pub": "2026-11-08 14:23"
   },
   {
+    "headline": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+    "headline_fi": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+    "link": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
+    "source": "France 24",
+    "pub": "2026-11-08 13:53"
+  },
+  {
     "headline": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
     "headline_fi": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
     "link": "https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings",
@@ -175,6 +280,13 @@
     "pub": "2026-11-08 12:58"
   },
   {
+    "headline": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
+    "headline_fi": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
+    "link": "https://www.france24.com/en/tv-shows/sports/20261108-2026-dakar-youth-olympic-games-golden-double-for-senegal",
+    "source": "France 24",
+    "pub": "2026-11-08 12:56"
+  },
+  {
     "headline": "Canary Islands demand urgent government action amid surge in migrant arrivals",
     "headline_fi": "Canary Islands demand urgent government action amid surge in migrant arrivals",
     "link": "https://www.euronews.com/2026/11/08/canary-islands-demand-urgent-government-action-amid-surge-in-migrant-arrivals",
@@ -182,11 +294,46 @@
     "pub": "2026-11-08 12:46"
   },
   {
+    "headline": "Diwali: Over one billion people mark victory of light over darkness",
+    "headline_fi": "Diwali: Over one billion people mark victory of light over darkness",
+    "link": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
+    "source": "France 24",
+    "pub": "2026-11-08 12:46"
+  },
+  {
+    "headline": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
+    "headline_fi": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
+    "link": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
+    "source": "France 24",
+    "pub": "2026-11-08 12:42"
+  },
+  {
     "headline": "At least 21 dead after migrant boat capsizes off Senegal, authorities say",
     "headline_fi": "At least 21 dead after migrant boat capsizes off Senegal, authorities say",
     "link": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
     "source": "Euronews",
     "pub": "2026-11-08 12:01"
+  },
+  {
+    "headline": "Israeli president officially tasks Eisenkot with forming government",
+    "headline_fi": "Israeli president officially tasks Eisenkot with forming government",
+    "link": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+    "source": "France 24",
+    "pub": "2026-11-08 11:47"
+  },
+  {
+    "headline": "Donald Trump wants UFC fighters as assistants",
+    "headline_fi": "Donald Trump wants UFC fighters as assistants",
+    "link": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
+    "source": "France 24",
+    "pub": "2026-11-08 11:44"
+  },
+  {
+    "headline": "Israel's Arab-led parties gain influence",
+    "headline_fi": "Israel's Arab-led parties gain influence",
+    "link": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
+    "source": "France 24",
+    "pub": "2026-11-08 11:43"
   },
   {
     "headline": "Poland begins two days of mourning over Krakow shooting",
@@ -425,13 +572,6 @@
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-bodo-ramelow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-07 08:22"
-  },
-  {
-    "headline": "Earn points, save cash: A basic guide to frequent-flyer programmes in Europe",
-    "headline_fi": "Earn points, save cash: A basic guide to frequent-flyer programmes in Europe",
-    "link": "https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe",
-    "source": "Euronews",
-    "pub": "2026-11-07 08:00"
   },
   {
     "headline": "Ilse Aigner tipped by party allies as next German president",
