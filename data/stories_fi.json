@@ -1,5 +1,229 @@
 [
   {
+    "headline": "US Senate asks Huang, Lutnick to testify on Nvidia",
+    "headline_fi": "Yhdysvaltain senaatti pyytää Huangia ja Lutnickia todistamaan Nvidiassa",
+    "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-13 10:02"
+  },
+  {
+    "headline": "Microsoft works to restore Outlook and Teams after global outage",
+    "headline_fi": "Microsoft pyrkii palauttamaan Outlookin ja Teamsin maailmanlaajuisen käyttökatkon jälkeen",
+    "link": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-13 09:46"
+  },
+  {
+    "headline": "US pushes for European presence at Ukraine-Russia talks, which Moscow refuses to confirm",
+    "headline_fi": "Yhdysvallat vaatii Euroopan läsnäoloa Ukrainan ja Venäjän välisissä neuvotteluissa, mutta Moskova ei suostu vahvistamaan sitä",
+    "link": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks",
+    "source": "Euronews",
+    "pub": "2026-11-13 09:41"
+  },
+  {
+    "headline": "Real or fake Christmas tree? The most sustainable choice is complicated, and renting is on the rise",
+    "headline_fi": "Aito vai väärennös joulukuusi?Kestävin valinta on monimutkainen, ja vuokraus on nousussa",
+    "link": "https://www.euronews.com/2026/11/13/real-vs-fake-how-to-curb-your-christmas-tree-carbon-emissions",
+    "source": "Euronews",
+    "pub": "2026-11-13 09:30"
+  },
+  {
+    "headline": "Nicole Kidman to receive honorary César Award from French film academy",
+    "headline_fi": "Nicole Kidman saa César-kunniapalkinnon Ranskan elokuvaakatemialta",
+    "link": "https://www.euronews.com/2026/11/13/nicole-kidman-to-receive-honorary-cesar-award-from-french-film-academy",
+    "source": "Euronews",
+    "pub": "2026-11-13 09:21"
+  },
+  {
+    "headline": "EU leaders in Dublin grapple with who speaks for Europe in peace talks",
+    "headline_fi": "EU-johtajat Dublinissa kamppailevat sen kanssa, kuka puhuu Euroopan puolesta rauhanneuvotteluissa",
+    "link": "https://www.euronews.com/2026/11/13/eu-leaders-gather-in-dublin-to-decide-who-will-speak-for-europe-in-peace-talks",
+    "source": "Euronews",
+    "pub": "2026-11-13 09:19"
+  },
+  {
+    "headline": "India news: Sonam Wangchuk says he is under house arrest in Ladakh",
+    "headline_fi": "Intia-uutiset: Sonam Wangchuk sanoo olevansa kotiarestissa Ladakhissa",
+    "link": "https://www.dw.com/en/india-news-sonam-wangchuk-says-he-is-under-house-arrest-in-ladakh/live-79936475?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-13 09:05"
+  },
+  {
+    "headline": "Who will inherit 007's licence to thrill? 'The world is not enough' in the hunt for James Bond",
+    "headline_fi": "Kuka perii 007:n lisenssin jännittämiseen?\"Maailma ei riitä\" James Bondin metsästykseen",
+    "link": "https://www.france24.com/en/who-will-inherit-007-s-licence-to-thrill-the-world-is-not-enough-in-the-hunt-for-james-bond",
+    "source": "France 24",
+    "pub": "2026-11-13 09:04"
+  },
+  {
+    "headline": "Europe Today: US envoys meet Putin as Europe pushes to join Ukraine talks",
+    "headline_fi": "Europe Today: Yhdysvaltain lähettiläät tapaavat Putinin Euroopan pyrkiessä liittymään Ukrainan neuvotteluihin",
+    "link": "https://www.euronews.com/2026/11/13/europe-today-us-envoys-meet-putin-as-europe-pushes-to-join-ukraine-talks",
+    "source": "Euronews",
+    "pub": "2026-11-13 09:02"
+  },
+  {
+    "headline": "2027 AFCON Qualifiers: Top guns Senegal, Cameroon, Ivory Coast deliver",
+    "headline_fi": "AFCON-karsinnat 2027: Parhaat aseet Senegal, Kamerun, Norsunluurannikko toimitetaan",
+    "link": "https://www.france24.com/en/tv-shows/sports/20261113-2027-afcon-qualifiers-top-guns-senegal-cameroon-ivory-coast-deliver",
+    "source": "France 24",
+    "pub": "2026-11-13 08:59"
+  },
+  {
+    "headline": "Europe could save 40% on electricity costs if solar and batteries ‘work in harmony’",
+    "headline_fi": "Eurooppa voisi säästää 40 prosenttia sähkökustannuksissa, jos aurinko ja akut \"toimivat harmoniassa\"",
+    "link": "https://www.euronews.com/2026/11/13/europe-could-save-40-on-electricity-costs-if-solar-and-batteries-work-in-harmony",
+    "source": "Euronews",
+    "pub": "2026-11-13 08:02"
+  },
+  {
+    "headline": "Ukraine envoy row hijacks EU leaders’ first AI summit",
+    "headline_fi": "Ukrainan lähettiläs kaappasi EU:n johtajien ensimmäisen tekoälyhuippukokouksen",
+    "link": "https://www.euronews.com/2026/11/13/ukraine-envoy-row-hijacks-eu-leaders-first-ai-summit",
+    "source": "Euronews",
+    "pub": "2026-11-13 08:00"
+  },
+  {
+    "headline": "Latest news bulletin | November 13th, 2026 – Morning",
+    "headline_fi": "Uusin uutistiedote |13. marraskuuta 2026 – aamu",
+    "link": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-11-13 08:00"
+  },
+  {
+    "headline": "Europe’s trending travel destinations for 2027 – here's where to go according to the experts",
+    "headline_fi": "Euroopan trendikkäät matkakohteet vuodelle 2027 – tässä on asiantuntijoiden mukaan minne mennä",
+    "link": "https://www.euronews.com/2026/11/13/europes-trending-travel-destinations-for-2027-heres-where-to-go-according-to-the-experts",
+    "source": "Euronews",
+    "pub": "2026-11-13 08:00"
+  },
+  {
+    "headline": "The EU sealed a migration deal with Nigeria. But what did Abuja get in return?",
+    "headline_fi": "EU sinetöi maahanmuuttosopimuksen Nigerian kanssa.Mutta mitä Abuja sai vastineeksi?",
+    "link": "https://www.euronews.com/2026/11/13/the-eu-sealed-a-migration-deal-with-nigeria-but-what-did-abuja-get-in-return",
+    "source": "Euronews",
+    "pub": "2026-11-13 08:00"
+  },
+  {
+    "headline": "European citizens overwhelmingly back creation of an EU army, survey finds",
+    "headline_fi": "Tutkimuksen mukaan Euroopan kansalaiset kannattavat ylivoimaisesti EU:n armeijan perustamista",
+    "link": "https://www.politico.eu/article/european-citizens-overwhelmingly-back-creation-of-an-eu-army-survey-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 08:00"
+  },
+  {
+    "headline": "Getting ready for bombs: Europe's healthcare systems prepare for the unthinkable",
+    "headline_fi": "Valmistautuminen pommeihin: Euroopan terveydenhuoltojärjestelmät valmistautuvat käsittämättömään",
+    "link": "https://www.euronews.com/2026/11/13/getting-ready-for-bombs-europes-healthcare-systems-prepare-for-the-unthinkable",
+    "source": "Euronews",
+    "pub": "2026-11-13 07:57"
+  },
+  {
+    "headline": "BND-Reform: Die neue Macht der Geheimdienste",
+    "headline_fi": "BND-uudistus: salaisten palvelujen uusi voima",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/bnd-reform-die-neue-macht-der-geheimdienste/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 06:19"
+  },
+  {
+    "headline": "US senator Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+    "headline_fi": "Yhdysvaltain senaattori Chris Van Hollen haastaa Chuck Schumerin senaatin enemmistöjohtajaksi",
+    "link": "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader",
+    "source": "Euronews",
+    "pub": "2026-11-13 06:16"
+  },
+  {
+    "headline": "Who is Britain’s ‘perfect’ immigrant?",
+    "headline_fi": "Kuka on Britannian \"täydellinen\" maahanmuuttaja?",
+    "link": "https://www.politico.eu/podcast/eu-confidential/who-is-britains-perfect-immigrant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 06:00"
+  },
+  {
+    "headline": "Microsoft struggles to repair global Outlook outage, says no sign of 'malicious activity'",
+    "headline_fi": "Microsoft struggles to repair global Outlook outage, says no sign of 'malicious activity'",
+    "link": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+    "source": "France 24",
+    "pub": "2026-11-13 05:44"
+  },
+  {
+    "headline": "5 things to watch at the Dublin EU leaders’ summit",
+    "headline_fi": "5 things to watch at the Dublin EU leaders’ summit",
+    "link": "https://www.politico.eu/article/5-things-to-watch-dublin-eu-leaders-summit-european-council/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 05:00"
+  },
+  {
+    "headline": "Dissident leader wants Europe to consider Belarus in broader Ukraine peace deal",
+    "headline_fi": "Dissident leader wants Europe to consider Belarus in broader Ukraine peace deal",
+    "link": "https://www.politico.eu/article/sviatlana-tsikhanouskaya-urges-europe-include-belarus-ukraine-peace-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 05:00"
+  },
+  {
+    "headline": "How to win friends and throw people: Judo’s big impact on politics",
+    "headline_fi": "How to win friends and throw people: Judo’s big impact on politics",
+    "link": "https://www.politico.eu/article/how-to-win-friends-and-throw-people-judos-big-impact-on-politics/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 05:00"
+  },
+  {
+    "headline": "What will a female president mean for Germany and Europe?",
+    "headline_fi": "What will a female president mean for Germany and Europe?",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/what-will-a-female-president-mean-for-germany-and-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 05:00"
+  },
+  {
+    "headline": "EU leaders start Friday’s summit still at odds over who should lead on Ukraine",
+    "headline_fi": "EU leaders start Friday’s summit still at odds over who should lead on Ukraine",
+    "link": "https://www.politico.eu/article/eu-leaders-start-friday-summit-still-at-odds-over-who-should-lead-on-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 05:00"
+  },
+  {
+    "headline": "Pope Leo XIV meets abuse victims in Peru, says Church must make 'amends'",
+    "headline_fi": "Pope Leo XIV meets abuse victims in Peru, says Church must make 'amends'",
+    "link": "https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends",
+    "source": "France 24",
+    "pub": "2026-11-13 04:58"
+  },
+  {
+    "headline": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
+    "headline_fi": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
+    "link": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-13 04:27"
+  },
+  {
+    "headline": "Haitian police retake national stadium from gangs after two years",
+    "headline_fi": "Haitian police retake national stadium from gangs after two years",
+    "link": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years",
+    "source": "France 24",
+    "pub": "2026-11-13 04:01"
+  },
+  {
+    "headline": "Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
+    "headline_fi": "Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
+    "link": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks",
+    "source": "France 24",
+    "pub": "2026-11-13 03:39"
+  },
+  {
+    "headline": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
+    "headline_fi": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261112-peruvian-pope-leo-xiv-comes-home-to-a-country-that-shaped-his-life-and-faith-through-hardship",
+    "source": "France 24",
+    "pub": "2026-11-13 01:33"
+  },
+  {
+    "headline": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
+    "headline_fi": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
+    "link": "https://www.france24.com/en/peruvian-pope-leo-xiv-comes-home-to-a-country-that-shaped-his-life-and-faith-through-hardship",
+    "source": "France 24",
+    "pub": "2026-11-13 01:26"
+  },
+  {
     "headline": "US: New Congress members pose for traditional photo at Capitol",
     "headline_fi": "USA: Uudet kongressin jäsenet poseeraavat perinteisessä valokuvassa Capitolissa",
     "link": "https://www.euronews.com/video/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol",
@@ -35,9 +259,9 @@
     "pub": "2026-11-13 00:10"
   },
   {
-    "headline": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
-    "headline_fi": "EU-johtajat kiistelevät siitä, kuka lähettää Ukrainan ja Venäjän rauhanneuvotteluihin",
-    "link": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
+    "headline": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+    "headline_fi": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+    "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 00:00"
   },
@@ -70,13 +294,6 @@
     "pub": "2026-11-12 23:20"
   },
   {
-    "headline": "Microsoft reports mass outages in US, impacting customer accessibility",
-    "headline_fi": "Microsoft raportoi massakatkoksista Yhdysvalloissa, jotka vaikuttavat asiakkaiden saavutettavuuteen",
-    "link": "https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-12 23:19"
-  },
-  {
     "headline": "'There's no such thing as safe' in contact sports, brain injury expert says",
     "headline_fi": "Kontaktiurheilussa ei ole turvallista, aivovammaasiantuntija sanoo",
     "link": "https://www.france24.com/en/there-s-no-such-thing-as-safe-in-contact-sports-brain-injury-expert-says",
@@ -84,32 +301,11 @@
     "pub": "2026-11-12 23:09"
   },
   {
-    "headline": "Not even old Andalusian heartlands can save Pedro Sánchez",
-    "headline_fi": "Edes vanhat Andalusian sydänmaat eivät voi pelastaa Pedro Sánchezia",
-    "link": "https://www.politico.eu/article/pedro-sanchez-uphill-battle-to-win-back-the-socialists-andalusian-heartland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 22:45"
-  },
-  {
-    "headline": "AI and Ukraine to dominate EU leaders’ talks — live updates",
-    "headline_fi": "Tekoäly ja Ukraina hallitsevat EU:n johtajien keskusteluja – suoria päivityksiä",
-    "link": "https://www.politico.eu/article/ai-and-ukraine-to-dominate-eu-leaders-talks-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 22:29"
-  },
-  {
     "headline": "Nvidia without Huang 'a significant loss' and puts the AI boom under a microscope, say economists",
     "headline_fi": "Nvidia ilman Huangia \"merkittävä tappio\" ja asettaa tekoälybuumin mikroskoopin alle, sanovat ekonomistit",
     "link": "https://www.euronews.com/2026/11/12/nvidia-without-huang-a-significant-loss-and-puts-the-ai-boom-under-a-microscope-say-econom",
     "source": "Euronews",
     "pub": "2026-11-12 22:19"
-  },
-  {
-    "headline": "Putin open to Europe joining Ukraine peace talks, says Witkoff",
-    "headline_fi": "Putin on avoin Euroopalle liittymään Ukrainan rauhanneuvotteluihin, Witkoff sanoo",
-    "link": "https://www.politico.eu/article/vladimir-putin-open-to-europe-joining-ukraine-peace-talks-steve-witkoff/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 22:10"
   },
   {
     "headline": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
@@ -189,13 +385,6 @@
     "pub": "2026-11-12 20:29"
   },
   {
-    "headline": "Climate science says 1.5C is dead. No one wants to bury it.",
-    "headline_fi": "Ilmastotieteen mukaan 1,5 astetta on kuollut.Kukaan ei halua haudata sitä.",
-    "link": "https://www.politico.eu/article/climate-science-1-5c-target-global-warming-dead/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 20:27"
-  },
-  {
     "headline": "Czechia braces for massive protest as anger over government's public media reform plans boils",
     "headline_fi": "Tšekki valmistautuu massiiviseen mielenosoitukseen, kun viha hallituksen julkisen median uudistussuunnitelmista kiehuu",
     "link": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-all-1573-rdf",
@@ -245,13 +434,6 @@
     "pub": "2026-11-12 19:00"
   },
   {
-    "headline": "COP 31 : qu’attendre des négociations ?",
-    "headline_fi": "COP 31: mitä odottaa neuvotteluilta?",
-    "link": "https://www.politico.eu/podcast/playbook-paris-podcast/cop-31-quattendre-des-negociations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 19:00"
-  },
-  {
     "headline": "Mercedes-Benz halts all further investment at German facilities",
     "headline_fi": "Mercedes-Benz keskeyttää kaikki lisäinvestoinnit Saksan tehtaisiin",
     "link": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-all-1573-rdf",
@@ -264,20 +446,6 @@
     "link": "https://www.france24.com/en/video/20261112-concentration-of-power-wealth-do-tech-ceos-have-more-authority-influence-than-elected-officials",
     "source": "France 24",
     "pub": "2026-11-12 18:49"
-  },
-  {
-    "headline": "The EU sealed a migration deal with Nigeria. But what did Abuja get in return?",
-    "headline_fi": "EU sinetöi maahanmuuttosopimuksen Nigerian kanssa.Mutta mitä Abuja sai vastineeksi?",
-    "link": "https://www.euronews.com/2026/11/12/the-eu-sealed-a-migration-deal-with-nigeria-but-what-did-abuja-get-in-return",
-    "source": "Euronews",
-    "pub": "2026-11-12 18:47"
-  },
-  {
-    "headline": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
-    "headline_fi": "Venäjän Vladimir Putin ehdottaa, ettei Ukraina tekisi kompromissia tapaaessaan Yhdysvaltain lähettiläitä",
-    "link": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
-    "source": "France 24",
-    "pub": "2026-11-12 18:46"
   },
   {
     "headline": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
@@ -294,20 +462,6 @@
     "pub": "2026-11-12 18:28"
   },
   {
-    "headline": "‘Blind spot’ no longer: Austria targets Russian espionage with new law",
-    "headline_fi": "‘Blind spot’ no longer: Austria targets Russian espionage with new law",
-    "link": "https://www.politico.eu/article/austria-targets-russian-espionage-with-new-legislation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 18:26"
-  },
-  {
-    "headline": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-    "headline_fi": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-    "link": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
-    "source": "France 24",
-    "pub": "2026-11-12 18:18"
-  },
-  {
     "headline": "Hungary eases abortion restrictions in women's rights overhaul",
     "headline_fi": "Hungary eases abortion restrictions in women's rights overhaul",
     "link": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-all-1573-rdf",
@@ -320,48 +474,6 @@
     "link": "https://www.euronews.com/video/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike",
     "source": "Euronews",
     "pub": "2026-11-12 18:10"
-  },
-  {
-    "headline": "Trump’s snubbed COP — but he’s on everyone’s lips",
-    "headline_fi": "Trump’s snubbed COP — but he’s on everyone’s lips",
-    "link": "https://www.politico.eu/article/donald-trump-snubbed-cop-but-hes-on-everyones-lips/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 18:09"
-  },
-  {
-    "headline": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-    "headline_fi": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-    "link": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
-    "source": "France 24",
-    "pub": "2026-11-12 18:03"
-  },
-  {
-    "headline": "At least five people shot in DC neighbourhood near the White House",
-    "headline_fi": "At least five people shot in DC neighbourhood near the White House",
-    "link": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-    "source": "France 24",
-    "pub": "2026-11-12 18:01"
-  },
-  {
-    "headline": "Life through a lens: Celebrating 200 years of photography",
-    "headline_fi": "Life through a lens: Celebrating 200 years of photography",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20261112-life-through-a-lens-celebrating-200-years-of-photography",
-    "source": "France 24",
-    "pub": "2026-11-12 17:56"
-  },
-  {
-    "headline": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
-    "headline_fi": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
-    "link": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-reprimanded-at-war-memorial",
-    "source": "France 24",
-    "pub": "2026-11-12 17:51"
-  },
-  {
-    "headline": "Nvidia CEO Jensen Huang steps down",
-    "headline_fi": "Nvidia CEO Jensen Huang steps down",
-    "link": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-steps-down",
-    "source": "France 24",
-    "pub": "2026-11-12 17:45"
   },
   {
     "headline": "Sri Lanka: Rights groups sound alarm over proposed anti-terror law",
@@ -411,13 +523,6 @@
     "link": "https://www.euronews.com/video/2026/11/12/russia-soldier-killed-in-car-explosion-in-saint-petersburg",
     "source": "Euronews",
     "pub": "2026-11-12 16:57"
-  },
-  {
-    "headline": "Zelenskyy demands Europe become ‘regular part’ of Ukraine talks",
-    "headline_fi": "Zelenskyy demands Europe become ‘regular part’ of Ukraine talks",
-    "link": "https://www.politico.eu/article/zelenskyy-demands-europe-become-regular-part-of-ukraine-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-12 16:51"
   },
   {
     "headline": "Who is Alice Huang, the alleged Chinese spy linked to Nvidia's Jensen Huang?",
@@ -574,13 +679,6 @@
     "pub": "2026-11-12 13:36"
   },
   {
-    "headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-    "headline_fi": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-    "link": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-12 13:27"
-  },
-  {
     "headline": "Latest news bulletin | November 12th, 2026 – Midday",
     "headline_fi": "Uusin uutistiedote |12.11.2026 – keskipäivä",
     "link": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday",
@@ -588,53 +686,11 @@
     "pub": "2026-11-12 13:00"
   },
   {
-    "headline": "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
-    "headline_fi": "Venäläinen upseeri kuoli autopommissa Pietarissa murhan tutkinnan alkaessa",
-    "link": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
-    "source": "Euronews",
-    "pub": "2026-11-12 12:48"
-  },
-  {
-    "headline": "Drones deliver food to chimpanzees stranded by flooding",
-    "headline_fi": "Droonit toimittavat ruokaa tulvien aiheuttamille simpansseille",
-    "link": "https://www.euronews.com/video/2026/11/12/drones-deliver-food-to-chimpanzees-stranded-by-flooding",
-    "source": "Euronews",
-    "pub": "2026-11-12 12:35"
-  },
-  {
-    "headline": "UK economy grows 0.7% in third quarter as AI demand lifts output",
-    "headline_fi": "Ison-Britannian talous kasvaa 0,7 % kolmannella neljänneksellä, kun tekoälyn kysyntä nostaa tuotantoa",
-    "link": "https://www.euronews.com/2026/11/12/uk-economy-grows-07-in-third-quarter-as-ai-demand-lifts-output",
-    "source": "Euronews",
-    "pub": "2026-11-12 12:18"
-  },
-  {
-    "headline": "Merz urges EU to stand firm on carbon market reforms despite growing opposition",
-    "headline_fi": "Merz kehottaa EU:ta seisomaan lujasti hiilimarkkinoiden uudistuksissa huolimatta lisääntyvästä vastustuksesta",
-    "link": "https://www.euronews.com/2026/11/12/merz-urges-eu-to-stand-firm-on-carbon-market-reforms-despite-growing-opposition",
-    "source": "Euronews",
-    "pub": "2026-11-12 12:13"
-  },
-  {
     "headline": "Germany news: Police raid chapters of Gremium MC biker gang",
     "headline_fi": "Saksan uutiset: Poliisi ratsastaa Gremium MC -pyöräilijän ryhmiä",
     "link": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-12 11:54"
-  },
-  {
-    "headline": "Zelenskyy: Starlink again facing restrictions in Ukraine, hampering Russian drone interceptions",
-    "headline_fi": "Zelenskyy: Starlink kohtaa jälleen rajoituksia Ukrainassa, mikä vaikeuttaa venäläisten droonien sieppauksia",
-    "link": "https://www.euronews.com/2026/11/12/zelenskyy-starlink-again-facing-restrictions-in-ukraine-hampering-russian-drone-intercepti",
-    "source": "Euronews",
-    "pub": "2026-11-12 11:49"
-  },
-  {
-    "headline": "Trump's upgrade of US-led AI alliance runs into European resistance",
-    "headline_fi": "Trumpin päivitys USA:n johtamaan tekoälyliittoumaan kohtaa Euroopan vastarintaa",
-    "link": "https://www.euronews.com/2026/11/12/trumps-upgrade-of-us-led-ai-alliance-runs-into-european-resistance",
-    "source": "Euronews",
-    "pub": "2026-11-12 11:48"
   },
   {
     "headline": "Bundeswehr study exposes widespread sexual harassment in German military",
@@ -1013,13 +1069,6 @@
     "link": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-01 10:06"
-  },
-  {
-    "headline": "Germany's Gen Z protests disrupted by violence on Saturday",
-    "headline_fi": "Saksan Z-sukupolven mielenosoitukset keskeyttivät väkivaltaisuudet lauantaina",
-    "link": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-31 18:00"
   },
   {
     "headline": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
