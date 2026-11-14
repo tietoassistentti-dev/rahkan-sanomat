@@ -1,5 +1,173 @@
 [
   {
+    "headline": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy",
+    "headline_fi": "Zelenskyy: Yhdysvallat kellutti Ukrainaa luovuttamassa maata Venäjälle vastineeksi Nato-jäsenyydestä",
+    "link": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
+    "source": "Euronews",
+    "pub": "2026-11-14 12:35"
+  },
+  {
+    "headline": "US negotiators suggest Ukraine cedes territory in exchange for NATO membership",
+    "headline_fi": "Yhdysvaltain neuvottelijat ehdottavat, että Ukraina luovuttaa alueen vastineeksi Nato-jäsenyydestä",
+    "link": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+    "source": "France 24",
+    "pub": "2026-11-14 12:30"
+  },
+  {
+    "headline": "Can Nvidia survive without tech titan Jensen Huang?",
+    "headline_fi": "Pystyykö Nvidia selviämään ilman teknistä titaania Jensen Huangia?",
+    "link": "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang",
+    "source": "France 24",
+    "pub": "2026-11-14 12:20"
+  },
+  {
+    "headline": "France's school principals say threats and violence have become unbearable",
+    "headline_fi": "Ranskan koulujen rehtorit sanovat, että uhkauksista ja väkivallasta on tullut sietämättömiä",
+    "link": "https://www.france24.com/en/france-s-school-principals-say-threats-and-violence-have-become-unbearable",
+    "source": "France 24",
+    "pub": "2026-11-14 12:17"
+  },
+  {
+    "headline": "France protests for fifth Saturday against living costs and heavy-handed policing",
+    "headline_fi": "Ranska protestoi viidettä lauantaita elinkustannuksia ja ankaraa poliisitoimintaa vastaan",
+    "link": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
+    "source": "France 24",
+    "pub": "2026-11-14 12:15"
+  },
+  {
+    "headline": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
+    "headline_fi": "Yhdysvaltain valtakunnallinen lennon maapysäkki: \"Reitittimesi ylikuormitetaan tiedoilla\"",
+    "link": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+    "source": "France 24",
+    "pub": "2026-11-14 12:14"
+  },
+  {
+    "headline": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
+    "headline_fi": "Suomi torjuu Venäjän ilmoittaman vaatimuksen erota Natosta osana rauhanneuvotteluja",
+    "link": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-14 11:57"
+  },
+  {
+    "headline": "US loses measles-elimination status after 26 years, WSJ reports",
+    "headline_fi": "WSJ raportoi, että Yhdysvallat menetti tuhkarokko-eliminaatiostatuksen 26 vuoden jälkeen",
+    "link": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 11:15"
+  },
+  {
+    "headline": "Microsoft says all services working again",
+    "headline_fi": "Microsoft sanoo, että kaikki palvelut toimivat taas",
+    "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 11:06"
+  },
+  {
+    "headline": "Trump, Xi and Putin to meet in China, White House says",
+    "headline_fi": "Trump, Xi ja Putin tapaavat Kiinassa, Valkoinen talo sanoo",
+    "link": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
+    "source": "Euronews",
+    "pub": "2026-11-14 11:00"
+  },
+  {
+    "headline": "Sudan: Misery worsens amid plummeting aid for displaced people",
+    "headline_fi": "Sudan: Kurjuus pahenee kotiseudultaan siirtymään joutuneille ihmisille annettavan avun romahtaessa",
+    "link": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 10:31"
+  },
+  {
+    "headline": "Regular coffee drinking linked to changes in gut motility and microbiome",
+    "headline_fi": "Säännöllinen kahvinjuonti liittyy muutoksiin suoliston motiliteettissa ja mikrobiomissa",
+    "link": "https://www.euronews.com/2026/11/14/regular-coffee-drinking-linked-to-changes-in-gut-motility-and-microbiome",
+    "source": "Euronews",
+    "pub": "2026-11-14 10:27"
+  },
+  {
+    "headline": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
+    "headline_fi": "Nigeria: Kuinka tekoälyn disinformaation lisääntyminen vaikuttaa tuleviin vaaleihin",
+    "link": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 09:54"
+  },
+  {
+    "headline": "Espionage accusations: a pressure tactic for Turkish government critics",
+    "headline_fi": "Vakoilusyytökset: Turkin hallituksen kriitikoiden painostustaktiikka",
+    "link": "https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 09:31"
+  },
+  {
+    "headline": "Russia urges IIHF to move Canada world juniors as hockey boycotts spread",
+    "headline_fi": "Venäjä kehottaa IIHF:ää siirtämään Kanadan juniorit, koska jääkiekkoboikotit leviävät",
+    "link": "https://www.euronews.com/2026/11/14/russia-urges-iihf-to-move-canada-world-juniors-as-hockey-boycotts-spread",
+    "source": "Euronews",
+    "pub": "2026-11-14 09:30"
+  },
+  {
+    "headline": "Live: France deploys 70,000 police for new wave of anti-government protests",
+    "headline_fi": "Live: Ranska lähettää 70 000 poliisia uuteen hallituksen vastaisten mielenosoitusten aaltoon",
+    "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+    "source": "France 24",
+    "pub": "2026-11-14 09:09"
+  },
+  {
+    "headline": "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
+    "headline_fi": "Matkustajat kohtaavat edelleen viivästyksiä ja peruutuksia Yhdysvaltain hissien valtakunnallisen pysähdyksen jälkeen",
+    "link": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
+    "source": "Euronews",
+    "pub": "2026-11-14 08:56"
+  },
+  {
+    "headline": "Which jobs are hardest and easiest to fill in Europe, and why?",
+    "headline_fi": "Mitkä työpaikat on vaikeimpia ja helpoimpia täyttää Euroopassa ja miksi?",
+    "link": "https://www.euronews.com/2026/11/14/which-jobs-are-hardest-and-easiest-to-fill-in-europe-and-why",
+    "source": "Euronews",
+    "pub": "2026-11-14 08:30"
+  },
+  {
+    "headline": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+    "headline_fi": "Z-sukupolvi protestoi: Onko suuret ikäluokat todella parempia kuin nuorilla?",
+    "link": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 08:09"
+  },
+  {
+    "headline": "Microsoft says all services 'fully recovered' after global outage",
+    "headline_fi": "Microsoft sanoo, että kaikki palvelut \"palautuivat täysin\" maailmanlaajuisen käyttökatkon jälkeen",
+    "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+    "source": "France 24",
+    "pub": "2026-11-14 08:07"
+  },
+  {
+    "headline": "COP31 is once again shying away from a fossil fuel exit but one European country is taking the leap",
+    "headline_fi": "COP31 is once again shying away from a fossil fuel exit but one European country is taking the leap",
+    "link": "https://www.euronews.com/2026/11/14/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking",
+    "source": "Euronews",
+    "pub": "2026-11-14 08:02"
+  },
+  {
+    "headline": "Latest news bulletin | November 14th, 2026 – Morning",
+    "headline_fi": "Latest news bulletin | November 14th, 2026 – Morning",
+    "link": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-11-14 08:00"
+  },
+  {
+    "headline": "Senegal Youth Olympics in Dakar end on high note",
+    "headline_fi": "Senegal Youth Olympics in Dakar end on high note",
+    "link": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 06:25"
+  },
+  {
+    "headline": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+    "headline_fi": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+    "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 06:11"
+  },
+  {
     "headline": "FAA lifts nationwide ground stop on all US flights",
     "headline_fi": "FAA nostaa valtakunnallisen pysähdyksen kaikille Yhdysvaltojen lennoilla",
     "link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
@@ -19,6 +187,13 @@
     "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-14 03:41"
+  },
+  {
+    "headline": "Passengers face further cancellations as US flights slowly resume after ground stop",
+    "headline_fi": "Passengers face further cancellations as US flights slowly resume after ground stop",
+    "link": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop",
+    "source": "France 24",
+    "pub": "2026-11-14 00:43"
   },
   {
     "headline": "Gambia's Adama Barrow seeks third term",
@@ -42,8 +217,8 @@
     "pub": "2026-11-13 23:27"
   },
   {
-    "headline": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
-    "headline_fi": "Tankkeri törmäsi New Orleansin jokiristeilyyn, jossa oli 129 matkustajaa, pelastusoperaatio käynnissä",
+    "headline": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
+    "headline_fi": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
     "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
     "source": "Euronews",
     "pub": "2026-11-13 23:04"
@@ -63,9 +238,9 @@
     "pub": "2026-11-13 21:46"
   },
   {
-    "headline": "Ukraine updates: EU to send united front to potential peace talks",
-    "headline_fi": "Ukrainan päivitykset: EU lähettää yhtenäisen rintaman mahdollisiin rauhanneuvotteluihin",
-    "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+    "headline": "Ukraine updates: Europe to send united front to potential peace talks",
+    "headline_fi": "Ukraine updates: Europe to send united front to potential peace talks",
+    "link": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 21:39"
   },
@@ -203,27 +378,6 @@
     "pub": "2026-11-13 18:47"
   },
   {
-    "headline": "Crossing Afghanistan along the 'highway of death'",
-    "headline_fi": "Afganistanin ylittäminen \"kuoleman valtatietä\" pitkin",
-    "link": "https://www.france24.com/en/tv-shows/revisited/20261113-crossing-afghanistan-along-the-highway-of-death",
-    "source": "France 24",
-    "pub": "2026-11-13 18:47"
-  },
-  {
-    "headline": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
-    "headline_fi": "Myanmar: Junta suorittaa kaksinkertaisia ​​ilmaiskuja siviileihin",
-    "link": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians",
-    "source": "France 24",
-    "pub": "2026-11-13 18:41"
-  },
-  {
-    "headline": "El Niño fuels climate disasters: The high price of inaction",
-    "headline_fi": "El Niño ruokkii ilmastokatastrofeja: toimimattomuuden korkea hinta",
-    "link": "https://www.france24.com/en/tv-shows/access-asia/20261113-el-ni%C3%B1o-fuels-climate-disasters-the-high-price-of-inaction",
-    "source": "France 24",
-    "pub": "2026-11-13 18:35"
-  },
-  {
     "headline": "What's going on with the polar vortex?",
     "headline_fi": "Mitä tapahtuu napapyörteelle?",
     "link": "https://www.dw.com/en/what-s-going-on-with-the-polar-vortex/a-79943105?maca=en-rss-en-all-1573-rdf",
@@ -245,53 +399,11 @@
     "pub": "2026-11-13 18:18"
   },
   {
-    "headline": "West Bank: ‘Without international trade and financial support, large settlements would not exist’",
-    "headline_fi": "Länsiranta: \"Ilman kansainvälistä kauppaa ja taloudellista tukea suuria siirtokuntia ei olisi olemassa\"",
-    "link": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1",
-    "source": "France 24",
-    "pub": "2026-11-13 18:15"
-  },
-  {
     "headline": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
     "headline_fi": "Jääkiekko: Venäjä uhkaa Kanadaa ja Saksaa vastaan ​​turnauksista poissulkemisella",
     "link": "https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 18:02"
-  },
-  {
-    "headline": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
-    "headline_fi": "YK:n pakolaispäällikkö Barham Salih arvostelee \"häpeällistä\" Sudanin sotaa ja vaatii \"poliittista ratkaisua\"",
-    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution",
-    "source": "France 24",
-    "pub": "2026-11-13 17:56"
-  },
-  {
-    "headline": "Nvidia scandal: How close was ex-CEO to Trump?",
-    "headline_fi": "Nvidia-skandaali: Kuinka lähellä entinen toimitusjohtaja oli Trumpia?",
-    "link": "https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump",
-    "source": "France 24",
-    "pub": "2026-11-13 17:50"
-  },
-  {
-    "headline": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
-    "headline_fi": "Venäjä iskee kohteisiin kaikkialla Ukrainassa, kun Kiova laukaisee lähes 1 200 dronea",
-    "link": "https://www.france24.com/en/video/20261113-russian-airstrikes-continue-ukraine-launches-nearly-1-200-drones",
-    "source": "France 24",
-    "pub": "2026-11-13 17:46"
-  },
-  {
-    "headline": "Iran targeted US radar system in Bahrain",
-    "headline_fi": "Iran iski Yhdysvaltain tutkajärjestelmään Bahrainissa",
-    "link": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-13 17:32"
-  },
-  {
-    "headline": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-    "headline_fi": "Peking on Venäjä-dilemman edessä puhuttaessa Xi-Trump-Putin-huippukokouksesta",
-    "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-13 17:28"
   },
   {
     "headline": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services",
@@ -306,27 +418,6 @@
     "link": "https://www.euronews.com/2026/11/13/azerbaijan-intensifies-its-european-engagement-at-the-epc-summit",
     "source": "Euronews",
     "pub": "2026-11-13 17:16"
-  },
-  {
-    "headline": "Haitian forces recapture national stadium after two years of gang control",
-    "headline_fi": "Haitin joukot valloittivat kansallisen stadionin kahden vuoden jengihallinnan jälkeen",
-    "link": "https://www.france24.com/en/video/20261113-haitian-forces-recapture-national-stadium-after-two-years-of-gang-control",
-    "source": "France 24",
-    "pub": "2026-11-13 17:09"
-  },
-  {
-    "headline": "Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'",
-    "headline_fi": "Roger Waters esittää sydämellisen vetoomuksen \"Gazan kansanmurhan lopettamiseksi\"",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza",
-    "source": "France 24",
-    "pub": "2026-11-13 16:45"
-  },
-  {
-    "headline": "Indonesia's wiretapping scandal opens a political fault line",
-    "headline_fi": "Indonesian salakuunteluskandaali avaa poliittisen vikaviivan",
-    "link": "https://www.dw.com/en/indonesia-s-wiretapping-scandal-opens-a-political-fault-line/a-79939753?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-13 16:29"
   },
   {
     "headline": "EU leaders discuss how to boost Europe's AI industry while tackling risks at Dublin summit",
@@ -532,27 +623,6 @@
     "pub": "2026-11-13 11:39"
   },
   {
-    "headline": "Humanitarian situation in Gaza worsens amid political deadlock",
-    "headline_fi": "Humanitarian situation in Gaza worsens amid political deadlock",
-    "link": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-13 11:30"
-  },
-  {
-    "headline": "José Pinhal's rediscovered songs sell out Porto and Lisbon Coliseums",
-    "headline_fi": "José Pinhal's rediscovered songs sell out Porto and Lisbon Coliseums",
-    "link": "https://www.euronews.com/2026/11/13/jose-pinhals-rediscovered-songs-sell-out-porto-and-lisbon-coliseums",
-    "source": "Euronews",
-    "pub": "2026-11-13 11:17"
-  },
-  {
-    "headline": "Swedish pop sensation Robyn brands Eurovision ‘embarrassing’",
-    "headline_fi": "Swedish pop sensation Robyn brands Eurovision ‘embarrassing’",
-    "link": "https://www.euronews.com/2026/11/13/swedish-pop-sensation-robyn-brands-eurovision-embarrassing",
-    "source": "Euronews",
-    "pub": "2026-11-13 11:15"
-  },
-  {
     "headline": "Germany news: Parliament agrees on debt-laden 2027 budget",
     "headline_fi": "Germany news: Parliament agrees on debt-laden 2027 budget",
     "link": "https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-all-1573-rdf",
@@ -567,53 +637,11 @@
     "pub": "2026-11-13 10:35"
   },
   {
-    "headline": "Portugal: Humanoid robots take centre stage at Web Summit 2026",
-    "headline_fi": "Portugal: Humanoid robots take centre stage at Web Summit 2026",
-    "link": "https://www.euronews.com/video/2026/11/13/portugal-humanoid-robots-take-centre-stage-at-web-summit-2026",
-    "source": "Euronews",
-    "pub": "2026-11-13 10:32"
-  },
-  {
-    "headline": "Flying Blue flies high: These are the best airline rewards programmes in Europe",
-    "headline_fi": "Flying Blue flies high: These are the best airline rewards programmes in Europe",
-    "link": "https://www.euronews.com/2026/11/13/flying-blue-flies-high-these-are-the-best-airline-rewards-programmes-in-europe",
-    "source": "Euronews",
-    "pub": "2026-11-13 10:31"
-  },
-  {
-    "headline": "'The market will look for alternatives,' on Huang resignation says Andrea Renda, Digital Economy expert",
-    "headline_fi": "'The market will look for alternatives,' on Huang resignation says Andrea Renda, Digital Economy expert",
-    "link": "https://www.euronews.com/video/2026/11/13/the-market-will-look-for-alternatives-on-huang-resignation-says-andrea-renda-digital-econo",
-    "source": "Euronews",
-    "pub": "2026-11-13 10:29"
-  },
-  {
-    "headline": "'The structure of the European economy needs to change more quickly,' says IMF Europe chief Mateusz Szczurek",
-    "headline_fi": "'The structure of the European economy needs to change more quickly,' says IMF Europe chief Mateusz Szczurek",
-    "link": "https://www.euronews.com/video/2026/11/13/the-structure-of-the-european-economy-needs-to-change-more-quickly-says-imf-europe-chief-m",
-    "source": "Euronews",
-    "pub": "2026-11-13 10:28"
-  },
-  {
-    "headline": "European shares fall as Nvidia CEO’s exit raises doubts over AI boom",
-    "headline_fi": "European shares fall as Nvidia CEO’s exit raises doubts over AI boom",
-    "link": "https://www.euronews.com/2026/11/13/european-shares-fall-as-nvidia-ceos-exit-raises-doubts-over-ai-boom",
-    "source": "Euronews",
-    "pub": "2026-11-13 10:21"
-  },
-  {
     "headline": "Could lack of money sink TFFF rainforest fund before it even launches?",
     "headline_fi": "Could lack of money sink TFFF rainforest fund before it even launches?",
     "link": "https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 10:12"
-  },
-  {
-    "headline": "US pushes for European presence at Ukraine-Russia talks, which Moscow refuses to confirm",
-    "headline_fi": "Yhdysvallat vaatii Euroopan läsnäoloa Ukrainan ja Venäjän välisissä neuvotteluissa, mutta Moskova ei suostu vahvistamaan sitä",
-    "link": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks",
-    "source": "Euronews",
-    "pub": "2026-11-13 09:41"
   },
   {
     "headline": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
@@ -1008,13 +1036,6 @@
     "pub": "2026-11-02 09:36"
   },
   {
-    "headline": "Germany's search for a nuclear waste site",
-    "headline_fi": "Saksa etsii ydinjätealuetta",
-    "link": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-01 10:06"
-  },
-  {
     "headline": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
     "headline_fi": "Bayern Münchenin Kenia-ystävyysottelu korostaa Afrikan kasvavaa vetovoimaa globaalissa urheilussa",
     "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
@@ -1085,20 +1106,6 @@
     "pub": "2026-10-28 12:24"
   },
   {
-    "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker",
-    "headline_fi": "Harry Kane: Kultainen pallo Bayern Münchenin hyökkääjälle",
-    "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-27 16:11"
-  },
-  {
-    "headline": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
-    "headline_fi": "Englannin ja Bayern Münchenin hyökkääjä Harry Kane voitti Ballon d'Orin",
-    "link": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-27 01:06"
-  },
-  {
     "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
     "headline_fi": "Mitä Saksa ajattelee autonvalmistajan Audin 4 miljardin dollarin sopimuksesta Trumpin kanssa",
     "link": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
@@ -1153,12 +1160,5 @@
     "link": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 12:16"
-  },
-  {
-    "headline": "EU promotes sovereign, trusted AI as it struggles to catch US and China",
-    "headline_fi": "EU edistää suvereenia, luotettua tekoälyä, kun se kamppailee saadakseen kiinni Yhdysvaltoja ja Kiinaa",
-    "link": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 12:07"
   }
 ]
