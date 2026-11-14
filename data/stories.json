@@ -1,5 +1,110 @@
 [
   {
+    "headline": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
+    "headline_fi": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
+    "link": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 23:09"
+  },
+  {
+    "headline": "Moscow says it will not dictate EU delegation's participation in Ukraine talks",
+    "headline_fi": "Moscow says it will not dictate EU delegation's participation in Ukraine talks",
+    "link": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks",
+    "source": "Euronews",
+    "pub": "2026-11-14 23:05"
+  },
+  {
+    "headline": "Nigeria's upcoming election marred by rising AI disinformation",
+    "headline_fi": "Nigeria's upcoming election marred by rising AI disinformation",
+    "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 23:05"
+  },
+  {
+    "headline": "South Sudan pushes back elections amid violent flare-ups",
+    "headline_fi": "South Sudan pushes back elections amid violent flare-ups",
+    "link": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 22:53"
+  },
+  {
+    "headline": "SpaceX's Starship set for return to Earth after failed booster catch",
+    "headline_fi": "SpaceX's Starship set for return to Earth after failed booster catch",
+    "link": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
+    "source": "France 24",
+    "pub": "2026-11-14 22:51"
+  },
+  {
+    "headline": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+    "headline_fi": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+    "link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+    "source": "France 24",
+    "pub": "2026-11-14 22:35"
+  },
+  {
+    "headline": "Fact check: 'Iranian' content farms reach millions",
+    "headline_fi": "Fact check: 'Iranian' content farms reach millions",
+    "link": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 22:26"
+  },
+  {
+    "headline": "Macron says limiting Ukraine aid would pave way to 'another war'",
+    "headline_fi": "Macron says limiting Ukraine aid would pave way to 'another war'",
+    "link": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+    "source": "France 24",
+    "pub": "2026-11-14 22:15"
+  },
+  {
+    "headline": "Portugal sees fresh protests over government policies seen as worsening housing crisis",
+    "headline_fi": "Portugal sees fresh protests over government policies seen as worsening housing crisis",
+    "link": "https://www.euronews.com/2026/11/14/portugal-sees-fresh-protests-over-government-policies-seen-as-worsening-housing-crisis",
+    "source": "Euronews",
+    "pub": "2026-11-14 22:10"
+  },
+  {
+    "headline": "Italy slaps Meta with €805mn fine over access to Android photos",
+    "headline_fi": "Italy slaps Meta with €805mn fine over access to Android photos",
+    "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 20:41"
+  },
+  {
+    "headline": "France sees fifth consecutive Saturday of nationwide protests",
+    "headline_fi": "France sees fifth consecutive Saturday of nationwide protests",
+    "link": "https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests",
+    "source": "Euronews",
+    "pub": "2026-11-14 20:11"
+  },
+  {
+    "headline": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
+    "headline_fi": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
+    "link": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
+    "source": "France 24",
+    "pub": "2026-11-14 19:33"
+  },
+  {
+    "headline": "France and Cambodia share their love for pétanque in Phnom Penh",
+    "headline_fi": "France and Cambodia share their love for pétanque in Phnom Penh",
+    "link": "https://www.france24.com/en/video/20261114-france-and-cambodia-share-their-love-for-p%C3%A9tanque-in-phnom-penh",
+    "source": "France 24",
+    "pub": "2026-11-14 19:23"
+  },
+  {
+    "headline": "Washington divided over how to deal with fallout from the Nvidia case",
+    "headline_fi": "Washington divided over how to deal with fallout from the Nvidia case",
+    "link": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
+    "source": "France 24",
+    "pub": "2026-11-14 19:21"
+  },
+  {
+    "headline": "COP31: Protesters, UN urge swift climate deal",
+    "headline_fi": "COP31: Protesters, UN urge swift climate deal",
+    "link": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-14 19:19"
+  },
+  {
     "headline": "Latest news bulletin | November 14th, 2026 – Evening",
     "headline_fi": "Latest news bulletin | November 14th, 2026 – Evening",
     "link": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-evening",
@@ -161,27 +266,6 @@
     "pub": "2026-11-14 12:20"
   },
   {
-    "headline": "France's school principals say threats and violence have become unbearable",
-    "headline_fi": "France's school principals say threats and violence have become unbearable",
-    "link": "https://www.france24.com/en/france-s-school-principals-say-threats-and-violence-have-become-unbearable",
-    "source": "France 24",
-    "pub": "2026-11-14 12:17"
-  },
-  {
-    "headline": "France protests for fifth Saturday against living costs and heavy-handed policing",
-    "headline_fi": "France protests for fifth Saturday against living costs and heavy-handed policing",
-    "link": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
-    "source": "France 24",
-    "pub": "2026-11-14 12:15"
-  },
-  {
-    "headline": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
-    "headline_fi": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
-    "link": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
-    "source": "France 24",
-    "pub": "2026-11-14 12:14"
-  },
-  {
     "headline": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
     "headline_fi": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
     "link": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -224,16 +308,9 @@
     "pub": "2026-11-14 10:27"
   },
   {
-    "headline": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
-    "headline_fi": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
-    "link": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 09:54"
-  },
-  {
-    "headline": "Espionage accusations: a pressure tactic for Turkish government critics",
-    "headline_fi": "Espionage accusations: a pressure tactic for Turkish government critics",
-    "link": "https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf",
+    "headline": "Turkey uses espionage accusations to pressure government critics",
+    "headline_fi": "Turkey uses espionage accusations to pressure government critics",
+    "link": "https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-14 09:31"
   },
@@ -243,13 +320,6 @@
     "link": "https://www.euronews.com/2026/11/14/russia-urges-iihf-to-move-canada-world-juniors-as-hockey-boycotts-spread",
     "source": "Euronews",
     "pub": "2026-11-14 09:30"
-  },
-  {
-    "headline": "Live: France deploys 70,000 police for new wave of anti-government protests",
-    "headline_fi": "Live: France deploys 70,000 police for new wave of anti-government protests",
-    "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
-    "source": "France 24",
-    "pub": "2026-11-14 09:09"
   },
   {
     "headline": "Which jobs are hardest and easiest to fill in Europe, and why?",
@@ -266,13 +336,6 @@
     "pub": "2026-11-14 08:09"
   },
   {
-    "headline": "Microsoft says all services 'fully recovered' after global outage",
-    "headline_fi": "Microsoft says all services 'fully recovered' after global outage",
-    "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
-    "source": "France 24",
-    "pub": "2026-11-14 08:07"
-  },
-  {
     "headline": "COP31 is once again shying away from a fossil fuel exit but one European country is taking the leap",
     "headline_fi": "COP31 is once again shying away from a fossil fuel exit but one European country is taking the leap",
     "link": "https://www.euronews.com/2026/11/14/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking",
@@ -287,13 +350,6 @@
     "pub": "2026-11-14 08:00"
   },
   {
-    "headline": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
-    "headline_fi": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
-    "link": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says",
-    "source": "France 24",
-    "pub": "2026-11-14 07:09"
-  },
-  {
     "headline": "Senegal Youth Olympics in Dakar end on high note",
     "headline_fi": "Senegal Youth Olympics in Dakar end on high note",
     "link": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf",
@@ -301,53 +357,11 @@
     "pub": "2026-11-14 06:25"
   },
   {
-    "headline": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
-    "headline_fi": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
-    "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 06:11"
-  },
-  {
-    "headline": "FAA lifts nationwide ground stop on all US flights",
-    "headline_fi": "FAA lifts nationwide ground stop on all US flights",
-    "link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
-    "source": "France 24",
-    "pub": "2026-11-14 04:50"
-  },
-  {
-    "headline": "US flights resume after nationwide ground stop lifted",
-    "headline_fi": "US flights resume after nationwide ground stop lifted",
-    "link": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
-    "source": "France 24",
-    "pub": "2026-11-14 04:35"
-  },
-  {
-    "headline": "US lifts nationwide ground stop for airports hours after halting all departures",
-    "headline_fi": "US lifts nationwide ground stop for airports hours after halting all departures",
-    "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 03:41"
-  },
-  {
     "headline": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
     "headline_fi": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
     "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
     "source": "Euronews",
     "pub": "2026-11-13 23:04"
-  },
-  {
-    "headline": "Ukraine updates: Europe to send united front to potential peace talks",
-    "headline_fi": "Ukraine updates: Europe to send united front to potential peace talks",
-    "link": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-13 21:39"
-  },
-  {
-    "headline": "David Walliams: UK police launch sex offense probe into comedian",
-    "headline_fi": "David Walliams: UK police launch sex offense probe into comedian",
-    "link": "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-13 21:25"
   },
   {
     "headline": "EU deal on Ukraine talks overshadows AI-focused summit in Dublin",
@@ -434,16 +448,16 @@
     "pub": "2026-11-13 18:34"
   },
   {
-    "headline": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
-    "headline_fi": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
-    "link": "https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf",
+    "headline": "Ice hockey impasse as Russia threatens sanctions on Canada, Germany",
+    "headline_fi": "Ice hockey impasse as Russia threatens sanctions on Canada, Germany",
+    "link": "https://www.dw.com/en/ice-hockey-impasse-as-russia-threatens-sanctions-on-canada-germany/a-79942676?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 18:02"
   },
   {
-    "headline": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services",
-    "headline_fi": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services",
-    "link": "https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany gives sweeping powers to police, intelligence services",
+    "headline_fi": "Germany gives sweeping powers to police, intelligence services",
+    "link": "https://www.dw.com/en/germany-gives-sweeping-powers-to-police-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 17:26"
   },
@@ -600,20 +614,6 @@
     "link": "https://www.euronews.com/2026/11/13/euronews-cultures-film-of-the-week-club-kid-sex-drugs-sudden-parenthood",
     "source": "Euronews",
     "pub": "2026-11-13 13:06"
-  },
-  {
-    "headline": "Latest news bulletin | November 13th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | November 13th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-11-13 13:00"
-  },
-  {
-    "headline": "How a new ‘green energy corridor’ from the Caspian Sea could help Eastern Europe kick fossil fuels",
-    "headline_fi": "How a new ‘green energy corridor’ from the Caspian Sea could help Eastern Europe kick fossil fuels",
-    "link": "https://www.euronews.com/2026/11/13/how-a-new-green-energy-corridor-from-the-caspian-sea-could-help-eastern-europe-kick-fossil",
-    "source": "Euronews",
-    "pub": "2026-11-13 12:56"
   },
   {
     "headline": "Germany news: Parliament agrees on debt-laden 2027 budget",
