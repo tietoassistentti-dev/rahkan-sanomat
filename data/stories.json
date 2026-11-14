@@ -1,10 +1,24 @@
 [
   {
-    "headline": "FAA issues US national ground stop on all flights",
-    "headline_fi": "FAA issues US national ground stop on all flights",
-    "link": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf",
+    "headline": "FAA lifts nationwide ground stop on all US flights",
+    "headline_fi": "FAA lifts nationwide ground stop on all US flights",
+    "link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
+    "source": "France 24",
+    "pub": "2026-11-14 04:50"
+  },
+  {
+    "headline": "US flights resume after nationwide ground stop lifted",
+    "headline_fi": "US flights resume after nationwide ground stop lifted",
+    "link": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+    "source": "France 24",
+    "pub": "2026-11-14 04:35"
+  },
+  {
+    "headline": "US lifts nationwide ground stop for airports hours after halting all departures",
+    "headline_fi": "US lifts nationwide ground stop for airports hours after halting all departures",
+    "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
-    "pub": "2026-11-13 23:54"
+    "pub": "2026-11-14 03:41"
   },
   {
     "headline": "Gambia's Adama Barrow seeks third term",
@@ -103,6 +117,13 @@
     "link": "https://www.politico.eu/article/france-marine-le-pen-offers-to-meet-ukraine-volodymyr-zelenskyy-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-13 20:07"
+  },
+  {
+    "headline": "Cut off from Europe, Russia will have to rewire its Arctic gas trade",
+    "headline_fi": "Cut off from Europe, Russia will have to rewire its Arctic gas trade",
+    "link": "https://www.politico.eu/article/cut-off-europe-russia-rewire-arctic-gas-trade-lng-eu-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-13 19:56"
   },
   {
     "headline": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
@@ -301,25 +322,11 @@
     "pub": "2026-11-13 16:45"
   },
   {
-    "headline": "'Devastated wasteland': Haitian security forces regain control of stadium from gangs",
-    "headline_fi": "'Devastated wasteland': Haitian security forces regain control of stadium from gangs",
-    "link": "https://www.france24.com/en/video/20261113-devastated-wasteland-haitian-security-forces-regain-control-of-stadium-from-gangs",
-    "source": "France 24",
-    "pub": "2026-11-13 16:37"
-  },
-  {
     "headline": "Indonesia's wiretapping scandal opens a political fault line",
     "headline_fi": "Indonesia's wiretapping scandal opens a political fault line",
     "link": "https://www.dw.com/en/indonesia-s-wiretapping-scandal-opens-a-political-fault-line/a-79939753?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 16:29"
-  },
-  {
-    "headline": "The truth about Douma: How Syria covered up a chemical attack",
-    "headline_fi": "The truth about Douma: How Syria covered up a chemical attack",
-    "link": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
-    "source": "France 24",
-    "pub": "2026-11-13 16:24"
   },
   {
     "headline": "EU leaders discuss how to boost Europe's AI industry while tackling risks at Dublin summit",
@@ -558,13 +565,6 @@
     "link": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-13 10:35"
-  },
-  {
-    "headline": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
-    "headline_fi": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
-    "link": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-13 10:33"
   },
   {
     "headline": "Portugal: Humanoid robots take centre stage at Web Summit 2026",
@@ -1160,19 +1160,5 @@
     "link": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 12:07"
-  },
-  {
-    "headline": "AI-assisted dying? Doris Dörrie's new film addresses prospect of care robots",
-    "headline_fi": "AI-assisted dying? Doris Dörrie's new film addresses prospect of care robots",
-    "link": "https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-15 16:24"
-  },
-  {
-    "headline": "Brazil's elections matter for the planet. This is why",
-    "headline_fi": "Brazil's elections matter for the planet. This is why",
-    "link": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-15 12:52"
   }
 ]
