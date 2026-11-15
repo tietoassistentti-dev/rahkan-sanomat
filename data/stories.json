@@ -1,5 +1,82 @@
 [
   {
+    "headline": "Three sentenced to death over Jordan church attack",
+    "headline_fi": "Three sentenced to death over Jordan church attack",
+    "link": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
+    "source": "France 24",
+    "pub": "2026-11-15 10:53"
+  },
+  {
+    "headline": "SpaceX catches part of its Starship rocket in historic first",
+    "headline_fi": "SpaceX catches part of its Starship rocket in historic first",
+    "link": "https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first",
+    "source": "Euronews",
+    "pub": "2026-11-15 10:32"
+  },
+  {
+    "headline": "Cape Verde could make election history with first female president",
+    "headline_fi": "Cape Verde could make election history with first female president",
+    "link": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
+    "source": "France 24",
+    "pub": "2026-11-15 09:56"
+  },
+  {
+    "headline": "Germany news: Germany holds national day of remembrance",
+    "headline_fi": "Germany news: Germany holds national day of remembrance",
+    "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 09:23"
+  },
+  {
+    "headline": "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+    "headline_fi": "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+    "link": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions",
+    "source": "Euronews",
+    "pub": "2026-11-15 09:15"
+  },
+  {
+    "headline": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
+    "headline_fi": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
+    "link": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
+    "source": "France 24",
+    "pub": "2026-11-15 09:04"
+  },
+  {
+    "headline": "Hope springs eternal in award-winning photos showcasing nature’s resilience",
+    "headline_fi": "Hope springs eternal in award-winning photos showcasing nature’s resilience",
+    "link": "https://www.euronews.com/2026/11/15/hope-springs-eternal-in-award-winning-photos-showcasing-natures-resilience",
+    "source": "Euronews",
+    "pub": "2026-11-15 09:02"
+  },
+  {
+    "headline": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
+    "headline_fi": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
+    "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 08:31"
+  },
+  {
+    "headline": "Latest news bulletin | November 15th, 2026 – Morning",
+    "headline_fi": "Latest news bulletin | November 15th, 2026 – Morning",
+    "link": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-11-15 08:00"
+  },
+  {
+    "headline": "Could universal basic income be part of the solution in an AI economy?",
+    "headline_fi": "Could universal basic income be part of the solution in an AI economy?",
+    "link": "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 07:36"
+  },
+  {
+    "headline": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+    "headline_fi": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+    "link": "https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-15 05:00"
+  },
+  {
     "headline": "Tens of thousands continue to protest across France",
     "headline_fi": "Tens of thousands continue to protest across France",
     "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf",
@@ -154,6 +231,13 @@
     "pub": "2026-11-14 18:28"
   },
   {
+    "headline": "Copper wires to blame for US flight disruption, says Trump administration",
+    "headline_fi": "Copper wires to blame for US flight disruption, says Trump administration",
+    "link": "https://www.france24.com/en/americas/20261114-copper-wires-to-blame-for-us-flight-disruption-says-trump-administration",
+    "source": "France 24",
+    "pub": "2026-11-14 17:35"
+  },
+  {
     "headline": "Werner Holzer Prize awarded to Katja Gloger and DW's Jaafar Abdul Karim",
     "headline_fi": "Werner Holzer Prize awarded to Katja Gloger and DW's Jaafar Abdul Karim",
     "link": "https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf",
@@ -266,20 +350,6 @@
     "pub": "2026-11-14 12:35"
   },
   {
-    "headline": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-    "headline_fi": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-    "link": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-    "source": "France 24",
-    "pub": "2026-11-14 12:30"
-  },
-  {
-    "headline": "'Climate action is alive': Triumphant Democrats attend COP31 summit shunned by Trump",
-    "headline_fi": "'Climate action is alive': Triumphant Democrats attend COP31 summit shunned by Trump",
-    "link": "https://www.france24.com/en/environment/20261114-climate-action-is-alive-triumphant-democrats-take-on-cop31-shunned-by-trump",
-    "source": "France 24",
-    "pub": "2026-11-14 12:25"
-  },
-  {
     "headline": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
     "headline_fi": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
     "link": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -294,25 +364,11 @@
     "pub": "2026-11-14 11:15"
   },
   {
-    "headline": "Microsoft says all services working again",
-    "headline_fi": "Microsoft says all services working again",
-    "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 11:06"
-  },
-  {
     "headline": "Trump, Xi and Putin to meet in China, White House says",
     "headline_fi": "Trump, Xi and Putin to meet in China, White House says",
     "link": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
     "source": "Euronews",
     "pub": "2026-11-14 11:00"
-  },
-  {
-    "headline": "Sudan: Misery worsens amid plummeting aid for displaced people",
-    "headline_fi": "Sudan: Misery worsens amid plummeting aid for displaced people",
-    "link": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 10:31"
   },
   {
     "headline": "Regular coffee drinking linked to changes in gut motility and microbiome",
@@ -397,13 +453,6 @@
     "link": "https://www.politico.eu/article/france-marine-le-pen-offers-to-meet-ukraine-volodymyr-zelenskyy-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-13 20:07"
-  },
-  {
-    "headline": "Cut off from Europe, Russia will have to rewire its Arctic gas trade",
-    "headline_fi": "Cut off from Europe, Russia will have to rewire its Arctic gas trade",
-    "link": "https://www.politico.eu/article/cut-off-europe-russia-rewire-arctic-gas-trade-lng-eu-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-13 19:56"
   },
   {
     "headline": "Russia sends major business delegation to Kabul for business talks with the Taliban",
@@ -546,13 +595,6 @@
     "pub": "2026-11-13 14:16"
   },
   {
-    "headline": "At least three killed and more than 20 injured in Russian strikes on Ukraine",
-    "headline_fi": "At least three killed and more than 20 injured in Russian strikes on Ukraine",
-    "link": "https://www.euronews.com/2026/11/13/at-least-three-killed-and-more-than-20-injured-in-russian-strikes-on-ukraine",
-    "source": "Euronews",
-    "pub": "2026-11-13 14:01"
-  },
-  {
     "headline": "Debate: What does the resignation of Nvidia CEO Huang mean?",
     "headline_fi": "Debate: What does the resignation of Nvidia CEO Huang mean?",
     "link": "https://www.eurotopics.net/en/367184/what-does-the-resignation-of-nvidia-ceo-huang-mean?pk_campaign=rss-en&pk_kwd=2026-11-13",
@@ -600,27 +642,6 @@
     "link": "https://www.eurotopics.net/en/367187/turkey-why-is-the-peace-process-with-the-pkk-stalling?pk_campaign=rss-en&pk_kwd=2026-11-13",
     "source": "Eurotopics",
     "pub": "2026-11-13 13:20"
-  },
-  {
-    "headline": "European diesel prices stay high as global oil supply overtakes demand, IEA says",
-    "headline_fi": "European diesel prices stay high as global oil supply overtakes demand, IEA says",
-    "link": "https://www.euronews.com/2026/11/13/european-diesel-prices-stay-high-as-global-oil-supply-overtakes-demand-iea-says",
-    "source": "Euronews",
-    "pub": "2026-11-13 13:17"
-  },
-  {
-    "headline": "China to encourage investment in Turkish renewable energy with $15bn solar and wind deal",
-    "headline_fi": "China to encourage investment in Turkish renewable energy with $15bn solar and wind deal",
-    "link": "https://www.euronews.com/2026/11/13/china-to-encourage-investment-in-turkish-renewable-energy-with-15bn-solar-and-wind-deal",
-    "source": "Euronews",
-    "pub": "2026-11-13 13:07"
-  },
-  {
-    "headline": "Euronews Culture's Film of the Week: 'Club Kid' - Sex, drugs & sudden parenthood",
-    "headline_fi": "Euronews Culture's Film of the Week: 'Club Kid' - Sex, drugs & sudden parenthood",
-    "link": "https://www.euronews.com/2026/11/13/euronews-cultures-film-of-the-week-club-kid-sex-drugs-sudden-parenthood",
-    "source": "Euronews",
-    "pub": "2026-11-13 13:06"
   },
   {
     "headline": "Germany news: Parliament agrees on debt-laden 2027 budget",
@@ -866,13 +887,6 @@
     "link": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-09 08:53"
-  },
-  {
-    "headline": "Armenia's selective prosecution: A threat to EU relations?",
-    "headline_fi": "Armenia's selective prosecution: A threat to EU relations?",
-    "link": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 20:36"
   },
   {
     "headline": "Germany hopes to host world ice hockey championship — without Russia",
