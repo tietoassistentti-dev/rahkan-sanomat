@@ -1,5 +1,89 @@
 [
   {
+    "headline": "Wedding industry representatives raise funds for children's hospital at annual gala",
+    "headline_fi": "Wedding industry representatives raise funds for children's hospital at annual gala",
+    "link": "https://www.euronews.com/2026/11/15/wedding-industry-representatives-raise-funds-for-childrens-hospital-at-annual-gala",
+    "source": "Euronews",
+    "pub": "2026-11-15 23:09"
+  },
+  {
+    "headline": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+    "headline_fi": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+    "link": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+    "source": "France 24",
+    "pub": "2026-11-15 23:06"
+  },
+  {
+    "headline": "Goodbye, overtourism? Sustainable travel gains ground",
+    "headline_fi": "Goodbye, overtourism? Sustainable travel gains ground",
+    "link": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 22:57"
+  },
+  {
+    "headline": "Zelenskyy urges removal of Starshield limits on Ukraine",
+    "headline_fi": "Zelenskyy urges removal of Starshield limits on Ukraine",
+    "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 22:39"
+  },
+  {
+    "headline": "Security Sunday: Der lange Weg zum Frieden in der Ukraine – mit Claudia Major",
+    "headline_fi": "Security Sunday: Der lange Weg zum Frieden in der Ukraine – mit Claudia Major",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-lange-weg-zum-frieden-in-der-ukraine-mit-claudia-major/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-15 21:44"
+  },
+  {
+    "headline": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+    "headline_fi": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+    "link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+    "source": "France 24",
+    "pub": "2026-11-15 21:28"
+  },
+  {
+    "headline": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
+    "headline_fi": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
+    "source": "France 24",
+    "pub": "2026-11-15 21:13"
+  },
+  {
+    "headline": "Czechia: Scores protest against public media reform",
+    "headline_fi": "Czechia: Scores protest against public media reform",
+    "link": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 21:12"
+  },
+  {
+    "headline": "Estonia closes border to Russia after suspected drone factory arson",
+    "headline_fi": "Estonia closes border to Russia after suspected drone factory arson",
+    "link": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 20:29"
+  },
+  {
+    "headline": "Nearly 1,600 migrants arrive on Spain's Canary Islands in one day",
+    "headline_fi": "Nearly 1,600 migrants arrive on Spain's Canary Islands in one day",
+    "link": "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 20:26"
+  },
+  {
+    "headline": "19 slow worms mistaken for vipers rescued from water meter chamber",
+    "headline_fi": "19 slow worms mistaken for vipers rescued from water meter chamber",
+    "link": "https://www.euronews.com/2026/11/15/19-slow-worms-mistaken-for-vipers-rescued-from-water-meter-chamber",
+    "source": "Euronews",
+    "pub": "2026-11-15 19:16"
+  },
+  {
+    "headline": "Hundreds of thousands in Prague protest Czech government's public media funding plans",
+    "headline_fi": "Hundreds of thousands in Prague protest Czech government's public media funding plans",
+    "link": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans",
+    "source": "Euronews",
+    "pub": "2026-11-15 19:16"
+  },
+  {
     "headline": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
     "headline_fi": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
     "link": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
@@ -119,9 +203,9 @@
     "pub": "2026-11-15 16:52"
   },
   {
-    "headline": "Polish activists face opposition as they make abortion more accessible",
-    "headline_fi": "Polish activists face opposition as they make abortion more accessible",
-    "link": "https://www.dw.com/en/polish-activists-face-opposition-as-they-make-abortion-more-accessible/a-79943914?maca=en-rss-en-all-1573-rdf",
+    "headline": "Despite restrictive abortion laws, Poland's 'Abortomat' — a locker that dispenses abortion pills — helps women who want to end a pregnancy",
+    "headline_fi": "Despite restrictive abortion laws, Poland's 'Abortomat' — a locker that dispenses abortion pills — helps women who want to end a pregnancy",
+    "link": "https://www.dw.com/en/despite-restrictive-abortion-laws-poland-s-abortomat-a-locker-that-dispenses-abortion-pills-helps-women-who-want-to-end-a-pregnancy/a-79943914?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-15 16:40"
   },
@@ -224,32 +308,11 @@
     "pub": "2026-11-15 14:14"
   },
   {
-    "headline": "Illegal mining threatens French Guiana forests and indigenous communities",
-    "headline_fi": "Illegal mining threatens French Guiana forests and indigenous communities",
-    "link": "https://www.france24.com/en/illegal-mining-threatens-french-guiana-forests-and-indigenous-communities",
-    "source": "France 24",
-    "pub": "2026-11-15 14:04"
-  },
-  {
-    "headline": "Are we too reliant on technology? Questions arise after Microsoft's widespread outages",
-    "headline_fi": "Are we too reliant on technology? Questions arise after Microsoft's widespread outages",
-    "link": "https://www.france24.com/en/are-we-too-reliant-on-technology-questions-arise-after-microsoft-s-widespread-outages",
-    "source": "France 24",
-    "pub": "2026-11-15 13:44"
-  },
-  {
     "headline": "Latest news bulletin | November 15th, 2026 – Midday",
     "headline_fi": "Latest news bulletin | November 15th, 2026 – Midday",
     "link": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-midday",
     "source": "Euronews",
     "pub": "2026-11-15 13:00"
-  },
-  {
-    "headline": "Pope laments poverty-stricken Inca communities as locals leave Peru",
-    "headline_fi": "Pope laments poverty-stricken Inca communities as locals leave Peru",
-    "link": "https://www.france24.com/en/americas/20261115-pope-laments-poverty-stricken-inca-communities-as-locals-leave-peru",
-    "source": "France 24",
-    "pub": "2026-11-15 12:55"
   },
   {
     "headline": "EU forces board suspected Russian shadow fleet tanker in Mediterranean, Kallas says",
@@ -299,13 +362,6 @@
     "link": "https://www.euronews.com/2026/11/15/hope-springs-eternal-in-award-winning-photos-showcasing-natures-resilience",
     "source": "Euronews",
     "pub": "2026-11-15 09:02"
-  },
-  {
-    "headline": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-    "headline_fi": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-    "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-15 08:31"
   },
   {
     "headline": "Latest news bulletin | November 15th, 2026 – Morning",
@@ -364,13 +420,6 @@
     "pub": "2026-11-14 22:53"
   },
   {
-    "headline": "Fact check: 'Iranian' content farms reach millions",
-    "headline_fi": "Fact check: 'Iranian' content farms reach millions",
-    "link": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 22:26"
-  },
-  {
     "headline": "Portugal sees fresh protests over government policies seen as worsening housing crisis",
     "headline_fi": "Portugal sees fresh protests over government policies seen as worsening housing crisis",
     "link": "https://www.euronews.com/2026/11/14/portugal-sees-fresh-protests-over-government-policies-seen-as-worsening-housing-crisis",
@@ -378,25 +427,11 @@
     "pub": "2026-11-14 22:10"
   },
   {
-    "headline": "Italy slaps Meta with €805mn fine over access to Android photos",
-    "headline_fi": "Italy slaps Meta with €805mn fine over access to Android photos",
-    "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 20:41"
-  },
-  {
     "headline": "France sees fifth consecutive Saturday of nationwide protests",
     "headline_fi": "France sees fifth consecutive Saturday of nationwide protests",
     "link": "https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests",
     "source": "Euronews",
     "pub": "2026-11-14 20:11"
-  },
-  {
-    "headline": "COP31: Protesters, UN urge swift climate deal",
-    "headline_fi": "COP31: Protesters, UN urge swift climate deal",
-    "link": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 19:19"
   },
   {
     "headline": "Latest news bulletin | November 14th, 2026 – Evening",
@@ -427,8 +462,8 @@
     "pub": "2026-11-14 17:09"
   },
   {
-    "headline": "Italy hits Meta with €805m fine over privacy law violation",
-    "headline_fi": "Italy hits Meta with €805m fine over privacy law violation",
+    "headline": "Italy hits Meta with €805M fine over privacy law violation",
+    "headline_fi": "Italy hits Meta with €805M fine over privacy law violation",
     "link": "https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-14 16:03"
@@ -558,20 +593,6 @@
     "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
     "source": "Euronews",
     "pub": "2026-11-13 23:04"
-  },
-  {
-    "headline": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
-    "headline_fi": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
-    "link": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
-    "source": "Euronews",
-    "pub": "2026-11-13 20:55"
-  },
-  {
-    "headline": "Russia sends major business delegation to Kabul for business talks with the Taliban",
-    "headline_fi": "Russia sends major business delegation to Kabul for business talks with the Taliban",
-    "link": "https://www.euronews.com/2026/11/13/russia-sends-major-business-delegation-to-kabul-for-business-talks-with-the-taliban",
-    "source": "Euronews",
-    "pub": "2026-11-13 19:46"
   },
   {
     "headline": "The dangers of revising Europe's security architecture",
@@ -1020,13 +1041,6 @@
     "link": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 12:27"
-  },
-  {
-    "headline": "Germany news: Ukraine in focus at Berlin Security Conference",
-    "headline_fi": "Germany news: Ukraine in focus at Berlin Security Conference",
-    "link": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-03 09:00"
   },
   {
     "headline": "Ice hockey officials considering options after CAS order to reinstate Russia",
