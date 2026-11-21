@@ -1,5 +1,96 @@
 [
   {
+    "headline": "Ukraine: Dashcam captures massive explosion on Lviv street",
+    "headline_fi": "Ukraina: Dashcam tallentaa massiivisen räjähdyksen Lviv-kadulla",
+    "link": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
+    "source": "Euronews",
+    "pub": "2026-11-22 01:05"
+  },
+  {
+    "headline": "Salvage operation under way after cargo ship runs aground off French coast",
+    "headline_fi": "Pelastusoperaatio käynnissä sen jälkeen, kun rahtialus ajautui karille Ranskan rannikolla",
+    "link": "https://www.euronews.com/2026/11/21/salvage-operation-under-way-after-cargo-ship-runs-aground-off-french-coast",
+    "source": "Euronews",
+    "pub": "2026-11-21 23:55"
+  },
+  {
+    "headline": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
+    "headline_fi": "Iran hyökkää Yhdysvaltain tukikohtiin Bahrainissa, kun sen tankkerit valmistautuvat murtamaan Yhdysvaltain saarron",
+    "link": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+    "source": "Euronews",
+    "pub": "2026-11-21 23:32"
+  },
+  {
+    "headline": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+    "headline_fi": "Eisenkot kutsuu Netanjahun puolueen \"maratonin\" Israelin koalitioneuvotteluihin",
+    "link": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+    "source": "France 24",
+    "pub": "2026-11-21 22:49"
+  },
+  {
+    "headline": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
+    "headline_fi": "Videolla Meksikon joukot vangitsevat \"El Chapo Isidron\", FBI:n halutuimman kartellipomon",
+    "link": "https://www.euronews.com/video/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss",
+    "source": "Euronews",
+    "pub": "2026-11-21 22:24"
+  },
+  {
+    "headline": "France’s sixth consecutive Saturday of protests draw lower turnout",
+    "headline_fi": "Ranskan kuudennen peräkkäisen lauantain mielenosoitusten äänestysprosentti on laskenut",
+    "link": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+    "source": "France 24",
+    "pub": "2026-11-21 22:20"
+  },
+  {
+    "headline": "'Worst Ever' COP Summit?",
+    "headline_fi": "\"Aikojen huonoin\" COP-huippukokous?",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit",
+    "source": "France 24",
+    "pub": "2026-11-21 22:08"
+  },
+  {
+    "headline": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO",
+    "headline_fi": "Venäjä hyökkää Zelenskin kotikaupunkiin, Ukraina vahvistaa haluavansa liittyä Natoon",
+    "link": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+    "source": "France 24",
+    "pub": "2026-11-21 21:56"
+  },
+  {
+    "headline": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
+    "headline_fi": "Venäjä on tehnyt ballistisen ohjushyökkäyksen Zelenskin kotikaupunkiin Keski-Ukrainassa",
+    "link": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+    "source": "France 24",
+    "pub": "2026-11-21 21:55"
+  },
+  {
+    "headline": "Thousands take to streets in Portugal, France and Spain over rising living costs",
+    "headline_fi": "Tuhannet ihmiset lähtevät kaduille Portugalissa, Ranskassa ja Espanjassa elinkustannusten nousun vuoksi",
+    "link": "https://www.euronews.com/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs",
+    "source": "Euronews",
+    "pub": "2026-11-21 21:43"
+  },
+  {
+    "headline": "Getting rid of antibiotic resistance: Challenges and possible solutions",
+    "headline_fi": "Antibioottiresistenssin eroon pääseminen: Haasteita ja mahdollisia ratkaisuja",
+    "link": "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-21 20:39"
+  },
+  {
+    "headline": "Paolo Bulgari, Italian jewellery tycoon, dies aged 89",
+    "headline_fi": "Paolo Bulgari, italialainen korupoika, kuoli 89-vuotiaana",
+    "link": "https://www.euronews.com/2026/11/21/paolo-bulgari-italian-jewellery-tycoon-dies-aged-89",
+    "source": "Euronews",
+    "pub": "2026-11-21 20:23"
+  },
+  {
+    "headline": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+    "headline_fi": "Drone-hyökkäys sytyttää venäläisen rahtilaivan tuleen Suomenlahdella",
+    "link": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+    "source": "France 24",
+    "pub": "2026-11-21 20:02"
+  },
+  {
     "headline": "COP31: Deep divisions persist over energy, finance and science",
     "headline_fi": "COP31: Energian, rahoituksen ja tieteen alalla on edelleen syvää erimielisyyttä",
     "link": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
@@ -98,6 +189,13 @@
     "pub": "2026-11-21 17:12"
   },
   {
+    "headline": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight",
+    "headline_fi": "Meksiko vangitsi huumekartellipomo \"El Chapo Isidron\" tappavan tulitaistelun jälkeen",
+    "link": "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight",
+    "source": "France 24",
+    "pub": "2026-11-21 17:00"
+  },
+  {
     "headline": "New EU budget proposal aims at tax gobal tech giants",
     "headline_fi": "EU:n uusi budjettiesitys tähtää globaalien teknologiajättien verotukseen",
     "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-rdf",
@@ -112,8 +210,8 @@
     "pub": "2026-11-21 16:44"
   },
   {
-    "headline": "Jair Bolsonaro hospitalised with abdominal pain while under house arrest",
-    "headline_fi": "Jair Bolsonaro joutui sairaalaan vatsakipujen vuoksi kotiarestissa",
+    "headline": "Brazil ex-president Bolsonaro in intensive care over intestinal problem",
+    "headline_fi": "Brasilian entinen presidentti Bolsonaro tehohoidossa suolisto-ongelman vuoksi",
     "link": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
     "source": "Euronews",
     "pub": "2026-11-21 16:35"
@@ -141,35 +239,35 @@
   },
   {
     "headline": "Cargo ship runs aground off French coast",
-    "headline_fi": "Cargo ship runs aground off French coast",
+    "headline_fi": "Rahtialus ajautui karille Ranskan rannikolla",
     "link": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
     "source": "France 24",
     "pub": "2026-11-21 14:52"
   },
   {
     "headline": "Russia tests NATO’s eastern defences",
-    "headline_fi": "Russia tests NATO’s eastern defences",
+    "headline_fi": "Venäjä testaa Naton itäpuolustusta",
     "link": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
     "source": "France 24",
     "pub": "2026-11-21 14:50"
   },
   {
     "headline": "Thousands protest overs prices, education, military spending in France and Europe",
-    "headline_fi": "Thousands protest overs prices, education, military spending in France and Europe",
+    "headline_fi": "Tuhannet protestoivat hintoja, koulutusta ja sotilasmenoja vastaan ​​Ranskassa ja Euroopassa",
     "link": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
     "source": "France 24",
     "pub": "2026-11-21 14:48"
   },
   {
     "headline": "Russian ship damaged by drone attack in Gulf of Finland, Helsinki and Moscow say",
-    "headline_fi": "Russian ship damaged by drone attack in Gulf of Finland, Helsinki and Moscow say",
+    "headline_fi": "Venäläinen alus vaurioitui droonihyökkäyksessä Suomenlahdella, Helsingissä ja Moskovassa kerrotaan",
     "link": "https://www.politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-21 14:36"
   },
   {
     "headline": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-    "headline_fi": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+    "headline_fi": "Drone-hyökkäys sytyttää venäläisen rahtilaivan tuleen Suomenlahdella",
     "link": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
     "source": "France 24",
     "pub": "2026-11-21 14:35"
@@ -287,41 +385,6 @@
     "pub": "2026-11-21 12:00"
   },
   {
-    "headline": "Denmark accuses Russia of assassination plot, expels diplomat",
-    "headline_fi": "Tanska syyttää Venäjää salamurhasuunnitelmasta, karkotti diplomaatin",
-    "link": "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
-    "source": "France 24",
-    "pub": "2026-11-21 11:51"
-  },
-  {
-    "headline": "Houthis launch strikes on Saudi Arabia",
-    "headline_fi": "Houthit iskevät Saudi-Arabiaan",
-    "link": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
-    "source": "France 24",
-    "pub": "2026-11-21 11:49"
-  },
-  {
-    "headline": "Russian projectiles hit Poland as NATO tensions rise",
-    "headline_fi": "Venäläiset ammukset osuivat Puolaan Naton jännityksen kasvaessa",
-    "link": "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
-    "source": "France 24",
-    "pub": "2026-11-21 11:47"
-  },
-  {
-    "headline": "Nations League: France to face Spain in quarter-finals, England to take on Norway",
-    "headline_fi": "Kansakuntien liiga: Ranska kohtaa puolivälierissä Espanjan ja Englanti Norjan",
-    "link": "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
-    "source": "France 24",
-    "pub": "2026-11-21 11:46"
-  },
-  {
-    "headline": "EU, UK reach reset deal after Brexit",
-    "headline_fi": "EU ja Britannia pääsivät sopimukseen Brexitin jälkeen",
-    "link": "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit",
-    "source": "France 24",
-    "pub": "2026-11-21 11:43"
-  },
-  {
     "headline": "Pentagon declassifies new UFO footage filmed by US military",
     "headline_fi": "Pentagon purkaa Yhdysvaltain armeijan kuvaaman uuden UFO-materiaalin turvaluokituksen",
     "link": "https://www.euronews.com/video/2026/11/21/pentagon-declassifies-new-ufo-footage-filmed-by-us-military",
@@ -334,13 +397,6 @@
     "link": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
     "source": "Euronews",
     "pub": "2026-11-21 10:56"
-  },
-  {
-    "headline": "Live: Interior ministry says 82,500 people protest across France, unions claim 150,000",
-    "headline_fi": "Live: Interior ministry says 82,500 people protest across France, unions claim 150,000",
-    "link": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
-    "source": "France 24",
-    "pub": "2026-11-21 10:29"
   },
   {
     "headline": "Second judge blocks construction of Trump's massive 'triumphal arch'",
@@ -434,9 +490,9 @@
     "pub": "2026-11-20 22:36"
   },
   {
-    "headline": "At COP31, conflict over climate science slows action on global warming",
-    "headline_fi": "COP31:ssä konflikti ilmastotieteestä hidastaa toimia ilmaston lämpenemiseen",
-    "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
+    "headline": "COP31: No agreement on climate science, disinformation spreading",
+    "headline_fi": "COP31: No agreement on climate science, disinformation spreading",
+    "link": "https://www.dw.com/en/cop31-no-agreement-on-climate-science-disinformation-spreading/a-80004894?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-20 22:34"
   },
@@ -460,13 +516,6 @@
     "link": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
     "source": "Euronews",
     "pub": "2026-11-20 20:55"
-  },
-  {
-    "headline": "Germany news: Kids take to streets over school, climate and costs",
-    "headline_fi": "Saksan uutiset: Lapset lähtevät kaduille koulun, ilmaston ja kustannusten takia",
-    "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-20 19:43"
   },
   {
     "headline": "Thousands protest across Europe demanding better wages and services",
@@ -567,53 +616,11 @@
     "pub": "2026-11-20 18:02"
   },
   {
-    "headline": "UAE's Lana Nusseibeh pledges ‘relentless diplomacy’ in bid to lead the UN",
-    "headline_fi": "Yhdistyneiden arabiemiirikuntien Lana Nusseibeh lupasi \"hellitöntä diplomatiaa\" pyrkiessään johtamaan YK:ta",
-    "link": "https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un",
-    "source": "Euronews",
-    "pub": "2026-11-20 17:43"
-  },
-  {
-    "headline": "From Tashkent to Amman: Books and Universities Bring Uzbekistan and Jordan Closer Together",
-    "headline_fi": "Taškentista Ammaniin: Kirjat ja yliopistot tuovat Uzbekistanin ja Jordanian lähemmäksi toisiaan",
-    "link": "https://www.euronews.com/2026/11/20/from-tashkent-to-amman-books-and-universities-bring-uzbekistan-and-jordan-closer-together",
-    "source": "Euronews",
-    "pub": "2026-11-20 17:40"
-  },
-  {
     "headline": "Can German auto manufacturing recover after Mercedes and VW cuts?",
     "headline_fi": "Can German auto manufacturing recover after Mercedes and VW cuts?",
     "link": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-20 17:36"
-  },
-  {
-    "headline": "EU Commission partially clears Hungary’s €10bn recovery fund payment after rule of law reforms",
-    "headline_fi": "EU Commission partially clears Hungary’s €10bn recovery fund payment after rule of law reforms",
-    "link": "https://www.euronews.com/2026/11/20/eu-commission-partially-clears-hungarys-10bn-recovery-fund-payment-after-rule-of-law-refor",
-    "source": "Euronews",
-    "pub": "2026-11-20 17:20"
-  },
-  {
-    "headline": "Ukraine: Rescue teams search wreckage after deadly Russian strike on Kyiv",
-    "headline_fi": "Ukraine: Rescue teams search wreckage after deadly Russian strike on Kyiv",
-    "link": "https://www.euronews.com/video/2026/11/20/ukraine-rescue-teams-search-wreckage-after-deadly-russian-strike-on-kyiv",
-    "source": "Euronews",
-    "pub": "2026-11-20 17:12"
-  },
-  {
-    "headline": "Candidate or kingmaker: could ECB President Lagarde influence France's presidential race?",
-    "headline_fi": "Candidate or kingmaker: could ECB President Lagarde influence France's presidential race?",
-    "link": "https://www.euronews.com/2026/11/20/candidate-or-kingmaker-could-ecb-president-lagarde-influence-frances-presidential-race",
-    "source": "Euronews",
-    "pub": "2026-11-20 17:06"
-  },
-  {
-    "headline": "Russia stalls UN bid to regulate AI 'killer robots' as talks near deadline",
-    "headline_fi": "Russia stalls UN bid to regulate AI 'killer robots' as talks near deadline",
-    "link": "https://www.euronews.com/2026/11/20/russia-stalls-un-bid-to-regulate-ai-killer-robots-as-talks-near-deadline",
-    "source": "Euronews",
-    "pub": "2026-11-20 17:03"
   },
   {
     "headline": "Germany face Belgium in Nations League quarterfinals — Klopp plays down favorites tag",
