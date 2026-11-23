@@ -1,5 +1,54 @@
 [
   {
+    "headline": "Thousands rally in Istanbul against Turkey’s crackdown on opposition and media",
+    "headline_fi": "Thousands rally in Istanbul against Turkey’s crackdown on opposition and media",
+    "link": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+    "source": "France 24",
+    "pub": "2026-11-23 04:15"
+  },
+  {
+    "headline": "France's  far-right leader Le Pen denies receiving secrets from civil servant",
+    "headline_fi": "France's  far-right leader Le Pen denies receiving secrets from civil servant",
+    "link": "https://www.france24.com/en/video/20261123-france-s-far-right-leader-le-pen-denies-receiving-secrets-from-civil-servant",
+    "source": "France 24",
+    "pub": "2026-11-23 02:46"
+  },
+  {
+    "headline": "COP31 climate talks in Turkey collapse",
+    "headline_fi": "COP31 climate talks in Turkey collapse",
+    "link": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+    "source": "France 24",
+    "pub": "2026-11-23 02:44"
+  },
+  {
+    "headline": "Drone strikes hit homes, United Nations building in Sudan's capital",
+    "headline_fi": "Drone strikes hit homes, United Nations building in Sudan's capital",
+    "link": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+    "source": "France 24",
+    "pub": "2026-11-23 02:43"
+  },
+  {
+    "headline": "Lucy Powell promotes UK education in China despite risks",
+    "headline_fi": "Lucy Powell promotes UK education in China despite risks",
+    "link": "https://www.politico.eu/article/lucy-powell-promotes-uk-education-in-china-despite-risks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 02:01"
+  },
+  {
+    "headline": "Russian ship attacked near Benghazi in suspected drone attack",
+    "headline_fi": "Russian ship attacked near Benghazi in suspected drone attack",
+    "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+    "source": "France 24",
+    "pub": "2026-11-23 00:37"
+  },
+  {
+    "headline": "Morocco: A surreal sculpture park turns the world upside down",
+    "headline_fi": "Morocco: A surreal sculpture park turns the world upside down",
+    "link": "https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down",
+    "source": "Euronews",
+    "pub": "2026-11-23 00:33"
+  },
+  {
     "headline": "Turkey: Thousands protest closure of critical media outlets",
     "headline_fi": "Turkey: Thousands protest closure of critical media outlets",
     "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf",
@@ -131,6 +180,13 @@
     "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-22 18:50"
+  },
+  {
+    "headline": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+    "headline_fi": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+    "link": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+    "source": "France 24",
+    "pub": "2026-11-22 18:38"
   },
   {
     "headline": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
@@ -336,20 +392,6 @@
     "pub": "2026-11-22 11:41"
   },
   {
-    "headline": "English village votes to \"leave UK\"",
-    "headline_fi": "English village votes to \"leave UK\"",
-    "link": "https://www.france24.com/en/english-village-votes-to-leave-uk",
-    "source": "France 24",
-    "pub": "2026-11-22 11:40"
-  },
-  {
-    "headline": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
-    "headline_fi": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
-    "link": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
-    "source": "France 24",
-    "pub": "2026-11-22 11:34"
-  },
-  {
     "headline": "Reported FBI hack 'not good' but could have benefits, Trump says",
     "headline_fi": "Reported FBI hack 'not good' but could have benefits, Trump says",
     "link": "https://www.euronews.com/2026/11/22/reported-fbi-hack-not-good-but-could-have-benefits-trump-says",
@@ -420,20 +462,6 @@
     "pub": "2026-11-22 08:58"
   },
   {
-    "headline": "Security Sunday: Der Kampf um die Arktis – mit Robert Habeck",
-    "headline_fi": "Security Sunday: Der Kampf um die Arktis – mit Robert Habeck",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-kampf-um-die-arktis-mit-robert-habeck/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-22 08:30"
-  },
-  {
-    "headline": "Live: Ukrainian rescuers search for survivors in rubble after Russian attack",
-    "headline_fi": "Live: Ukrainian rescuers search for survivors in rubble after Russian attack",
-    "link": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
-    "source": "France 24",
-    "pub": "2026-11-22 08:15"
-  },
-  {
     "headline": "Madeira's ocean survey finds evidence protection works – and some worrying signs",
     "headline_fi": "Madeira's ocean survey finds evidence protection works – and some worrying signs",
     "link": "https://www.euronews.com/2026/11/22/madeiras-ocean-survey-finds-evidence-protection-works-and-some-worrying-signs",
@@ -462,20 +490,6 @@
     "pub": "2026-11-22 08:00"
   },
   {
-    "headline": "South Korean education minister resigns over AI-driven exam cheating scandal",
-    "headline_fi": "South Korean education minister resigns over AI-driven exam cheating scandal",
-    "link": "https://www.france24.com/en/asia-pacific/20261122-south-korea-education-chief-resigns-amid-ai-cheating-scandal",
-    "source": "France 24",
-    "pub": "2026-11-22 05:46"
-  },
-  {
-    "headline": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-    "headline_fi": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-    "link": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
-    "source": "France 24",
-    "pub": "2026-11-22 05:24"
-  },
-  {
     "headline": "Nigeria: At least 24 dead after boat capsizes",
     "headline_fi": "Nigeria: At least 24 dead after boat capsizes",
     "link": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf",
@@ -490,13 +504,6 @@
     "pub": "2026-11-22 01:05"
   },
   {
-    "headline": "EU-Indonesia agreement sees the light after ten years of negotiations",
-    "headline_fi": "EU-Indonesia agreement sees the light after ten years of negotiations",
-    "link": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
-    "source": "France 24",
-    "pub": "2026-11-22 00:23"
-  },
-  {
     "headline": "Salvage operation under way after cargo ship runs aground off French coast",
     "headline_fi": "Salvage operation under way after cargo ship runs aground off French coast",
     "link": "https://www.euronews.com/2026/11/21/salvage-operation-under-way-after-cargo-ship-runs-aground-off-french-coast",
@@ -509,13 +516,6 @@
     "link": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
     "source": "Euronews",
     "pub": "2026-11-21 23:32"
-  },
-  {
-    "headline": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
-    "headline_fi": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
-    "link": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-    "source": "France 24",
-    "pub": "2026-11-21 22:49"
   },
   {
     "headline": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
@@ -628,13 +628,6 @@
     "link": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-21 14:31"
-  },
-  {
-    "headline": "EU budget: Costa pitches more cuts, Big Tech tax to break deadlock",
-    "headline_fi": "EU budget: Costa pitches more cuts, Big Tech tax to break deadlock",
-    "link": "https://www.euronews.com/2026/11/21/eu-budget-costa-pitches-more-cuts-big-tech-tax-to-break-deadlock",
-    "source": "Euronews",
-    "pub": "2026-11-21 14:29"
   },
   {
     "headline": "Russian ornithologist jailed over small donations to Navalny's foundation",
@@ -1314,12 +1307,5 @@
     "link": "https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 12:51"
-  },
-  {
-    "headline": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-    "headline_fi": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-    "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 13:33"
   }
 ]
