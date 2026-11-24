@@ -1,24 +1,465 @@
 [
   {
+    "headline": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+    "headline_fi": "Zelensky kehottaa nelisuuntaisia ​​rauhanneuvotteluja Venäjän, Euroopan ja Yhdysvaltojen kanssa \"mahdollisimman pian\"",
+    "link": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+    "source": "France 24",
+    "pub": "2026-11-24 02:30"
+  },
+  {
+    "headline": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+    "headline_fi": "14 maata tunnustaa Kansainvälisen tuomioistuimen päätöksen rohingya-vastaisesta kansanmurhasta",
+    "link": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+    "source": "France 24",
+    "pub": "2026-11-24 01:10"
+  },
+  {
+    "headline": "Visegrád Four leaders voice concerns over EU budget proposal",
+    "headline_fi": "Visegrádin neljän johtajat ilmaisevat huolensa EU:n budjettiehdotuksesta",
+    "link": "https://www.euronews.com/2026/11/23/visegrad-four-leaders-voice-concerns-over-eu-budget-proposal",
+    "source": "Euronews",
+    "pub": "2026-11-24 00:43"
+  },
+  {
+    "headline": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
+    "headline_fi": "Yhdysvallat lisää Nvidia-skandaalin keskellä olevan Megaspeedin kaupan mustalle listalle",
+    "link": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-24 00:35"
+  },
+  {
+    "headline": "NATO vows space defence after Russia nuclear satellite report",
+    "headline_fi": "Nato lupasi avaruuspuolustuksen Venäjän ydinsatelliittiraportin jälkeen",
+    "link": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+    "source": "France 24",
+    "pub": "2026-11-24 00:33"
+  },
+  {
+    "headline": "Africa disappointed with COP31 outcome",
+    "headline_fi": "Afrikka on pettynyt COP31-tulokseen",
+    "link": "https://www.france24.com/en/africa-disappointed-with-cop31-outcome",
+    "source": "France 24",
+    "pub": "2026-11-24 00:14"
+  },
+  {
+    "headline": "Jensen Huang reinstated as Nvidia CEO",
+    "headline_fi": "Jensen Huang palasi Nvidian toimitusjohtajaksi",
+    "link": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
+    "source": "France 24",
+    "pub": "2026-11-24 00:10"
+  },
+  {
+    "headline": "'A war of unmanned machines, AI and total transparency of the battlefield'",
+    "headline_fi": "\"Miehittämättömien koneiden sota, tekoäly ja taistelukentän täydellinen läpinäkyvyys\"",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
+    "source": "France 24",
+    "pub": "2026-11-23 23:56"
+  },
+  {
+    "headline": "'A war of unmanned machines, AI and total transparency of the battlefield'",
+    "headline_fi": "\"Miehittämättömien koneiden sota, tekoäly ja taistelukentän täydellinen läpinäkyvyys\"",
+    "link": "https://www.france24.com/en/a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
+    "source": "France 24",
+    "pub": "2026-11-23 23:54"
+  },
+  {
+    "headline": "German-Ukrainian interceptor shoots down Russian jet-powered drone, company says",
+    "headline_fi": "Saksalais-ukrainalainen torjuntahävittäjä ampui alas venäläisen suihkukoneen, yhtiö kertoo",
+    "link": "https://www.euronews.com/2026/11/23/german-ukrainian-interceptor-shoots-down-russian-jet-powered-drone-company-says",
+    "source": "Euronews",
+    "pub": "2026-11-23 23:18"
+  },
+  {
+    "headline": "Belgium: Workers march against spending cuts as living costs rise",
+    "headline_fi": "Belgia: Työntekijät vastustavat menoleikkauksia elinkustannusten noustessa",
+    "link": "https://www.euronews.com/video/2026/11/23/belgium-workers-march-against-spending-cuts-as-living-costs-rise",
+    "source": "Euronews",
+    "pub": "2026-11-23 23:09"
+  },
+  {
+    "headline": "Finland summons Russian ambassador over suspected helicopter incursion",
+    "headline_fi": "Suomi on kutsunut Venäjän suurlähettilään epäillyn helikopterihyökkäyksen vuoksi",
+    "link": "https://www.politico.eu/article/finland-summons-russian-ambassador-over-suspected-helicopter-incursion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 23:02"
+  },
+  {
+    "headline": "What went wrong at the COP31 climate talks? Europe Tonight breaks it down",
+    "headline_fi": "Mikä meni pieleen COP31-ilmastoneuvotteluissa?Europe Tonight hajottaa sen",
+    "link": "https://www.euronews.com/2026/11/23/what-went-wrong-at-the-cop31-climate-talks-europe-tonight-breaks-it-down",
+    "source": "Euronews",
+    "pub": "2026-11-23 22:35"
+  },
+  {
+    "headline": "NATO warns of intensifying threats as Ukraine peace proposals face key questions",
+    "headline_fi": "Nato varoittaa lisääntyvistä uhista, kun Ukrainan rauhanehdotukset kohtaavat keskeisiä kysymyksiä",
+    "link": "https://www.euronews.com/2026/11/23/nato-warns-of-intensifying-threats-as-ukraine-peace-proposals-face-key-questions",
+    "source": "Euronews",
+    "pub": "2026-11-23 22:21"
+  },
+  {
+    "headline": "Libya's east seeks UN probe into claims Ukrainian military present in west",
+    "headline_fi": "Itä-Libya pyytää YK:ta tutkimaan Ukrainan armeijan läsnäoloa lännessä",
+    "link": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
+    "source": "France 24",
+    "pub": "2026-11-23 22:08"
+  },
+  {
+    "headline": "Denmark: Top court backs hardline immigration \"ghetto law\"",
+    "headline_fi": "Tanska: Korkein oikeus tukee kovan linjan \"ghettolakia\"",
+    "link": "https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-23 22:08"
+  },
+  {
+    "headline": "Trump backs Nvidia boss's return but top Democrat vows probe",
+    "headline_fi": "Trump tukee Nvidian pomon paluuta, mutta huippudemokraatit lupaavat tutkintaa",
+    "link": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
+    "source": "France 24",
+    "pub": "2026-11-23 21:53"
+  },
+  {
+    "headline": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+    "headline_fi": "Kuinka pitkälle Ukrainan sota leviää?Kiiv iskee venäläisiä aluksia Libyassa",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+    "source": "France 24",
+    "pub": "2026-11-23 21:41"
+  },
+  {
+    "headline": "Ukraine claims it sank Russian warship off Libya",
+    "headline_fi": "Ukraina väittää upottaneensa venäläisen sotalaivan Libyan edustalla",
+    "link": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya",
+    "source": "France 24",
+    "pub": "2026-11-23 21:39"
+  },
+  {
+    "headline": "Nvidia reinstates Huang as CEO after Trump intervention",
+    "headline_fi": "Nvidia palauttaa Huangin toimitusjohtajaksi Trumpin väliintulon jälkeen",
+    "link": "https://www.france24.com/en/nvidia-reinstates-huang-as-ceo-after-trump-intervention",
+    "source": "France 24",
+    "pub": "2026-11-23 21:34"
+  },
+  {
+    "headline": "'Maintain control': UN chief calls for creation of global AI safety framework within a year",
+    "headline_fi": "'Maintain control': UN chief calls for creation of global AI safety framework within a year",
+    "link": "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year",
+    "source": "France 24",
+    "pub": "2026-11-23 21:06"
+  },
+  {
+    "headline": "Merz says it was a 'mistake' not to admit Ukraine into NATO in 2008",
+    "headline_fi": "Merz says it was a 'mistake' not to admit Ukraine into NATO in 2008",
+    "link": "https://www.euronews.com/2026/11/23/merz-says-it-was-a-mistake-not-to-admit-ukraine-into-nato-in-2008",
+    "source": "Euronews",
+    "pub": "2026-11-23 21:02"
+  },
+  {
+    "headline": "'Don't waste those talents': GTA VI hacker released on licence",
+    "headline_fi": "'Don't waste those talents': GTA VI hacker released on licence",
+    "link": "https://www.euronews.com/2026/11/23/dont-waste-those-talents-gta-vi-hacker-released-on-licence",
+    "source": "Euronews",
+    "pub": "2026-11-23 20:42"
+  },
+  {
+    "headline": "Tajikistan follows US call, withdraws from ICC",
+    "headline_fi": "Tajikistan follows US call, withdraws from ICC",
+    "link": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-23 20:40"
+  },
+  {
+    "headline": "Iran carries out flogging of singer who performed without hijab",
+    "headline_fi": "Iran carries out flogging of singer who performed without hijab",
+    "link": "https://www.euronews.com/2026/11/23/iran-carries-out-flogging-of-singer-who-performed-without-hijab",
+    "source": "Euronews",
+    "pub": "2026-11-23 20:29"
+  },
+  {
+    "headline": "No, Greenland isn't being handed over to Trump. But what exactly has Washington secured?",
+    "headline_fi": "No, Greenland isn't being handed over to Trump. But what exactly has Washington secured?",
+    "link": "https://www.euronews.com/2026/11/23/no-greenland-isnt-being-handed-over-to-trump-but-what-exactly-has-washington-secured",
+    "source": "Euronews",
+    "pub": "2026-11-23 19:35"
+  },
+  {
+    "headline": "Von der Leyen and Kushner clash over peace talks sequence",
+    "headline_fi": "Von der Leyen and Kushner clash over peace talks sequence",
+    "link": "https://www.euronews.com/2026/11/23/von-der-leyen-and-kushner-clash-over-peace-talks-sequence",
+    "source": "Euronews",
+    "pub": "2026-11-23 19:12"
+  },
+  {
+    "headline": "Latest news bulletin | November 23rd, 2026 – Evening",
+    "headline_fi": "Latest news bulletin | November 23rd, 2026 – Evening",
+    "link": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-11-23 19:00"
+  },
+  {
+    "headline": "Europe Tonight: NATO security warnings, COP31 fallout, and Spain’s elections",
+    "headline_fi": "Europe Tonight: NATO security warnings, COP31 fallout, and Spain’s elections",
+    "link": "https://www.euronews.com/2026/11/23/europe-tonight-nato-security-warnings-cop31-fallout-and-spains-elections",
+    "source": "Euronews",
+    "pub": "2026-11-23 19:00"
+  },
+  {
+    "headline": "How artists from Qatar, Canada and Mexico are connecting cultures through creativity",
+    "headline_fi": "How artists from Qatar, Canada and Mexico are connecting cultures through creativity",
+    "link": "https://www.euronews.com/2026/11/23/how-artists-from-qatar-canada-and-mexico-are-connecting-cultures-through-creativity",
+    "source": "Euronews",
+    "pub": "2026-11-23 19:00"
+  },
+  {
+    "headline": "Finland summons Russian ambassador after suspected airspace violation",
+    "headline_fi": "Finland summons Russian ambassador after suspected airspace violation",
+    "link": "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation",
+    "source": "France 24",
+    "pub": "2026-11-23 18:50"
+  },
+  {
+    "headline": "🔴Democrats vow probe after Trump admits role in Huang's return as Nvidia CEO",
+    "headline_fi": "🔴Democrats vow probe after Trump admits role in Huang's return as Nvidia CEO",
+    "link": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
+    "source": "France 24",
+    "pub": "2026-11-23 18:37"
+  },
+  {
+    "headline": "Lib Dem leader claims he could negotiate EU single market access ‘within a year’",
+    "headline_fi": "Lib Dem leader claims he could negotiate EU single market access ‘within a year’",
+    "link": "https://www.politico.eu/article/lib-dem-leader-ed-davey-claims-he-could-negotiate-eu-single-market-access-within-a-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 18:35"
+  },
+  {
+    "headline": "Dutch court bans BYD model from EU over likeness to Land Rover's Defender",
+    "headline_fi": "Dutch court bans BYD model from EU over likeness to Land Rover's Defender",
+    "link": "https://www.euronews.com/2026/11/23/dutch-court-bans-byd-model-from-eu-over-likeness-to-land-rovers-defender",
+    "source": "Euronews",
+    "pub": "2026-11-23 18:31"
+  },
+  {
+    "headline": "Macron announces €350 million research aid for France's aeronautics industry",
+    "headline_fi": "Macron announces €350 million research aid for France's aeronautics industry",
+    "link": "https://www.euronews.com/2026/11/23/macron-announces-350-million-research-aid-for-frances-aeronautics-industry",
+    "source": "Euronews",
+    "pub": "2026-11-23 18:24"
+  },
+  {
+    "headline": "EU targets Russian ex-soldiers, banks and sports in new sanctions push",
+    "headline_fi": "EU targets Russian ex-soldiers, banks and sports in new sanctions push",
+    "link": "https://www.politico.eu/article/eu-to-target-russian-ex-soldiers-banks-and-sports-in-new-sanctions-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 18:15"
+  },
+  {
+    "headline": "Ukraine takes the war against Russia far from its borders",
+    "headline_fi": "Ukraine takes the war against Russia far from its borders",
+    "link": "https://www.politico.eu/article/ukraine-takes-war-russia-far-from-borders/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 18:14"
+  },
+  {
+    "headline": "Airports, public transport shut down amid national strike in Belgium",
+    "headline_fi": "Airports, public transport shut down amid national strike in Belgium",
+    "link": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
+    "source": "France 24",
+    "pub": "2026-11-23 18:10"
+  },
+  {
+    "headline": "Turkey: Authorities search for lioness on the loose in Istanbul",
+    "headline_fi": "Turkey: Authorities search for lioness on the loose in Istanbul",
+    "link": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-23 18:05"
+  },
+  {
+    "headline": "EU goes after Russia's banks, soldiers and athletes in new sanctions package",
+    "headline_fi": "EU goes after Russia's banks, soldiers and athletes in new sanctions package",
+    "link": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package",
+    "source": "Euronews",
+    "pub": "2026-11-23 18:03"
+  },
+  {
+    "headline": "Finland summons Russian ambassador as it condemns Russia's 'dangerous and reckless actions' in Europe",
+    "headline_fi": "Finland summons Russian ambassador as it condemns Russia's 'dangerous and reckless actions' in Europe",
+    "link": "https://www.euronews.com/2026/11/23/finland-summons-russian-ambassador-as-it-condemns-russias-dangerous-and-reckless-actions-i",
+    "source": "Euronews",
+    "pub": "2026-11-23 17:58"
+  },
+  {
+    "headline": "Ukraine releases footage of strikes on two Russian vessels off Libya",
+    "headline_fi": "Ukraine releases footage of strikes on two Russian vessels off Libya",
+    "link": "https://www.euronews.com/video/2026/11/23/ukraine-releases-footage-of-strikes-on-two-russian-vessels-off-libya",
+    "source": "Euronews",
+    "pub": "2026-11-23 17:56"
+  },
+  {
+    "headline": "Iran's courts order US to pay $290 billion in damages",
+    "headline_fi": "Iran's courts order US to pay $290 billion in damages",
+    "link": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages",
+    "source": "France 24",
+    "pub": "2026-11-23 17:50"
+  },
+  {
+    "headline": "Behind COP31 failure: A showdown over fossil fuel interests",
+    "headline_fi": "Behind COP31 failure: A showdown over fossil fuel interests",
+    "link": "https://www.france24.com/en/tv-shows/down-to-earth/20261123-behind-cop31-failure-a-showdown-over-fossil-fuel-interests",
+    "source": "France 24",
+    "pub": "2026-11-23 17:40"
+  },
+  {
+    "headline": "How Iceland's Blue Lagoon is faring after its long-awaited stock market debut",
+    "headline_fi": "How Iceland's Blue Lagoon is faring after its long-awaited stock market debut",
+    "link": "https://www.euronews.com/2026/11/23/how-icelands-blue-lagoon-is-faring-after-its-long-awaited-stock-market-debut",
+    "source": "Euronews",
+    "pub": "2026-11-23 17:38"
+  },
+  {
+    "headline": "'Return the Marbles': Greece renews demand for Parthenon relics at Acropolis Museum reopening",
+    "headline_fi": "'Return the Marbles': Greece renews demand for Parthenon relics at Acropolis Museum reopening",
+    "link": "https://www.euronews.com/2026/11/23/return-the-marbles-greece-renews-demand-for-parthenon-relics-at-acropolis-museum-reopening",
+    "source": "Euronews",
+    "pub": "2026-11-23 17:36"
+  },
+  {
+    "headline": "South Korea’s education minister resigns after backlash over AI exam cheating rules",
+    "headline_fi": "South Korea’s education minister resigns after backlash over AI exam cheating rules",
+    "link": "https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules",
+    "source": "Euronews",
+    "pub": "2026-11-23 17:35"
+  },
+  {
+    "headline": "Les Écologistes en voie de dislocation",
+    "headline_fi": "Les Écologistes en voie de dislocation",
+    "link": "https://www.politico.eu/podcast/playbook-paris-podcast/les-ecologistes-en-voie-de-dislocation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 17:34"
+  },
+  {
+    "headline": "Nvidia reinstates Jensen Huang as CEO",
+    "headline_fi": "Nvidia reinstates Jensen Huang as CEO",
+    "link": "https://www.france24.com/en/video/20261123-nvidia-reinstates-jensen-huang-as-ceo",
+    "source": "France 24",
+    "pub": "2026-11-23 17:29"
+  },
+  {
+    "headline": "Is Cannes mayor David Lisnard a dark horse for French presidential elections?",
+    "headline_fi": "Is Cannes mayor David Lisnard a dark horse for French presidential elections?",
+    "link": "https://www.france24.com/en/video/20261123-is-cannes-mayor-david-lisnard-a-dark-horse-for-french-presidential-elections",
+    "source": "France 24",
+    "pub": "2026-11-23 17:24"
+  },
+  {
+    "headline": "Tens of thousands take to streets in Belgium in anti-austerity protests",
+    "headline_fi": "Tens of thousands take to streets in Belgium in anti-austerity protests",
+    "link": "https://www.france24.com/en/video/20261123-tens-of-thousands-take-to-streets-in-belgium-in-anti-austerity-protests",
+    "source": "France 24",
+    "pub": "2026-11-23 17:19"
+  },
+  {
+    "headline": "‘Batman Returns’: Tim Burton’s iconic Batmobile car heads to auction",
+    "headline_fi": "‘Batman Returns’: Tim Burton’s iconic Batmobile car heads to auction",
+    "link": "https://www.euronews.com/2026/11/23/batman-returns-tim-burtons-iconic-batmobile-car-heads-to-auction",
+    "source": "Euronews",
+    "pub": "2026-11-23 17:15"
+  },
+  {
+    "headline": "France's socioeconomic crisis: Macron 'trying to impose fiscal discipline on his successor'",
+    "headline_fi": "France's socioeconomic crisis: Macron 'trying to impose fiscal discipline on his successor'",
+    "link": "https://www.france24.com/en/france-s-socioeconomic-crisis-macron-trying-to-impose-fiscal-discipline-on-his-successor",
+    "source": "France 24",
+    "pub": "2026-11-23 17:15"
+  },
+  {
+    "headline": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+    "headline_fi": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+    "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-23 16:49"
+  },
+  {
+    "headline": "At least 24 people killed in Indonesia factory fire, police say",
+    "headline_fi": "At least 24 people killed in Indonesia factory fire, police say",
+    "link": "https://www.euronews.com/2026/11/23/at-least-24-people-killed-in-indonesia-factory-fire-police-say",
+    "source": "Euronews",
+    "pub": "2026-11-23 16:39"
+  },
+  {
+    "headline": "Badenoch: Rejoining EU won’t fix Britain’s economic woes",
+    "headline_fi": "Badenoch: Rejoining EU won’t fix Britain’s economic woes",
+    "link": "https://www.politico.eu/article/kemi-badenoch-rejoining-eu-wont-fix-britains-economic-woes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 16:31"
+  },
+  {
+    "headline": "Nvidia closes up more than 30% after Jensen Huang returns as CEO",
+    "headline_fi": "Nvidia closes up more than 30% after Jensen Huang returns as CEO",
+    "link": "https://www.euronews.com/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-11-days-after-he-resigned",
+    "source": "Euronews",
+    "pub": "2026-11-23 16:14"
+  },
+  {
+    "headline": "Portishead join ‘No Music For Genocide’ campaign alongside Massive Attack, Fontaines D.C. and Björk",
+    "headline_fi": "Portishead join ‘No Music For Genocide’ campaign alongside Massive Attack, Fontaines D.C. and Björk",
+    "link": "https://www.euronews.com/2026/11/23/portishead-join-no-music-for-genocide-campaign-alongside-massive-attack-fontaines-dc-and-b",
+    "source": "Euronews",
+    "pub": "2026-11-23 16:09"
+  },
+  {
+    "headline": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+    "headline_fi": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+    "link": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-23 15:46"
+  },
+  {
+    "headline": "LEGO to build €1bn factory in Portugal, creating more than 1,000 jobs",
+    "headline_fi": "LEGO to build €1bn factory in Portugal, creating more than 1,000 jobs",
+    "link": "https://www.euronews.com/2026/11/23/lego-to-build-1bn-factory-in-portugal-creating-more-than-1000-jobs",
+    "source": "Euronews",
+    "pub": "2026-11-23 15:42"
+  },
+  {
+    "headline": "South Korea and China agree wider trade deal covering entertainment",
+    "headline_fi": "South Korea and China agree wider trade deal covering entertainment",
+    "link": "https://www.euronews.com/2026/11/23/south-korea-and-china-agree-wider-trade-deal-covering-entertainment",
+    "source": "Euronews",
+    "pub": "2026-11-23 15:23"
+  },
+  {
+    "headline": "Japan launches Asian oil task force amid Gulf supply disruptions",
+    "headline_fi": "Japan launches Asian oil task force amid Gulf supply disruptions",
+    "link": "https://www.euronews.com/2026/11/23/japan-launches-asian-oil-task-force-amid-gulf-supply-disruptions",
+    "source": "Euronews",
+    "pub": "2026-11-23 15:18"
+  },
+  {
+    "headline": "Uganda minister at COP31: 'We need a just transition'",
+    "headline_fi": "Ugandan ministeri COP31:ssä: \"Tarvitsemme oikeudenmukaisen siirtymän\"",
+    "link": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-23 15:18"
+  },
+  {
+    "headline": "Hungary's PM to visit Transcarpathia, pledges support to Ukrainian people and local Hungarians",
+    "headline_fi": "Hungary's PM to visit Transcarpathia, pledges support to Ukrainian people and local Hungarians",
+    "link": "https://www.euronews.com/2026/11/23/hungarys-pm-to-visit-transcarpathia-pledges-support-to-ukrainian-people-and-local-hungaria",
+    "source": "Euronews",
+    "pub": "2026-11-23 15:09"
+  },
+  {
+    "headline": "COP deadlock prompts calls for a reset of climate diplomacy",
+    "headline_fi": "COP deadlock prompts calls for a reset of climate diplomacy",
+    "link": "https://www.dw.com/en/cop-deadlock-prompts-calls-for-a-reset-of-climate-diplomacy/a-80020494?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-23 15:03"
+  },
+  {
     "headline": "CrowdStrike buys Zscaler in €40 billion cybersecurity deal",
     "headline_fi": "CrowdStrike ostaa Zscalerin 40 miljardin euron kyberturvasopimuksella",
     "link": "https://www.euronews.com/2026/11/23/crowdstrike-buys-zscaler-in-40-billion-cybersecurity-deal",
     "source": "Euronews",
     "pub": "2026-11-23 14:52"
-  },
-  {
-    "headline": "Photographer Federico Veronesi: 'I've been in love with African wildlife since I was three'",
-    "headline_fi": "Valokuvaaja Federico Veronesi: \"Olen ollut rakastunut Afrikan villieläimiin kolmevuotiaasta asti\"",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261123-photographer-federico-veronesi-i-ve-been-in-love-with-african-wildlife-since-i-was-three",
-    "source": "France 24",
-    "pub": "2026-11-23 14:18"
-  },
-  {
-    "headline": "'Out of control': ICE agents make arrests at Seattle airport in 'horrific' scene",
-    "headline_fi": "\"Ei hallinnasta\": ICE-agentit tekevät pidätyksiä Seattlen lentokentällä \"hirvittävässä\" kohtauksessa",
-    "link": "https://www.france24.com/en/video/20261123-out-of-control-ice-agents-make-arrests-at-seattle-airport-in-horrific-scene",
-    "source": "France 24",
-    "pub": "2026-11-23 14:11"
   },
   {
     "headline": "Mercedes, BMW hit by 24-hour strikes as German pay dispute widens",
@@ -40,20 +481,6 @@
     "link": "https://www.euronews.com/2026/11/23/eu-military-chief-warns-of-escalating-hybrid-threats-as-europe-races-to-strengthen-defence",
     "source": "Euronews",
     "pub": "2026-11-23 13:52"
-  },
-  {
-    "headline": "‘Fighting for love’: Thousands turn out for Rio Pride parade",
-    "headline_fi": "\"Fighting for Love\": Rio Pride -kulkueeseen osallistuu tuhansia ihmisiä",
-    "link": "https://www.france24.com/en/video/20261123-fighting-for-love-thousands-turn-out-for-rio-pride-parade",
-    "source": "France 24",
-    "pub": "2026-11-23 13:49"
-  },
-  {
-    "headline": "Thousands protest Turkey media crackdown in Istanbul",
-    "headline_fi": "Tuhannet protestoivat Turkin tiedotusvälineiden tukahduttamista vastaan ​​Istanbulissa",
-    "link": "https://www.france24.com/en/video/20261123-thousands-protest-turkey-media-crackdown-in-istanbul",
-    "source": "France 24",
-    "pub": "2026-11-23 13:48"
   },
   {
     "headline": "Donald Trump urges Nvidia to rehire former CEO Jensen Huang",
@@ -126,13 +553,6 @@
     "pub": "2026-11-23 13:14"
   },
   {
-    "headline": "De Wever sets year-end deadline for Belgian budget deal",
-    "headline_fi": "De Wever asettaa vuoden lopun määräajan Belgian budjettisopimukselle",
-    "link": "https://www.politico.eu/article/belgium-bart-de-wever-heads-to-king-with-no-budget-deal-in-sight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-23 13:11"
-  },
-  {
     "headline": "From COP31 Antalya to Copenhagen: UN climate summits where no agreement was reached",
     "headline_fi": "COP31:stä Antalyasta Kööpenhaminaan: YK:n ilmastohuippukokoukset, joissa ei päästy sopimukseen",
     "link": "https://www.euronews.com/2026/11/23/from-cop31-antalya-to-copenhagen-un-climate-summits-where-no-agreement-was-reached",
@@ -145,13 +565,6 @@
     "link": "https://www.euronews.com/2026/11/23/eight-eu-countries-join-forces-to-defend-carbon-market-against-calls-for-delay",
     "source": "Euronews",
     "pub": "2026-11-23 13:06"
-  },
-  {
-    "headline": "UK appoints energy boss to drive reindustrialization",
-    "headline_fi": "UK appoints energy boss to drive reindustrialization",
-    "link": "https://www.politico.eu/article/jurgen-maier-uk-reindustrialization-tsar/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-23 13:05"
   },
   {
     "headline": "German police respond to multiple school bomb threats",
@@ -175,130 +588,11 @@
     "pub": "2026-11-23 12:59"
   },
   {
-    "headline": "'I've Lost Her Forever' — Why German voice actors are refusing to sign Netflix's AI contract",
-    "headline_fi": "'I've Lost Her Forever' — Why German voice actors are refusing to sign Netflix's AI contract",
+    "headline": "'I've lost her forever' — Why German voice actors are refusing to sign Netflix's AI contract",
+    "headline_fi": "'I've lost her forever' — Why German voice actors are refusing to sign Netflix's AI contract",
     "link": "https://www.dw.com/en/i-ve-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflix-s-ai-contract/a-80004381?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-23 12:58"
-  },
-  {
-    "headline": "Papers discuss James Bond's soft power and the next Bond girl",
-    "headline_fi": "Papers discuss James Bond's soft power and the next Bond girl",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261123-papers-discuss-james-bond-s-soft-power-and-the-next-bond-girl",
-    "source": "France 24",
-    "pub": "2026-11-23 12:54"
-  },
-  {
-    "headline": "Ukrainian drones sink Russian warship at naval base in Libya",
-    "headline_fi": "Ukrainian drones sink Russian warship at naval base in Libya",
-    "link": "https://www.france24.com/en/video/20261123-ukrainian-drones-sink-russian-warship-at-naval-base-in-libya",
-    "source": "France 24",
-    "pub": "2026-11-23 12:53"
-  },
-  {
-    "headline": "Alice Huang had contact with China spy agency during affair with Nvidia boss, NYT reports",
-    "headline_fi": "Alice Huang had contact with China spy agency during affair with Nvidia boss, NYT reports",
-    "link": "https://www.france24.com/en/americas/20261123-alice-huang-had-contact-with-china-spy-agency-during-affair-with-nvidia-boss-nyt-reports",
-    "source": "France 24",
-    "pub": "2026-11-23 12:48"
-  },
-  {
-    "headline": "Encore! Madrid's Teatro Real named world's best opera theatre for second time",
-    "headline_fi": "Encore! Madrid's Teatro Real named world's best opera theatre for second time",
-    "link": "https://www.euronews.com/2026/11/23/encore-madrids-teatro-real-named-worlds-best-opera-theatre-for-second-time",
-    "source": "Euronews",
-    "pub": "2026-11-23 12:43"
-  },
-  {
-    "headline": "EU targets Chinese imports in fresh trade defence investigation",
-    "headline_fi": "EU targets Chinese imports in fresh trade defence investigation",
-    "link": "https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation",
-    "source": "Euronews",
-    "pub": "2026-11-23 12:41"
-  },
-  {
-    "headline": "Antimicrobial resistance is a health security threat. Europe can lead global action",
-    "headline_fi": "Antimicrobial resistance is a health security threat. Europe can lead global action",
-    "link": "https://www.euronews.com/2026/11/23/antimicrobial-resistance-is-a-health-security-threat-europe-can-lead-global-action",
-    "source": "Euronews",
-    "pub": "2026-11-23 12:37"
-  },
-  {
-    "headline": "'Out of control': ICE arrests at Seattle airport spark outcry",
-    "headline_fi": "'Out of control': ICE arrests at Seattle airport spark outcry",
-    "link": "https://www.france24.com/en/video/20261123-out-of-control-ice-arrests-at-seattle-airport-spark-outcry",
-    "source": "France 24",
-    "pub": "2026-11-23 12:34"
-  },
-  {
-    "headline": "The worst COP ever? Climate talks collapse in chaos",
-    "headline_fi": "The worst COP ever? Climate talks collapse in chaos",
-    "link": "https://www.france24.com/en/video/20261123-the-worst-cop-ever-climate-talks-collapse-in-chaos",
-    "source": "France 24",
-    "pub": "2026-11-23 12:24"
-  },
-  {
-    "headline": "Ukraine-Russia peace talks: Row over who will represent the EU",
-    "headline_fi": "Ukraine-Russia peace talks: Row over who will represent the EU",
-    "link": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
-    "source": "France 24",
-    "pub": "2026-11-23 12:20"
-  },
-  {
-    "headline": "Ukraine: Dramatic night rescue pulls woman from rubble after 22 hours",
-    "headline_fi": "Ukraine: Dramatic night rescue pulls woman from rubble after 22 hours",
-    "link": "https://www.euronews.com/video/2026/11/23/ukraine-dramatic-night-rescue-pulls-woman-from-rubble-after-22-hours",
-    "source": "Euronews",
-    "pub": "2026-11-23 12:17"
-  },
-  {
-    "headline": "Airfares in Europe to stay ‘largely stable’ in 2027, new forecast suggests",
-    "headline_fi": "Airfares in Europe to stay ‘largely stable’ in 2027, new forecast suggests",
-    "link": "https://www.euronews.com/2026/11/23/airfares-in-europe-to-stay-largely-stable-in-2027-new-forecast-suggests",
-    "source": "Euronews",
-    "pub": "2026-11-23 12:07"
-  },
-  {
-    "headline": "India pledges €1.4bn to help Nepal rebuild after deadly glacier flood",
-    "headline_fi": "India pledges €1.4bn to help Nepal rebuild after deadly glacier flood",
-    "link": "https://www.euronews.com/2026/11/23/india-pledges-14bn-to-help-nepal-rebuild-after-deadly-glacier-flood",
-    "source": "Euronews",
-    "pub": "2026-11-23 12:06"
-  },
-  {
-    "headline": "Spain's 29 November election: Shielding the vote from hybrid threats and disinformation",
-    "headline_fi": "Spain's 29 November election: Shielding the vote from hybrid threats and disinformation",
-    "link": "https://www.euronews.com/2026/11/23/spains-29-november-election-shielding-the-vote-from-hybrid-threats-and-disinformation",
-    "source": "Euronews",
-    "pub": "2026-11-23 12:00"
-  },
-  {
-    "headline": "Odesa pupils switch to remote learning as Russia pounds Ukraine’s energy grid",
-    "headline_fi": "Odesa pupils switch to remote learning as Russia pounds Ukraine’s energy grid",
-    "link": "https://www.france24.com/en/video/20261123-odesa-pupils-switch-to-remote-learning-as-russia-pounds-ukraine-s-energy-grid",
-    "source": "France 24",
-    "pub": "2026-11-23 11:51"
-  },
-  {
-    "headline": "Zelensky says Ukraine sank Russian warship off Libya",
-    "headline_fi": "Zelensky says Ukraine sank Russian warship off Libya",
-    "link": "https://www.france24.com/en/video/20261123-zelensky-says-ukraine-sank-russian-warship-off-libya",
-    "source": "France 24",
-    "pub": "2026-11-23 11:44"
-  },
-  {
-    "headline": "Armenia to link power network with Azerbaijan and Turkey for AI energy",
-    "headline_fi": "Armenia to link power network with Azerbaijan and Turkey for AI energy",
-    "link": "https://www.euronews.com/2026/11/23/armenia-to-link-power-network-with-azerbaijan-and-turkey-for-ai-energy",
-    "source": "Euronews",
-    "pub": "2026-11-23 11:38"
-  },
-  {
-    "headline": "'Let down on all sides': Pacific island nations express despair over COP31 failure",
-    "headline_fi": "'Let down on all sides': Pacific island nations express despair over COP31 failure",
-    "link": "https://www.france24.com/en/environment/20261123-let-down-on-all-sides-pacific-island-nations-express-despair-over-cop31-failure",
-    "source": "France 24",
-    "pub": "2026-11-23 11:35"
   },
   {
     "headline": "Germany's Early Start Pension: Can child investment accounts help?",
@@ -308,74 +602,11 @@
     "pub": "2026-11-23 11:26"
   },
   {
-    "headline": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
-    "headline_fi": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
-    "link": "https://www.euronews.com/2026/11/23/gta-6-breaks-sales-records-as-trump-administration-co-opt-game-and-get-ridiculed-online",
-    "source": "Euronews",
-    "pub": "2026-11-23 11:19"
-  },
-  {
-    "headline": "Indonesia: Rescuers recover 24 body bags from burnt-out factory",
-    "headline_fi": "Indonesia: Rescuers recover 24 body bags from burnt-out factory",
-    "link": "https://www.euronews.com/video/2026/11/23/indonesia-rescuers-recover-24-body-bags-from-burnt-out-factory",
-    "source": "Euronews",
-    "pub": "2026-11-23 11:09"
-  },
-  {
     "headline": "NATO Parliamentary Assembly convenes amid Russian airspace violations",
     "headline_fi": "NATO Parliamentary Assembly convenes amid Russian airspace violations",
     "link": "https://www.dw.com/en/nato-parliamentary-assembly-convenes-amid-russian-airspace-violations/live-80016415?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-23 11:01"
-  },
-  {
-    "headline": "How industrial cooperation strengthens Europe’s defense readiness",
-    "headline_fi": "How industrial cooperation strengthens Europe’s defense readiness",
-    "link": "https://www.politico.eu/sponsored-content/how-industrial-cooperation-strengthens-europes-defense-readiness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-23 11:00"
-  },
-  {
-    "headline": "Ukraine sank Russian warship off Libya, Zelenskyy says",
-    "headline_fi": "Ukraine sank Russian warship off Libya, Zelenskyy says",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-claims-ukraine-sank-russia-warship-benghazi-libya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-23 10:45"
-  },
-  {
-    "headline": "Badenoch and Farage: The battle for business",
-    "headline_fi": "Badenoch and Farage: The battle for business",
-    "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/badenoch-and-farage-the-battle-for-business/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-23 10:27"
-  },
-  {
-    "headline": "Over 10,000 migrants reach Spain's Canary Islands in a record November as El Hierro hits capacity",
-    "headline_fi": "Over 10,000 migrants reach Spain's Canary Islands in a record November as El Hierro hits capacity",
-    "link": "https://www.euronews.com/2026/11/23/nearly-300-migrants-reach-el-hierro-in-five-boats-as-canary-route-surge-continues",
-    "source": "Euronews",
-    "pub": "2026-11-23 10:21"
-  },
-  {
-    "headline": "Does the European Union need more data centres? Take our poll",
-    "headline_fi": "Does the European Union need more data centres? Take our poll",
-    "link": "https://www.euronews.com/2026/11/23/does-the-european-union-need-more-data-centres-take-our-poll",
-    "source": "Euronews",
-    "pub": "2026-11-23 10:17"
-  },
-  {
-    "headline": "Thousands evacuated after 'unknown substance' released at UK Don Toliver concert",
-    "headline_fi": "Thousands evacuated after 'unknown substance' released at UK Don Toliver concert",
-    "link": "https://www.euronews.com/2026/11/23/thousands-evacuated-after-unknown-substance-released-at-uk-don-toliver-concert",
-    "source": "Euronews",
-    "pub": "2026-11-23 10:01"
-  },
-  {
-    "headline": "How will AI change travel and tourism? What it could mean for how we plan and book holidays",
-    "headline_fi": "How will AI change travel and tourism? What it could mean for how we plan and book holidays",
-    "link": "https://www.euronews.com/2026/11/23/how-will-ai-change-travel-and-tourism-what-it-could-mean-for-how-we-plan-and-book-holidays",
-    "source": "Euronews",
-    "pub": "2026-11-23 09:45"
   },
   {
     "headline": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
@@ -385,46 +616,11 @@
     "pub": "2026-11-23 09:42"
   },
   {
-    "headline": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
-    "headline_fi": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
-    "link": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
-    "source": "Euronews",
-    "pub": "2026-11-23 09:26"
-  },
-  {
-    "headline": "Can Europe's data centres go green? Ask the Euronews AI chatbot",
-    "headline_fi": "Can Europe's data centres go green? Ask the Euronews AI chatbot",
-    "link": "https://www.euronews.com/2026/11/23/can-europes-data-centres-go-green-ask-the-euronews-ai-chatbot",
-    "source": "Euronews",
-    "pub": "2026-11-23 09:15"
-  },
-  {
     "headline": "Germany news: Metalworkers go on strike as pay dispute heats up",
     "headline_fi": "Germany news: Metalworkers go on strike as pay dispute heats up",
     "link": "https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-23 09:11"
-  },
-  {
-    "headline": "Europe Today: COP31 talks collapsed over omission of fossil fuels",
-    "headline_fi": "Europe Today: COP31 talks collapsed over omission of fossil fuels",
-    "link": "https://www.euronews.com/2026/11/23/europe-today-cop31-talks-collapsed-over-omission-of-fossil-fuels",
-    "source": "Euronews",
-    "pub": "2026-11-23 09:01"
-  },
-  {
-    "headline": "Satellite images show Russian warship capsized in Libya after suspected Ukrainian drone strike",
-    "headline_fi": "Satellite images show Russian warship capsized in Libya after suspected Ukrainian drone strike",
-    "link": "https://www.euronews.com/video/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
-    "source": "Euronews",
-    "pub": "2026-11-23 09:00"
-  },
-  {
-    "headline": "North Korea's leader highlights 'sovereignty' after rebuffing Trump offer for talks",
-    "headline_fi": "North Korea's leader highlights 'sovereignty' after rebuffing Trump offer for talks",
-    "link": "https://www.euronews.com/2026/11/23/north-koreas-leader-highlights-sovereignty-after-rebuffing-trump-offer-for-talks",
-    "source": "Euronews",
-    "pub": "2026-11-23 08:45"
   },
   {
     "headline": "Rule-breaking is contagious — and good examples barely help",
@@ -434,186 +630,11 @@
     "pub": "2026-11-23 08:33"
   },
   {
-    "headline": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says",
-    "headline_fi": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says",
-    "link": "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says",
-    "source": "Euronews",
-    "pub": "2026-11-23 08:13"
-  },
-  {
-    "headline": "Live: Zelensky confirms Ukraine’s military struck Russian ships in Libyan waters",
-    "headline_fi": "Live: Zelensky confirms Ukraine’s military struck Russian ships in Libyan waters",
-    "link": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
-    "source": "France 24",
-    "pub": "2026-11-23 08:10"
-  },
-  {
-    "headline": "Wind sails, e-methanol and a stalled global deal: Can hard-to-decarbonise shipping go green?",
-    "headline_fi": "Wind sails, e-methanol and a stalled global deal: Can hard-to-decarbonise shipping go green?",
-    "link": "https://www.euronews.com/2026/11/23/wind-sails-e-methanol-and-a-stalled-global-deal-can-hard-to-decarbonise-shipping-go-green",
-    "source": "Euronews",
-    "pub": "2026-11-23 08:02"
-  },
-  {
-    "headline": "Income inequality across Europe: Where is it highest and how is it changing?",
-    "headline_fi": "Income inequality across Europe: Where is it highest and how is it changing?",
-    "link": "https://www.euronews.com/2026/11/23/income-inequality-across-europe-where-is-it-highest-and-how-is-it-changing",
-    "source": "Euronews",
-    "pub": "2026-11-23 08:01"
-  },
-  {
-    "headline": "Latest news bulletin | November 23rd, 2026 – Morning",
-    "headline_fi": "Latest news bulletin | November 23rd, 2026 – Morning",
-    "link": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-11-23 08:00"
-  },
-  {
-    "headline": "Ukraine responsible for drone strikes on two Russian ships off Libya, Zelenskyy says",
-    "headline_fi": "Ukraine responsible for drone strikes on two Russian ships off Libya, Zelenskyy says",
-    "link": "https://www.euronews.com/2026/11/23/un-mission-in-libya-urges-probe-after-russian-ship-hit-by-drones-off-benghazi",
-    "source": "Euronews",
-    "pub": "2026-11-23 07:58"
-  },
-  {
-    "headline": "US intelligence chief warns of more tech outages as Delta suffers fresh Atlanta failure",
-    "headline_fi": "US intelligence chief warns of more tech outages as Delta suffers fresh Atlanta failure",
-    "link": "https://www.euronews.com/2026/11/23/us-intelligence-chief-warns-of-more-tech-outages-as-delta-suffers-fresh-atlanta-failure",
-    "source": "Euronews",
-    "pub": "2026-11-23 07:42"
-  },
-  {
-    "headline": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify",
-    "headline_fi": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify",
-    "link": "https://www.euronews.com/2026/11/23/taiwan-warns-canada-against-deeper-china-trade-ties-as-carney-seeks-to-diversify",
-    "source": "Euronews",
-    "pub": "2026-11-23 07:27"
-  },
-  {
-    "headline": "Tech back in the firing line as traders track Wall Street rout",
-    "headline_fi": "Tech back in the firing line as traders track Wall Street rout",
-    "link": "https://www.euronews.com/2026/11/23/tech-back-in-the-firing-line-as-traders-track-wall-street-rout",
-    "source": "Euronews",
-    "pub": "2026-11-23 07:20"
-  },
-  {
-    "headline": "France gets an EU budget win — but wants more",
-    "headline_fi": "France gets an EU budget win — but wants more",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/france-gets-an-eu-budget-win-but-wants-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-23 07:05"
-  },
-  {
-    "headline": "“Faire des milliardaires les méchants de l’histoire” : à Paris, les gauches occidentales tâchent de faire front commun",
-    "headline_fi": "“Faire des milliardaires les méchants de l’histoire” : à Paris, les gauches occidentales tâchent de faire front commun",
-    "link": "https://www.politico.eu/article/faire-des-milliardaires-les-mechants-de-lhistoire-a-paris-les-gauches-occidentales-tachent-de-faire-front-commun/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-23 07:00"
-  },
-  {
-    "headline": "Thousands rally in Istanbul against Turkey’s crackdown on opposition and media",
-    "headline_fi": "Tuhannet mielenosoittivat Istanbulissa Turkin oppositiota ja mediaa vastaan",
-    "link": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
-    "source": "France 24",
-    "pub": "2026-11-23 04:15"
-  },
-  {
-    "headline": "France's  far-right leader Le Pen denies receiving secrets from civil servant",
-    "headline_fi": "Ranskan äärioikeistojohtaja Le Pen kiistää saaneensa salaisuuksia virkamieheltä",
-    "link": "https://www.france24.com/en/video/20261123-france-s-far-right-leader-le-pen-denies-receiving-secrets-from-civil-servant",
-    "source": "France 24",
-    "pub": "2026-11-23 02:46"
-  },
-  {
-    "headline": "COP31 climate talks in Turkey collapse",
-    "headline_fi": "COP31-ilmastoneuvottelut Turkissa romahtivat",
-    "link": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
-    "source": "France 24",
-    "pub": "2026-11-23 02:44"
-  },
-  {
-    "headline": "Drone strikes hit homes, United Nations building in Sudan's capital",
-    "headline_fi": "Drone-iskut osuivat koteihin, YK:n rakennukseen Sudanin pääkaupungissa",
-    "link": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
-    "source": "France 24",
-    "pub": "2026-11-23 02:43"
-  },
-  {
-    "headline": "Russian ship hit near Benghazi in suspected drone attack",
-    "headline_fi": "Russian ship hit near Benghazi in suspected drone attack",
-    "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
-    "source": "France 24",
-    "pub": "2026-11-23 00:37"
-  },
-  {
-    "headline": "Turkey: Thousands protest closure of critical media outlets",
-    "headline_fi": "Turkki: Tuhannet protestoivat kriittisten tiedotusvälineiden sulkemista vastaan",
-    "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 23:31"
-  },
-  {
-    "headline": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
-    "headline_fi": "Israelin Eisenkot arvostelee \"juutalaista terrorismia\" Länsirannan siirtokuntien hyökkäysten jälkeen",
-    "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
-    "source": "France 24",
-    "pub": "2026-11-22 23:29"
-  },
-  {
-    "headline": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
-    "headline_fi": "Demokraatti Hubbard voitti Pohjois-Carolinan uudelleenlaskennan ja sai historiallisen edustajainhuoneen enemmistön",
-    "link": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
-    "source": "France 24",
-    "pub": "2026-11-22 22:16"
-  },
-  {
-    "headline": "Sudan: Drones hit UN building, residential area in Khartoum",
-    "headline_fi": "Sudan: Droonit osuivat YK:n rakennukseen Khartumin asuinalueelle",
-    "link": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 21:25"
-  },
-  {
-    "headline": "Libya: Suspected drone attack hits Russian ship in Benghazi",
-    "headline_fi": "Libya: Epäilty drone-hyökkäys osui venäläiseen alukseen Benghazissa",
-    "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 18:50"
-  },
-  {
-    "headline": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
-    "headline_fi": "Israelin Eisenkot tuomitsee \"juutalaisten terrorismin\" Länsirannalla",
-    "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 17:09"
-  },
-  {
     "headline": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
     "headline_fi": "COP31-ilmastoneuvottelut päättyvät ilman yksimielisyyttä haavoittuvien maiden rahoittamisesta tai maailman siirtämisestä pois hiilen, öljyn ja kaasun käytöstä",
     "link": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-22 15:18"
-  },
-  {
-    "headline": "COP31: Climate deal 'not adopted,' summit president says",
-    "headline_fi": "COP31: Ilmastosopimusta \"ei hyväksytty\", huippukokouksen puheenjohtaja sanoo",
-    "link": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 14:39"
-  },
-  {
-    "headline": "Bayern Munich bosses under fire over Jamal Musiala comments",
-    "headline_fi": "Bayern Münchenin pomot joutuivat kritiikkiin Jamal Musialan kommenteista",
-    "link": "https://www.dw.com/en/bayern-munich-bosses-under-fire-over-jamal-musiala-comments/a-80013187?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 13:30"
-  },
-  {
-    "headline": "China, ASEAN countries struggle over South China Sea code of conduct",
-    "headline_fi": "Kiina, ASEAN-maat kamppailevat Etelä-Kiinan meren käytännesäännöistä",
-    "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 10:45"
   },
   {
     "headline": "Inspired by Bernie Sanders: A German agency is using US-Style campaigning to boost the left in 2029",
@@ -628,13 +649,6 @@
     "link": "https://www.dw.com/en/germany-news-ig-metall-union-calls-for-new-24-hour-strike/live-80008430?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-22 10:07"
-  },
-  {
-    "headline": "US: ICE arrests 2 at Seattle airport in 'chilling' scenes — governor",
-    "headline_fi": "US: ICE arrests 2 at Seattle airport in 'chilling' scenes — governor",
-    "link": "https://www.dw.com/en/us-ice-arrests-2-at-seattle-airport-in-chilling-scenes-governor/a-80012480?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-22 09:27"
   },
   {
     "headline": "Russian helicopter suspected of violating Finnish airspace",
@@ -740,13 +754,6 @@
     "link": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-19 22:53"
-  },
-  {
-    "headline": "Uganda minister at COP31: 'We need a just transition'",
-    "headline_fi": "Ugandan ministeri COP31:ssä: \"Tarvitsemme oikeudenmukaisen siirtymän\"",
-    "link": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-19 21:31"
   },
   {
     "headline": "No mention of fossil fuels in latest COP31 draft deal",
@@ -1034,13 +1041,6 @@
     "link": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-12 11:54"
-  },
-  {
-    "headline": "Bundeswehr study exposes widespread sexual harassment in German military",
-    "headline_fi": "Bundeswehrin tutkimus paljastaa laajalle levinneen seksuaalisen häirinnän Saksan armeijassa",
-    "link": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-12 10:45"
   },
   {
     "headline": "Is AIIB's complaint mechanism failing affected communities?",
