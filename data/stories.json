@@ -1,5 +1,103 @@
 [
   {
+    "headline": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
+    "headline_fi": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
+    "link": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
+    "source": "France 24",
+    "pub": "2026-11-25 06:01"
+  },
+  {
+    "headline": "Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi",
+    "headline_fi": "Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi",
+    "link": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi",
+    "source": "France 24",
+    "pub": "2026-11-25 05:46"
+  },
+  {
+    "headline": "‘Everything that concerns Libya concerns Italy’: Why Ukraine’s Med strike is a problem for Meloni",
+    "headline_fi": "‘Everything that concerns Libya concerns Italy’: Why Ukraine’s Med strike is a problem for Meloni",
+    "link": "https://www.politico.eu/article/ukraine-strikes-russian-ships-libya-giorgia-meloni-italy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-25 05:00"
+  },
+  {
+    "headline": "James Cleverly is ready to run for London mayor. Labour is still waiting on Sadiq Khan.",
+    "headline_fi": "James Cleverly is ready to run for London mayor. Labour is still waiting on Sadiq Khan.",
+    "link": "https://www.politico.eu/article/sadiq-khan-james-cleverly-labour-conservative-mayor-london/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-25 05:00"
+  },
+  {
+    "headline": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+    "headline_fi": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+    "link": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-25 04:01"
+  },
+  {
+    "headline": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+    "headline_fi": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+    "link": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+    "source": "France 24",
+    "pub": "2026-11-25 03:19"
+  },
+  {
+    "headline": "New York jury convicts Huawei of stealing trade secrets",
+    "headline_fi": "New York jury convicts Huawei of stealing trade secrets",
+    "link": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+    "source": "France 24",
+    "pub": "2026-11-25 01:31"
+  },
+  {
+    "headline": "Champions League: Real Madrid thrash PSV 5-1 in comeback win as Manchester City held by Napoli",
+    "headline_fi": "Champions League: Real Madrid thrash PSV 5-1 in comeback win as Manchester City held by Napoli",
+    "link": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
+    "source": "France 24",
+    "pub": "2026-11-25 00:59"
+  },
+  {
+    "headline": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+    "headline_fi": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
+    "source": "France 24",
+    "pub": "2026-11-25 00:03"
+  },
+  {
+    "headline": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+    "headline_fi": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+    "link": "https://www.france24.com/en/tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
+    "source": "France 24",
+    "pub": "2026-11-24 23:57"
+  },
+  {
+    "headline": "Tech giant Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "headline_fi": "Tech giant Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "link": "https://www.euronews.com/2026/11/24/tech-giant-huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering",
+    "source": "Euronews",
+    "pub": "2026-11-24 23:51"
+  },
+  {
+    "headline": "'Quid pro quo’: Nvidia too big to fail or ‘too close to personal interest of people around Trump’?",
+    "headline_fi": "'Quid pro quo’: Nvidia too big to fail or ‘too close to personal interest of people around Trump’?",
+    "link": "https://www.france24.com/en/quid-pro-quo-nvidia-too-big-to-fail-or-too-close-to-personal-interest-of-people-around-trump",
+    "source": "France 24",
+    "pub": "2026-11-24 23:43"
+  },
+  {
+    "headline": "Jensen Huang's Nvidia comeback sends AI videos into overdrive",
+    "headline_fi": "Jensen Huang's Nvidia comeback sends AI videos into overdrive",
+    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261124-jensen-huang-s-nvidia-comeback-sends-ai-videos-into-overdrive",
+    "source": "France 24",
+    "pub": "2026-11-24 23:28"
+  },
+  {
+    "headline": "Did Nvidia knowingly send chips to China 'cutout'? Was there ‘pay-to-play’ involving Trump, Lutnick?",
+    "headline_fi": "Did Nvidia knowingly send chips to China 'cutout'? Was there ‘pay-to-play’ involving Trump, Lutnick?",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261124-did-nvidia-knowingly-send-chips-to-china-cutout-was-there-pay-to-play-involving-trump-lutnick",
+    "source": "France 24",
+    "pub": "2026-11-24 23:20"
+  },
+  {
     "headline": "Senegal reinstated as AFCON 2025 winners",
     "headline_fi": "Senegal reinstated as AFCON 2025 winners",
     "link": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
@@ -105,8 +203,8 @@
     "pub": "2026-11-24 19:43"
   },
   {
-    "headline": "Gunmen hold 25 people hostage at supermarket in Colombia's Cartagena",
-    "headline_fi": "Gunmen hold 25 people hostage at supermarket in Colombia's Cartagena",
+    "headline": "Gunmen hold 30 people hostage at supermarket in Colombia's Cartagena",
+    "headline_fi": "Gunmen hold 30 people hostage at supermarket in Colombia's Cartagena",
     "link": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
     "source": "France 24",
     "pub": "2026-11-24 19:35"
@@ -124,6 +222,13 @@
     "link": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
     "source": "France 24",
     "pub": "2026-11-24 19:26"
+  },
+  {
+    "headline": "Quantum may be a bigger security risk than AI. Europe’s got a plan.",
+    "headline_fi": "Quantum may be a bigger security risk than AI. Europe’s got a plan.",
+    "link": "https://www.politico.eu/article/quantum-may-be-a-bigger-security-risk-than-ai-europes-got-a-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-24 19:15"
   },
   {
     "headline": "Indonesia names former police chief as treason suspect in presidential wiretapping case",
@@ -217,13 +322,6 @@
     "pub": "2026-11-24 18:09"
   },
   {
-    "headline": "'Tis the season to be green: Can the Christmas holidays be a present for the planet?",
-    "headline_fi": "'Tis the season to be green: Can the Christmas holidays be a present for the planet?",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261124-tis-the-season-to-be-green-can-the-christmas-holidays-be-a-present-for-the-planet",
-    "source": "France 24",
-    "pub": "2026-11-24 18:06"
-  },
-  {
     "headline": "Italy watches worryingly as Ukraine strikes Russian boats in Libya",
     "headline_fi": "Italy watches worryingly as Ukraine strikes Russian boats in Libya",
     "link": "https://www.euronews.com/2026/11/24/italy-watches-worryingly-as-ukraine-strikes-russian-boats-in-libya",
@@ -236,27 +334,6 @@
     "link": "https://www.euronews.com/video/2026/11/24/colombia-at-least-25-injured-in-bombing-as-armed-violence-resurges",
     "source": "Euronews",
     "pub": "2026-11-24 17:54"
-  },
-  {
-    "headline": "French police officer who shot teenager to face murder trial",
-    "headline_fi": "French police officer who shot teenager to face murder trial",
-    "link": "https://www.france24.com/en/video/20261124-french-police-officer-who-shot-teenager-to-face-murder-trial",
-    "source": "France 24",
-    "pub": "2026-11-24 17:54"
-  },
-  {
-    "headline": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
-    "headline_fi": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
-    "link": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
-    "source": "France 24",
-    "pub": "2026-11-24 17:53"
-  },
-  {
-    "headline": "Burnham's EU reset brings back Brexit debate",
-    "headline_fi": "Burnham's EU reset brings back Brexit debate",
-    "link": "https://www.france24.com/en/video/20261124-burnham-s-eu-reset-brings-back-brexit-debate",
-    "source": "France 24",
-    "pub": "2026-11-24 17:51"
   },
   {
     "headline": "Italy develops 'ambitious' business with 'strategic partner' Azerbaijan, Tajani tells Euronews",
@@ -273,13 +350,6 @@
     "pub": "2026-11-24 17:37"
   },
   {
-    "headline": "'Nina Roza' director: 'I was inspired by a real case of a child painter prodigy'",
-    "headline_fi": "'Nina Roza' director: 'I was inspired by a real case of a child painter prodigy'",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261124-nina-roza-director-i-was-inspired-by-a-real-case-of-a-child-painter-prodigy",
-    "source": "France 24",
-    "pub": "2026-11-24 17:33"
-  },
-  {
     "headline": "Why French pharma firm Sanofi is paying $41 billion for US company Insmed",
     "headline_fi": "Why French pharma firm Sanofi is paying $41 billion for US company Insmed",
     "link": "https://www.euronews.com/2026/11/24/why-french-pharma-firm-sanofi-is-paying-41-billion-for-us-company-insmed",
@@ -287,25 +357,11 @@
     "pub": "2026-11-24 17:28"
   },
   {
-    "headline": "UK’s Burnham on a mission to build public support EU reset",
-    "headline_fi": "UK’s Burnham on a mission to build public support EU reset",
-    "link": "https://www.france24.com/en/video/20261124-uk-s-burnham-on-a-mission-to-build-public-support-eu-reset",
-    "source": "France 24",
-    "pub": "2026-11-24 17:21"
-  },
-  {
     "headline": "COP must change after Antalya failure, UK climate chief warns",
     "headline_fi": "COP must change after Antalya failure, UK climate chief warns",
     "link": "https://www.politico.eu/article/rachel-kyte-cop-change-antalya-failure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-24 17:17"
-  },
-  {
-    "headline": "France's femicide orphans: The invisible victims of violence against women",
-    "headline_fi": "France's femicide orphans: The invisible victims of violence against women",
-    "link": "https://www.france24.com/en/tv-shows/france-in-focus/20261124-france-s-femicide-orphans-the-invisible-victims-of-violence-against-women",
-    "source": "France 24",
-    "pub": "2026-11-24 17:08"
   },
   {
     "headline": "Migrant caravans head north through Mexico towards US border",
@@ -343,25 +399,11 @@
     "pub": "2026-11-24 16:42"
   },
   {
-    "headline": "Bulgaria faces EU fine over runaway public finances",
-    "headline_fi": "Bulgaria faces EU fine over runaway public finances",
-    "link": "https://www.politico.eu/article/bulgaria-eu-fine-public-finances/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-24 16:38"
-  },
-  {
     "headline": "Slovakia moves to scrap postal voting for citizens living abroad",
     "headline_fi": "Slovakia moves to scrap postal voting for citizens living abroad",
     "link": "https://www.euronews.com/2026/11/24/slovakia-moves-to-scrap-postal-voting-for-citizens-living-abroad",
     "source": "Euronews",
     "pub": "2026-11-24 16:32"
-  },
-  {
-    "headline": "Snowden on steroids: AI agents in phones trigger surveillance fears",
-    "headline_fi": "Snowden on steroids: AI agents in phones trigger surveillance fears",
-    "link": "https://www.politico.eu/article/ai-agents-phone-privacy-surveillance-fears/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-24 16:31"
   },
   {
     "headline": "Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany",
@@ -376,13 +418,6 @@
     "link": "https://www.euronews.com/2026/11/24/why-trump-and-silicon-valley-wanted-nvidias-jensen-huang-back",
     "source": "Euronews",
     "pub": "2026-11-24 16:29"
-  },
-  {
-    "headline": "🔴Senegal regain AFCON title after successful appeal at sport arbitration court",
-    "headline_fi": "🔴Senegal regain AFCON title after successful appeal at sport arbitration court",
-    "link": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
-    "source": "France 24",
-    "pub": "2026-11-24 16:25"
   },
   {
     "headline": "At least 490,000 Russian soldiers killed in Ukraine, Rosstat data leak reveals",
@@ -406,25 +441,11 @@
     "pub": "2026-11-24 16:18"
   },
   {
-    "headline": "Farage suggests he could appeal to Le Pen to block Britain rejoining the EU",
-    "headline_fi": "Farage suggests he could appeal to Le Pen to block Britain rejoining the EU",
-    "link": "https://www.politico.eu/article/farage-le-pen-brexit-eu-accession-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-24 16:15"
-  },
-  {
     "headline": "European court rules against Poland and Latvia over migrant pushbacks at Belarus border",
     "headline_fi": "European court rules against Poland and Latvia over migrant pushbacks at Belarus border",
     "link": "https://www.euronews.com/2026/11/24/european-court-rules-against-poland-and-latvia-over-migrant-pushbacks-at-belarus-border",
     "source": "Euronews",
     "pub": "2026-11-24 16:07"
-  },
-  {
-    "headline": "Senegal regain AFCON title after successful appeal at sport arbitration court",
-    "headline_fi": "Senegal regain AFCON title after successful appeal at sport arbitration court",
-    "link": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
-    "source": "France 24",
-    "pub": "2026-11-24 16:06"
   },
   {
     "headline": "Hungary’s rule-of-law reforms: ‘We’re not done yet,’ warns Green MEP Daniel Freund",
@@ -460,20 +481,6 @@
     "link": "https://www.dw.com/en/germany-s-wadephul-shocked-by-trump-s-nvidia-intervention/a-80033954?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-24 15:37"
-  },
-  {
-    "headline": "Wildberger reagiert skeptisch auf Weimers TikTok-Vorstoß",
-    "headline_fi": "Wildberger reagiert skeptisch auf Weimers TikTok-Vorstoß",
-    "link": "https://www.politico.eu/article/wildberger-reagiert-skeptisch-auf-weimers-tiktok-vorstoss/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-24 15:36"
-  },
-  {
-    "headline": "MI5 warns UK defense firms they are target of Russian attacks",
-    "headline_fi": "MI5 warns UK defense firms they are target of Russian attacks",
-    "link": "https://www.politico.eu/article/mi5-warns-uk-defense-firms-they-are-target-of-russian-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-24 15:30"
   },
   {
     "headline": "Was it a lion? Grainy footage prompted a large search in Istanbul",
@@ -574,13 +581,6 @@
     "pub": "2026-11-24 13:25"
   },
   {
-    "headline": "EU pushes to overhaul UN climate summits after COP31 collapse",
-    "headline_fi": "EU pushes to overhaul UN climate summits after COP31 collapse",
-    "link": "https://www.euronews.com/2026/11/24/eu-pushes-to-overhaul-un-climate-summits-after-cop31-collapse",
-    "source": "Euronews",
-    "pub": "2026-11-24 13:10"
-  },
-  {
     "headline": "Five women killed every hour by family members or partners — UN report",
     "headline_fi": "Five women killed every hour by family members or partners — UN report",
     "link": "https://www.dw.com/en/five-women-killed-every-hour-by-family-members-or-partners-un-report/a-80030010?maca=en-rss-en-all-1573-rdf",
@@ -656,13 +656,6 @@
     "link": "https://www.dw.com/en/german-directors-doc-on-stolen-film-wins-international-emmy-award/a-76103455?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-24 11:41"
-  },
-  {
-    "headline": "Chinese official gets death sentence in spy case, report says",
-    "headline_fi": "Chinese official gets death sentence in spy case, report says",
-    "link": "https://www.dw.com/en/chinese-official-gets-death-sentence-in-spy-case-report-says/a-80028393?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-24 10:41"
   },
   {
     "headline": "What happens if a nuclear weapon explodes in space?",
